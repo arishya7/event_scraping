@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Ranger Buddies @ PLQ Parkside: Missions Around World",
+    "organiser": "PLQ Parkside",
+    "blurb": "Dive into the mission at PLQ Parkside!",
+    "description": "Trouble is brewing beneath the waves. The colourful corals are turning pale and Coco, the Tortoise, and the ocean friends are losing their homes and food. Dive into the mission at PLQ Parkside and teleport to The Great Barrier Reef with Ranger Buddies. Complete the mission and redeem an exclusive badge and 5,000 Plus$, while stocks last. Be the highest spender to win a 4D3N stay at Mandai Rainforest Resort for a family of 4 (worth over $1,500). The period of the stay will be on 11 - 14 December 2025 and is non-modifiable.",
+    "guid": "https://www.payalebarquarter.com/whats-on/rb-plq-parkside/",
+    "activity_or_event": "activity",
+    "url": "https://www.payalebarquarter.com/whats-on/rb-plq-parkside/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friends are losing their homes and food",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "PLQ Parkside",
+    "label_tag": null,
+    "Keyword_tag": "Ranger Buddies, PLQ Parkside, Great Barrier Reef, family activities, kids mission",
+    "full_address": "2 Tanjong Katong Rd",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.payalebarquarter.com/contentassets/08f5516779cc401c9c7983334a32a317/image.png",
+        "source_credit": "PLQ Parkside"
+      }
+    ],
+    "id": 593,
+    "longitude": 103.8928191,
+    "latitude": 1.3156879,
+    "district": "Geylang",
+    "area": "Central Region"
+  }
+]

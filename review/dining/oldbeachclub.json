@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Ola Beach Club: Beachfront Dining",
+    "organiser": "Ola Beach Club",
+    "blurb": "Enjoy watersports and dining by the beach!",
+    "description": "Ola Beach Club offers a variety of watersports activities suitable for families and kids, including jet skiing, stand-up paddleboarding, and kayaking. Relax on the beach with Hawaiian-inspired cuisine and refreshing drinks. The club provides a family-friendly atmosphere with a dedicated kids' menu and beach games. Enjoy the sun, sand, and sea with a range of activities for all ages. Perfect for a day of fun and relaxation by the beach, with options for both adventurous watersports and laid-back dining experiences. The venue is designed to cater to families looking for a memorable beachside experience.",
+    "guid": "https://olabeachclub.com/dining/",
+    "activity_or_event": "activity",
+    "url": "https://olabeachclub.com/dining/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 25.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon – Thu: 10am–9pm, Fri: 10am–10pm, Sat: 9am–10pm, Sun: 9am–9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Ola Beach Club",
+    "full_address": "Singapore 099005",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Ola_Beach_Club__Watersports_and_Beachfront_Dining_1.jpg",
+        "filename": "Ola_Beach_Club__Watersports_and_Beachfront_Dining_1.jpg",
+        "original_url": "https://olabeachclub.com/dining/",
+        "source_credit": "olabeachclub"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Ola_Beach_Club__Watersports_and_Beachfront_Dining_2.jpg",
+        "filename": "Ola_Beach_Club__Watersports_and_Beachfront_Dining_2.jpg",
+        "original_url": "https://olabeachclub.com/dining/",
+        "source_credit": "olabeachclub"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Ola_Beach_Club__Watersports_and_Beachfront_Dining_3.jpg",
+        "filename": "Ola_Beach_Club__Watersports_and_Beachfront_Dining_3.jpg",
+        "original_url": "https://olabeachclub.com/dining/",
+        "source_credit": "olabeachclub"
+      },
+      {
+        "url": "https://olabeachclub.com/wp-content/uploads/2022/08/Sub-Brands-Logo-05.png",
+        "source_credit": "Ola Beach Club"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

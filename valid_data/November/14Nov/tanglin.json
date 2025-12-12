@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Snow Splendours at Tanglin Mall",
+    "organiser": "Tanglin Mall",
+    "blurb": "Snow, sparkle, and smiles await!",
+    "description": "Join us for snow-filled fun from 8 Nov 2025 to 1 Jan 2026 at L1 Outdoor Foyer (near Starbucks)! Enjoy Avalanche (Foam) Snow (Artificial Snow). Weekday timings: 7.30pm - 7.45pm, 7.45pm - 8pm. Weekend/Public Holiday timings: 7.30pm - 7.45pm, 8.30pm - 8.45pm, 7.45pm - 8pm, 8.45pm - 9pm. Subject to weather conditions. Explore the full lineup of jolly happenings this festive season!",
+    "guid": "https://www.tanglinmall.com.sg/event/%e2%9d%84%ef%b8%8f-snow-splendours/",
+    "activity_or_event": "activity",
+    "url": "https://www.tanglinmall.com.sg/event/%e2%9d%84%ef%b8%8f-snow-splendours/",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "All Ages",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "08-Nov to 01-Jan",
+    "datetime_display": "Weekdays 7.30pm - 7.45pm, 7.45pm - 8pm Weekends/ Public Holidays 7.30pm - 7.45pm, 8.30pm - 8.45pm, 7.45pm - 8pm, 8.45pm - 9pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Tanglin Mall",
+    "address_display": "163 Tanglin Rd, Singapore 247933",
+    "label": null,
+    "keyword_tag": [
+      "Snow",
+      "Christmas",
+      "Family",
+      "Foam",
+      "Avalanche"
+    ],
+    "categories": [
+      "Mall related",
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.tanglinmall.com.sg/wp-content/themes/maintheme/images/date.png",
+        "source_credit": "Tanglin Mall",
+        "filename": "Tanglin_Mall_L1_Outdoor_Foyer_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/Tanglin_Mall_L1_Outdoor_Foyer_1.jpg"
+      }
+    ],
+    "id": 713,
+    "longitude": 103.8234545,
+    "latitude": 1.3048319,
+    "planning_area": "Orchard",
+    "region": "Central Region"
+  },
+  {
+    "title": "Tanglin Mall Snow Splendours",
+    "organiser": "Tanglin Mall",
+    "blurb": "Snow, sparkle, and smiles await!",
+    "description": "Join us for snow-filled fun from 8 Nov 2025 to 1 Jan 2026 at L1 Outdoor Foyer (near Starbucks)! Enjoy Avalanche (Foam) Snow and Artificial Snow. Weekday timings are 7.30pm - 7.45pm and 7.45pm - 8pm. Weekend/Public Holiday timings are 7.30pm - 7.45pm, 8.30pm - 8.45pm, 7.45pm - 8pm and 8.45pm - 9pm. Subject to weather conditions. Explore the full lineup of jolly happenings this festive season!",
+    "guid": "https://www.tanglinmall.com.sg/event/%e2%9d%84%ef%b8%8f-snow-splendours/",
+    "activity_or_event": "activity",
+    "url": "https://www.tanglinmall.com.sg/event/%e2%9d%84%ef%b8%8f-snow-splendours/",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "08-Nov to 01-Jan",
+    "datetime_display": "Weekdays 7.30pm - 7.45pm, 7.45pm - 8pm; Weekends/ Public Holidays 7.30pm - 7.45pm, 8.30pm - 8.45pm, 7.45pm - 8pm, 8.45pm - 9pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Tanglin Mall",
+    "address_display": "163 Tanglin Rd, Singapore 247933",
+    "label": null,
+    "keyword_tag": [
+      "Snow",
+      "Christmas",
+      "Family",
+      "Foam",
+      "Artificial Snow"
+    ],
+    "categories": [
+      "Mall related",
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://greatrewards.cxcms.ascentis.com.sg/mallsmobile/media/Events/TM-1125-SNOW1058.gif",
+        "source_credit": "Tanglin Mall",
+        "filename": "Tanglin_Mall_L1_Outdoor_Foyer_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/Tanglin_Mall_L1_Outdoor_Foyer_1.jpg"
+      },
+      {
+        "url": "https://greatrewards.cxcms.ascentis.com.sg/mallsmobile/media/Events/TM-1125-EVENTS701.gif",
+        "source_credit": "Tanglin Mall",
+        "filename": "Tanglin_Mall_L1_Outdoor_Foyer_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/Tanglin_Mall_L1_Outdoor_Foyer_2.jpg"
+      }
+    ],
+    "id": 714,
+    "longitude": 103.8234545,
+    "latitude": 1.3048319,
+    "planning_area": "Orchard",
+    "region": "Central Region"
+  }
+]

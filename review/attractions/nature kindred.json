@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Nature Kindred (Indoor) Kid Farm Adventures",
+    "organiser": "Nature Kindred",
+    "blurb": "Parent-child bonding adventures at Nature Kindred.",
+    "description": "Nature Kindred offers unique experiences through nature activities. Join us for meaningful parent-child bonding adventures at our Indoor Kid Farm. Open every Saturday, Sunday & Certain Public holidays. Time slot: 10.30am -5.30pm. Activities include interacting with farm animals, learning about nature, and engaging in fun, educational play. Perfect for families looking to spend quality time together in a natural setting. Our farm provides a safe and stimulating environment for children to explore and discover the wonders of nature. We offer a variety of hands-on experiences that promote learning and development.",
+    "guid": "https://www.naturekindred.com/experience-1",
+    "activity_or_event": "activity",
+    "url": "https://www.naturekindred.com/experience-1",
+    "price_display_teaser": "Free + Paid options",
+    "price_display": "Free entry, activities varies from $18 - $118",
+    "price": 0.0,
+    "age_group_display": "12 years old and below",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Recurring weekends",
+    "datetime_display": "Recurring weekends and selected PH, 10.30am -5.30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Nature Kindred (Indoor) Kid Farm",
+    "full_address": "65 Sungei Tengah road",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Nature_Kindred__Indoor__Kid_Farm_Adventures_1.webp",
+        "filename": "Nature_Kindred__Indoor__Kid_Farm_Adventures_1.webp",
+        "original_url": "https://www.naturekindred.com/gallery#57baeca670b22",
+        "source_credit": "naturekindred"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Nature_Kindred__Indoor__Kid_Farm_Adventures_2.webp",
+        "filename": "Nature_Kindred__Indoor__Kid_Farm_Adventures_2.webp",
+        "original_url": "https://www.naturekindred.com/gallery#57baeca670b22",
+        "source_credit": "naturekindred"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Nature_Kindred__Indoor__Kid_Farm_Adventures_3.webp",
+        "filename": "Nature_Kindred__Indoor__Kid_Farm_Adventures_3.webp",
+        "original_url": "https://www.naturekindred.com/gallery#57baeca670b22",
+        "source_credit": "naturekindred"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Dig Dig Land",
+    "organiser": "Nature Kindred",
+    "blurb": "Hands-on construction play for curious kids",
+    "description": "Get ready for a one-of-a-kind construction adventure! Dig Dig Land is an outdoor playground where kids can live out their builder dreams across seven exciting zones. Little ones can hop into kid-sized excavators and cranes to scoop, lift, and move just like real construction pros. They’ll love digging and sculpting in the sand pits, zooming around in ride-on trucks, or trying their hand at remote-controlled vehicles. For imaginative play, there’s a mini workshed with safe tools and even a fish-tank DIY station to switch things up. With so much to explore, Dig Dig Land is the ultimate spot for kids to dig, drive, and discover through hands-on fun!",
+    "guid": "https://www.naturekindred.com/experience-1",
+    "activity_or_event": "activity",
+    "url": "https://www.naturekindred.com/work-zone#",
+    "price_display_teaser": "From $38",
+    "price_display": "$38",
+    "price": 38.0,
+    "age_group_display": "12 years old and below",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Recurring Fri and Weekends",
+    "datetime_display": "Fri: 4.30pm & 6pm, Weekends & selected PH: 9am - 6pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Dig dig land",
+    "full_address": "2 Jurong Gateway",
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": [],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

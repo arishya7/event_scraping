@@ -1,0 +1,43 @@
+[
+  {
+    "title": "La Nonna",
+    "organiser": "La Nonna",
+    "blurb": "Kids eat free with each accompanying adult purchase.",
+    "description": "Enjoy a family meal at La Nonna where kids can dine for free every Sunday. With each accompanying adult meal purchase, children can choose either an 8-inch pizza or a small pasta dish from the kids' menu. This promotion is perfect for families looking to enjoy a delicious Italian meal together in a relaxed and welcoming atmosphere. La Nonna offers a variety of pasta and pizza options, ensuring there's something for everyone to enjoy. This offer is available at all La Nonna outlets.",
+    "guid": "https://lanonna.sg/kidsdinefree",
+    "activity_or_event": "event",
+    "url": "https://lanonna.sg/kidsdinefree",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item. Kids dine free on Sundays.",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Weekdays: 11:30am - 2:30pm & 5:30pm - 8pm, Weekends/PH: 11:30am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "La Nonna",
+    "full_address": "26/ 26B Lorong Mambong Singapore 277685",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\La_Nonna_1.webp",
+        "filename": "La_Nonna_1.webp",
+        "original_url": "https://images.squarespace-cdn.com/content/v1/646edcbd40c4d07c1a46546e/de9c89c6-7f4e-41fb-9a9a-c0be8b725d92/La+Nonna+HV+Interior+Edited+2000+x+1335px.jpg",
+        "source_credit": "lanonna"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\La_Nonna_2.webp",
+        "filename": "La_Nonna_2.webp",
+        "original_url": "https://lanonna.sg/promotions",
+        "source_credit": "lanonna"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

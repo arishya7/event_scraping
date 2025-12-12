@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Better Play - Montessori Inspired Play Space",
+    "organiser": "Better Play Singapore",
+    "blurb": "Montessori-inspired space for kids aged 6 months to 6 years.",
+    "description": "Discover a Montessori-inspired play space offering high-quality toys and classes designed to promote focused engagement and learning for children aged six months to six years. Created by parents, this safe and calm environment allows children to relax, explore, and play together. Enjoy a variety of activities suitable for young children, including music classes and free play sessions. Perfect for families looking for a stimulating and educational playtime experience. Socks are required for both adults and children. Join us for a fun and enriching experience!",
+    "guid": "https://www.betterplaysingapore.com/",
+    "activity_or_event": "activity",
+    "url": "https://www.betterplaysingapore.com/",
+    "price_display_teaser": "From $25",
+    "price_display": "From $25 to $29 for 2 hours (1 child + 1 adult)(10% off for siblings), $10 for additional adult ",
+    "price": 25.0,
+    "age_group_display": "6 months old to 6 years",
+    "min_age": 0.0,
+    "max_age": 6.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Weekdays: 9:30am - 5pm, Weekends: 9:30am --6pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Better Play Singapore",
+    "full_address": "451 Joo Chiat Road #02-12 Katong Point, Singapore 427664 (above Little Farms)",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Better_Play___Montessori_Inspired_Play_Space_1.jpg",
+        "filename": "Better_Play___Montessori_Inspired_Play_Space_1.jpg",
+        "original_url": "https://static.wixstatic.com/media/ba0fa1_8b330a6efedf44fda2b4a8f4c00831a4~mv2.jpg",
+        "source_credit": "betterplay"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Better_Play___Montessori_Inspired_Play_Space_2.jpg",
+        "filename": "Better_Play___Montessori_Inspired_Play_Space_2.jpg",
+        "original_url": "https://static.wixstatic.com/media/ba0fa1_d5c23925038947499b58c060c9fd9b33~mv2.jpg",
+        "source_credit": "betterplay"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/ba0fa1_949b621124c94e89ad794d765525f666~mv2.jpg/v1/fill/w_2000,h_2000,al_c,q_100,usm_0.66_1.00_0.01,enc_avif,quality_auto/ba0fa1_949b621124c94e89ad794d765525f666~mv2.jpg",
+        "source_credit": "Better Play Singapore"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

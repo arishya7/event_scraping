@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Singapore Flyer: An Immersive Journey in the Sky",
+    "organiser": "Singapore Flyer",
+    "blurb": "See Singapore’s Story Come Alive on An Immersive Journey",
+    "description": "Experience breathtaking panoramic views of Singapore's skyline and beyond from the Singapore Flyer. This iconic observation wheel offers a unique perspective of the city's landmarks, including Marina Bay Sands, Gardens by the Bay, and the Singapore River. Enjoy a leisurely ride in a spacious capsule, perfect for families and visitors of all ages. Discover the beauty of Singapore from a whole new angle, creating unforgettable memories with loved ones. The Singapore Flyer provides a captivating experience that showcases the city's vibrant culture and stunning architecture.",
+    "guid": "https://www.singaporeflyer.com/en",
+    "activity_or_event": "activity",
+    "url": "https://www.singaporeflyer.com/en",
+    "price_display_teaser": "From $25",
+    "price_display": "From $25 - $90",
+    "price": 25.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Singapore Flyer",
+    "full_address": "Singapore 039803",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Singapore_Flyer__An_Immersive_Journey_in_the_Sky_1.png",
+        "filename": "Singapore_Flyer__An_Immersive_Journey_in_the_Sky_1.png",
+        "original_url": "https://www.singaporeflyer.com/en/ticket/singapore-flyer-ticket",
+        "source_credit": "singaporeflyer"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Singapore_Flyer__An_Immersive_Journey_in_the_Sky_2.png",
+        "filename": "Singapore_Flyer__An_Immersive_Journey_in_the_Sky_2.png",
+        "original_url": "https://www.singaporeflyer.com/en/ticket/singapore-flyer-ticket",
+        "source_credit": "singaporeflyer"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

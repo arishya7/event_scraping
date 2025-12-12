@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Kidodo Space KIDS INDOOR PLAYGROUND@Suntec",
+    "organiser": "Kidodo Space",
+    "blurb": "Cosmic attractions for kids aged 9 months to 12 years.",
+    "description": "Kidodo Space KIDS INDOOR PLAYGROUND@Suntec offers a range of cosmic attractions suitable for kids aged 9 months to 12 years. Join us for an intergalactic adventure filled with fun and excitement! Kidodo Space provides a safe and stimulating environment where children can explore, learn, and play. Our facilities include interactive play areas, climbing structures, and sensory experiences designed to engage young minds and promote physical activity. We cater to families looking for a fun and educational outing.",
+    "guid": "https://www.kidodo.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.kidodo.sg/",
+    "price_display_teaser": "From $20",
+    "price_display": "$20 for 1 hour (1 adult + 1 child), $30 for 1 hour (1 adult + 1 child)",
+    "price": 0.0,
+    "age_group_display": "9 months to 12 years old",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 11am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Kidodo Space Suntec",
+    "full_address": "Singapore 038983",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/397bb0_c424ebe22ec54f969823798bbb0557ad~mv2.jpg/v1/fill/w_2000,h_2000,al_c,q_100,usm_0.66_1.00_0.01,enc_auto/397bb0_c424ebe22ec54f969823798bbb0557ad~mv2.jpg",
+        "source_credit": "Kidodo Space"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Galaxy of Play at Kidodo Space City Square Mall",
+    "organiser": "Kidodo Space",
+    "blurb": "Space-themed indoor playground in Suntec City.",
+    "description": "Kidodo Space in City Square Mall is a space-themed indoor playground where every child is a star! It features attractions like a 5-meter spiral slide, interactive ball-spraying machines, and a mini supermarket for pretend play. It aims to create unforgettable memories for kids and stress-free fun for parents. The playground offers a haven for young adventurers with various engaging activities suitable for families with young children. Parents can relax while kids explore and play in a safe and stimulating environment. The space is designed to encourage creativity, imagination, and social interaction among children.",
+    "guid": "https://www.kidodo.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.kidodo.sg/",
+    "price_display_teaser": "From $20",
+    "price_display": "$20 for 1 hour (1 adult + 1 child), $30 for 1 hour (1 adult + 1 child)",
+    "price": 0.0,
+    "age_group_display": "9 months to 12 years old",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 11am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "City Square Mall",
+    "full_address": "180 Kitchener Road, Mall, #02-19A City Square, 208539",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Galaxy_of_Play_at_Kidodo_Space_City_Square_Mall_1.jpg",
+        "filename": "Galaxy_of_Play_at_Kidodo_Space_City_Square_Mall_1.jpg",
+        "original_url": "https://www.citysquaremall.com.sg/shops/shop-list/kidodo-indoor-playground/#prettyPhoto[shop_gallery]%20noopener%20noreferrer/3/",
+        "source_credit": "citysquaremall"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Galaxy_of_Play_at_Kidodo_Space_City_Square_Mall_2.jpg",
+        "filename": "Galaxy_of_Play_at_Kidodo_Space_City_Square_Mall_2.jpg",
+        "original_url": "https://www.citysquaremall.com.sg/shops/shop-list/kidodo-indoor-playground/#prettyPhoto[shop_gallery]%20noopener%20noreferrer/3/",
+        "source_credit": "citysquaremall"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Galaxy_of_Play_at_Kidodo_Space_City_Square_Mall_3.jpg",
+        "filename": "Galaxy_of_Play_at_Kidodo_Space_City_Square_Mall_3.jpg",
+        "original_url": "https://www.citysquaremall.com.sg/shops/shop-list/kidodo-indoor-playground/#prettyPhoto[shop_gallery]%20noopener%20noreferrer/3/",
+        "source_credit": "citysquaremall"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

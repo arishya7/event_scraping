@@ -1,0 +1,43 @@
+[
+  {
+    "title": "The Pantry Dempsey: Family-Friendly Dining Experience",
+    "organiser": "Como Dempsey",
+    "blurb": "Enjoy family meals at Dempsey with kids play area.",
+    "description": "The Pantry offers a relaxed and family-friendly dining experience with a menu featuring a variety of comfort foods and healthy options. The restaurant provides a casual atmosphere, perfect for families with young children. The menu includes dishes suitable for different dietary needs and preferences, ensuring a pleasant experience for everyone. The ambiance is warm and inviting, making it an ideal spot for a casual family meal. The restaurant is known for its use of fresh, locally sourced ingredients, providing a delicious and wholesome dining experience. The setting is both comfortable and stylish, creating a welcoming environment for all ages.",
+    "guid": "https://www.comodempsey.sg/restaurant/at-feast",
+    "activity_or_event": "activity",
+    "url": "https://www.comodempsey.sg/restaurant/thepantry",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily (except Mon)",
+    "datetime_display": "Tue – Thu: 8.30am - 7pm, Fri: 8.30am - 8.30pm, Sat: 9am - 8.30pm, Sun/PH: 9am - 7pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "The Pantry",
+    "full_address": "Block 16A Dempsey Road, Singapore 247695",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\The_Pantry_Dempsey__Family_Friendly_Dining_Experience_1.jpg",
+        "filename": "The_Pantry_Dempsey__Family_Friendly_Dining_Experience_1.jpg",
+        "original_url": "https://www.comodempsey.sg/restaurant/thepantry",
+        "source_credit": "comodempsey"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\The_Pantry_Dempsey__Family_Friendly_Dining_Experience_2.jpg",
+        "filename": "The_Pantry_Dempsey__Family_Friendly_Dining_Experience_2.jpg",
+        "original_url": "",
+        "source_credit": "swanli"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

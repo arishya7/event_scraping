@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Singapore Botanic Gardens: A Lush Sanctuary",
+    "organiser": "NParks",
+    "blurb": "Explore a lush sanctuary in the heart of the city.",
+    "description": "The Singapore Botanic Gardens, a lush sanctuary near Orchard Road, is developed along a Four-Core Concept. Tanglin is the heritage core, Central is the tourist belt, and Bukit Timah is the educational zone. Tyersall-Gallop, opened in 2017, integrates with the existing rain forest. Each Core offers attractions for visitors to enjoy sights and sounds. Stroll around the Gardens and enjoy the wonderful sights and sounds the luscious greenery offers. Perfect for families and nature lovers, the gardens provide a serene escape with diverse flora and fauna.",
+    "guid": "https://www.nparks.gov.sg/sbg/our-gardens",
+    "activity_or_event": "activity",
+    "url": "https://www.nparks.gov.sg/sbg/our-gardens",
+    "price_display_teaser": "Free",
+    "price_display": "Free entry",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 5am - 12am",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Singapore Botanic Gardens",
+    "full_address": "Explore more topics National Orchid Garden Jacob Ballas Children's Garden Heritage Trees Sculptures Centres, Museum & Gallery Botanical Art Gallery Centre for Education and Outreach Centre for Ethnobotany Forest Discovery Centre @ OCBC Arboretum Heritage Museum & CDL Gallery Seed Bank Tanglin Entrance Bandstand Botany Centre SBG Heritage Museum & CDL Gallery Hoya House Swan Lake Vanda Miss Joaquim Tyersall Entrance Ginger Garden Keppel Discovery Wetlands National Orchid Garden SPH Walk of Giants The Learning Forest Gallop Entrance Botanical Art Gallery COMO Adventure Grove Forest Discovery Centre @ OCBC Arboretum Mingxin Foundation Rambler's Ridge Nassim Entrance E J H Corner House Evolution Garden Fragrant Garden Healing Garden Palm Valley and Symphony Lake Rain Forest Bukit Timah Entrance Eco-Garden and Eco-Lake Ethnobotany Garden Foliage Garden Jacob Ballas Children's Garden Seed Bank Share this page: Situated just five minutes away from bustling Orchard Road, the Singapore Botanic Gardens is a lush sanctuary in the heart of the city",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Singapore_Botanic_Gardens__A_Lush_Sanctuary_1.jpg",
+        "filename": "Singapore_Botanic_Gardens__A_Lush_Sanctuary_1.jpg",
+        "original_url": "https://openverse.org/image/6c88a57e-bec8-4167-9b50-99b6a8de5077?q=singapore+botanical+gardens&p=4",
+        "source_credit": "edwin.11"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Singapore_Botanic_Gardens__A_Lush_Sanctuary_2.jpg",
+        "filename": "Singapore_Botanic_Gardens__A_Lush_Sanctuary_2.jpg",
+        "original_url": "https://openverse.org/image/b91a74b7-38b9-43c2-8138-21a872fe0853?q=singapore+botanical+gardens&p=7",
+        "source_credit": "Calvin Teo"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Singapore_Botanic_Gardens__A_Lush_Sanctuary_3.jpg",
+        "filename": "Singapore_Botanic_Gardens__A_Lush_Sanctuary_3.jpg",
+        "original_url": "https://openverse.org/image/b91a74b7-38b9-43c2-8138-21a872fe0853?q=singapore+botanical+gardens&p=7",
+        "source_credit": "Calvin Teo"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

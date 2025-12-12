@@ -1,0 +1,1075 @@
+[
+  {
+    "title": "UE Square Cosmic Space Expedition",
+    "organiser": "UE Square",
+    "blurb": "Interstellar playground for a cosmic adventure.",
+    "description": "Blast off to a galaxy of fun at UE Square's Cosmic Space Expedition. Kids can journey through interstellar space, intercept asteroids, take aim at UFOs, and more. Enjoy Space Training Activities, including a Spacecraft Ride, Outer Space Bouncy, Asteroid Shootout, and UFO Strike. Send wishes to Santa through the Rocketship Post Box. Participate in space-themed workshops like Rocket Ship Painting, Galaxy Charm Bracelet, and Space Helmet Mask. Enjoy stage programmes, Professor Messy’s Science Show, Space Beat drum performance, and Astronaut Meet & Greet. Join the cosmic adventure at UE Square.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "3 to 12 years old",
+    "min_age": 3,
+    "max_age": 12,
+    "datetime_display_teaser": "06-Dec",
+    "datetime_display": "12 pm to 5 pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "UE Square",
+    "address_display": "81 Clemenceau Ave, Singapore 239917",
+    "label_tag": null,
+    "keyword_tag": [
+      "Space",
+      "Kids",
+      "Adventure",
+      "Workshop"
+    ],
+    "categories": [
+      "Attraction",
+      "Mall related"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-696x431.png",
+        "source_credit": "UE Square",
+        "filename": "UE_Square_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_1.jpg"
+      },
+      {
+        "url": "https://www.w3.org/2000/svg'%20viewBox='0%200%20218%20150'%3E%3C/svg%3E",
+        "source_credit": "UE Square",
+        "filename": "UE_Square_2.jpg",
+        "local_path": null
+      }
+    ],
+    "id": 788,
+    "longitude": 103.8426697,
+    "latitude": 1.2921679,
+    "planning_area": "Singapore River",
+    "region": "Central Region"
+  },
+  {
+    "title": "Cosmic Space Expedition at UE Square",
+    "organiser": "UE Square",
+    "blurb": "Thrilling Space Training Activities for young astronauts.",
+    "description": "Embark on a Cosmic Space Expedition at UE Square. A constellation of thrilling Space Training Activities have been lined up for young astronauts at the event. To get in on the fun, be amongst the first 500 to register at the event with your name and email, and follow UE Square’s Facebook Page. Each parent may redeem entry passes for a maximum of two children. Any additional children must be accompanied by another parent/adult for verification purposes.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "1970-01-01T00:00:00+08:00",
+    "datetime_display": "mongst the first 500 to register at the event with your name and email, and follow UE Square’s Facebook Page",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "UE Square",
+    "address_display": "81 Clemenceau Ave, Singapore 239917",
+    "label_tag": null,
+    "keyword_tag": [
+      "Space",
+      "Training",
+      "Kids",
+      "Family"
+    ],
+    "categories": [
+      "Mall related",
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-696x431.png",
+        "source_credit": "UE Square",
+        "filename": "UE_Square_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_1.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-300x186.png",
+        "source_credit": "UE Square",
+        "filename": "UE_Square_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_2.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-1024x634.png",
+        "source_credit": "UE Square",
+        "filename": "UE_Square_3.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_3.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-768x476.png",
+        "source_credit": "UE Square",
+        "filename": "UE_Square_4.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_4.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-678x420.png",
+        "source_credit": "UE Square",
+        "filename": "UE_Square_5.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_5.jpg"
+      }
+    ],
+    "id": 789,
+    "longitude": 103.8426697,
+    "latitude": 1.2921679,
+    "planning_area": "Singapore River",
+    "region": "Central Region"
+  },
+  {
+    "title": "UE Square Cosmic Space Expedition Activities",
+    "organiser": "UE Square",
+    "blurb": "Enjoy exciting Space Training Activities for kids.",
+    "description": "Participating kids can enjoy a series of exciting Space Training Activities from 12 pm to 5 pm. Activities include space-themed games and interactive experiences designed to engage children in a fun and educational environment. The Cosmic Space Expedition offers a unique opportunity for kids to explore the wonders of space through play and learning. This event is perfect for families looking for an engaging and memorable experience during the school holidays. The activities are designed to be both entertaining and educational, providing children with a chance to learn about space in an interactive way. The event aims to spark curiosity and inspire a love for science and exploration in young minds. With a variety of activities to choose from, there's something for every child to enjoy.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "From $",
+    "is_free": false,
+    "price_display": "S$600.00",
+    "price": 600.0,
+    "min_price": 600.0,
+    "max_price": 600.0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Daily: 12 PM to 5 PM",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "UE Square",
+    "address_display": "81 Clemenceau Ave, Singapore 239917",
+    "label_tag": null,
+    "keyword_tag": [
+      "Space",
+      "Kids",
+      "Activities",
+      "Family"
+    ],
+    "categories": [
+      "Mall related",
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-696x431.png",
+        "source_credit": "UE Square",
+        "filename": "UE_Square_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_1.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-300x186.png",
+        "source_credit": "UE Square",
+        "filename": "UE_Square_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_2.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-1024x634.png",
+        "source_credit": "UE Square",
+        "filename": "UE_Square_3.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_3.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-768x476.png",
+        "source_credit": "UE Square",
+        "filename": "UE_Square_4.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_4.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-678x420.png",
+        "source_credit": "UE Square",
+        "filename": "UE_Square_5.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_5.jpg"
+      }
+    ],
+    "id": 790,
+    "longitude": 103.8426697,
+    "latitude": 1.2921679,
+    "planning_area": "Singapore River",
+    "region": "Central Region"
+  },
+  {
+    "title": "Outer Space Bouncy at UE Square",
+    "organiser": "Little Day Out",
+    "blurb": "Space-themed bouncy castle for kids 3 to 12 years.",
+    "description": "Kids aged 3 to 12 years old will have a blast at Outer Space Bouncy. The space-themed bouncy castle will get kids launching themselves into the air with joyful glee! This attraction is part of the Cosmic Space Expedition at UE Square.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "3 to 12 years old",
+    "min_age": 3,
+    "max_age": 12,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Check UE Square for operating hours",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "UE Square",
+    "address_display": "81 Clemenceau Ave, Singapore 239917",
+    "label_tag": null,
+    "keyword_tag": [
+      "bouncy castle",
+      "space",
+      "kids"
+    ],
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-696x431.png",
+        "source_credit": "Little Day Out",
+        "filename": "UE_Square_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_1.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-300x186.png",
+        "source_credit": "Little Day Out",
+        "filename": "UE_Square_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_2.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-1024x634.png",
+        "source_credit": "Little Day Out",
+        "filename": "UE_Square_3.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_3.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-768x476.png",
+        "source_credit": "Little Day Out",
+        "filename": "UE_Square_4.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_4.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-678x420.png",
+        "source_credit": "Little Day Out",
+        "filename": "UE_Square_5.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_5.jpg"
+      }
+    ],
+    "id": 791,
+    "longitude": 103.8426697,
+    "latitude": 1.2921679,
+    "planning_area": "Singapore River",
+    "region": "Central Region"
+  },
+  {
+    "title": "Santa’s Rocketship Post Box at UE Square",
+    "organiser": "UE Square",
+    "blurb": "Send Christmas wishes to Santa via inter-galactic post.",
+    "description": "Send your Christmas wishes to Santa through a special inter-galactic post box. Kids can pen down their wishes and mail them off to Santa through the stars at this futuristic version of a traditional wishing tree. To make the experience even more special, UE Square will be selecting three lucky wishes to make come true. Visit UE Square and experience the cosmic Christmas.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Dec to 31-Dec",
+    "datetime_display": "Check UE Square for operating hours",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "UE Square",
+    "address_display": "81 Clemenceau Ave, Singapore 239917",
+    "label_tag": null,
+    "keyword_tag": [
+      "Christmas",
+      "Santa",
+      "UE Square",
+      "post box"
+    ],
+    "categories": [
+      "Mall related",
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-696x431.png",
+        "source_credit": "UE Square",
+        "filename": "UE_Square_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_1.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-300x186.png",
+        "source_credit": "UE Square",
+        "filename": "UE_Square_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_2.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-1024x634.png",
+        "source_credit": "UE Square",
+        "filename": "UE_Square_3.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_3.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-768x476.png",
+        "source_credit": "UE Square",
+        "filename": "UE_Square_4.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_4.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/UE-Sq-Cosmic-ADV-670-x-415-px-01-1-678x420.png",
+        "source_credit": "UE Square",
+        "filename": "UE_Square_5.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_5.jpg"
+      }
+    ],
+    "id": 792,
+    "longitude": 103.8426697,
+    "latitude": 1.2921679,
+    "planning_area": "Singapore River",
+    "region": "Central Region"
+  },
+  {
+    "title": "UE Square Cosmic Space Expedition Playground",
+    "organiser": "Little Day Out",
+    "blurb": "Interactive playground map for family fun.",
+    "description": "Explore the UE Square Cosmic Space Expedition, an interactive playground perfect for families. Enjoy various play areas and activities designed for children. This space-themed playground offers a unique experience with its cosmic design and engaging features. Parents can relax while kids explore and play in a safe and stimulating environment. The playground provides a great opportunity for children to develop their motor skills and creativity. With its convenient location and family-friendly atmosphere, UE Square Cosmic Space Expedition is an ideal destination for a little day out. Discover the wonders of space through interactive play and create lasting memories with your loved ones. The playground is designed to be both educational and entertaining, making it a valuable experience for children of all ages. Enjoy a day filled with fun and adventure at this cosmic-themed playground.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Operating Hours Vary",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "UE Square",
+    "address_display": "81 Clemenceau Ave, Singapore 239917",
+    "label_tag": null,
+    "keyword_tag": [
+      "playground",
+      "family",
+      "interactive",
+      "space"
+    ],
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/LDO-Lyza-roundup-entry-218x150.png",
+        "source_credit": "Little Day Out",
+        "filename": "UE_Square_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_1.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/LDO-Lyza-roundup-entry-100x70.png",
+        "source_credit": "Little Day Out",
+        "filename": "UE_Square_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_2.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/NickleBee-LDO-Top-Math-Tuition-Option-1.jpg.webp",
+        "source_credit": "Little Day Out",
+        "filename": "UE_Square_3.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_3.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/NickleBee-LDO-Top-Math-Tuition-Option-1.jpg",
+        "source_credit": "Little Day Out",
+        "filename": "UE_Square_4.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_4.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/NickleBee-LDO-Top-Math-Tuition-Option-1-300x186.jpg",
+        "source_credit": "Little Day Out",
+        "filename": "UE_Square_5.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/UE_Square_5.jpg"
+      }
+    ],
+    "id": 793,
+    "longitude": 103.8426697,
+    "latitude": 1.2921679,
+    "planning_area": "Singapore River",
+    "region": "Central Region"
+  },
+  {
+    "title": "Where To Find Snow In Singapore 2025",
+    "organiser": "Little Day Out",
+    "blurb": "Dream of a white Christmas in Singapore 2025.",
+    "description": "Discover where to experience the magic of snow in Singapore in 2025. From festive snowfalls at shopping malls to winter-themed attractions, create unforgettable memories with your family. Enjoy the enchanting atmosphere and capture the perfect snowy photo opportunities. Find the best spots for a white Christmas experience right here in Singapore.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Check specific locations for dates/times",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Various locations in Singapore",
+    "address_display": "82 Lor 23 Geylang, Level 5 #05-08 Atrix, Singapore 388409",
+    "label_tag": null,
+    "keyword_tag": [
+      "snow",
+      "Christmas",
+      "family",
+      "winter"
+    ],
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/01-snow-25-218x150.jpg",
+        "source_credit": "Little Day Out",
+        "filename": "Various_locations_in_Singapore_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Various_locations_in_Singapore_1.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/01-snow-25-100x70.jpg",
+        "source_credit": "Little Day Out",
+        "filename": "Various_locations_in_Singapore_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Various_locations_in_Singapore_2.jpg"
+      }
+    ],
+    "id": 794,
+    "longitude": 103.88150259999999,
+    "latitude": 1.3167491,
+    "planning_area": "Geylang",
+    "region": "Central Region"
+  },
+  {
+    "title": "Jalan Bahar Clay Studios: Guan Huat Dragon Kiln",
+    "organiser": "Jalan Bahar Clay Studios",
+    "blurb": "Explore traditional dragon kiln and artist community.",
+    "description": "Discover the art of pottery at Jalan Bahar Clay Studios, home to the Guan Huat Dragon Kiln. This unique space showcases traditional pottery-making techniques and the works of local artists. Explore the kiln, learn about the history of clay art, and appreciate the craftsmanship of the resident artists. It's an enriching experience for families interested in art and culture, offering a glimpse into Singapore's heritage and the creative process behind ceramic art. The studio provides a hands-on experience, allowing visitors to engage with the art form and understand the intricacies of working with clay. A visit to Jalan Bahar Clay Studios is an educational and inspiring outing for all ages.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "All Ages",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Open Daily",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Guan Huat Dragon Kiln",
+    "address_display": "85 Lor Tawas, Singapore 639823",
+    "label_tag": null,
+    "keyword_tag": [
+      "pottery",
+      "art",
+      "kiln",
+      "culture"
+    ],
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/wild-rice-the-emperors-new-clothes-01-218x150.jpg",
+        "source_credit": "Jalan Bahar Clay Studios",
+        "filename": "Guan_Huat_Dragon_Kiln_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Guan_Huat_Dragon_Kiln_1.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/wild-rice-the-emperors-new-clothes-01-100x70.jpg",
+        "source_credit": "Jalan Bahar Clay Studios",
+        "filename": "Guan_Huat_Dragon_Kiln_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Guan_Huat_Dragon_Kiln_2.jpg"
+      }
+    ],
+    "id": 795,
+    "longitude": 103.6926774,
+    "latitude": 1.3535933999999998,
+    "planning_area": "Western Water Catchment",
+    "region": "West Region"
+  },
+  {
+    "title": "Jalan Bahar Clay Studios: Dragon Kiln & Community",
+    "organiser": "Jalan Bahar Clay Studios",
+    "blurb": "Explore a traditional dragon kiln and artist community.",
+    "description": "Discover the Jalan Bahar Clay Studios, home to the Guan Huat Dragon Kiln, one of the last surviving wood-fired kilns in Singapore. Witness traditional pottery techniques and explore the artist community. Learn about the history of ceramics in Singapore and the importance of preserving this cultural heritage. The studios offer a unique glimpse into the world of pottery and the dedication of the artists who keep this craft alive. Visitors can observe the firing process (when available) and appreciate the artistry involved in creating ceramic pieces. The dragon kiln represents a significant part of Singapore's industrial past and continues to be a working studio for local potters. It's a great place to learn about the history of pottery in Singapore.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "All Ages",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Check website for operating hours",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jalan Bahar Clay Studios",
+    "address_display": "97L Lor Tawas, Singapore 639824",
+    "label_tag": null,
+    "keyword_tag": [
+      "pottery",
+      "dragon kiln",
+      "artist community",
+      "ceramics",
+      "cultural heritage"
+    ],
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/jalan-bahar-clay-studios-00-218x150.jpg",
+        "source_credit": "Jalan Bahar Clay Studios",
+        "filename": "Jalan_Bahar_Clay_Studios_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Jalan_Bahar_Clay_Studios_1.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/jalan-bahar-clay-studios-00-100x70.jpg",
+        "source_credit": "Jalan Bahar Clay Studios",
+        "filename": "Jalan_Bahar_Clay_Studios_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Jalan_Bahar_Clay_Studios_2.jpg"
+      }
+    ],
+    "id": 796,
+    "longitude": 103.6927283,
+    "latitude": 1.3515268999999999,
+    "planning_area": "Western Water Catchment",
+    "region": "West Region"
+  },
+  {
+    "title": "Verandah Rooftop Rotisserie @ Momentus Hotel",
+    "organiser": "Momentus Hotel Alexandra",
+    "blurb": "Quality Meats Meet Festive Buffet Feast.",
+    "description": "Enjoy a festive buffet feast with quality meats at Verandah Rooftop Rotisserie, located in Momentus Hotel Alexandra. Indulge in a delightful dining experience with family and friends.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "Kids-friendly dining",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "From $",
+    "is_free": false,
+    "price_display": "From $68++",
+    "price": 68,
+    "min_price": 68.0,
+    "max_price": 68.0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Check website for operating hours",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Momentus Hotel Alexandra",
+    "address_display": "323 Alexandra Rd, Singapore 159972",
+    "label_tag": null,
+    "keyword_tag": [
+      "Buffet",
+      "Festive",
+      "Dining",
+      "Family"
+    ],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/Verandah-Rooftop-Rotisserie_christmas2025_11-218x150.jpg",
+        "source_credit": "Momentus Hotel Alexandra",
+        "filename": "Momentus_Hotel_Alexandra_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Momentus_Hotel_Alexandra_1.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/Verandah-Rooftop-Rotisserie_christmas2025_11-100x70.jpg",
+        "source_credit": "Momentus Hotel Alexandra",
+        "filename": "Momentus_Hotel_Alexandra_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Momentus_Hotel_Alexandra_2.jpg"
+      }
+    ],
+    "id": 797,
+    "longitude": 103.80533059999999,
+    "latitude": 1.2876691,
+    "planning_area": "Bukit Merah",
+    "region": "Central Region"
+  },
+  {
+    "title": "HEY KEE Old-School Hong Kong Dim Sum",
+    "organiser": "HEY KEE",
+    "blurb": "Launches Old-School Hong Kong Dim Sum At Guillemard Road",
+    "description": "HEY KEE launches old-school Hong Kong dim sum at Guillemard Road, offering a taste of authentic Hong Kong flavors. Enjoy a variety of traditional dim sum dishes in a cozy setting with family and friends. Experience the rich culinary heritage of Hong Kong right here in Singapore.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "Kids-friendly dining",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "From $",
+    "is_free": false,
+    "price_display": "Check website for pricing",
+    "price": 10,
+    "min_price": 10.0,
+    "max_price": 10.0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Check website for operating hours",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "HEY KEE Guillemard Road",
+    "address_display": "102 Guillemard Rd, #01-01, Singapore 399719",
+    "label_tag": null,
+    "keyword_tag": [
+      "Dim Sum",
+      "Hong Kong",
+      "Dining",
+      "Family"
+    ],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/Verandah-Rooftop-Rotisserie_christmas2025_11-218x150.jpg",
+        "source_credit": "HEY KEE",
+        "filename": "HEY_KEE_Guillemard_Road_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/HEY_KEE_Guillemard_Road_1.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/Verandah-Rooftop-Rotisserie_christmas2025_11-100x70.jpg",
+        "source_credit": "HEY KEE",
+        "filename": "HEY_KEE_Guillemard_Road_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/HEY_KEE_Guillemard_Road_2.jpg"
+      }
+    ],
+    "id": 798,
+    "longitude": 103.8823919,
+    "latitude": 1.3102048000000002,
+    "planning_area": "Geylang",
+    "region": "Central Region"
+  },
+  {
+    "title": "The Potter’s Garden: Playground & Hidden Park",
+    "organiser": "Little Day Out",
+    "blurb": "Discover a hidden playground in Jurong Innovation.",
+    "description": "The Potter’s Garden is a unique playground and hidden park located in Jurong Innovation District. This outdoor play spot offers shaded and sheltered playgrounds for kids to enjoy. It's a great place for families to spend time outdoors, with various play structures and green spaces. The playground is designed to encourage imaginative play and physical activity in a natural setting. The Potter's Garden provides a refreshing escape from the urban environment, allowing children to connect with nature and engage in active play. The park also features seating areas for parents to relax while watching their children play. With its combination of play areas and green spaces, The Potter's Garden is a wonderful destination for families seeking outdoor fun and relaxation in Jurong Innovation District.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Open Daily",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jurong Innovation District",
+    "address_display": "2 Cleantech Loop, Singapore 637144",
+    "label_tag": null,
+    "keyword_tag": [
+      "playground",
+      "hidden park",
+      "outdoor play",
+      "Jurong"
+    ],
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/LDO-4-in-1-Key-Visual-Template-5-2-218x150.png",
+        "source_credit": "Little Day Out",
+        "filename": "Jurong_Innovation_District_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Jurong_Innovation_District_1.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/LDO-4-in-1-Key-Visual-Template-5-2-100x70.png",
+        "source_credit": "Little Day Out",
+        "filename": "Jurong_Innovation_District_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Jurong_Innovation_District_2.jpg"
+      }
+    ],
+    "id": 799,
+    "longitude": 103.6924176,
+    "latitude": 1.3544623999999998,
+    "planning_area": "Western Water Catchment",
+    "region": "West Region"
+  },
+  {
+    "title": "The Potter’s Garden: Playground at Jurong District",
+    "organiser": "Little Day Out",
+    "blurb": "Discover a hidden playground in Jurong Innovation.",
+    "description": "The Potter's Garden is a unique playground located in the Jurong Innovation District. This hidden gem offers a blend of nature and play, providing a serene environment for children to explore and enjoy outdoor activities. The playground features various play structures designed to stimulate creativity and physical activity, making it an ideal spot for families seeking a quiet escape from the urban hustle. With its lush greenery and thoughtfully designed play areas, The Potter's Garden offers a refreshing experience for kids to connect with nature while engaging in fun and imaginative play. It's a perfect destination for a little day out, combining education and recreation in a harmonious setting.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Always Open",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "The Potter’s Garden",
+    "address_display": "Cleantech Loop",
+    "label_tag": null,
+    "keyword_tag": [
+      "playground",
+      "Jurong Innovation District",
+      "outdoor play"
+    ],
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/the-potters-garden-00a-218x150.jpg",
+        "source_credit": "Little Day Out",
+        "filename": "The_Potter_s_Garden_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/The_Potter_s_Garden_1.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/the-potters-garden-00a-100x70.jpg",
+        "source_credit": "Little Day Out",
+        "filename": "The_Potter_s_Garden_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/The_Potter_s_Garden_2.jpg"
+      }
+    ],
+    "id": 800,
+    "longitude": 103.6931591,
+    "latitude": 1.3523233,
+    "planning_area": "Western Water Catchment",
+    "region": "West Region"
+  },
+  {
+    "title": "Pan Pacific Singapore Family Staycay",
+    "organiser": "Pan Pacific Singapore",
+    "blurb": "Enjoy an Urban Jungle Weekend family staycation.",
+    "description": "Enjoy a family staycation at Pan Pacific Singapore. Experience urban jungle themed rooms and family-friendly amenities. Create lasting memories with your loved ones in a luxurious setting. The staycation package includes access to the hotel's facilities and special activities for children. Enjoy a relaxing and fun-filled weekend with your family at Pan Pacific Singapore. The hotel offers a variety of dining options and entertainment for all ages. Book your staycation now and create unforgettable moments with your family.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Daily",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Pan Pacific Singapore",
+    "address_display": "7 Raffles Blvd, Singapore 039595",
+    "label_tag": null,
+    "keyword_tag": [
+      "family",
+      "staycation",
+      "hotel"
+    ],
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/panpac_staycay_03-218x150.jpg",
+        "source_credit": "Pan Pacific Singapore",
+        "filename": "Pan_Pacific_Singapore_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Pan_Pacific_Singapore_1.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/panpac_staycay_03-100x70.jpg",
+        "source_credit": "Pan Pacific Singapore",
+        "filename": "Pan_Pacific_Singapore_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Pan_Pacific_Singapore_2.jpg"
+      }
+    ],
+    "id": 801,
+    "longitude": 103.85858520000001,
+    "latitude": 1.2924176,
+    "planning_area": "Downtown Core",
+    "region": "Central Region"
+  },
+  {
+    "title": "Camp Asia Magical Winter Camp",
+    "organiser": "Little Day Out",
+    "blurb": "Winter camp for kids with various activities.",
+    "description": "Camp Asia offers a magical winter camp experience for kids. Activities include sports, arts and crafts, and educational programs designed to engage and entertain children during the winter season. The camp provides a safe and fun environment for kids to learn new skills and make new friends. With experienced instructors and a wide range of activities, Camp Asia ensures a memorable and enriching winter camp experience for every child. The camp focuses on creating a positive and inclusive atmosphere where children can explore their interests and develop their talents. Camp Asia's winter camp is a great way for kids to stay active and engaged during the school break. The program is designed to cater to different age groups and skill levels, ensuring that every child has a rewarding experience. Camp Asia is committed to providing high-quality programs that promote learning, creativity, and fun.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "From $",
+    "is_free": false,
+    "price_display": "S$600.00",
+    "price": 600,
+    "min_price": 600.0,
+    "max_price": 600.0,
+    "age_group_display": "Children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "30-Oct",
+    "datetime_display": "30 October 2025",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Little Day Out",
+    "address_display": "21 Bukit Batok Cres, #09-79 Wcega Tower, Singapore 658065",
+    "label_tag": null,
+    "keyword_tag": [
+      "winter camp",
+      "kids",
+      "activities"
+    ],
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/Parkour-670x415-1-324x235.png",
+        "source_credit": "Little Day Out",
+        "filename": "Little_Day_Out_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Little_Day_Out_1.jpg"
+      }
+    ],
+    "id": 802,
+    "longitude": 103.7597906,
+    "latitude": 1.3369612,
+    "planning_area": "Bukit Batok",
+    "region": "West Region"
+  },
+  {
+    "title": "The British Council’s Open House",
+    "organiser": "Little Day Out",
+    "blurb": "Open house for early years reading programs.",
+    "description": "The British Council's Open House offers a chance to explore early years reading programs. Families can learn about the curriculum, meet the teachers, and discover resources to support their child's literacy development. The open house provides a welcoming environment for parents and children to engage with the British Council's educational approach. With interactive sessions and informative presentations, attendees can gain valuable insights into the benefits of early reading education. The British Council's Open House is a great opportunity to connect with other parents and educators in the community. The event aims to promote a love of reading and lifelong learning in young children. The British Council is committed to providing high-quality educational programs that foster creativity, critical thinking, and communication skills. The open house is designed to showcase the British Council's dedication to excellence in early childhood education.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "Early Years",
+    "min_age": 0,
+    "max_age": 6,
+    "datetime_display_teaser": "29-Nov",
+    "datetime_display": "29 Nov & 6 Dec 2025",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "British Council",
+    "address_display": "11 Eunos Rd 8, Lifelong Learning Institute, Singapore 408601",
+    "label_tag": null,
+    "keyword_tag": [
+      "open house",
+      "reading",
+      "early years"
+    ],
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/SG_YL-Open-House-2025_v2-324x235.png",
+        "source_credit": "Little Day Out",
+        "filename": "British_Council_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/British_Council_1.jpg"
+      },
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/the-british-council-01-3-324x235.jpg",
+        "source_credit": "Little Day Out",
+        "filename": "British_Council_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/British_Council_2.jpg"
+      }
+    ],
+    "id": 803,
+    "longitude": 103.89250899999999,
+    "latitude": 1.3195696,
+    "planning_area": "Geylang",
+    "region": "Central Region"
+  },
+  {
+    "title": "Mighty Mind Mania @ Rochester Mall!",
+    "organiser": "Little Day Out",
+    "blurb": "Family fun awaits at Mighty Mind Mania.",
+    "description": "Family fun awaits at Mighty Mind Mania @ Rochester Mall! This event offers a variety of activities and games designed to challenge and entertain minds of all ages. From puzzles and brain teasers to interactive exhibits, there's something for everyone to enjoy. The event provides a great opportunity for families to bond and create lasting memories. With a focus on learning and discovery, Mighty Mind Mania aims to inspire curiosity and promote intellectual growth. The event features a range of activities suitable for different age groups and skill levels. Families can participate in friendly competitions and win exciting prizes. Mighty Mind Mania is a fun and engaging way to spend quality time with loved ones. The event is designed to be both educational and entertaining, making it a perfect outing for families looking to learn and play together. Rochester Mall provides a convenient and accessible location for this exciting event.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "All Ages",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "18-Nov",
+    "datetime_display": "18 November 2025",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Rochester Mall",
+    "address_display": "35 Rochester Dr, Singapore 138639",
+    "label_tag": null,
+    "keyword_tag": [
+      "family fun",
+      "mind games",
+      "rochester mall"
+    ],
+    "categories": [
+      "Mall related",
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/mighty-minds-mania-rochester-mall-670W-x-415-H-px-01-324x235.jpg",
+        "source_credit": "Little Day Out",
+        "filename": "Rochester_Mall_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Rochester_Mall_1.jpg"
+      }
+    ],
+    "id": 804,
+    "longitude": 103.7882008,
+    "latitude": 1.3055784,
+    "planning_area": "Queenstown",
+    "region": "Central Region"
+  },
+  {
+    "title": "British Council 1:1 Private Lessons",
+    "organiser": "British Council",
+    "blurb": "Early Years Reading lessons for young children.",
+    "description": "The British Council offers 1:1 private lessons designed to enhance early years reading skills. These lessons provide personalised attention and cater to individual learning needs, ensuring a strong foundation in literacy. The program focuses on interactive and engaging activities to make learning fun and effective. With experienced instructors and a supportive environment, children can develop confidence and excel in their reading abilities. The lessons are structured to build essential skills and foster a love for reading from an early age. The British Council's approach ensures that each child receives the guidance and support they need to succeed in their reading journey. The program aims to create a positive and enriching learning experience for young learners, setting them up for future academic success. The British Council's Open House events provide an opportunity to learn more about these programs.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "From $600",
+    "is_free": false,
+    "price_display": "S$600.00",
+    "price": 600.0,
+    "min_price": 600.0,
+    "max_price": 600.0,
+    "age_group_display": "Early Years",
+    "min_age": 0,
+    "max_age": 6,
+    "datetime_display_teaser": "24-Oct to 24-Oct",
+    "datetime_display": "Little Day Out - 24 October 2025",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "British Council",
+    "address_display": "11 Eunos Rd 8, Lifelong Learning Institute, Singapore 408601",
+    "label_tag": null,
+    "keyword_tag": [
+      "reading",
+      "lessons",
+      "early years",
+      "literacy"
+    ],
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/SG_YL-Open-House-2025_v2-324x235.png",
+        "source_credit": "British Council",
+        "filename": "British_Council_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/British_Council_1.jpg"
+      }
+    ],
+    "id": 805,
+    "longitude": 103.89250899999999,
+    "latitude": 1.3195696,
+    "planning_area": "Geylang",
+    "region": "Central Region"
+  },
+  {
+    "title": "Mighty Mind Mania @ Rochester Mall",
+    "organiser": "Rochester Mall",
+    "blurb": "Family Fun Awaits at Mighty Mind Mania",
+    "description": "Enjoy family fun at Mighty Mind Mania located at Rochester Mall. This event offers a variety of activities designed to engage and entertain children of all ages. From interactive games to creative workshops, there's something for everyone to enjoy. Spend quality time with your loved ones and create lasting memories at this exciting event. Rochester Mall provides a welcoming and family-friendly atmosphere, making it the perfect destination for a day of fun and entertainment. Don't miss out on the opportunity to experience the magic of Mighty Mind Mania.",
+    "guid": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/ue-square-cosmic-space-expedition/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "18-Nov",
+    "datetime_display": "18 November 2025",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Rochester Mall",
+    "address_display": "35 Rochester Dr, Singapore 138639",
+    "label_tag": null,
+    "keyword_tag": [
+      "family",
+      "fun",
+      "activities",
+      "Rochester Mall"
+    ],
+    "categories": [
+      "Mall related"
+    ],
+    "images": [
+      {
+        "url": "https://www.littledayout.com/wp-content/uploads/the-british-council-01-3-324x235.jpg",
+        "source_credit": "Rochester Mall",
+        "filename": "Rochester_Mall_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Rochester_Mall_1.jpg"
+      }
+    ],
+    "id": 806,
+    "longitude": 103.7882008,
+    "latitude": 1.3055784,
+    "planning_area": "Queenstown",
+    "region": "Central Region"
+  }
+]

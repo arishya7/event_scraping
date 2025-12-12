@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Tampines 1 Rooftop Wet and Dry playground",
+    "organiser": "Tampines 1",
+    "blurb": "A shopping mall with family-friendly activities.",
+    "description": "Up on the rooftop of Tampines 1, kids can dive into double the adventure with both wet and dry play zones. In the dry area, little ones can conquer a faux rock-climbing wall, zoom down bright slides, scramble through ladders, and discover shaded toddler corners with interactive panels and gentle rides. For those who love water, there’s a wildlife-themed wet zone full of gushing fountains, playful water jets shaped like hippos, and slides shaped like polar bears or seals—all in shallow splash zones perfect for cooling off. Shower and changing areas are nearby, making transitions easier. Whether your child wants to scale, slide, splash or chill, Tampines 1 has something for every kind of play!",
+    "guid": "https://www.tampines1.com.sg/family",
+    "activity_or_event": "activity",
+    "url": "https://www.tampines1.com.sg/family",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": "2 to 12 years old",
+    "min_age": 2.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am to 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Tampines 1",
+    "full_address": "Singapore 529536",
+    "categories": [
+      "Mall related",
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_3\\images\\user_uploads\\Tampines_1_Rooftop_Wet_and_Dry_playground_1.jpg",
+        "filename": "Tampines_1_Rooftop_Wet_and_Dry_playground_1.jpg",
+        "original_url": "https://www.tampines1.com.sg/family",
+        "source_credit": "Tampines1"
+      },
+      {
+        "local_path": "events_output\\event_3\\images\\user_uploads\\Tampines_1_Rooftop_Wet_and_Dry_playground_2.jpg",
+        "filename": "Tampines_1_Rooftop_Wet_and_Dry_playground_2.jpg",
+        "original_url": "https://www.tampines1.com.sg/family",
+        "source_credit": "Tampines1"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

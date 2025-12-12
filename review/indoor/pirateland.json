@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Pirate Land @ The Centrepoint Playground Fun",
+    "organiser": "Pirate Land",
+    "blurb": "Indoor playground at The Centrepoint for kids!",
+    "description": "Pirate Land @ The Centrepoint offers a fun and engaging indoor playground experience for children. Located in The Centrepoint mall, it provides a safe and stimulating environment for kids to explore and play. The playground features various play structures, including slides, climbing areas, and interactive games, designed to promote physical activity and creativity. Pirate Land is a great place for families to spend quality time together, with comfortable seating areas for parents to relax while their children play. Perfect for birthday parties and playdates.",
+    "guid": "https://www.piratelandsg.com/",
+    "activity_or_event": "activity",
+    "url": "https://www.piratelandsg.com/",
+    "price_display_teaser": "From S23.90",
+    "price_display": "From S23.90 to $33.90",
+    "price": 20.0,
+    "age_group_display": "12 years old and below",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Weekday: 10:30am - 8:00pm, Weekend/PH: 10:30am - 9:00pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Pirate Land @ The Centrepoint",
+    "full_address": "176 Orchard Rd The Centrepoint #04-11 Singapore 238843",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Pirate_Land___The_Centrepoint_Playground_Fun_1.jpg",
+        "filename": "Pirate_Land___The_Centrepoint_Playground_Fun_1.jpg",
+        "original_url": "https://www.piratelandsg.com/%E5%89%AF%E6%9C%AC-home-2",
+        "source_credit": "pirateland"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Pirate_Land___The_Centrepoint_Playground_Fun_2.jpg",
+        "filename": "Pirate_Land___The_Centrepoint_Playground_Fun_2.jpg",
+        "original_url": "https://www.piratelandsg.com/%E5%89%AF%E6%9C%AC-home-2",
+        "source_credit": "pirateland"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/460e65_debb34d704d940ce934a12bbdb4b1dbd~mv2.jpg/v1/fill/w_2000,h_2000,al_c,q_100,usm_0.66_1.00_0.01,enc_avif,quality_auto/6b0cd456ee63d4d83caccbaeeb6f11f.jpg",
+        "source_credit": "Pirate Land"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Pirate Land @ Eastpoint Mall Playground Fun",
+    "organiser": "Pirate Land",
+    "blurb": "Indoor playground at Eastpoint Mall for kids!",
+    "description": "Pirate Land @ Eastpoint Mall offers a fun and engaging indoor playground experience for children. Located in Eastpoint Mall, it provides a safe and stimulating environment for kids to explore and play. The playground features various play structures, including slides, climbing areas, and interactive games, designed to promote physical activity and creativity. Pirate Land is a great place for families to spend quality time together, with comfortable seating areas for parents to relax while their children play. Perfect for birthday parties and playdates.",
+    "guid": "https://www.piratelandsg.com/",
+    "activity_or_event": "activity",
+    "url": "https://www.piratelandsg.com/",
+    "price_display_teaser": "From $23.90",
+    "price_display": "From $23.90 - $33.90",
+    "price": 20.0,
+    "age_group_display": "12 years old and below",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Weekday:10:00am-8:45pm, Weekend/PH:10:00am-9:00pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Pirate Land @ Eastpoint Mall",
+    "full_address": "3 Simei Street 6, Eastpoint Mall #04-k6 Singapore 528833",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Pirate_Land___Eastpoint_Mall_Playground_Fun_1.jpg",
+        "filename": "Pirate_Land___Eastpoint_Mall_Playground_Fun_1.jpg",
+        "original_url": "https://www.piratelandsg.com/eastpointmall",
+        "source_credit": "pirateland"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Pirate_Land___Eastpoint_Mall_Playground_Fun_2.jpg",
+        "filename": "Pirate_Land___Eastpoint_Mall_Playground_Fun_2.jpg",
+        "original_url": "https://www.piratelandsg.com/eastpointmall",
+        "source_credit": "pirateland"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Pirate_Land___Eastpoint_Mall_Playground_Fun_3.jpg",
+        "filename": "Pirate_Land___Eastpoint_Mall_Playground_Fun_3.jpg",
+        "original_url": "https://www.piratelandsg.com/eastpointmall",
+        "source_credit": "pirateland"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

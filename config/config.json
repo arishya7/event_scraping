@@ -1,0 +1,183 @@
+ {
+    "keywords": [
+      "event", "activity", "programme", "program", "workshop", "class", "session",
+      "festival", "camp", "outing", "tour", "experience", "show", "performance",
+  
+      "playground", "indoor playground", "outdoor playground", "attraction",
+      "park", "garden", "centre", "center", "venue", "museum", "gallery",
+  
+      "kids", "children", "child", "toddler", "baby", "babies", "youth",
+      "family", "parents", "mums", "dads",
+  
+      "fun", "party", "birthday", "celebration", "play", "explore", "learn",
+      "educational", "interactive", "discovery",
+  
+      "admission", "ticket", "pass", "membership", "promo", "promotion",
+      "package", "deal", "offer", "discount", "bundle",
+  
+      "mall", "shopping", "plaza", "square"
+    ],
+    "price_currency": "SGD",
+    "min_confidence_score": 2,
+    "type": "array",
+    "items": {
+        "type": "object",
+        "required": [
+            "title","organiser","blurb","description","guid","activity_or_event","url",
+            "price_display_teaser","price_display","price","age_group_display","min_age","max_age",
+            "datetime_display_teaser","datetime_display","start_datetime","end_datetime",
+            "venue_name","categories","images"
+        ],
+        "properties": {
+       "title": {
+        "type": "string",
+        "minLength": 40,
+        "maxLength": 70,
+        "description": "The title of the event. Do not mention the location or date or time of the event here."
+      },
+      "organiser": {
+        "type": "string",
+        "description": "The organisation that organise the event. Put multiple organisers if needed."
+      },
+      "blurb": {
+        "type": "string",
+        "minLength": 40,
+        "maxLength": 80,
+        "description": "A short description of the event to put on the event card"
+      },
+      "description": {
+        "type": "string",
+        "description": "Describe the event within the word limits. .Talks about the activities and target audience. Write in family friendly tone.",
+        "minLength": 450,
+        "maxLength": 800
+      },
+      "guid": {
+        "type": "string",
+        "description": "The guid needs to be a valid URL links that DOES NOT HAVE additional character on it for each event. This value should **NOT** BE UNIQUE TO EACH EVENT."
+      },
+      "activity_or_event": {
+        "type": "string",
+        "maxLength": 1,
+        "description": "Event when the feed is time specific or one - off. Activity is when the feed is available all year round.",
+        "enum": [
+          "event",
+          "activity"
+        ]
+      },
+      "url": {
+        "type": "string",
+        "description": "The URL of the event. Extract from URL, not the GUID. Ensure that the URL is valid, does not return 404 error"
+      },
+      "price_display_teaser": {
+        "type": "string",
+        "description": "To be shown at the feed. SHOULD BE THE LOWERST PRICE. ",
+        "enum": [
+          "Free + Paid options",
+          "Free",
+          "From $"
+        ]
+      },
+      "is_free":{
+        "type": "boolean",
+        "description": " As long as price_display_teaser = Free OR Free + Paid options, this will be tagged as TRUE"
+      },
+      "price_display": {
+        "type": "string",
+        "description": "The price of the event in a display format, e.g. $100 or free. Should always be a price range from lowest to highest. Ensure that it is in Singapore Dollar currency."
+      },
+      "price": {
+        "type": "number",
+        "description": "If there are multiple prices, choose the LOWEST price. If the event has bpth free tier and paid options, USE the lowest price of paid option. Ensure that it is in Singapore Dollar currency."
+      },
+      "min_price": {
+        "type": "number",
+        "description": "If is_free = TRUE, then this = 0, if FALSE, then will follow numeric value in price_display_teaser"
+      },
+      "max_price": {
+        "type": "number",
+        "description": "Follow largest numeric value in price_display in SGD"
+      },
+      "age_group_display": {
+        "type": "string",
+        "description": "The age group of the event in a display format, e.g. \"18 months to 3 years\" or \"3 to 12 years\" or \"all ages\""
+      },
+      "min_age": {
+        "type": "number",
+        "description": "If age_group_display phrases as “XX years old and below”, then this = 0, all other phrasing will follow smallest numeric value in age_group_display"
+      },
+      "max_age": {
+        "type": "number",
+        "description": "If age_group_display phrases as “XX years old and above”, then this = 99, all other phrasing will follow largest numeric value in age_group_displays"
+      },
+      "datetime_display_teaser": {
+        "type": "string",
+        "description": "Please display **dates/days** on the feed card, using the **DD-MMM format** (e.g., '28 Jun - 29 Aug', '19 Jan'), keeping it **short** (e.g., 'Available daily','Available daily except Tue', 'Recurring weekends'), and **excluding time**."
+      },
+      "datetime_display": {
+        "type": "string",
+        "description": "display the duration of the activity/event or operating hours (e.g., '2 hours or 10am to 12pm'"
+      },
+      "start_datetime": {
+        "type": "string",
+        "description": "The start date and time of the event in ISO 8601 format in SGT timezone. If it does not have a start date, return the date at 1970-01-01T00:00:00",
+        "format": "date-time"
+      },
+      "end_datetime": {
+        "type": "string",
+        "description": "The end date and time of the event in ISO 8601 format, in SGT timezone. If it does not have an end date, return the date at 2099-12-31T23:59:00",
+        "format": "date-time"
+      },
+      "venue_name": {
+        "type": "string",
+        "description": "The name of the venue of the event"
+      },
+      "address_display": {
+        "type": "string",
+        "description": "The full address of the place - must be Singapore address. If there's postal code, add that too."
+      },
+      "label_tag": {
+        "type": "string",
+        "description": "The label of the venue, e.g. shopping mall name, attraction name, museum name"
+      },
+      "keyword_tag": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "List of few relevant keywords that describes the event"
+        },
+      "categories": {
+        "type": "array",
+        "description": "Event categories to must include at least one category",
+        "minItems": 1,
+        "items": {
+          "type": "string",
+          "enum": [
+            "Indoor Playground",
+            "Attraction",
+            "Outdoor Playground",
+            "Mall related",
+            "Kids-friendly dining"
+          ]
+        }
+      },
+        "images": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["url", "source_credit"],
+          "properties": {
+            "url": {
+               "type": "string", 
+            "format": "uri",
+            "description": "<direct-image-url ONLY, must end with .jpg, .jpeg, .webp, or .png."
+          },
+            "source_credit": { "type": "string" },
+            "filename": { "type": "string" }
+          }
+        }
+      }
+
+        }
+    }
+}
+
+ 

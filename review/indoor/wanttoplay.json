@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Wan To Play - Space at KINEX",
+    "organiser": "Wan To Play",
+    "blurb": "Explore a variety of family-friendly activities.",
+    "description": "Discover a wide range of activities and venues perfect for families and children. From indoor playgrounds to outdoor adventures, find the ideal place for your next family outing. We offer a curated selection of experiences designed to create lasting memories for you and your loved ones. Explore our offerings and plan your next adventure today. Find the best deals and promotions on family entertainment. Enjoy a seamless booking experience and create unforgettable moments with your family.",
+    "guid": "https://wantoplay.sg/",
+    "activity_or_event": "activity",
+    "url": "https://wantoplay.sg/",
+    "price_display_teaser": "From $35",
+    "price_display": "$35 for 2 hours",
+    "price": 0.0,
+    "age_group_display": "12 years old and below",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 9am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "KINEX",
+    "full_address": "11 Tanjong Katong Rd, #01-K1, KINEX 437157",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Wan_To_Play___Space_at_KINEX_1.webp",
+        "filename": "Wan_To_Play___Space_at_KINEX_1.webp",
+        "original_url": "https://wantoplay.sg/",
+        "source_credit": "wantoplay"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "WAN TO PLAY CANDYLAND SWEET ADVENTURE AWAITS",
+    "organiser": "WAN TO PLAY",
+    "blurb": "WAN TO PLAY CANDYLAND SWEET ADVENTURE AWAITS",
+    "description": "WAN TO PLAY CANDYLAND SWEET ADVENTURE AWAITS. This venue offers a fun and playful haven for children. It is designed to provide a sweet adventure for kids of all ages. The venue includes various play areas and amenities to ensure an enjoyable experience for families. Activities are tailored to engage children in a safe and stimulating environment. Parents can relax knowing their kids are having fun in a secure setting. The venue aims to create memorable moments for families through interactive play and creative exploration. It is a perfect destination for a day of fun and adventure.",
+    "guid": "https://wantoplay.sg/",
+    "activity_or_event": "activity",
+    "url": "https://wantoplay.sg/",
+    "price_display_teaser": "From $22",
+    "price_display": "$22 for 1 hour, $35 for 2 hours",
+    "price": 0.0,
+    "age_group_display": "12 years old and below",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 9am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "West Coast Plaza",
+    "full_address": "SG, 154 W Coast Rd, #02-44/45 West Coast Plaza, 127371",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\WAN_TO_PLAY_CANDYLAND_SWEET_ADVENTURE_AWAITS_1.webp",
+        "filename": "WAN_TO_PLAY_CANDYLAND_SWEET_ADVENTURE_AWAITS_1.webp",
+        "original_url": "https://wantoplay.sg/",
+        "source_credit": "wantoplay"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Wantoplay - Sky Castle at Pasir Ris Mall",
+    "organiser": "Wantoplay",
+    "blurb": "Fun Playful Haven at multiple locations in Singapore",
+    "description": "This playful haven offers a variety of engaging activities for children. With multiple locations across Singapore, families can easily access a fun and stimulating environment. Each location features unique play areas designed to encourage creativity and physical activity. From climbing structures to interactive games, there's something for every child to enjoy. The facilities are well-maintained and prioritize safety, ensuring a worry-free experience for parents. Perfect for playdates, birthday parties, or a simple day out, this is a great place for kids to explore, learn, and have fun.",
+    "guid": "https://wantoplay.sg/",
+    "activity_or_event": "activity",
+    "url": "https://wantoplay.sg/",
+    "price_display_teaser": "From $22",
+    "price_display": "$22 for 1 hour, $35 for 2 hours",
+    "price": 0.0,
+    "age_group_display": "12 years old and below",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 9am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Pasir Ris Mall",
+    "full_address": "7 Pasir Ris Central, #02-58, Singapore 519612",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_3\\images\\user_uploads\\Wantoplay___Sky_Castle_at_Pasir_Ris_Mall_1.webp",
+        "filename": "Wantoplay___Sky_Castle_at_Pasir_Ris_Mall_1.webp",
+        "original_url": "",
+        "source_credit": "User Upload"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "WanToPlay - Forest at i12 Katong Mall",
+    "organiser": "Wan To Play",
+    "blurb": "Enjoy hours of fun at Wan To Play's various zones.",
+    "description": "The venue is designed to cater to children of various ages, with activities suitable for toddlers to older kids. Parents can relax while their children explore and play in a safe and stimulating environment. The play areas are well-maintained and regularly updated to ensure a fun and exciting experience for all visitors. The venue also offers various amenities to enhance the overall experience, making it a great destination for families looking for a fun day out.",
+    "guid": "https://wantoplay.sg/",
+    "activity_or_event": "activity",
+    "url": "https://wantoplay.sg/",
+    "price_display_teaser": "From $22",
+    "price_display": "$22 for 1 hour, $35 for 2 hours",
+    "price": 22.0,
+    "age_group_display": "12 years old and below",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 9am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "i12 Katong Mall",
+    "full_address": "112 E Coast Rd #04-03/04, Singapore 428802",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_4\\images\\user_uploads\\WanToPlay___Forest_at_i12_Katong_Mall_1.webp",
+        "filename": "WanToPlay___Forest_at_i12_Katong_Mall_1.webp",
+        "original_url": "https://wantoplay.sg/",
+        "source_credit": "wantoplay"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

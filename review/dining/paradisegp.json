@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Beauty in The Pot Hotpot Experience",
+    "organiser": "Paradise Group",
+    "blurb": "Nourishing soup bases with rich flavours and benefits.",
+    "description": "Beauty in The Pot offers a hotpot experience inspired by the culture of food for health. The restaurant provides nourishing soup bases that promise rich flavours coupled with abundant benefits. It's a family-friendly dining experience where everyone can enjoy a comforting and healthy meal together. The hotpot ingredients are fresh and of high quality, ensuring a delightful culinary experience for all ages. The ambiance is designed to be inviting and relaxing, making it a perfect spot for family gatherings and celebrations. The restaurant caters to various dietary preferences and offers a range of options to suit different tastes.",
+    "guid": "https://www.paradisegp.com/beauty-in-the-pot/",
+    "activity_or_event": "activity",
+    "url": "https://www.paradisegp.com/beauty-in-the-pot/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 28.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Jewel & NEX: 11:30am - 3am, Centrepoint: 11:30am - 6am, Starvista: 11:30am - 10:30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Beauty in The Pot @ NEX",
+    "full_address": "23 Serangoon Central, NEX #02-01 Singapore, 556083",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://www.paradisegp.com/wp-content/uploads/2023/09/img-bitp-food2-1.jpg",
+        "source_credit": "Paradise Group"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

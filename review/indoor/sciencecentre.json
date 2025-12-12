@@ -1,0 +1,44 @@
+[
+  {
+    "title": "KidsSTOP™ - A Children's Science Museum in Singapore",
+    "organiser": "Science Centre Singapore",
+    "blurb": "Nurture your child’s love for Science through play!",
+    "description": "KidsSTOP™ is designed to engage children aged 18 months to 8 years old in the world of Science through purposeful play. With a focus on hands-on activities and immersive exhibits, KidsSTOP™ offers a fun and interactive learning environment where children can explore, experiment, and discover new things. The exhibits are designed to stimulate curiosity and encourage children to ask questions, solve problems, and develop a deeper understanding of scientific concepts. KidsSTOP™ also offers a variety of educational programs and workshops that complement the exhibits and provide children with opportunities to learn and grow. It is a place where children can learn through play and develop a lifelong love for Science.",
+    "guid": "https://www.science.edu.sg/visit-us/kidsstop?saf_src=google_g&saf_pt=&saf_kw=kidsstop&saf_dv=&saf_cam=21516657339&saf_grp=171146839611&saf_ad=707657527351&account_id=2980358413&saf_acc=2980358413&saf_cam_tp=search&gad_source=1&gad_campaignid=21516657339&gbraid=0AAAAApe1bOnbGPkbvVpLxeOkrMixS5OlD&gclid=CjwKCAjw2vTFBhAuEiwAFaScwj08bEPuL7qd9_BQUT_xIH6zLpaYip9YXbfgWq0kO-M6A4xraA9eohoCK2kQAvD_BwE",
+    "activity_or_event": "activity",
+    "url": "https://www.science.edu.sg/visit-us/kidsstop?saf_src=google_g&saf_pt=&saf_kw=kidsstop&saf_dv=&saf_cam=21516657339&saf_grp=171146839611&saf_ad=707657527351&account_id=2980358413&saf_acc=2980358413&saf_cam_tp=search&gad_source=1&gad_campaignid=21516657339&gbraid=0AAAAApe1bOnbGPkbvVpLxeOkrMixS5OlD&gclid=CjwKCAjw2vTFBhAuEiwAFaScwj08bEPuL7qd9_BQUT_xIH6zLpaYip9YXbfgWq0kO-M6A4xraA9eohoCK2kQAvD_BwE",
+    "price_display_teaser": "From $2",
+    "price_display": "From $2 - $23",
+    "price": 25.0,
+    "age_group_display": "8 years old and below",
+    "min_age": 0.0,
+    "max_age": 8.0,
+    "datetime_display_teaser": "Available daily (except Mon)",
+    "datetime_display": "Available daily (except Mon), 10am - 5pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "KidsSTOP™",
+    "full_address": "21 Jurong Town Hall Road, Singapore 609433",
+    "categories": [
+      "Attraction",
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\KidsSTOP____A_Children_s_Science_Museum_in_Singapore_1.jpg",
+        "filename": "KidsSTOP____A_Children_s_Science_Museum_in_Singapore_1.jpg",
+        "original_url": "https://www.science.edu.sg/images/default-source/scs-images/kidsstop/banners/kidsstop-banner-03.jpg",
+        "source_credit": "science"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\KidsSTOP____A_Children_s_Science_Museum_in_Singapore_2.jpeg",
+        "filename": "KidsSTOP____A_Children_s_Science_Museum_in_Singapore_2.jpeg",
+        "original_url": "https://tickets.science.edu.sg/pre-attraction/kidsstop-57975",
+        "source_credit": "science"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

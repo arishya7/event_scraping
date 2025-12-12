@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Super Loco Robertson Quay Mexican Cantina",
+    "organiser": "Super Loco",
+    "blurb": "Cosy Mexican cantina in Robertson Quay neighbourhood.",
+    "description": "Located in Robertson Quay, Super Loco offers Mexican cuisine in a vibrant setting. The restaurant features colorful street posters reminiscent of Mexico City's barrios. It's a family-friendly riverside spot for weekend brunch or lunch and dinner. The venue is known for its lively atmosphere and is suitable for families and even furry friends looking for a place to dine and relax by the Singapore River. The restaurant provides a cozy environment for enjoying Mexican food.",
+    "guid": "https://super-loco.com/robertsonquay",
+    "activity_or_event": "activity",
+    "url": "https://super-loco.com/robertsonquay",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "varies",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Super Loco Robertson Quay",
+    "full_address": "The Quayside, 60 Robertson Quay #01-13 Singapore 238252",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/64bd41d5f55df83ffad083ce/c07f2756-d4d4-4ae2-ae44-7556cb6b842b/Super-Loco-Robertson-Quay-1-1-2.jpg",
+        "source_credit": "Super Loco"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/64bd41d5f55df83ffad083ce/5414f79d-7409-43cd-a0ca-ad24a2a3793d/Super+Loco+RQ+Logo.png",
+        "source_credit": "Super Loco"
+      }
+    ]
+  }
+]

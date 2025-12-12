@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Fusion Spoon at Botanic Garden Self-Order Kiosk",
+    "organiser": "Fusion Spoon",
+    "blurb": "Order foods & drinks at our self-order & payment kiosk",
+    "description": "Fusion Spoon at Botanic Garden offers a self-order and payment kiosk for a convenient dining experience. Customers can select dine-in or takeaway options, choose food and drink items, confirm their order, and choose a mode of payment. After collecting the receipt, customers wait for their queue number to be called and collect their orders from the designated collection point. There is no service charge, and customers are encouraged to return their trays to the tray return station. The venue offers a variety of food and drink options suitable for families and children visiting the Botanic Gardens, including bingsu and waffle ice cream available at the Bingsu Corner. This family-friendly dining spot provides a hassle-free experience for parents and kids alike.",
+    "guid": "https://fpgrp.com.sg/fusion-spoon-at-botanic-garden/menu-main.html",
+    "activity_or_event": "activity",
+    "url": "https://fpgrp.com.sg/fusion-spoon-at-botanic-garden/menu-main.html",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 5.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Weekdays: 9am – 9pm, Weekend/PH: 7.30am - 9.30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Fusion Spoon at Botanic Garden",
+    "full_address": "Singapore Botanic Gardens, 1 Cluny Road, Tanglin Gate, #B1-00, Singapore 259569",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Fusion_Spoon_at_Botanic_Garden_Self_Order_Kiosk_1.jpg",
+        "filename": "Fusion_Spoon_at_Botanic_Garden_Self_Order_Kiosk_1.jpg",
+        "original_url": "https://fpgrp.com.sg/fusion-spoon-at-botanic-garden/menu-main.html",
+        "source_credit": "fpgrp"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Fusion_Spoon_at_Botanic_Garden_Self_Order_Kiosk_2.jpg",
+        "filename": "Fusion_Spoon_at_Botanic_Garden_Self_Order_Kiosk_2.jpg",
+        "original_url": "https://fpgrp.com.sg/fusion-spoon-at-botanic-garden/menu-main.html",
+        "source_credit": "fpgrp"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Fusion_Spoon_at_Botanic_Garden_Self_Order_Kiosk_3.jpg",
+        "filename": "Fusion_Spoon_at_Botanic_Garden_Self_Order_Kiosk_3.jpg",
+        "original_url": "https://fpgrp.com.sg/fusion-spoon-at-botanic-garden/menu-main.html",
+        "source_credit": "fpgrp"
+      },
+      {
+        "url": "https://fpgrp.com.sg/fusion-spoon-at-botanic-garden/images/logo.png",
+        "source_credit": "Fusion Spoon"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

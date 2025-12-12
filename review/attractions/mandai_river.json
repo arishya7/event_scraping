@@ -1,0 +1,49 @@
+[
+  {
+    "title": "River Wonders: Wildlife and River Adventure Awaits",
+    "organiser": "Mandai Wildlife Group",
+    "blurb": "Explore aquatic habitats and wildlife encounters today!",
+    "description": "Embark on a captivating journey through River Wonders, where you'll discover the fascinating world of freshwater ecosystems and their inhabitants. Explore themed zones showcasing iconic rivers like the Amazon, Nile, and Mekong, encountering diverse wildlife along the way. Marvel at giant pandas, playful monkeys, and graceful manatees in immersive habitats. Enjoy interactive exhibits, educational presentations, and thrilling boat rides that bring you closer to nature. River Wonders offers an unforgettable experience for families and nature enthusiasts of all ages, fostering appreciation for conservation and biodiversity.",
+    "guid": "https://www.mandai.com/en/river-wonders.html",
+    "activity_or_event": "activity",
+    "url": "https://www.mandai.com/en/river-wonders.html",
+    "price_display_teaser": "From $26.40",
+    "price_display": "From $26.40 - $45",
+    "price": 42.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am – 7pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "River Wonders",
+    "full_address": "80 Mandai Lake Rd, Singapore 729826",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\River_Wonders__Wildlife_and_River_Adventure_Awaits_1.jpg",
+        "filename": "River_Wonders__Wildlife_and_River_Adventure_Awaits_1.jpg",
+        "original_url": "https://www.mandai.com/en/river-wonders.html",
+        "source_credit": "mandai"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\River_Wonders__Wildlife_and_River_Adventure_Awaits_2.jpg",
+        "filename": "River_Wonders__Wildlife_and_River_Adventure_Awaits_2.jpg",
+        "original_url": "https://www.mandai.com/en/river-wonders.html",
+        "source_credit": "mandai"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\River_Wonders__Wildlife_and_River_Adventure_Awaits_3.jpg",
+        "filename": "River_Wonders__Wildlife_and_River_Adventure_Awaits_3.jpg",
+        "original_url": "https://www.mandai.com/en/river-wonders.html",
+        "source_credit": "mandai"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

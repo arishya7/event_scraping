@@ -1,0 +1,88 @@
+[
+  {
+    "title": "313@somerset Concierge Services and Family Zone",
+    "organiser": "313@somerset",
+    "blurb": "Concierge, parents' rooms, kids playground, restaurants.",
+    "description": "313@somerset offers various services including a concierge desk for general inquiries and information on mall activities, family services such as parents' rooms and a kids playground on the Sky Terrace, and family-friendly restaurants like Marché and Haidilao Hot Pot. The concierge also provides free loaning of portable chargers (deposit required) and assistance with lost and found items. Tourist services include airport bus information and Singapore maps.",
+    "guid": "https://www.313somerset.com.sg/concierge/centre-services/",
+    "activity_or_event": "activity",
+    "url": "https://www.313somerset.com.sg/concierge/centre-services/",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Monday to Thursday 12.30pm to 2.30pm and 5.30pm to 8.30pm as well as Friday to Sunday 1pm to 8.30pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "313@somerset",
+    "full_address": "Not Available",
+    "categories": [
+      "Mall related",
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://www.313somerset.com.sg/globalassets/all-sites/logos/lendlease_logo_black/",
+        "source_credit": "313@somerset"
+      },
+      {
+        "url": "https://www.313somerset.com.sg/siteassets/313-somerset/313_logo_white-transparent_bg.svg",
+        "source_credit": "313@somerset"
+      },
+      {
+        "url": "https://www.313somerset.com.sg/contentassets/3af02c9289d441acb6ab1d90cc57b630/concierge-page-21.jpg?width=300&height=400&upscale=false&format=webp&mode=max&quality=80",
+        "source_credit": "313@somerset"
+      },
+      {
+        "url": "https://www.313somerset.com.sg/contentassets/1f33f984cbfe4a948fc1569e01573046/concierge-services.png?width=480&height=360&upscale=false&format=webp&mode=crop&anchor=center&quality=80",
+        "source_credit": "313@somerset"
+      },
+      {
+        "url": "https://www.313somerset.com.sg/contentassets/1f33f984cbfe4a948fc1569e01573046/concierge-services.png?width=767&height=575&upscale=false&format=webp&mode=crop&anchor=center&quality=80",
+        "source_credit": "313@somerset"
+      }
+    ]
+  },
+  {
+    "title": "Kids Playground at 313@somerset Sky Terrace",
+    "organiser": "313@somerset",
+    "blurb": "Enjoy the Kids playground at Sky Terrace!",
+    "description": "The Sky Terrace at 313@somerset features a dedicated kids' playground, providing a fun and safe environment for children to play and explore. Parents can relax while kids enjoy the play structures. The playground is designed for young children and offers a variety of activities to keep them entertained. It's a great place for families to spend time together while shopping or dining at 313@somerset. The playground is located on the Sky Terrace, offering a pleasant outdoor setting for families.",
+    "guid": "https://www.313somerset.com.sg/concierge/centre-services/",
+    "activity_or_event": "activity",
+    "url": "https://www.313somerset.com.sg/concierge/centre-services/",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Money changer on L1 Places of interest in Singapore Singapore maps supply",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "313@somerset Sky Terrace",
+    "full_address": "Not Available",
+    "categories": [
+      "Outdoor Playground",
+      "Mall related"
+    ],
+    "images": [
+      {
+        "url": "https://www.313somerset.com.sg/contentassets/e3139cf2f25843cd8c2236351992696c/tourist-services.png?width=480&height=360&upscale=false&format=webp&mode=crop&anchor=center&quality=80",
+        "source_credit": "313@somerset"
+      },
+      {
+        "url": "https://www.313somerset.com.sg/contentassets/e3139cf2f25843cd8c2236351992696c/tourist-services.png?width=767&height=575&upscale=false&format=webp&mode=crop&anchor=center&quality=80",
+        "source_credit": "313@somerset"
+      },
+      {
+        "url": "https://www.313somerset.com.sg/contentassets/e3139cf2f25843cd8c2236351992696c/tourist-services.png?width=1023&height=767&upscale=false&format=webp&mode=crop&anchor=center&quality=80",
+        "source_credit": "313@somerset"
+      }
+    ]
+  }
+]

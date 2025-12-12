@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Jimmy Monkey Cafe & Bar - PLQ",
+    "organiser": "Jimmy Monkey",
+    "blurb": "Authentic Melbourne cafe lifestyle, open daily.",
+    "description": "Jimmy Monkey Cafe & Bar brings the authentic Melbourne cafe lifestyle to Singapore. The PLQ location is open daily from 8AM to 10PM, next to an outdoor playground. Enjoy specialty coffee, delicious brunch options, and a relaxed atmosphere perfect for families and individuals alike. A great spot for a casual meal or a coffee break.",
+    "guid": "https://jimmymonkey.com/",
+    "activity_or_event": "activity",
+    "url": "https://jimmymonkey.com/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 8am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Jimmy Monkey PLQ (PARKSIDE)",
+    "full_address": "#01-10 Park Place Residences Singapore 409053",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://jimmymonkey.com/wp-content/uploads/2025/06/PLQ-BG.jpg",
+        "source_credit": "Jimmy Monkey"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

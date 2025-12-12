@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Huber's Bistro: A Culinary Experience for Families",
+    "organiser": "Huber's",
+    "blurb": "Enjoy quality dining in a relaxed, family-friendly bistro.",
+    "description": "Huber's Bistro offers a delightful culinary experience for families. With a diverse menu catering to various tastes, it's an ideal spot for a relaxed meal. The bistro provides a welcoming atmosphere where families can enjoy quality time together while savoring delicious food. From hearty mains to delectable desserts, there's something for everyone. Please note that the bistro is closed on Mondays, including public holidays that fall on Mondays, and reservations are not accepted.",
+    "guid": "https://www.hubers.com.sg/Bistro.aspx",
+    "activity_or_event": "activity",
+    "url": "https://www.hubers.com.sg/Bistro.aspx",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily (except Mon)",
+    "datetime_display": "Weekday (except Mon): 11am - 10pm, Weekends/PH: 9.30am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Huber's Bistro",
+    "full_address": "Not Available",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Huber_s_Bistro__A_Culinary_Experience_for_Families_1.jpg",
+        "filename": "Huber_s_Bistro__A_Culinary_Experience_for_Families_1.jpg",
+        "original_url": "https://www.hubers.com.sg/Default.aspx",
+        "source_credit": "hubers"
+      },
+      {
+        "url": "https://www.hubers.com.sg/Upload/BistroBanner/BistroBanner20210716102453674.jpg",
+        "source_credit": "Huber's"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

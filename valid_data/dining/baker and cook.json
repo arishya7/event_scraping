@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Baker & Cook - Enjoy Freshly Baked Goods Daily",
+    "organiser": "Baker & Cook",
+    "blurb": "Enjoy 15% off your first order and free delivery!",
+    "description": "Baker & Cook offers a wide array of freshly baked goods, including breads, pastries, and cakes. They focus on quality ingredients and traditional baking methods. Customers can enjoy a variety of options for breakfast, lunch, or a sweet treat. Baker & Cook is known for its artisanal approach and commitment to providing delicious baked goods to the community. They also offer coffee and other beverages to complement their food offerings. Perfect for families looking for a quick bite or a special occasion cake.",
+    "guid": "https://www.bakerandcook.com/",
+    "activity_or_event": "activity",
+    "url": "https://www.bakerandcook.com/",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Baker & Cook",
+    "full_address": "Not Available",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.tablevibestaticassets.co/jkzq4hce576ocivr7594tibtvn9x",
+        "source_credit": "Baker & Cook"
+      }
+    ]
+  },
+  {
+    "title": "Baker & Cook Dempsey Playground Reopens!",
+    "organiser": "Baker & Cook",
+    "blurb": "Dempsey Playground Reopens! 🛝 [July - September]",
+    "description": "Baker & Cook Dempsey offers a delightful experience for families with its reopened playground. The playground provides a safe and fun environment for children to play while parents can enjoy the bakery's offerings. It features various play structures designed to entertain kids of different ages. The reopening is scheduled from July to September, making it a perfect spot for a family outing. Enjoy freshly baked goods and coffee while the kids have a blast at the playground. The venue is family-friendly and welcomes children of all ages to enjoy the facilities.",
+    "guid": "https://www.bakerandcook.com/",
+    "activity_or_event": "activity",
+    "url": "https://www.bakerandcook.com/",
+    "price_display_teaser": "From $4",
+    "price_display": "From S$4.00",
+    "price": 4.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": "null",
+    "datetime_display": "[July - September]",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Baker & Cook Dempsey",
+    "full_address": "Not Available",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6678283680bb441dc165d1ca/3c598cac-d2cc-4b58-b526-104e494571fc/Asset+1%404x.png",
+        "source_credit": "Baker & Cook"
+      }
+    ]
+  }
+]

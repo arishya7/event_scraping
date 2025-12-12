@@ -1,0 +1,45 @@
+[
+  {
+    "title": "SkyPark at Orchard Cineleisure: Sporty Indoor Fun",
+    "organiser": "Kiztopia",
+    "blurb": "Dynamic indoor play park with sporty concepts.",
+    "description": "SkyPark is a dynamic indoor play park that features sporty concepts - from rock climbing to high elements - tailored to challenge and inspire. The main highlight is a multi-level play structure that gamifies challenges while fostering friendly competition among participants. In addition, there are vertical gyms and a ball pit for little ones. SkyPark promises an all-encompassing adventure for kids and families of all ages, igniting their physical prowess and creating enduring memories together.",
+    "guid": "https://kiztopia.com/brands/skypark/",
+    "activity_or_event": "activity",
+    "url": "https://kiztopia.com/brands/skypark/",
+    "price_display_teaser": "From $24.80",
+    "price_display": "From $24.80 - $34.80",
+    "price": 0.0,
+    "age_group_display": "17 years old and below",
+    "min_age": 0.0,
+    "max_age": 17.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Sun – Thurs: 10am to 8pm, Fri – Sat, Eve of PH & PH: 10am to 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Orchard Cineleisure",
+    "full_address": "8 Grange Road, #04-04/05, Singapore 239695",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\SkyPark_at_Orchard_Cineleisure__Sporty_Indoor_Fun_1.jpg",
+        "filename": "SkyPark_at_Orchard_Cineleisure__Sporty_Indoor_Fun_1.jpg",
+        "original_url": "https://kiztopia.com/branches/skypark/",
+        "source_credit": "kiztopia"
+      },
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2023/09/08-1.jpg",
+        "source_credit": "Kiztopia"
+      },
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2023/09/01a.jpg",
+        "source_credit": "Kiztopia"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

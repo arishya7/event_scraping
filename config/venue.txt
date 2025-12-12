@@ -1,0 +1,19 @@
+CRITICAL INSTRUCTION: You are extracting VENUE information, NOT products/tickets.
+
+    EXTRACT venues like:
+    - "Kiztopia Marina Square" (the actual playground facility)
+    - "Jump Arena Jurong" (the trampoline center)
+    - "Adventure Cove Waterpark" (the water park)
+
+    DO NOT EXTRACT products like:
+    - "Single Admission X-Plore $39.80"
+    - "Birthday Party Package"
+    - "3-hour Play Pass"
+    
+    For each venue, extract:
+    - title: The venue/facility name (e.g., "Kiztopia Marina Square")
+    - description: What the venue offers (play areas, amenities, features)
+    - venue_name: The location name
+    - price: General admission range (not specific packages)
+    
+    If you see multiple admission packages, extract the VENUE that offers them, not the packages themselves.

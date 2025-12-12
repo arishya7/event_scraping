@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Joy of Toys: A Unique Family Play Experience",
+    "organiser": "Joy of Toys",
+    "blurb": "Fun recreational area for families to enjoy toys.",
+    "description": "Joy of Toys offers a unique play experience combining wooden toys and comfortable spaces. The Main Play Space is suitable for preschoolers and school-aged children. The Toddler Play Space is recommended for crawling babies and toddlers learning to walk. The Riding Room is recommended for short or add-on play, for beginning or confident walkers. Open daily from 10 AM to 8 PM. Remember to bring socks for children and accompanying adults! They provide family-friendly facilities for a fun and relaxing day.",
+    "guid": "https://joyoftoys.com.sg/wp/",
+    "activity_or_event": "activity",
+    "url": "https://joyoftoys.com.sg/wp/",
+    "price_display_teaser": "From $8",
+    "price_display": "From $8 - $29",
+    "price": 0.0,
+    "age_group_display": "12 years old and below",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am - 8pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Joy of Toys",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Joy_of_Toys__A_Unique_Family_Play_Experience_1.jpg",
+        "filename": "Joy_of_Toys__A_Unique_Family_Play_Experience_1.jpg",
+        "original_url": "https://joyoftoys.com.sg/wp/",
+        "source_credit": "joyoftoys"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Joy_of_Toys__A_Unique_Family_Play_Experience_2.jpg",
+        "filename": "Joy_of_Toys__A_Unique_Family_Play_Experience_2.jpg",
+        "original_url": "https://joyoftoys.com.sg/wp/",
+        "source_credit": "joyoftoys"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Joy_of_Toys__A_Unique_Family_Play_Experience_3.jpg",
+        "filename": "Joy_of_Toys__A_Unique_Family_Play_Experience_3.jpg",
+        "original_url": "https://joyoftoys.com.sg/wp/",
+        "source_credit": "joyoftoys"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Joy_of_Toys__A_Unique_Family_Play_Experience_4.jpg",
+        "filename": "Joy_of_Toys__A_Unique_Family_Play_Experience_4.jpg",
+        "original_url": "https://joyoftoys.com.sg/wp/",
+        "source_credit": "joyoftoys"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Joy_of_Toys__A_Unique_Family_Play_Experience_5.jpg",
+        "filename": "Joy_of_Toys__A_Unique_Family_Play_Experience_5.jpg",
+        "original_url": "https://joyoftoys.com.sg/wp/",
+        "source_credit": "joyoftoys"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Joy_of_Toys__A_Unique_Family_Play_Experience_6.jpg",
+        "filename": "Joy_of_Toys__A_Unique_Family_Play_Experience_6.jpg",
+        "original_url": "https://joyoftoys.com.sg/wp/",
+        "source_credit": "joyoftoys"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Joy_of_Toys__A_Unique_Family_Play_Experience_7.jpg",
+        "filename": "Joy_of_Toys__A_Unique_Family_Play_Experience_7.jpg",
+        "original_url": "https://joyoftoys.com.sg/wp/",
+        "source_credit": "joyoftoys"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

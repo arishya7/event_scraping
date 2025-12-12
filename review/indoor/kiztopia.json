@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Kiztopia Marina Square - Fun Utopia for Children",
+    "organiser": "Kiztopia",
+    "blurb": "Flagship outlet with activities for children aged 12.",
+    "description": "Kiztopia Marina Square is an 18,000 square feet fun utopia that offers a holistic range of activities and customised educational programmes for children aged 12 years and below. The play haven features up to 18 play areas, each helmed by one of the 8 unique IP registered characters. From the play zones to the extracurricular activities available, each aspect are specially designed and curated to support the holistic development of children, and provides an all-encompassing environment to “Play to Learn, Learn through Play”.",
+    "guid": "https://kiztopia.com/brands/kiztopia/",
+    "activity_or_event": "activity",
+    "url": "https://kiztopia.com/brands/kiztopia/",
+    "price_display_teaser": "From $24.80",
+    "price_display": "From $24.80 - $34.80",
+    "price": 28.0,
+    "age_group_display": "17 years old and below",
+    "min_age": 0.0,
+    "max_age": 17.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Sun – Thurs: 10am to 8pm, Fri – Sat, Eve of PH & PH: 10am to 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Marina Square",
+    "full_address": "6 Raffles Boulevard, #01-09 Singapore 039594",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Kiztopia_Marina_Square___Fun_Utopia_for_Children_1.jpg",
+        "filename": "Kiztopia_Marina_Square___Fun_Utopia_for_Children_1.jpg",
+        "original_url": "https://kiztopia.com/branches/marina-square/",
+        "source_credit": "kiztopia"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Kiztopia_Marina_Square___Fun_Utopia_for_Children_2.jpg",
+        "filename": "Kiztopia_Marina_Square___Fun_Utopia_for_Children_2.jpg",
+        "original_url": "https://kiztopia.com/branches/marina-square/",
+        "source_credit": "kiztopia"
+      },
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2022/01/KMS_Branches-600-x-500-02.jpg",
+        "source_credit": "Kiztopia"
+      },
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2022/01/KMS_Branches-600-x-500-05.jpg",
+        "source_credit": "Kiztopia"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "NOM Bistro: Family-Friendly Dining with Play Area",
+    "organiser": "NOM Bistro",
+    "blurb": "Modern cuisine with a mini dragon play area for kids.",
+    "description": "NOM Bistro, located at Macpherson Community Club, offers modern cuisine with a twist. Appetizers include luncheon meat strips and chicken skin crisps. The salted egg pasta features prawns. The Double Trouble Burger has succulent patties. There is a kids menu available. A key feature is the indoor play area with a slide resembling the Toa Payoh Dragon Playground, providing a safe environment for children while parents dine. Expect to spend between $15 to $25 per head. The bistro exudes a sense of calmness away from the city environment.",
+    "guid": "https://www.littledayout.com/nom-bistro-family-friendly-dining-spot-in-macpherson-with-a-mini-dragon-play-area/",
+    "activity_or_event": "activity",
+    "url": "https://www.littledayout.com/nom-bistro-family-friendly-dining-spot-in-macpherson-with-a-mini-dragon-play-area/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 15.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily (except Tue)",
+    "datetime_display": "Weekdays (except Tue): 12pm - 10pm, Weekends/PH: 11am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "NOM Bistro",
+    "full_address": "400 Paya Lebar Way, Macpherson Community Club Level 1, Singapore 379131 Website 20 September School Holidays 2025 Ideas: Fun Things To Do With",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\NOM_Bistro__Family_Friendly_Dining_with_Play_Area_1.jpg",
+        "filename": "NOM_Bistro__Family_Friendly_Dining_with_Play_Area_1.jpg",
+        "original_url": "gaylenhx",
+        "source_credit": "gaylenhx"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

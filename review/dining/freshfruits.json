@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Platform 1094: A Wizarding Dining Experience",
+    "organiser": "FRESH FRUITS LAB GROUP",
+    "blurb": "A magical fantasy world with mystical decor.",
+    "description": "Step into Platform 1094 and be transported to a magical fantasy world. The decor and food are specially designed to exude an air of magic, perfect for families and kids who love wizardry. Enjoy a unique dining experience with Insta-worthy backgrounds and props. It's a great place for families to enjoy a themed dining experience. The restaurant offers a unique and immersive environment that caters to both adults and children, making it a memorable outing for all ages. The magical theme is sure to captivate the imagination of younger visitors.",
+    "guid": "https://ffl.com.sg/concepts/platform-1094/",
+    "activity_or_event": "activity",
+    "url": "https://ffl.com.sg/concepts/platform-1094/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily (except Mon)",
+    "datetime_display": "Available daily (except Mon), 11am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Platform 1094",
+    "full_address": "1094 Serangoon Rd. Singapore 328192",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Platform_1094__A_Wizarding_Dining_Experience_1.webp",
+        "filename": "Platform_1094__A_Wizarding_Dining_Experience_1.webp",
+        "original_url": "https://ffl.com.sg/concepts/platform-1094/",
+        "source_credit": "ffl"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Platform_1094__A_Wizarding_Dining_Experience_2.webp",
+        "filename": "Platform_1094__A_Wizarding_Dining_Experience_2.webp",
+        "original_url": "https://ffl.com.sg/concepts/platform-1094/",
+        "source_credit": "ffl"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

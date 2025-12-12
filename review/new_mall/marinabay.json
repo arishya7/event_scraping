@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Sands SkyPark Observation Deck Experiences",
+    "organiser": "Marina Bay Sands",
+    "blurb": "Elevated city views, champagne, chocolates & photo book.",
+    "description": "Bask in the beauty of golden hour from SkyPark Observation Deck. Enjoy elevated city views, premium champagne & chocolates pairing and a personalised photo book. From intimate sound meditation to high energy sessions, boost your physical and emotional well-being with a series of in-house classes at the Sands SkyPark. Embark on an electric escape in the city after dark. Toggle between three live DJs, groove to your own beat and dance the night away. Experience the race at its most exhilarating with exclusive vantage points, curated indulgences and high-octane spectacle magnified at every turn.",
+    "guid": "https://www.marinabaysands.com/see-and-do.html#attractions",
+    "activity_or_event": "activity",
+    "url": "https://www.marinabaysands.com/see-and-do.html#attractions",
+    "price_display_teaser": "From $31",
+    "price_display": "From $31 - $39",
+    "price": 32.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am – 4.30pm and 5pm – 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Sands SkyPark",
+    "full_address": "Hotel Tower 3, Level 56",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Sands_SkyPark_Observation_Deck_Experiences_1.jpg",
+        "filename": "Sands_SkyPark_Observation_Deck_Experiences_1.jpg",
+        "original_url": "https://www.marinabaysands.com/content/dam/revamp/attractions/TicketOnlineOrder/skypark-obs-deck-offpeak.jpg",
+        "source_credit": "marinabaysands"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Spectra Light & Water Show at Marina Bay Sands",
+    "organiser": "Marina Bay Sands",
+    "blurb": "Outdoor light and water show, free nightly.",
+    "description": "An outdoor light and water extravaganza evoking Singapore’s journey to becoming a cosmopolitan city. Shows nightly for free at the Event Plaza. Spectra is a mesmerizing display of lights, music, and water effects that tells the story of Singapore's rich history and vibrant culture. Perfect for families, couples, and visitors of all ages, this free show is a must-see attraction. Experience the magic as the water dances to the rhythm of the music, creating a captivating and unforgettable spectacle. Gather around the Event Plaza and witness the beauty of Spectra under the stars. A truly enchanting experience for everyone.",
+    "guid": "https://www.marinabaysands.com/see-and-do.html#attractions",
+    "activity_or_event": "event",
+    "url": "https://www.marinabaysands.com/see-and-do.html#attractions",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Sun – Thu: 8pm & 9pm, Fri & Sat: 8pm, 9pm & 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Event Plaza",
+    "full_address": "WANDER INTO WONDER SKYPARK OBSERVATION DECK Behold panoramic views stretching from the sprawling cityscape to Gardens by the Bay and the Singapore Strait",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Spectra_Light___Water_Show_at_Marina_Bay_Sands_1.jpg",
+        "filename": "Spectra_Light___Water_Show_at_Marina_Bay_Sands_1.jpg",
+        "original_url": "https://www.marinabaysands.com/attractions/spectra.html",
+        "source_credit": "marinabaysands"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Bee’s Knees at The Garage Cafe & Bistro in Gardens",
+    "organiser": "Bee’s Knees",
+    "blurb": "Fun, laid-back cafe & bistro in Botanic Gardens.",
+    "description": "Bee’s Knees is a fun, laid-back cafe & bistro concept that draws inspiration from the highly social, evolved behaviour of bees. The first Bee’s Knees opened in 2017 at The Garage, Singapore Botanic Gardens, fast becoming a hot spot for the simplest most joyous occasions in our lives: pet owners to chill with their furkids al fresco, parents to dine in peace while their little ones totter about, and a cozy respite for social get-togethers. Dig in to comfort food elevated to be hearty and satisfying with South East Asian touches. With a wholesome and diverse menu with vegetarian options, the little ones, the health-conscious, the indulgent, and the alcoholic all get something under one hive.",
+    "guid": "https://www.beesknees.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.beesknees.sg/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 8am to 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Bee’s Knees at The Garage",
+    "full_address": "BEE’S KNEES AT THE GARAGE 50 Cluny Park Road, Level 1 Singapore Botanic Gardens, Singapore 257488 +65 9815 3213 beesknees@thegarage",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Bee_s_Knees_at_The_Garage_Cafe___Bistro_in_Gardens_1.webp",
+        "filename": "Bee_s_Knees_at_The_Garage_Cafe___Bistro_in_Gardens_1.webp",
+        "original_url": "https://www.beesknees.sg/",
+        "source_credit": "beesknees"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Bee_s_Knees_at_The_Garage_Cafe___Bistro_in_Gardens_2.webp",
+        "filename": "Bee_s_Knees_at_The_Garage_Cafe___Bistro_in_Gardens_2.webp",
+        "original_url": "https://www.beesknees.sg/",
+        "source_credit": "beesknees"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Bee_s_Knees_at_The_Garage_Cafe___Bistro_in_Gardens_3.jpg",
+        "filename": "Bee_s_Knees_at_The_Garage_Cafe___Bistro_in_Gardens_3.jpg",
+        "original_url": "https://www.beesknees.sg/",
+        "source_credit": "beesknees"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6020f9437dc49320d38cd8a4/d5755eb3-2f3a-4ad0-a15a-928d3b734743/BK+Interior_Nov2020-06944.jpg",
+        "source_credit": "Bee’s Knees"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6020f9437dc49320d38cd8a4/58e56cf7-2795-4635-b470-02fdcafd5526/BK+Interior_Nov2020-06921.jpg",
+        "source_credit": "Bee’s Knees"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

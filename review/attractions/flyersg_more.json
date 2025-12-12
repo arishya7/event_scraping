@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Singapore Flyer: Free entry for kids during school holidays",
+    "organiser": "Singapore Flyer",
+    "blurb": "Explore Singapore's story with panoramic city views.",
+    "description": "Embark on an exciting journey through Singapore’s story. Explore Singapore’s fascinating story and enjoy a spectacular family time with your loved ones. Begin your journey with centuries of rich history through the corridors of Time Capsule, an immersive prelude blending interactive exhibits and cinematic storytelling with a personalised web app experience. Your adventure continues aboard the Singapore Flyer, where panoramic views from 165 metres above reveal the city's inspiring transformation. Unlock extra fun on board with the FLYER360 mobile app powered by augmented reality (AR).",
+    "guid": "https://www.singaporeflyer.com/en/ticket/free-entry-for-kids",
+    "activity_or_event": "activity",
+    "url": "https://www.singaporeflyer.com/en/ticket/free-entry-for-kids",
+    "price_display_teaser": "From $40",
+    "price_display": "$40 for 1 adult + 1 child (Singapore resident/PR only)",
+    "price": 0.0,
+    "age_group_display": "3 years old and above",
+    "min_age": 3.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "01 Sep - 12 Oct",
+    "datetime_display": "01 September 2025 - 12 October 2025, 10am - 9:30pm",
+    "start_datetime": "2025-09-01T10:00:00",
+    "end_datetime": "2025-10-12T21:30:00",
+    "venue_name": "Singapore Flyer",
+    "full_address": "Singapore 039803",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.singaporeflyer.com/storage/tickets/September2025/TmvysD8h3px7bRLacjPS.png",
+        "source_credit": "Singapore Flyer"
+      },
+      {
+        "url": "https://www.singaporeflyer.com/storage/tickets/September2025/6TgwgYo37foi4VTm8dAr.jpg",
+        "source_credit": "Singapore Flyer"
+      },
+      {
+        "url": "https://www.singaporeflyer.com/storage/tickets/September2025/LJU4WL4lgpTdbug7fK8d.jpg",
+        "source_credit": "Singapore Flyer"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

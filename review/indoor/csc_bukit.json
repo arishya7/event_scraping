@@ -1,0 +1,55 @@
+[
+  {
+    "title": "CSC Bukit Batok Children’s Playroom",
+    "organiser": "CSC Bukit Batok",
+    "blurb": "Fun for children at CSC Bukit Batok Playroom.",
+    "description": "The Children’s Playroom at CSC Bukit Batok offers a safe and fun environment for children to play and explore. It features a variety of play equipment suitable for different age groups. Parents can relax while their children enjoy themselves in this supervised play area. The playroom is designed to stimulate creativity and physical activity in a secure setting. It's an ideal place for families to spend quality time together, with comfortable seating and a welcoming atmosphere. The facility is well-maintained and regularly cleaned to ensure a hygienic environment for all children.",
+    "guid": "https://www.cscbukitbatok.sg/CSC-Children-Playroom-Indoor-Playground-Children-Party-Room-Club-House",
+    "activity_or_event": "activity",
+    "url": "https://www.cscbukitbatok.sg/CSC-Children-Playroom-Indoor-Playground-Children-Party-Room-Club-House",
+    "price_display_teaser": "Free",
+    "price_display": "Free upon staying at facility",
+    "price": 0.0,
+    "age_group_display": "1 to 12 years old",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 9am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "CSC Bukit Batok",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\CSC_Bukit_Batok_Children_s_Playroom_1.png",
+        "filename": "CSC_Bukit_Batok_Children_s_Playroom_1.png",
+        "original_url": "https://www.cscbukitbatok.sg/CSC-Children-Playroom-Indoor-Playground-Children-Party-Room-Club-House",
+        "source_credit": "cscbukitbatok"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\CSC_Bukit_Batok_Children_s_Playroom_2.png",
+        "filename": "CSC_Bukit_Batok_Children_s_Playroom_2.png",
+        "original_url": "https://www.cscbukitbatok.sg/CSC-Children-Playroom-Indoor-Playground-Children-Party-Room-Club-House",
+        "source_credit": "cscbukitbatok"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\CSC_Bukit_Batok_Children_s_Playroom_3.png",
+        "filename": "CSC_Bukit_Batok_Children_s_Playroom_3.png",
+        "original_url": "https://www.cscbukitbatok.sg/CSC-Children-Playroom-Indoor-Playground-Children-Party-Room-Club-House",
+        "source_credit": "cscbukitbatok"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\CSC_Bukit_Batok_Children_s_Playroom_4.png",
+        "filename": "CSC_Bukit_Batok_Children_s_Playroom_4.png",
+        "original_url": "https://www.cscbukitbatok.sg/CSC-Children-Playroom-Indoor-Playground-Children-Party-Room-Club-House",
+        "source_credit": "cscbukitbatok"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

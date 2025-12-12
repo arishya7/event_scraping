@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Yooland Indoor Playground At Westgate: Fun Outer Space",
+    "organiser": "Yooland",
+    "blurb": "Yooland Indoor Playground at Westgate offers space play.",
+    "description": "Yooland Indoor Playground at Westgate is an indoor playground with an outer space theme. It offers a variety of play areas and activities for children of different ages. Kids can explore space-themed play structures, climb through tunnels, and slide down slides. There are also interactive games and activities that encourage learning and development. Yooland Indoor Playground is a great place for families to spend time together and have fun. It is suitable for children aged 2 to 12 years old. Parents can relax and watch their children play in a safe and supervised environment. The playground is designed to promote physical activity, creativity, and social interaction.",
+    "guid": "https://www.littledayout.com/yooland-indoor-playground-westgate/",
+    "activity_or_event": "activity",
+    "url": "https://www.instagram.com/yooland_sg/?hl=en",
+    "price_display_teaser": "From $25",
+    "price_display": "$25 for 1 hour, $35 for 2 hours (1 adult + 1 child, free for child below 1 year old)",
+    "price": 20.0,
+    "age_group_display": "12 years old and below",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Weekdays: 10am - 8pm, Weekends: 10am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Yooland Indoor Playground At Westgate",
+    "full_address": "3 Gateway Dr, Level 3, unit #36/37 Westgate, Singapore 608532",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Yooland_Indoor_Playground_At_Westgate__Fun_Outer_Space_1.jpg",
+        "filename": "Yooland_Indoor_Playground_At_Westgate__Fun_Outer_Space_1.jpg",
+        "original_url": "https://westgatesg.com/shop/yooland#photos",
+        "source_credit": "westgatesg"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Yooland_Indoor_Playground_At_Westgate__Fun_Outer_Space_2.jpg",
+        "filename": "Yooland_Indoor_Playground_At_Westgate__Fun_Outer_Space_2.jpg",
+        "original_url": "https://westgatesg.com/shop/yooland#photos",
+        "source_credit": "westgatesg"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Yooland_Indoor_Playground_At_Westgate__Fun_Outer_Space_3.jpg",
+        "filename": "Yooland_Indoor_Playground_At_Westgate__Fun_Outer_Space_3.jpg",
+        "original_url": "https://westgatesg.com/shop/yooland#photos",
+        "source_credit": "westgatesg"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Yooland_Indoor_Playground_At_Westgate__Fun_Outer_Space_4.jpg",
+        "filename": "Yooland_Indoor_Playground_At_Westgate__Fun_Outer_Space_4.jpg",
+        "original_url": "https://westgatesg.com/shop/yooland#photos",
+        "source_credit": "westgatesg"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "HappyWiz iMall: A New Indoor Playground In Marine",
+    "organiser": "HappyWiz",
+    "blurb": "New and spacious indoor playground in Marine Parade.",
+    "description": "HappyWiz iMall offers a bright and spacious indoor playground experience in Marine Parade. This new facility provides a safe and engaging environment for children to explore and play. With a variety of play structures and activities, kids can enjoy hours of fun and excitement. The playground is designed to cater to different age groups, ensuring that every child has something to enjoy. Parents can relax and watch their children play in a comfortable and secure setting. HappyWiz iMall is the perfect destination for families looking for a fun and active day out.",
+    "guid": "https://www.littledayout.com/yooland-indoor-playground-westgate/",
+    "activity_or_event": "activity",
+    "url": "https://www.happywiz.com.sg/",
+    "price_display_teaser": "From $28",
+    "price_display": "From $28 for 1 hour - $48 for 3 hours",
+    "price": 15.0,
+    "age_group_display": "12 years old and below",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon - Thu: 10am - 8pm, Fri & Weekends: 10am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "HappyWiz iMall",
+    "full_address": "#04-01 iMall Marine Parade central 449410",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\HappyWiz_iMall__A_New_Indoor_Playground_In_Marine_1.png",
+        "filename": "HappyWiz_iMall__A_New_Indoor_Playground_In_Marine_1.png",
+        "original_url": "https://www.happywiz.com.sg/gallery",
+        "source_credit": "happywiz"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\HappyWiz_iMall__A_New_Indoor_Playground_In_Marine_2.png",
+        "filename": "HappyWiz_iMall__A_New_Indoor_Playground_In_Marine_2.png",
+        "original_url": "https://www.happywiz.com.sg/gallery",
+        "source_credit": "happywiz"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\HappyWiz_iMall__A_New_Indoor_Playground_In_Marine_3.png",
+        "filename": "HappyWiz_iMall__A_New_Indoor_Playground_In_Marine_3.png",
+        "original_url": "https://www.happywiz.com.sg/gallery",
+        "source_credit": "happywiz"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

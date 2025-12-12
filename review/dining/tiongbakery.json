@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Tiong Bahru Bakery Safari – Dempsey Hill Get Back",
+    "organiser": "Tiong Bahru Bakery",
+    "blurb": "Get back to nature at Tiong Bahru Bakery Safari!",
+    "description": "Tiong Bahru Bakery Safari is located opposite the Singapore Botanical Gardens and within walking distance of Tanglin Mall and Dempsey Hill. The cafe is open daily with free car parking and a children’s playground. Tiong Bahru Bakery Safari was awarded Best Family-Friendly Restaurant for Love Local Awards 2024! There is an outdoor playground, jungle greenery to explore and an edible garden to get busy in. You can tuck into a menu packed with healthy dishes made from fruits and herbs harvested straight from the on-site garden. Tiong Bahru Bakery Safari is also pet friendly.",
+    "guid": "https://www.tiongbahrubakery.com/promotions/tiong-bahru-bakery-safari-dempsey-hill/",
+    "activity_or_event": "activity",
+    "url": "https://www.tiongbahrubakery.com/promotions/tiong-bahru-bakery-safari-dempsey-hill/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 8am - 6pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Tiong Bahru Bakery Safari",
+    "full_address": "130E Minden Road Singapore 248819",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Tiong_Bahru_Bakery_Safari___Dempsey_Hill_Get_Back_1.jpg",
+        "filename": "Tiong_Bahru_Bakery_Safari___Dempsey_Hill_Get_Back_1.jpg",
+        "original_url": "https://tiongbahrubakery.com/",
+        "source_credit": "tiongbahrubakery"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Tiong_Bahru_Bakery_Safari___Dempsey_Hill_Get_Back_2.jpg",
+        "filename": "Tiong_Bahru_Bakery_Safari___Dempsey_Hill_Get_Back_2.jpg",
+        "original_url": "https://tiongbahrubakery.com/",
+        "source_credit": "tiongbahrubakery"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Tiong_Bahru_Bakery_Safari___Dempsey_Hill_Get_Back_3.jpg",
+        "filename": "Tiong_Bahru_Bakery_Safari___Dempsey_Hill_Get_Back_3.jpg",
+        "original_url": "https://tiongbahrubakery.com/",
+        "source_credit": "tiongbahrubakery"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Jacob Ballas Children's Garden at Bukit Timah",
+    "organiser": "NParks",
+    "blurb": "Explore nature with play at Jacob Ballas Children’s Garden.",
+    "description": "The Jacob Ballas Children’s Garden is the first garden in Asia dedicated to children, designed for those aged 14 and below. It aims to educate and instil a love for nature. The garden is a complete nature-learning environment, where children can delve deeper into the ecology of plants and our environment through discovery and experiential learning. The Garden offers exploration, adventure and play, with a farm, an orchard, and a forest with its own stream and ponds. Young adventure seekers can explore the suspension bridge and nature play areas; budding naturalists can walk along the stream and climb into the tree-houses; and urban gardeners can observe how plants grow and pick up some gardening tips!",
+    "guid": "https://www.nparks.gov.sg/sbg/our-gardens/bukit-timah-core/jacob-ballas-childrens-garden",
+    "activity_or_event": "activity",
+    "url": "https://www.nparks.gov.sg/sbg/our-gardens/bukit-timah-core/jacob-ballas-childrens-garden",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": "14 years and below",
+    "min_age": null,
+    "max_age": 14.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "8.00am - 7.00pm (last admission at 6.30pm). Closed on Mondays (except public holidays)",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Jacob Ballas Children's Garden",
+    "full_address": "30pm) The Jacob Ballas Children's Garden is closed on Mondays (except when it falls on a designated public holiday) 1H Cluny Road Singapore 259 604 Refreshments are available at the entrance of Jacob Ballas Children's Garden",
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://www.nparks.gov.sg/-/media/sbg/events-image-,-a-,-documents/waterplay-splash-cg-240225-3.jpg?h=343.2&w=506.8",
+        "source_credit": "NParks"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/-/media/sbg/events-image-,-a-,-documents/waterplay-splash-cg-240225-2.jpg?h=322&w=513.8",
+        "source_credit": "NParks"
+      }
+    ]
+  },
+  {
+    "title": "Jacob Ballas Children’s Garden at Botanic Gardens",
+    "organiser": "NParks",
+    "blurb": "Designed for children aged 14 and below to explore.",
+    "description": "Jacob Ballas Children’s Garden is a unique and engaging space designed for children aged 14 and below. It offers various interactive exhibits and play areas that encourage exploration and learning about nature. Children aged 12 and below must be accompanied by an adult. The garden promotes a safe environment for children, and adults are permitted entry only if accompanying a child. Adult visitors without children must consult the Service Desk for entry, which is normally permitted only when accompanied by NParks’ staff. It's a great place for families to spend time together and learn about the environment.",
+    "guid": "https://www.nparks.gov.sg/sbg/our-gardens/bukit-timah-core/jacob-ballas-childrens-garden",
+    "activity_or_event": "activity",
+    "url": "https://www.nparks.gov.sg/sbg/our-gardens/bukit-timah-core/jacob-ballas-childrens-garden",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": "0 to 14 years",
+    "min_age": 0.0,
+    "max_age": 14.0,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jacob Ballas Children’s Garden",
+    "full_address": "Not Available",
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://www.nparks.gov.sg/-/media/sbg/events-image-,-a-,-documents/waterplay-splash-cg-240225-3.jpg?h=343.2&w=506.8",
+        "source_credit": "NParks"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/-/media/sbg/events-image-,-a-,-documents/waterplay-splash-cg-240225-2.jpg?h=322&w=513.8",
+        "source_credit": "NParks"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/sbg/our-gardens/bukit-timah-core/-/media/SBG/Images/Learning-about-Dragonflies17.ashx?h=336.8&w=501.4",
+        "source_credit": "NParks"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/-/media/sbg/documents/map-jbcg-240225.png",
+        "source_credit": "NParks"
+      }
+    ]
+  }
+]

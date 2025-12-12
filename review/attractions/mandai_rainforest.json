@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Rainforest Wild Asia ",
+    "organiser": "Mandai Wildlife Group",
+    "blurb": "Go wild this SG60 Let’s go wild together this SG60!",
+    "description": "Explore the wonders of Rainforest Wild Asia with roarsome deals and experiences. Discover diverse wildlife and immerse yourself in the beauty of nature. Perfect for families and nature enthusiasts seeking an unforgettable adventure. Enjoy interactive exhibits, captivating shows, and up-close encounters with fascinating animals. Create lasting memories as you embark on a journey through lush rainforests and vibrant ecosystems. ",
+    "guid": "https://www.mandai.com/en/rainforest-wild-asia.html",
+    "activity_or_event": "activity",
+    "url": "https://www.mandai.com/en/rainforest-wild-asia.html",
+    "price_display_teaser": "From $26.40",
+    "price_display": "From $26.40 - $45",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 9am - 6pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Rainforest Wild Asia",
+    "full_address": "20 Mandai Lake Rd, Singapore 729825",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Rainforest_Wild_Asia__1.jpg",
+        "filename": "Rainforest_Wild_Asia__1.jpg",
+        "original_url": "https://www.mandai.com/en/see-and-do/treks-and-trails/rainforest-wild-asia/forest-treks.html",
+        "source_credit": "mandai"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Rainforest_Wild_Asia__2.jpg",
+        "filename": "Rainforest_Wild_Asia__2.jpg",
+        "original_url": "https://www.mandai.com/en/see-and-do/treks-and-trails/rainforest-wild-asia/forest-treks.html",
+        "source_credit": "mandai"
+      },
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/rainforest-wild-asia/events-and-promotions/your-love-meets-the-wild/your-love-meets-the-wild-desktop-1920x894.jpg.transform/compress/resize1280/img.jpg",
+        "source_credit": "Mandai Wildlife Group"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

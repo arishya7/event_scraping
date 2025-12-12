@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Singapore Zoo: Wildlife Access and Family Fun",
+    "organiser": "Mandai Wildlife Group",
+    "blurb": "Enjoy wildlife access with savings for the family.",
+    "description": "Explore diverse wildlife from around the globe in immersive habitats. The Singapore Zoo offers engaging experiences for families, including animal encounters, feeding sessions, and educational shows. Discover fascinating creatures and learn about conservation efforts in a lush, natural environment. Perfect for a family day out, the zoo provides a memorable and educational experience for all ages. Observe animals in open enclosures, participate in interactive exhibits, and enjoy the beauty of nature. The zoo is committed to providing a safe and enjoyable environment for all visitors, with various amenities and facilities available.",
+    "guid": "https://www.mandai.com/en/singapore-zoo.html",
+    "activity_or_event": "activity",
+    "url": "https://www.mandai.com/en/singapore-zoo.html",
+    "price_display_teaser": "From $27.20",
+    "price_display": "From $27.20 - $49",
+    "price": 48.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 8:30am - 6pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Singapore Zoo",
+    "full_address": "80 Mandai Lake Road Singapore 729826",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Singapore_Zoo__Wildlife_Access_and_Family_Fun_1.jpg",
+        "filename": "Singapore_Zoo__Wildlife_Access_and_Family_Fun_1.jpg",
+        "original_url": "https://openverse.org/image/93a06adc-9f73-4efa-bb9e-21558e27e436?q=Mandai+zoo&p=17",
+        "source_credit": "gunman47"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Singapore_Zoo__Wildlife_Access_and_Family_Fun_2.jpg",
+        "filename": "Singapore_Zoo__Wildlife_Access_and_Family_Fun_2.jpg",
+        "original_url": "https://www.mandai.com/en/see-and-do/all-activities.html?activity-type=kids-play%2Cadventure-plus",
+        "source_credit": "mandai"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

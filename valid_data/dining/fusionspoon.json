@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Fusion Spoon at Botanic Garden Self-Order Kiosk",
+    "organiser": "Fusion Spoon",
+    "blurb": "Order foods & drinks at our self-order & payment kiosk",
+    "description": "Fusion Spoon at Botanic Garden offers a self-order and payment kiosk for a convenient dining experience. Customers can select dine-in or takeaway options, choose food and drink items, confirm their order, and choose a mode of payment. After collecting the receipt, customers wait for their queue number to be called and collect their orders from the designated collection point. There is no service charge, and customers are encouraged to return their trays to the tray return station. The venue offers a variety of food and drink options suitable for families and children visiting the Botanic Gardens, including bingsu and waffle ice cream available at the Bingsu Corner. This family-friendly dining spot provides a hassle-free experience for parents and kids alike.",
+    "guid": "https://fpgrp.com.sg/fusion-spoon-at-botanic-garden/menu-main.html",
+    "activity_or_event": "activity",
+    "url": "https://fpgrp.com.sg/fusion-spoon-at-botanic-garden/menu-main.html",
+    "price_display_teaser": "From $",
+    "price_display": "From S$5 to S$20",
+    "price": 5.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Fusion Spoon at Botanic Garden",
+    "full_address": "Not Available",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://fpgrp.com.sg/fusion-spoon-at-botanic-garden/images/logo.png",
+        "source_credit": "Fusion Spoon"
+      }
+    ]
+  },
+  {
+    "title": "Korean Bingsu Ice Corner & Waffles Ice-Cream",
+    "organiser": "FPGRP - Fusion Spoon",
+    "blurb": "Enjoy Korean Bingsu and Waffles Ice-Cream at Botanic Garden",
+    "description": "Located in the Singapore Botanic Gardens, the Korean Bingsu Ice Corner & Waffles Ice-Cream offers a delightful range of desserts. Indulge in refreshing Korean Bingsu, a shaved ice dessert with various toppings, or savor delicious waffles topped with ice cream. This is a perfect spot for families and kids to enjoy a sweet treat after exploring the gardens. The venue provides a relaxing atmosphere where you can unwind and enjoy quality time with your loved ones. The menu caters to different tastes, ensuring everyone finds something they love. The location is easily accessible and provides a great experience for all ages. Enjoy the beautiful scenery while indulging in tasty treats.",
+    "guid": "https://fpgrp.com.sg/fusion-spoon-at-botanic-garden/menu-main.html",
+    "activity_or_event": "activity",
+    "url": "https://fpgrp.com.sg/fusion-spoon-at-botanic-garden/menu-main.html",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Fusion Spoon @ Botanic Garden",
+    "full_address": "Our Address: Singapore Botanic Gardens, Tanglin Gate, 1 Cluny Road, Botany Centre #B1-00, 259569 Singapore",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://fpgrp.com.sg/fusion-spoon-at-botanic-garden/images/korean-bingsu-ice-corner-and-waffles-ice-cream.jpg",
+        "source_credit": "FPGRP - Fusion Spoon"
+      }
+    ]
+  }
+]

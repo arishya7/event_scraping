@@ -1,0 +1,38 @@
+[
+  {
+    "title": "ZOOMOOV Safari Family Entertainment at Vivocity",
+    "organiser": "ZOOMOOV",
+    "blurb": "Electrifying safari-themed adventure with electronic rides!",
+    "description": "Experience the ultimate family entertainment with ZOOMOOV Safari! Immerse yourselves in an electrifying safari-themed adventure with our exciting electronic rides. From parents to kids, everyone is sure to have a wild time! This safari-themed adventure is perfect for families looking for a fun and engaging activity. The electronic rides are designed to be safe and enjoyable for children of all ages, while parents can relax and watch their kids have a blast. It's a great way to spend quality time together and create lasting memories. The venue is family-friendly and suitable for all ages.",
+    "guid": "https://www.vivocity.com.sg/kidsclub/?play",
+    "activity_or_event": "activity",
+    "url": "https://www.vivocity.com.sg/kidsclub/?play",
+    "price_display_teaser": "From $5",
+    "price_display": "$5 per ride",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Weekdays: 11am - 9pm, Weekends/PH: 10am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "ZOOMOOV Safari Vivocity",
+    "full_address": "Address 1 HarbourFront Walk Level 3, #03-05 (Lobby F) Singapore 098585 Opening Hours Mon - Sun (excluding Public Holidays): 11:00 AM – 9:00 PM Opening hours may differ on eve of Public Holidays 24-hour Bookdrop Contact enquiry@nlb",
+    "categories": [
+      "Mall related",
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\ZOOMOOV_Safari_Family_Entertainment_at_Vivocity_1.jpg",
+        "filename": "ZOOMOOV_Safari_Family_Entertainment_at_Vivocity_1.jpg",
+        "original_url": "",
+        "source_credit": "User Upload"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

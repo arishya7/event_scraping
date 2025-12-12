@@ -1,0 +1,37 @@
+[
+  {
+    "title": "X-scap8: Integrated Indoor Funground on Orchard Road",
+    "organiser": "X-scap8",
+    "blurb": "Fun activities to challenge, de-stress and chillax!",
+    "description": "X-scap8 is the largest integrated indoor Funground on Orchard Road, offering a diverse range of fun activities. Experience the Infinity & Beyond high element course, X-Warrior Challenge obstacle course, Smash Lab for de-stressing, and nostalgic Arcade Games! Enjoy food and drinks at our RestoBar with views of the Singapore skyline and Orchard Road. It's a great place for families and kids to have fun and enjoy various activities together. The venue caters to a wide range of ages and interests, making it a perfect destination for a family outing. With activities ranging from physical challenges to arcade games, there's something for everyone to enjoy.",
+    "guid": "https://xscap8.com/",
+    "activity_or_event": "activity",
+    "url": "https://xscap8.com/",
+    "price_display_teaser": "From $15",
+    "price_display": "From $15 - $38 (Varies according to activity)",
+    "price": 30.0,
+    "age_group_display": "5 years old and above",
+    "min_age": 5.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon - Thu: 11.30am – 9.30pm, Fri: 11.30am – 10pm, Sat: 11am – 10pm, Sun: 11am – 9.30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "X-scap8",
+    "full_address": "Orchard Central, 181 Orchard Road, #07-02, Singapore 238896",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\X_scap8__Integrated_Indoor_Funground_on_Orchard_Road_1.jpg",
+        "filename": "X_scap8__Integrated_Indoor_Funground_on_Orchard_Road_1.jpg",
+        "original_url": "",
+        "source_credit": "Mummysmarket"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

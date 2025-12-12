@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Pororo Park Singapore - An Immersive Experience",
+    "organiser": "Pororo Park Singapore",
+    "blurb": "An indoor playground with Pororo & friends!",
+    "description": "Pororo Park Singapore offers an immersive and engaging experience for young children and families. Featuring themed play areas, live shows, and educational activities, the park provides a fun and safe environment for kids to explore and interact with their favorite Pororo characters. The park includes play zones, a cafe, and a retail area, making it a comprehensive destination for a family outing. Designed for children aged 1 to 8, Pororo Park Singapore aims to create memorable moments and foster learning through play. With various attractions and interactive exhibits, children can develop their social, emotional, and cognitive skills while having fun.",
+    "guid": "https://pororoparksg.com/",
+    "activity_or_event": "activity",
+    "url": "https://pororoparksg.com/",
+    "price_display_teaser": "From $38",
+    "price_display": "From $38 - $45",
+    "price": 0.0,
+    "age_group_display": "1 to 8 years old",
+    "min_age": 1.0,
+    "max_age": 8.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon to Thu: 10am - 8pm,  Fri to Sun, Eve of PH & PH: 10am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Pororo Park Singapore",
+    "full_address": "6 Raffles Boulevard, Marina Square, #02-29, Singapore 039594",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Pororo_Park_Singapore___An_Immersive_Experience_1.jpg",
+        "filename": "Pororo_Park_Singapore___An_Immersive_Experience_1.jpg",
+        "original_url": "https://pororoparksg.com/",
+        "source_credit": "pororoparksg"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Pororo_Park_Singapore___An_Immersive_Experience_2.jpg",
+        "filename": "Pororo_Park_Singapore___An_Immersive_Experience_2.jpg",
+        "original_url": "https://pororoparksg.com/",
+        "source_credit": "pororoparksg"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Pororo_Park_Singapore___An_Immersive_Experience_3.jpg",
+        "filename": "Pororo_Park_Singapore___An_Immersive_Experience_3.jpg",
+        "original_url": "https://pororoparksg.com/",
+        "source_credit": "pororoparksg"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Pororo_Park_Singapore___An_Immersive_Experience_4.jpg",
+        "filename": "Pororo_Park_Singapore___An_Immersive_Experience_4.jpg",
+        "original_url": "https://pororoparksg.com/",
+        "source_credit": "pororoparksg"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

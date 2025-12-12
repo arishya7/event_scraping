@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Bouncetopia at SAFRA CCK – Adventure Awaits Here",
+    "organiser": "Kiztopia",
+    "blurb": "Leap into a world of trampolines and bouncy castles!",
+    "description": "Gather your crew and leap into a world where trampolines and bouncy castles reign supreme! Bounce higher than ever, conquer thrilling slides, and dash through exhilarating challenges. Unleash your energy, let your imagination run wild, and turn every jump into a daring quest. It’s time to defy limits and make every bounce unforgettable! This family-friendly venue offers a safe and exciting environment for kids to burn off energy and have a blast. Parents can join in the fun or relax while the little ones explore the bouncy wonderland. Perfect for birthday parties and family outings.",
+    "guid": "https://kiztopia.com/brands/bouncetopia/",
+    "activity_or_event": "activity",
+    "url": "https://kiztopia.com/brands/bouncetopia/",
+    "price_display_teaser": "From $19.80",
+    "price_display": "From $19.80 - $28.80",
+    "price": 19.8,
+    "age_group_display": "17 years old and below",
+    "min_age": 0.0,
+    "max_age": 17.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Sun – Thurs: 10am to 8pm, Fri – Sat, Eve of PH & PH: 10am to 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "SAFRA CCK",
+    "full_address": "28 Choa Chu Kang Dr, #01-04 Singapore 689964",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2023/03/6-600x500.jpg",
+        "source_credit": "Kiztopia"
+      },
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2023/03/7-600x500.jpg",
+        "source_credit": "Kiztopia"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Bouncetopia at Tengah Plantation Plaza Venue",
+    "organiser": "Kiztopia",
+    "blurb": "Explore Bouncetopia at Tengah Plantation Plaza today!",
+    "description": "Bouncetopia at Tengah Plantation Plaza offers a thrilling and safe environment for children to unleash their energy and have a blast. With a variety of bouncy castles, slides, and obstacle courses, kids can jump, climb, and explore to their heart's content. Our facility is designed to promote physical activity and social interaction, making it the perfect destination for families looking for a fun and engaging experience. Parents can relax and enjoy watching their children play in a secure and supervised setting. We cater to children of all ages and abilities, ensuring that everyone has a memorable time. Join us for a day of bouncing fun!",
+    "guid": "https://kiztopia.com/brands/bouncetopia/",
+    "activity_or_event": "activity",
+    "url": "https://kiztopia.com/brands/bouncetopia/",
+    "price_display_teaser": "From S$19.80",
+    "price_display": "From S$19.80 - $28.80",
+    "price": 19.8,
+    "age_group_display": "17 years old and below",
+    "min_age": 0.0,
+    "max_age": 17.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Sun – Thurs: 10am to 8pm, Fri – Sat, Eve of PH & PH: 10am to 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Tengah Plantation Plaza",
+    "full_address": "127 Plantation Cres, #04-08/09, Singapore 690127",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Bouncetopia_at_Tengah_Plantation_Plaza_Venue_1.jpg",
+        "filename": "Bouncetopia_at_Tengah_Plantation_Plaza_Venue_1.jpg",
+        "original_url": "https://kiztopia.com/branches/tengah-plantation-plaza/",
+        "source_credit": "kiztopia"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Bouncetopia_at_Tengah_Plantation_Plaza_Venue_2.jpg",
+        "filename": "Bouncetopia_at_Tengah_Plantation_Plaza_Venue_2.jpg",
+        "original_url": "https://kiztopia.com/branches/tengah-plantation-plaza/",
+        "source_credit": "kiztopia"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Bouncetopia_at_Tengah_Plantation_Plaza_Venue_3.jpg",
+        "filename": "Bouncetopia_at_Tengah_Plantation_Plaza_Venue_3.jpg",
+        "original_url": "https://kiztopia.com/branches/tengah-plantation-plaza/",
+        "source_credit": "kiztopia"
+      },
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2025/04/Tengah-Website-Gallery_600-x-500px-01.jpg",
+        "source_credit": "Kiztopia"
+      },
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2025/04/Tengah-Website-Gallery_600-x-500px-02.jpg",
+        "source_credit": "Kiztopia"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

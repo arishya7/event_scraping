@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Kiztopia Prestige: Premium Play for Young Adventurers",
+    "organiser": "Kiztopia",
+    "blurb": "Premium experiences tailored for toddlers and preschoolers.",
+    "description": "Kiztopia Prestige offers premium experiences tailored for toddlers and preschoolers. This brand new concept promises an unparalleled experience with top-notch services and exciting play opportunities. The space features a diverse range of soft play concepts, igniting imagination and curiosity at every turn. Regular classes and programs foster holistic development in a fun and engaging environment, ensuring a comprehensive and enriching experience for young children. Kiztopia Prestige is designed to provide a safe, stimulating, and enjoyable environment where children can learn, play, and grow.",
+    "guid": "https://kiztopia.com/brands/kiztopia-prestige/",
+    "activity_or_event": "activity",
+    "url": "https://kiztopia.com/brands/kiztopia-prestige/",
+    "price_display_teaser": "From $32",
+    "price_display": "From $32 - $48",
+    "price": 0.0,
+    "age_group_display": "17 years old and below",
+    "min_age": 0.0,
+    "max_age": 17.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Sun – Thurs: 10am to 8pm, Fri – Sat, Eve of PH & PH: 10am to 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "River Valley",
+    "full_address": "New Bahru, 58 Kim Yam Road, #04-01, Singapore 239359",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Kiztopia_Prestige__Premium_Play_for_Young_Adventurers_1.jpg",
+        "filename": "Kiztopia_Prestige__Premium_Play_for_Young_Adventurers_1.jpg",
+        "original_url": "https://kiztopia.com/kiztopia-prestige/",
+        "source_credit": "kiztopia"
+      },
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2023/10/03.jpg",
+        "source_credit": "Kiztopia"
+      },
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2023/10/04.jpg",
+        "source_credit": "Kiztopia"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Universal Studios Singapore",
+    "organiser": "Resorts World Sentosa",
+    "blurb": "Experience cutting-edge rides, shows, and attractions.",
+    "description": "Immerse yourself in a world of cinematic thrills at Universal Studios Singapore. Featuring cutting-edge rides, shows, and attractions based on blockbuster films and television series, the park offers a variety of themed zones, including Ancient Egypt, Lost World, and Far Far Away. Enjoy thrilling roller coasters, captivating live performances, and interactive experiences suitable for families and thrill-seekers alike. Explore the magic of the movies and create unforgettable memories in this world-class theme park. Perfect for families and movie enthusiasts.",
+    "guid": "https://www.rwsentosa.com/en/play/universal-studios-singapore?utm_source=google&utm_medium=cpc&utm_campaign=22693722680&utm_term=&utm_content=&utm_network=x&utm_placement=&gad_source=1&gad_campaignid=22687810002&gbraid=0AAAAA-2s2afrGwiBcKan5GOzrxt0l-v33&gclid=CjwKCAjw2vTFBhAuEiwAFaScwie6h6D3WmcNFCJ3cvwbfr6SvGdfmSgP4WXfMlb1Q7jwbz0u-4NajhoCyvQQAvD_BwE",
+    "activity_or_event": "activity",
+    "url": "https://www.rwsentosa.com/en/play/universal-studios-singapore?utm_source=google&utm_medium=cpc&utm_campaign=22693722680&utm_term=&utm_content=&utm_network=x&utm_placement=&gad_source=1&gad_campaignid=22687810002&gbraid=0AAAAA-2s2afrGwiBcKan5GOzrxt0l-v33&gclid=CjwKCAjw2vTFBhAuEiwAFaScwie6h6D3WmcNFCJ3cvwbfr6SvGdfmSgP4WXfMlb1Q7jwbz0u-4NajhoCyvQQAvD_BwE",
+    "price_display_teaser": "From SGD",
+    "price_display": "From S$82",
+    "price": 82.0,
+    "age_group_display": "Varies",
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Varies",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Universal Studios Singapore",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.rwsentosa.com/-/jssmedia/project/play/universal-studios-singapore/logo/uss_2023_rgb_clr_463x251.png?mw=540&mh=961",
+        "source_credit": "Resorts World Sentosa"
+      },
+      {
+        "url": "https://www.rwsentosa.com/-/jssmedia/project/play/universal-studios-singapore/hhn13/thumbnail/thumbnail_friends-kv_1200-x-675pxv1.jpg?mw=1200",
+        "source_credit": "Resorts World Sentosa"
+      }
+    ]
+  }
+]

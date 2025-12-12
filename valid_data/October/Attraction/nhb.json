@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Singapore Odyssea: A Journey Through Time",
+    "organiser": "National Museum of Singapore",
+    "blurb": "Embark on a time-travelling voyage through Singapore!",
+    "description": "Discover Singapore's 700-year history at Singapore Odyssea, a new signature experience within the Shaw Foundation Glass Rotunda. This multimedia showcase blends light, art, and interactive storytelling for an immersive experience. Pick up an RFID wristband to activate your magical companion, inspired by Singapore native wildlife, and let it guide you through stunning visuals, animated dioramas, and encounters with legendary creatures. Rediscover Singapore’s history and the importance of the sea, while engaging with environmental conservation and sustainability. Perfect for families and visitors of all ages.",
+    "guid": "https://www.nhb.gov.sg/nationalmuseum/whats-on/exhibition/singapore-odyssea",
+    "activity_or_event": "activity",
+    "url": "https://www.nhb.gov.sg/nationalmuseum/whats-on/exhibition/singapore-odyssea",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "6 years old and below",
+    "min_age": 0.0,
+    "max_age": 6.0,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "National Museum of Singapore",
+    "label_tag": null,
+    "Keyword_tag": "Singapore history, multimedia showcase, interactive storytelling, environmental conservation, family-friendly, immersive experience",
+    "full_address": "93 Stamford Rd, Singapore 178897",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nhb.gov.sg/nationalmuseum/-/media/nms2024/exhibition/singapore-odyssea/sg-odyssea-transition-zone.jpg",
+        "source_credit": "National Museum of Singapore"
+      },
+      {
+        "url": "https://www.nhb.gov.sg/nationalmuseum/-/media/nms2024/exhibition/singapore-odyssea/singapore-odyssea-masthead-v2.jpg",
+        "source_credit": "National Museum of Singapore"
+      },
+      {
+        "url": "https://www.nhb.gov.sg/nationalmuseum/-/media/nms2024/exhibition/singapore-odyssea/sg-odyssea-ramp.jpg",
+        "source_credit": "National Museum of Singapore"
+      }
+    ],
+    "id": 726,
+    "longitude": 103.84850910000002,
+    "latitude": 1.296613,
+    "district": "Museum",
+    "area": "Central Region"
+  }
+]

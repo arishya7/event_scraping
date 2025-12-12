@@ -1,0 +1,96 @@
+[
+  {
+    "title": "CSC Bukit Batok Children’s Playroom",
+    "organiser": "CSC Bukit Batok",
+    "blurb": "Fun for children at CSC Bukit Batok Playroom.",
+    "description": "The Children’s Playroom at CSC Bukit Batok offers a safe and fun environment for children to play and explore. It features a variety of play equipment suitable for different age groups. Parents can relax while their children enjoy themselves in this supervised play area. The playroom is designed to stimulate creativity and physical activity in a secure setting. It's an ideal place for families to spend quality time together, with comfortable seating and a welcoming atmosphere. The facility is well-maintained and regularly cleaned to ensure a hygienic environment for all children.",
+    "guid": "https://www.cscbukitbatok.sg/CSC-Children-Playroom-Indoor-Playground-Children-Party-Room-Club-House",
+    "activity_or_event": "activity",
+    "url": "https://www.cscbukitbatok.sg/CSC-Children-Playroom-Indoor-Playground-Children-Party-Room-Club-House",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "CSC Bukit Batok",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://www.cscbukitbatok.sg/images/yello_jt.png",
+        "source_credit": "CSC Bukit Batok"
+      }
+    ]
+  },
+  {
+    "title": "Children's Playroom at CSC Bukit Batok Clubhouse",
+    "organiser": "Civil Service Club",
+    "blurb": "Indoor playground for children to have fun daily!",
+    "description": "The Children's Playroom at CSC Bukit Batok is an indoor playground designed for children's enjoyment. It is also available for exclusive booking as an add-on to the Children’s Party Room, allowing party guests direct access through a connecting door. The playroom provides a safe and engaging environment for kids to play and explore. It is open daily from 9am to 9pm, offering a convenient and fun option for families looking for recreational activities. Enquiries can be directed to 6513 7480 or bukitbatok@csc.sg.",
+    "guid": "https://www.cscbukitbatok.sg/CSC-Children-Playroom-Indoor-Playground-Children-Party-Room-Club-House",
+    "activity_or_event": "activity",
+    "url": "https://www.cscbukitbatok.sg/CSC-Children-Playroom-Indoor-Playground-Children-Party-Room-Club-House",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Daily: 9am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Civil Service Club Bukit Batok",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://www.cscbukitbatok.sg/images/yello_jt.png",
+        "source_credit": "Civil Service Club"
+      }
+    ]
+  },
+  {
+    "title": "Children's Playroom at CSC Bukit Batok Clubhouse",
+    "organiser": "CSC Bukit Batok",
+    "blurb": "Indoor playground for children to have fun daily!",
+    "description": "An indoor playground designed for children to have fun and engage in active play. The Playroom can also be booked exclusively as an add-on to the Children’s Party Room, allowing party guests direct access through a connecting door. It provides a safe and stimulating environment for kids to explore and enjoy physical activities. Perfect for families looking for a fun and convenient recreational option.",
+    "guid": "https://www.cscbukitbatok.sg/CSC-Children-Playroom-Indoor-Playground-Children-Party-Room-Club-House",
+    "activity_or_event": "activity",
+    "url": "https://www.cscbukitbatok.sg/CSC-Children-Playroom-Indoor-Playground-Children-Party-Room-Club-House",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Daily: 9am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "CSC Bukit Batok Clubhouse",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://www.cscbukitbatok.sg/images/bb_house.png",
+        "source_credit": "CSC Bukit Batok"
+      },
+      {
+        "url": "https://www.cscbukitbatok.sg/images/bb_jt.png",
+        "source_credit": "CSC Bukit Batok"
+      }
+    ]
+  }
+]

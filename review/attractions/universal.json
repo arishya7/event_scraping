@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Universal Studios Singapore",
+    "organiser": "Resorts World Sentosa",
+    "blurb": "Experience cutting-edge rides, shows, and attractions.",
+    "description": "Immerse yourself in a world of cinematic thrills at Universal Studios Singapore. Featuring cutting-edge rides, shows, and attractions based on blockbuster films and television series, the park offers a variety of themed zones, including Ancient Egypt, Lost World, and Far Far Away. Enjoy thrilling roller coasters, captivating live performances, and interactive experiences suitable for families and thrill-seekers alike. Explore the magic of the movies and create unforgettable memories in this world-class theme park. Perfect for families and movie enthusiasts.",
+    "guid": "https://www.rwsentosa.com/en/play/universal-studios-singapore?utm_source=google&utm_medium=cpc&utm_campaign=22693722680&utm_term=&utm_content=&utm_network=x&utm_placement=&gad_source=1&gad_campaignid=22687810002&gbraid=0AAAAA-2s2afrGwiBcKan5GOzrxt0l-v33&gclid=CjwKCAjw2vTFBhAuEiwAFaScwie6h6D3WmcNFCJ3cvwbfr6SvGdfmSgP4WXfMlb1Q7jwbz0u-4NajhoCyvQQAvD_BwE",
+    "activity_or_event": "activity",
+    "url": "https://www.rwsentosa.com/en/play/universal-studios-singapore?utm_source=google&utm_medium=cpc&utm_campaign=22693722680&utm_term=&utm_content=&utm_network=x&utm_placement=&gad_source=1&gad_campaignid=22687810002&gbraid=0AAAAA-2s2afrGwiBcKan5GOzrxt0l-v33&gclid=CjwKCAjw2vTFBhAuEiwAFaScwie6h6D3WmcNFCJ3cvwbfr6SvGdfmSgP4WXfMlb1Q7jwbz0u-4NajhoCyvQQAvD_BwE",
+    "price_display_teaser": "From $59",
+    "price_display": "From $59 - $79",
+    "price": 59.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am- 5pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Universal Studios Singapore",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Universal_Studios_Singapore_1.jpg",
+        "filename": "Universal_Studios_Singapore_1.jpg",
+        "original_url": "https://openverse.org/image/c97d479e-09ed-41f7-a74e-309c5b12e5a7?q=universal+studios+singapore&p=1",
+        "source_credit": "w3i_yu"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Universal_Studios_Singapore_2.jpg",
+        "filename": "Universal_Studios_Singapore_2.jpg",
+        "original_url": "https://openverse.org/image/4f9de6e4-9f41-48d3-b854-719af8267489?q=universal+studios+singapore&p=20",
+        "source_credit": "evelynlimcoach"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

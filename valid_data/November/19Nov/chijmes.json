@@ -1,0 +1,495 @@
+[
+  {
+    "title": "Snowfall Spectacle at CHIJMES",
+    "organiser": "CHIJMES",
+    "blurb": "Experience falling snow this festive season.",
+    "description": "Experience the enchantment of Christmas with falling snow this festive season at Mini Lawn. Snowfall duration lasts for 10 minutes with 30 minutes interval. Enjoy the magical atmosphere and create unforgettable memories with your loved ones. This family-friendly spectacle is perfect for all ages, offering a delightful and immersive Christmas experience. Capture the perfect holiday photos and embrace the festive spirit at CHIJMES.",
+    "guid": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "activity_or_event": "activity",
+    "url": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "All Ages",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "14-Nov to 31-Dec",
+    "datetime_display": "7pm to 9pm. Snowfall duration lasts for 10 minutes with 30 minutes interval.",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "CHIJMES Mini Lawn",
+    "address_display": "30 Victoria St, Singapore 187996",
+    "categories": [
+      "Attraction"
+    ],
+    "keyword_tag": [
+      "Christmas",
+      "snowfall",
+      "festive",
+      "family"
+    ],
+    "label_tag": null,
+    "images": [
+      {
+        "url": "https://chijmes.com.sg/wp-content/themes/chijmes-fixx/assets/img/point.png",
+        "source_credit": "CHIJMES",
+        "filename": "CHIJMES_Mini_Lawn_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/CHIJMES_Mini_Lawn_1.jpg"
+      },
+      {
+        "url": "https://chijmes.com.sg/wp-content/themes/chijmes-fixx/assets/img/icon/icon_calendar.png",
+        "source_credit": "CHIJMES",
+        "filename": "CHIJMES_Mini_Lawn_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/CHIJMES_Mini_Lawn_2.jpg"
+      }
+    ],
+    "id": 757,
+    "longitude": 103.8517863,
+    "latitude": 1.2952922999999998,
+    "planning_area": "Downtown Core",
+    "region": "Central Region"
+  },
+  {
+    "title": "Symphony of Lights at CHIJMES Hall",
+    "organiser": "CHIJMES",
+    "blurb": "Be mesmerised by Christmas light projections.",
+    "description": "Be mesmerised by classic Christmas light projections on the iconic CHIJMES Hall façade. The Projection Mapping duration is for 10 minutes, with every 30 minutes of interval. This stunning visual display is a perfect way to immerse yourself in the festive spirit and create lasting memories with family and friends. Enjoy the enchanting atmosphere and capture the magic of Christmas at CHIJMES.",
+    "guid": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "activity_or_event": "activity",
+    "url": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "All Ages",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "05-Dec to 31-Dec",
+    "datetime_display": "7pm to 10pm. Projection Mapping duration for 10 minutes, every 30 minutes of interval.",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "CHIJMES Hall",
+    "address_display": "30 Victoria St, #01-28 CHIJMES, Singapore 187996",
+    "categories": [
+      "Attraction"
+    ],
+    "keyword_tag": [
+      "Christmas",
+      "lights",
+      "festive",
+      "family"
+    ],
+    "label_tag": null,
+    "images": [
+      {
+        "url": "https://chijmes.com.sg/wp-content/themes/chijmes-fixx/assets/img/point.png",
+        "source_credit": "CHIJMES",
+        "filename": "CHIJMES_Hall_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/CHIJMES_Hall_1.jpg"
+      },
+      {
+        "url": "https://chijmes.com.sg/wp-content/themes/chijmes-fixx/assets/img/icon/icon_calendar.png",
+        "source_credit": "CHIJMES",
+        "filename": "CHIJMES_Hall_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/CHIJMES_Hall_2.jpg"
+      }
+    ],
+    "id": 758,
+    "longitude": 103.85188009999999,
+    "latitude": 1.2952004,
+    "planning_area": "Downtown Core",
+    "region": "Central Region"
+  },
+  {
+    "title": "Christmas Enchantment at CHIJMES",
+    "organiser": "CHIJMES",
+    "blurb": "Spend & Redeem Season’s Signature Gifts.",
+    "description": "Spend $100 (max 2 receipts) to redeem an exclusive Glitter Bag or Spin The Wheel for a chance to win mall vouchers! Valid with a min. spend of $100 in a maximum of two receipts at Capitol Singapore and CHIJMES from 14 Nov to 25 Dec 2025.",
+    "guid": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "activity_or_event": "activity",
+    "url": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "price_display_teaser": "From $100",
+    "is_free": false,
+    "price_display": "S$100.00",
+    "price": 100.0,
+    "min_price": 100.0,
+    "max_price": 100.0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "14-Nov to 25-Dec",
+    "datetime_display": "5 Dec – 25 Dec : CHIJMES, Near Lei Garden from 5pm to 10pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "CHIJMES",
+    "address_display": "30 Victoria St, Singapore 187996",
+    "label_tag": null,
+    "keyword_tag": [
+      "Christmas",
+      "Gifts",
+      "Mall Vouchers"
+    ],
+    "categories": [
+      "Attraction",
+      "Mall related"
+    ],
+    "images": [
+      {
+        "url": "https://chijmes.com.sg/wp-content/uploads/2025/11/glitter-bag.png",
+        "source_credit": "CHIJMES",
+        "filename": "CHIJMES_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/CHIJMES_1.jpg"
+      }
+    ],
+    "id": 759,
+    "longitude": 103.8517863,
+    "latitude": 1.2952922999999998,
+    "planning_area": "Downtown Core",
+    "region": "Central Region"
+  },
+  {
+    "title": "Christmas Enchantment at Capitol Singapore",
+    "organiser": "Capitol Singapore",
+    "blurb": "Festive bag charm workshop with minimum spend.",
+    "description": "Customize your own festive bag charm with a minimum spend of $80 in a single receipt at Capitol Singapore and CHIJMES from 14 Nov to 21 Dec 2025. The workshop will be held on 6, 7 & 13 Dec at Capitol Singapore, Outdoor Plaza from 3pm to 5pm and 14, 20 & 21 Dec at CHIJMES, Main Lawn from 4pm to 6pm. Enjoy the Christmas spirit with family-friendly activities.",
+    "guid": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "activity_or_event": "activity",
+    "url": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "price_display_teaser": "From $",
+    "is_free": false,
+    "price_display": "S$80.00",
+    "price": 80.0,
+    "min_price": 80.0,
+    "max_price": 80.0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "14-Nov to 21-Dec",
+    "datetime_display": "6, 7 & 13 Dec: 3pm to 5pm\n14, 20 & 21 Dec: 4pm to 6pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Capitol Singapore, Outdoor Plaza",
+    "address_display": "13 Stamford Rd, Singapore 178905",
+    "label_tag": null,
+    "keyword_tag": [
+      "Christmas",
+      "workshop",
+      "family"
+    ],
+    "categories": [
+      "Mall related",
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://chijmes.com.sg/wp-content/uploads/2025/11/D6D229B1-DEDE-4C16-ABA5-933D94ADAE82_1_105_c.jpeg",
+        "source_credit": "Capitol Singapore",
+        "filename": "Capitol_Singapore_Outdoor_Plaza_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Capitol_Singapore_Outdoor_Plaza_1.jpg"
+      },
+      {
+        "url": "https://chijmes.com.sg/wp-content/uploads/2025/11/D6D229B1-DEDE-4C16-ABA5-933D94ADAE82_1_105_c-225x300.jpeg",
+        "source_credit": "Capitol Singapore",
+        "filename": "Capitol_Singapore_Outdoor_Plaza_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Capitol_Singapore_Outdoor_Plaza_2.jpg"
+      }
+    ],
+    "id": 760,
+    "longitude": 103.8511619,
+    "latitude": 1.2929876,
+    "planning_area": "Downtown Core",
+    "region": "Central Region"
+  },
+  {
+    "title": "Snowfall Spectacle",
+    "organiser": "CHIJMES",
+    "blurb": "Experience the magic of snowfall.",
+    "description": "Experience the enchanting Snowfall Spectacle at CHIJMES, where you can immerse yourself in a winter wonderland right in the heart of Singapore. Gather with family and friends to witness the magical snowfall, creating unforgettable memories. This family-friendly event offers a unique opportunity to enjoy a touch of winter charm in a tropical setting. The snowfall creates a delightful atmosphere, perfect for capturing memorable photos and enjoying the festive spirit. Bring your loved ones and experience the wonder of the Snowfall Spectacle at CHIJMES, a truly special event for all ages. Enjoy the enchanting atmosphere and create lasting memories with your family and friends. The event is designed to be inclusive and enjoyable for everyone, making it a perfect outing for families with children of all ages. Don't miss this opportunity to experience the magic of snowfall in Singapore.",
+    "guid": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "activity_or_event": "activity",
+    "url": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "All ages",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "DD-MMM",
+    "datetime_display": "friends",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "CHIJMES",
+    "address_display": "30 Victoria St, Singapore 187996",
+    "label_tag": null,
+    "keyword_tag": [
+      "Snowfall",
+      "Christmas",
+      "family"
+    ],
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://chijmes.com.sg/wp-content/uploads/2025/11/the-greatest-showman.png",
+        "source_credit": "CHIJMES",
+        "filename": "CHIJMES_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/CHIJMES_1.jpg"
+      },
+      {
+        "url": "https://chijmes.com.sg/wp-content/uploads/2025/11/the-greatest-showman-191x300.png",
+        "source_credit": "CHIJMES",
+        "filename": "CHIJMES_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/CHIJMES_2.jpg"
+      }
+    ],
+    "id": 761,
+    "longitude": 103.8517863,
+    "latitude": 1.2952922999999998,
+    "planning_area": "Downtown Core",
+    "region": "Central Region"
+  },
+  {
+    "title": "Symphony of Lights",
+    "organiser": "CHIJMES",
+    "blurb": "Experience the Symphony of Lights.",
+    "description": "Experience the enchanting Symphony of Lights at CHIJMES, where you can immerse yourself in a spectacle of lights right in the heart of Singapore. Gather with family and friends to witness the magical light show, creating unforgettable memories. This family-friendly event offers a unique opportunity to enjoy a touch of wonder in a tropical setting. The light show creates a delightful atmosphere, perfect for capturing memorable photos and enjoying the festive spirit. Bring your loved ones and experience the wonder of the Symphony of Lights at CHIJMES, a truly special event for all ages. Enjoy the enchanting atmosphere and create lasting memories with your family and friends. The event is designed to be inclusive and enjoyable for everyone, making it a perfect outing for families with children of all ages. Don't miss this opportunity to experience the magic of lights in Singapore.",
+    "guid": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "activity_or_event": "activity",
+    "url": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "All ages",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "DD-MMM",
+    "datetime_display": "friends",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "CHIJMES",
+    "address_display": "30 Victoria St, Singapore 187996",
+    "label_tag": null,
+    "keyword_tag": [
+      "Lights",
+      "Christmas",
+      "family"
+    ],
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://chijmes.com.sg/wp-content/uploads/2025/11/the-greatest-showman.png",
+        "source_credit": "CHIJMES",
+        "filename": "CHIJMES_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/CHIJMES_1.jpg"
+      },
+      {
+        "url": "https://chijmes.com.sg/wp-content/uploads/2025/11/the-greatest-showman-191x300.png",
+        "source_credit": "CHIJMES",
+        "filename": "CHIJMES_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/CHIJMES_2.jpg"
+      }
+    ],
+    "id": 762,
+    "longitude": 103.8517863,
+    "latitude": 1.2952922999999998,
+    "planning_area": "Downtown Core",
+    "region": "Central Region"
+  },
+  {
+    "title": "Christmas Market at CHIJMES",
+    "organiser": "CHIJMES",
+    "blurb": "Shop festive gifts and handmade accessories.",
+    "description": "Explore a mix of festive gifts, stylish apparel, and handmade accessories from local crafters. The Christmas Market is open from 5pm to 10pm every Friday to Sunday, offering a delightful shopping experience for unique and handcrafted items.",
+    "guid": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "activity_or_event": "activity",
+    "url": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Nov to 31-Dec",
+    "datetime_display": "Fri to Sun: 5 PM to 10 PM",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "CHIJMES",
+    "address_display": "30 Victoria St, Singapore 187996",
+    "label_tag": null,
+    "keyword_tag": [
+      "Christmas",
+      "market",
+      "shopping",
+      "gifts"
+    ],
+    "categories": [
+      "Mall related"
+    ],
+    "images": [
+      {
+        "url": "https://chijmes.com.sg/wp-content/uploads/2025/11/CHIJMES_Christmas_Market-scaled.jpg",
+        "source_credit": "CHIJMES",
+        "filename": "CHIJMES_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/CHIJMES_1.jpg"
+      },
+      {
+        "url": "https://chijmes.com.sg/wp-content/uploads/2025/11/CHIJMES_Christmas_Market-300x200.jpg",
+        "source_credit": "CHIJMES",
+        "filename": "CHIJMES_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/CHIJMES_2.jpg"
+      },
+      {
+        "url": "https://chijmes.com.sg/wp-content/uploads/2025/11/CHIJMES_Christmas_Market-1024x683.jpg",
+        "source_credit": "CHIJMES",
+        "filename": "CHIJMES_3.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/CHIJMES_3.jpg"
+      },
+      {
+        "url": "https://chijmes.com.sg/wp-content/uploads/2025/11/CHIJMES_Christmas_Market-768x512.jpg",
+        "source_credit": "CHIJMES",
+        "filename": "CHIJMES_4.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/CHIJMES_4.jpg"
+      },
+      {
+        "url": "https://chijmes.com.sg/wp-content/uploads/2025/11/CHIJMES_Christmas_Market-1536x1024.jpg",
+        "source_credit": "CHIJMES",
+        "filename": "CHIJMES_5.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/CHIJMES_5.jpg"
+      }
+    ],
+    "id": 763,
+    "longitude": 103.8517863,
+    "latitude": 1.2952922999999998,
+    "planning_area": "Downtown Core",
+    "region": "Central Region"
+  },
+  {
+    "title": "Symphony of Lights at CHIJMES",
+    "organiser": "CHIJMES",
+    "blurb": "Experience a dazzling Symphony of Lights at CHIJMES.",
+    "description": "Immerse yourself in the enchanting Symphony of Lights at CHIJMES, a spectacular visual treat for the whole family. Witness the architectural beauty of CHIJMES come alive with vibrant lights and captivating displays, creating a magical atmosphere this festive season. The light show happens at specific times, transforming the iconic building into a canvas of colors and patterns. This event is family-friendly and suitable for all ages, offering a delightful experience for both young and old. Enjoy the festive spirit with this unique and captivating spectacle. The event is free to attend, making it an accessible and enjoyable activity for everyone. Don't miss the chance to experience the magic of the Symphony of Lights at CHIJMES this Christmas season. The light show is a highlight of the Christmas Enchantment at Capitol Singapore and CHIJMES, bringing joy and wonder to all who attend. It's a perfect opportunity to create lasting memories with your loved ones during this special time of year. The event is designed to evoke the spirit of Christmas and provide a memorable experience for families and individuals alike.",
+    "guid": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "activity_or_event": "activity",
+    "url": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "All Ages",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "DD-MMM",
+    "datetime_display": "Saturday, Sunday, Christmas Eve and Christmas Day at Main Lawn at 7",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "CHIJMES",
+    "address_display": "30 Victoria St, Singapore 187996",
+    "label_tag": null,
+    "keyword_tag": [
+      "Lights",
+      "Christmas",
+      "Family",
+      "Festive"
+    ],
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://chijmes.com.sg/wp-content/uploads/2025/11/roving-bands.png",
+        "source_credit": "CHIJMES",
+        "filename": "CHIJMES_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/CHIJMES_1.jpg"
+      },
+      {
+        "url": "https://chijmes.com.sg/wp-content/uploads/2025/11/roving-bands-300x210.png",
+        "source_credit": "CHIJMES",
+        "filename": "CHIJMES_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/CHIJMES_2.jpg"
+      },
+      {
+        "url": "https://chijmes.com.sg/wp-content/uploads/2025/11/roving-bands-768x537.png",
+        "source_credit": "CHIJMES",
+        "filename": "CHIJMES_3.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/CHIJMES_3.jpg"
+      }
+    ],
+    "id": 764,
+    "longitude": 103.8517863,
+    "latitude": 1.2952922999999998,
+    "planning_area": "Downtown Core",
+    "region": "Central Region"
+  },
+  {
+    "title": "Snowfall Spectacle at Capitol Singapore",
+    "organiser": "Capitol Singapore",
+    "blurb": "Experience magical snowfall this Christmas season.",
+    "description": "Experience the magic of Christmas with the Snowfall Spectacle at Capitol Singapore. Delight in the enchanting atmosphere as snowflakes gently fall, creating a winter wonderland right in the heart of Singapore. This family-friendly event offers a unique opportunity to enjoy a snowy experience without leaving the country. Gather your loved ones and immerse yourselves in the festive spirit as you witness the captivating snowfall. Capture memorable moments amidst the flurry of snowflakes and create lasting memories this holiday season. The Snowfall Spectacle is a must-see attraction for families and individuals alike, promising a magical and unforgettable Christmas experience. Don't miss out on this enchanting event that brings the joy and wonder of winter to Capitol Singapore.",
+    "guid": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "activity_or_event": "activity",
+    "url": "https://chijmes.com.sg/happenings/christmas-enchantment-at-capitol-singapore-chijmes/",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "null",
+    "datetime_display": "null",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Capitol Singapore",
+    "address_display": "13 Stamford Rd, Singapore 178905",
+    "label_tag": null,
+    "keyword_tag": [
+      "Christmas",
+      "snowfall",
+      "family"
+    ],
+    "categories": [
+      "Attraction",
+      "Mall related"
+    ],
+    "images": [
+      {
+        "url": "https://chijmes.com.sg/wp-content/themes/chijmes-fixx/assets/img/icon/facebook_icon.png",
+        "source_credit": "Capitol Singapore",
+        "filename": "Capitol_Singapore_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Capitol_Singapore_1.jpg"
+      },
+      {
+        "url": "https://chijmes.com.sg/wp-content/themes/chijmes-fixx/assets/img/icon/insta_icon.png",
+        "source_credit": "Capitol Singapore",
+        "filename": "Capitol_Singapore_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Capitol_Singapore_2.jpg"
+      }
+    ],
+    "id": 765,
+    "longitude": 103.8511619,
+    "latitude": 1.2929876,
+    "planning_area": "Downtown Core",
+    "region": "Central Region"
+  }
+]

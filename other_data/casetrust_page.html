@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+ <head>
+  <title>
+   HDB | View Directory of Renovation Contractors (DRC)
+  </title>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+  <meta content="no-cache" http-equiv="Pragma"/>
+  <meta content="Listing of Registered Renovation Contractors" name="description">
+   <script nonce="script_CSP" type="text/javascript">
+    var addCSPFontSrc="";
+var addCSPScriptSrc     = "'nonce-script_CSP' 'nonce-script_Head' 'nonce-script_Header'  'nonce-script_Footer' 'nonce-logic1' 'nonce-logic2' ";
+var addCSPScriptSrcElem = "'nonce-script_CSP' 'nonce-script_Head' 'nonce-script_Header'  'nonce-script_Footer' 'nonce-logic1' 'nonce-logic2' ";
+var addCSPImgSrc="";
+var addCSPConnectSrc="";
+var addCSPStyleSrc="'nonce-cssVal1'";
+var addCSPStyleSrcElem="'nonce-cssVal1'";
+var addCSPMediaSrc="";
+var h_config = { 
+		showlogout	: false,
+		eserviceid	: "E010037",
+		jsaddons	: "datepicker,jvalidate"
+			};
+   </script>
+   <script nonce="script_Head" src="/web/fi10/infoweb_foundation_CSP/common/js/FI10Zhead.js">
+   </script>
+   <script nonce="logic1" src="theme/jsFiles/BN31ZCommonJs.js" type="text/javascript">
+   </script>
+   <style nonce="cssVal1">
+    #style1 {
+	padding: 0 5px;
+}
+
+#Record {
+	border: 0;
+	width: 100%;
+}
+
+#style2 {
+	text-decoration: underline;
+}
+
+ .cus-display-none{
+  display: none;
+  }
+   </style>
+  </meta>
+ </head>
+ <body>
+  <script nonce="script_Header" src="/web/fi10/infoweb_foundation_CSP/common/js/FI10Zheader.js">
+  </script>
+  <form id="resultForm" method="post" name="resultForm">
+   <input class="cus-display-none" name="UserPreventionSessionToken" value="YzY3YTgzZDMtMjliYS00YjVhLWEwZGMtZjBhMzExMGQ0M2Rj"/>
+   <div class="title-section" id="main">
+    <div class="grid-container fit-padding-bottom">
+     <div class="grid-x">
+      <div class="large-12 cell e-subheader">
+       <h2>
+        View Directory of Renovation Contractors (DRC)
+       </h2>
+       <p class="e-desc">
+        Find contractors listed in the DRC, who know HDB's renovation guidelines and have a good track record.
+       </p>
+      </div>
+     </div>
+    </div>
+   </div>
+   <br/>
+   <div class="grid-container fit-padding-bottom">
+    <div class="large-12 cell e-subheader">
+     <h4>
+      CaseTrust Accredited Contractor
+     </h4>
+    </div>
+   </div>
+   <div align="center" class="grid-container" id="viewpostingDetails1">
+    <span id="Page">
+     No Record Found
+    </span>
+   </div>
+   <div class="text-center pagination-centered">
+    <ul class="pagination">
+     <li class="arrow">
+      <a href="#" id="prevPage">
+       «
+      </a>
+     </li>
+     <li class="arrow">
+      <a href="#" id="nexPage">
+       »
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div class="grid-container">
+    <div class="grid-x align-center">
+     <div class="large-3 large-centered cell end">
+      <input class="button expanded radius success" id="caseTrustSearchButton" name="searchButton" type="button" value="New Search"/>
+     </div>
+    </div>
+   </div>
+  </form>
+  <script nonce="script_Footer" src="/web/fi10/infoweb_foundation_CSP/common/js/FI10Zfooter.js">
+  </script>
+  <script nonce="logic2">
+   function pager(tableName,itemsPerPage,disPage,disRecord) {
+this.tableName=tableName;
+this.itemsPerPage=itemsPerPage;
+this.currentPage=1;
+this.pages=0;
+this.inited=false;
+this.disPage=disPage;
+this.disRecord=disRecord;
+
+this.showRecords=function(from,to)
+  {
+     var rows=document.getElementById(tableName).rows;
+     for(var i=1;i<rows.length;i++)
+     {
+       if(i<from || i>to)
+           rows[i].style.display='none';
+        else
+        rows[i].style.display='';
+      
+     }
+  }
+this.showPage=function(pageNumber, recordstoshow, totalrecords)
+{
+
+   console.log("recordstoshow : " + recordstoshow);
+   
+   console.log("totalrecords : " + totalrecords);
+   if(!this.inited)
+   {
+    //alert("not inited");
+    return;
+   }
+   this.currentPage=pageNumber;
+   var elementRecord=document.getElementById(disRecord);
+   var elementPage=document.getElementById(disPage);
+   
+   console.log("recordstoshow: " + recordstoshow)
+   
+   if(document.getElementById(tableName)){
+     var totrows=document.getElementById(tableName).rows;
+   }
+     
+   
+   var from=(pageNumber-1)*itemsPerPage;
+   var to=from+itemsPerPage-1;
+  
+
+  
+	   
+     elementRecord.innerHTML="result(s) of "+recordstoshow;
+  
+  var startNo=from+1;
+  var endNo=to+1;
+   elementPage.innerHTML="Displaying "+ totalrecords;
+   this.showRecords(startNo,endNo);
+   $(".pagination li").removeClass("current");
+   $(".pagination li").eq(this.currentPage).addClass("current");
+   
+   if(recordstoshow == 0){
+    elementPage.innerHTML = "No Records";
+    elementRecord.innerHTML=" Found";
+   
+   }
+}
+
+  
+  this.prev=function()
+  {
+    if(this.currentPage>1)
+    	{
+     	 doPrevoiusCase();
+        $(".pagination li").removeClass("current");
+			$(".pagination li").eq(this.currentPage).addClass("current");
+    	}
+   
+  }
+  this.next=function(){
+     if(this.currentPage<this.pages)
+         doNextCase();
+         $(".pagination li").removeClass("current");
+			$(".pagination li").eq(this.currentPage).addClass("current");
+  }
+  this.step = function(step) {
+			this.currentPage = step;
+			if(this.currentPage<=this.pages)
+				doNextStepCase(this.currentPage)
+              
+			$(".pagination li").removeClass("current");
+			$(".pagination li").eq(this.currentPage).addClass("current");
+		}
+  
+  this.init=function()
+  {
+  if(document.getElementById(tableName)){
+     var rows=document.getElementById(tableName).rows;
+     var records=(rows.length);
+    this.pages=Math.ceil(records/itemsPerPage);
+    
+  }
+  
+  this.inited=true;
+   
+  }    
+  this.showPageNav=function(pageNumber,postition)
+  {
+     if(!this.inited)
+     {
+        //alert("not inited");
+        return;
+     }
+  }
+}
+
+var opager=new pager('Record',50,'Page','TotalRecord');
+        opager.init();
+        opager.showPageNav('pager','viewpostingDetails1');
+        var pageNo='0';
+        var recordstoshow = '';
+        var tottalrecords = '0';
+        opager.showPage(pageNo,recordstoshow,tottalrecords);
+  </script>
+ </body>
+</html>

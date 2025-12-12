@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Whoose Party Indoor Playground for Kids' Fun",
+    "organiser": "Whoose Party",
+    "blurb": "A children's wonderland with stimulating activities.",
+    "description": "Whoose Party Indoor Playground is a children's wonderland, filled with a variety of stimulating and entertaining activities. Our Crazy Go-Karts offer an exhilarating speed adventure, and the sandpit invites endless imaginative exploration. The trampoline allows kids to leap and bounce freely, while the Spray Ball Machine and Ball Projection games offer creative, interactive fun. The highlight of our playground is the 6.25-meter mega slide, ensuring thrilling descents for every child. Upstairs, toddlers find their haven with age-appropriate slides and toy cars, designed for safe, specialized play for two to three-year-olds. At Whoose Party, children not only relish unlimited fun but also experience the magic of our thoughtfully crafted birthday parties.",
+    "guid": "https://www.whooseparty.com/",
+    "activity_or_event": "activity",
+    "url": "https://www.whooseparty.com/",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "mon, the action-packed Avengers, and the lively PAW Patrol",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Whoose Party Indoor Playground",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/5ba354_c39b7eab32844b3cb0cae2392fcee015~mv2.jpg/v1/fill/w_2000,h_2000,al_c,q_100,usm_0.66_1.00_0.01,enc_avif,quality_auto/5ba354_c39b7eab32844b3cb0cae2392fcee015~mv2.jpg",
+        "source_credit": "Whoose Party"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/5ba354_0473f082ded7468e8cb6b40686549316~mv2.jpg/v1/fill/w_2000,h_2000,al_c,q_100,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E5%9B%BE%E7%89%87_202311191706075.jpg",
+        "source_credit": "Whoose Party"
+      }
+    ]
+  },
+  {
+    "title": "Whoose Party Playground Facility Experience",
+    "organiser": "Whoose Party",
+    "blurb": "Enjoy our playground facility after the party!",
+    "description": "Whoose Party offers a playground facility for after-party enjoyment. Kids can have fun and continue the celebration in a safe and engaging environment. The playground includes various play structures and activities suitable for different age groups. Parents can relax knowing their children are entertained and supervised. The facility is designed to provide a memorable and enjoyable experience for all attendees. It's the perfect way to extend the party fun and create lasting memories. The playground is well-maintained and regularly inspected for safety. Our staff is trained to ensure a positive and secure environment for all children.",
+    "guid": "https://www.whooseparty.com/",
+    "activity_or_event": "activity",
+    "url": "https://www.whooseparty.com/",
+    "price_display_teaser": "Free",
+    "price_display": "S$0",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Whoose Party",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/5ba354_0473f082ded7468e8cb6b40686549316~mv2.jpg/v1/fill/w_2000,h_2000,al_c,q_100,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E5%9B%BE%E7%89%87_202311191706075.jpg",
+        "source_credit": "Whoose Party"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/5ba354_51f60bc6ca15486ba85047d5307a48a2~mv2.jpg/v1/fill/w_2000,h_2000,al_c,q_100,usm_0.66_1.00_0.01,enc_avif,quality_auto/Elsa.jpg",
+        "source_credit": "Whoose Party"
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Bird Paradise",
+    "organiser": "Mandai Wildlife Group",
+    "blurb": "Explore a world of avian wonders at Bird Paradise.",
+    "description": "Discover a vibrant sanctuary teeming with diverse bird species from around the globe. Immerse yourself in captivating exhibits, interactive experiences, and lush landscapes that showcase the beauty and importance of avian life. Perfect for families and nature enthusiasts, Bird Paradise offers an unforgettable journey into the world of birds, fostering appreciation and conservation awareness. Explore different geographical zones and witness spectacular bird shows. A family-friendly destination that combines education and entertainment, creating lasting memories for all ages. Enjoy interactive feeding sessions and learn about the unique adaptations of various bird species. This is an immersive experience for all.",
+    "guid": "https://www.mandai.com/en/bird-paradise.html",
+    "activity_or_event": "activity",
+    "url": "https://www.mandai.com/en/bird-paradise.html",
+    "price_display_teaser": "From SGD",
+    "price_display": "From S$38 to S$48",
+    "price": 38.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Friend of Mandai​ Every Moment Counts! Find out more",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Bird Paradise",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/events/sg60/masthead/sg60-bp-750x1334.png",
+        "source_credit": "Mandai Wildlife Group"
+      },
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/events/sg60/masthead/sg60-bp-1920x894.png",
+        "source_credit": "Mandai Wildlife Group"
+      }
+    ]
+  },
+  {
+    "title": "Backstage Pass: Penguin Encounters at Bird Paradise",
+    "organiser": "Mandai Wildlife Reserve",
+    "blurb": "Meet our VIPs – Very Important Penguins!",
+    "description": "Go behind-the-scenes at Penguin Cove to meet our VIPs – Very Important Penguins and learn what goes into providing world class care for our adorable, feathered friends! This encounter provides a unique opportunity to observe the penguins up close and learn about their habitat, diet, and behavior from the experts who care for them daily. It's a family-friendly experience that offers an educational and engaging look into the lives of these fascinating creatures. Perfect for kids and adults who love animals and want to learn more about penguin conservation.",
+    "guid": "https://www.mandai.com/en/bird-paradise.html",
+    "activity_or_event": "activity",
+    "url": "https://www.mandai.com/en/bird-paradise.html",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friends!",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Penguin Cove, Bird Paradise",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": []
+  },
+  {
+    "title": "Backstage Pass: Avian Healthcare at Bird Paradise",
+    "organiser": "Mandai Wildlife Reserve",
+    "blurb": "Peek behind-the-scenes at the Avian Hospital!",
+    "description": "Peek behind-the-scenes to catch our vet, nutritionists and bird nannies in action at the Avian Hospital, Nutrition Centre and Breeding Centre, respectively. This unique experience offers a glimpse into the dedicated care and expertise that goes into maintaining the health and well-being of the diverse bird species at Bird Paradise. It's an educational opportunity for families and bird enthusiasts to learn about avian healthcare, nutrition, and breeding programs. Perfect for those interested in animal care and conservation.",
+    "guid": "https://www.mandai.com/en/bird-paradise.html",
+    "activity_or_event": "activity",
+    "url": "https://www.mandai.com/en/bird-paradise.html",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friends!",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Avian Hospital, Bird Paradise",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": []
+  }
+]

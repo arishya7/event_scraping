@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Baker & Cook - Dempsey",
+    "organiser": "Baker & Cook",
+    "blurb": "Dempsey Playground Reopens!",
+    "description": "Baker & Cook Dempsey offers a delightful experience for families with its reopened playground. The playground provides a safe and fun environment for children to play while parents can enjoy the bakery's offerings. It features various play structures designed to entertain kids of different ages. The reopening is scheduled from July to September, making it a perfect spot for a family outing. Enjoy freshly baked goods and coffee while the kids have a blast at the playground. The venue is family-friendly and welcomes children of all ages to enjoy the facilities.",
+    "guid": "https://www.bakerandcook.com/",
+    "activity_or_event": "activity",
+    "url": "https://www.bakerandcook.com/",
+    "price_display_teaser": "From $5",
+    "price_display": "Prices vary according to menu item",
+    "price": 5.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon - Thu: 8am - 9.30pm, Fri - Sun: 8am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Baker & Cook Dempsey",
+    "full_address": "30C Loewen Road, Singapore 248839",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Baker___Cook___Dempsey_1.webp",
+        "filename": "Baker___Cook___Dempsey_1.webp",
+        "original_url": "https://www.bakerandcook.com/locations",
+        "source_credit": "bakerandcook"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Baker___Cook___Dempsey_2.webp",
+        "filename": "Baker___Cook___Dempsey_2.webp",
+        "original_url": "https://www.bakerandcook.com/happenings/playground-reopen",
+        "source_credit": "bakerandcook"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Baker___Cook___Dempsey_3.webp",
+        "filename": "Baker___Cook___Dempsey_3.webp",
+        "original_url": "https://www.bakerandcook.com/happenings/playground-reopen",
+        "source_credit": "bakerandcook"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

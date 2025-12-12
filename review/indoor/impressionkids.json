@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Impressions Kids Club - Tanglin Mall Wonderland",
+    "organiser": "Impressions Kids Club",
+    "blurb": "One-stop wonderland for family fun in Tanglin Mall!",
+    "description": "Located in Tanglin Mall, Impressions Kids Club is a family destination. We offer diverse club classes, camps, and seasonal events to keep your little ones entertained for hours. Our offerings ensure there's always something new and exciting to discover. We cater to families looking for engaging activities and a fun, safe environment for their children to explore and learn. We provide a range of programs designed to stimulate creativity, promote physical activity, and foster social interaction among children of all ages. Join us for unforgettable experiences!",
+    "guid": "https://www.impressionskidsclub.com/",
+    "activity_or_event": "activity",
+    "url": "https://www.impressionskidsclub.com/",
+    "price_display_teaser": "From $",
+    "price_display": "$35 for 1 hour (1 adult + 1 child), Additional adult: $10, Additional hour: $14",
+    "price": 0.0,
+    "age_group_display": "14 years old and below",
+    "min_age": 0.0,
+    "max_age": 14.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 9am - 7pm ",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Impressions Kids Club - Tanglin Mall",
+    "full_address": "163 Tanglin Rd, Tanglin Mall #03-136/7/8 Singapore 247933 ​ +65 9363 4444 Info@impressionskidsclub",
+    "categories": [
+      "Indoor Playground",
+      "Mall related"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Impressions_Kids_Club___Tanglin_Mall_Wonderland_1.jpg",
+        "filename": "Impressions_Kids_Club___Tanglin_Mall_Wonderland_1.jpg",
+        "original_url": "https://www.impressionskidsclub.com/playzone",
+        "source_credit": "impressionkidsclub"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/fbd2f8_aba8e65654f543e4b848646a694863a1~mv2.jpg/v1/fit/w_571,h_461,q_90,enc_avif,quality_auto/fbd2f8_aba8e65654f543e4b848646a694863a1~mv2.jpg",
+        "source_credit": "Impressions Kids Club"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/fbd2f8_609e562f089a43fdb0eb68c18110a9b8~mv2.jpg/v1/fit/w_692,h_461,q_90,enc_avif,quality_auto/fbd2f8_609e562f089a43fdb0eb68c18110a9b8~mv2.jpg",
+        "source_credit": "Impressions Kids Club"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

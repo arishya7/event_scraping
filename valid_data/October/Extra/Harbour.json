@@ -1,0 +1,835 @@
+[
+  {
+    "title": "Snoopy Around the World: Howl-O-Ween at HarbourFront",
+    "organiser": "HarbourFront Centre",
+    "blurb": "Travel the world with Snoopy at HarbourFront Centre!",
+    "description": "Celebrate Halloween, Christmas and Chinese New Year with Snoopy as he travels around the world at HarbourFront Centre! Kickstart Snoopy's epic world adventure with Halloween as the Peanuts gang take you on a spooky journey filled with thrills, giggles, and delightful surprises! Look forward to a Halloween-Themed Experience Centre for the spooky season. Shoppers who spend a minimum amount can participate in a Grand Draw to win a Honda Freed. There is also the 1st Snoopy Experience Centre in Singapore at Level 11 with an immersive Snoopy universe creating unforgettable family memories!",
+    "guid": "https://thenewageparents.com/harbourfront-halloween/",
+    "activity_or_event": "activity",
+    "url": "https://thenewageparents.com/harbourfront-halloween/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": "03-Oct",
+    "datetime_display": "3 October 2025 – 22 February 2026",
+    "start_datetime": "2025-10-03T00:00:00+08:00",
+    "end_datetime": "2026-02-22T23:59:59+08:00",
+    "venue_name": "HarbourFront Centre",
+    "label_tag": null,
+    "Keyword_tag": "Snoopy, Halloween, Christmas, Chinese New Year, family-friendly, HarbourFront Centre, experience centre, play park",
+    "full_address": "8 Sentosa Gateway, Singapore 098269",
+    "categories": [
+      "Mall related",
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/Snoopy-Around-the-World-Harbourfront.jpg",
+        "source_credit": "HarbourFront Centre"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/HarbourFront-Centre-Snoopy.jpg",
+        "source_credit": "HarbourFront Centre"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/HabourFront-Centre-Halloween.jpg",
+        "source_credit": "HarbourFront Centre"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/HarbourFront-Snoopy-Halloween.jpg",
+        "source_credit": "HarbourFront Centre"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/HabourFront-Snoopy-Play-Park.jpg",
+        "source_credit": "HarbourFront Centre"
+      }
+    ],
+    "id": 890,
+    "longitude": 103.82306659999999,
+    "latitude": 1.2554644,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "Chengzhu Specialised Curriculum Programmes",
+    "organiser": "Chengzhu",
+    "blurb": "Learn more about our specialised curriculum programmes!",
+    "description": "Enquire with us to learn more about our specialised curriculum programmes and facilities today here! Enquire with us to learn more about our specialised curriculum programmes and facilities today here!",
+    "guid": "https://thenewageparents.com/harbourfront-halloween/",
+    "activity_or_event": "activity",
+    "url": "https://thenewageparents.com/harbourfront-halloween/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": null,
+    "label_tag": null,
+    "Keyword_tag": "curriculum programmes, learning, facilities",
+    "full_address": "35 Rochester Drive #03-01 to 05 & 27, Singapore 138639",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/09/Chengzhu-Paid-Trial-Class-Sep-2025-R.gif",
+        "source_credit": "Chengzhu"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/06/British-Council-Jul-2025-R-Small.gif",
+        "source_credit": "Chengzhu"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2024/12/Happy-Train-Jul-2025-R.gif",
+        "source_credit": "Chengzhu"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/Halloween-Party-2025.jpg",
+        "source_credit": "Chengzhu"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/Anchorpoint-Halloween-maze.jpg",
+        "source_credit": "Chengzhu"
+      }
+    ],
+    "id": 891,
+    "longitude": 103.78796179999999,
+    "latitude": 1.3058759,
+    "district": "Queenstown",
+    "area": "Central Region"
+  },
+  {
+    "title": "British Council Specialised Curriculum Programmes",
+    "organiser": "British Council",
+    "blurb": "Learn more about our specialised curriculum programmes!",
+    "description": "Enquire with us to learn more about our specialised curriculum programmes and facilities today here! Enquire with us to learn more about our specialised curriculum programmes and facilities today here!",
+    "guid": "https://thenewageparents.com/harbourfront-halloween/",
+    "activity_or_event": "activity",
+    "url": "https://thenewageparents.com/harbourfront-halloween/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": null,
+    "label_tag": null,
+    "Keyword_tag": "curriculum programmes, learning, facilities",
+    "full_address": "480 Lor 6 Toa Payoh, #09-01 East Wing, HDB Hub, Singapore 310480",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/09/Chengzhu-Paid-Trial-Class-Sep-2025-R.gif",
+        "source_credit": "British Council"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/06/British-Council-Jul-2025-R-Small.gif",
+        "source_credit": "British Council"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2024/12/Happy-Train-Jul-2025-R.gif",
+        "source_credit": "British Council"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/Halloween-Party-2025.jpg",
+        "source_credit": "British Council"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/Anchorpoint-Halloween-maze.jpg",
+        "source_credit": "British Council"
+      }
+    ],
+    "id": 892,
+    "longitude": 103.8486743,
+    "latitude": 1.3318945,
+    "district": "Toa Payoh",
+    "area": "Central Region"
+  },
+  {
+    "title": "Happy Train Specialised Curriculum Programmes",
+    "organiser": "Happy Train",
+    "blurb": "Learn more about our specialised curriculum programmes!",
+    "description": "Enquire with us to learn more about our specialised curriculum programmes and facilities today here! Enquire with us to learn more about our specialised curriculum programmes and facilities today here!",
+    "guid": "https://thenewageparents.com/harbourfront-halloween/",
+    "activity_or_event": "activity",
+    "url": "https://thenewageparents.com/harbourfront-halloween/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": null,
+    "label_tag": null,
+    "Keyword_tag": "curriculum programmes, learning, facilities",
+    "full_address": "87 Beach Rd, #05-01 Chye Sing Building, Singapore 189695",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/09/Chengzhu-Paid-Trial-Class-Sep-2025-R.gif",
+        "source_credit": "Happy Train"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/06/British-Council-Jul-2025-R-Small.gif",
+        "source_credit": "Happy Train"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2024/12/Happy-Train-Jul-2025-R.gif",
+        "source_credit": "Happy Train"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/Halloween-Party-2025.jpg",
+        "source_credit": "Happy Train"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/Anchorpoint-Halloween-maze.jpg",
+        "source_credit": "Happy Train"
+      }
+    ],
+    "id": 893,
+    "longitude": 103.8566565,
+    "latitude": 1.2974018,
+    "district": "Downtown Core",
+    "area": "Central Region"
+  },
+  {
+    "title": "SuperPark Singapore Unveils a Double-Thrill Halloween",
+    "organiser": "SuperPark Singapore",
+    "blurb": "Halloween event at SuperPark Singapore.",
+    "description": "SuperPark Singapore is hosting a Halloween event with double the thrills. Activities include themed games, spooky decorations, and fun for the whole family. Enjoy a safe and exciting Halloween experience at this popular indoor activity park. Perfect for kids and families looking for a memorable Halloween celebration. The event features special performances and interactive sessions designed to entertain and engage children of all ages. With a variety of attractions and activities, SuperPark Singapore offers a unique and thrilling Halloween experience.",
+    "guid": "https://thenewageparents.com/harbourfront-halloween/",
+    "activity_or_event": "event",
+    "url": "https://thenewageparents.com/harbourfront-halloween/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$30",
+    "price": 30.0,
+    "min_price": 30.0,
+    "max_price": 30.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "SuperPark Singapore",
+    "label_tag": null,
+    "Keyword_tag": "Halloween, indoor activity park, family fun, themed games, spooky decorations",
+    "full_address": "3 Temasek Blvd, #01-488 Suntec City Mall, Singapore 038983",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/09/Chengzhu-Paid-Trial-Class-Sep-2025-R.gif",
+        "source_credit": "SuperPark Singapore"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/06/British-Council-Jul-2025-R-Small.gif",
+        "source_credit": "SuperPark Singapore"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2024/12/Happy-Train-Jul-2025-R.gif",
+        "source_credit": "SuperPark Singapore"
+      }
+    ],
+    "id": 894,
+    "longitude": 103.85860319999999,
+    "latitude": 1.2961791,
+    "district": "Downtown Core",
+    "area": "Central Region"
+  },
+  {
+    "title": "Anchorpoint's Pumpkin Treat Halloween Fun",
+    "organiser": "Anchorpoint",
+    "blurb": "Two weekends of family fun at Anchorpoint.",
+    "description": "Anchorpoint is hosting its Pumpkin Treat event for two weekends of Halloween family fun. Activities include trick-or-treating, costume contests, and Halloween-themed games. This event is designed for families with children of all ages. Enjoy a spooky and fun-filled Halloween celebration with various activities and entertainment suitable for the whole family. The event aims to provide a safe and enjoyable environment for kids to celebrate Halloween. There will be photo opportunities and interactive experiences to create lasting memories.",
+    "guid": "https://thenewageparents.com/harbourfront-halloween/",
+    "activity_or_event": "event",
+    "url": "https://thenewageparents.com/harbourfront-halloween/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Anchorpoint",
+    "label_tag": null,
+    "Keyword_tag": "Halloween, family fun, Anchorpoint, Pumpkin Treat, trick-or-treating, costume contests, Halloween games",
+    "full_address": "370 Alexandra Rd, Singapore 159953",
+    "categories": [
+      "Mall related"
+    ],
+    "images": [
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/Halloween-Party-2025.jpg",
+        "source_credit": "Anchorpoint"
+      }
+    ],
+    "id": 895,
+    "longitude": 103.80507620000002,
+    "latitude": 1.2887705999999999,
+    "district": "Queenstown",
+    "area": "Central Region"
+  },
+  {
+    "title": "Anchorpoint’s Pumpkin Treat Halloween Fun",
+    "organiser": "The New Age Parents",
+    "blurb": "Two weekends of family fun at Anchorpoint this Halloween.",
+    "description": "Anchorpoint is hosting a Halloween event with family-friendly activities. Enjoy a pumpkin-themed maze, trick-or-treating, and other spooky fun. Perfect for families looking for a festive Halloween experience. Activities include a maze, photo opportunities, and treat stations. This event is designed to be engaging and safe for children of all ages. Join us for a memorable Halloween celebration at Anchorpoint. The event promises a delightful experience for families seeking Halloween fun. Enjoy the festive atmosphere and create lasting memories with your loved ones.",
+    "guid": "https://thenewageparents.com/harbourfront-halloween/",
+    "activity_or_event": "event",
+    "url": "https://thenewageparents.com/harbourfront-halloween/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Anchorpoint",
+    "label_tag": null,
+    "Keyword_tag": "Halloween, family fun, Anchorpoint, pumpkin treat, maze, trick-or-treating, kids activities",
+    "full_address": "370 Alexandra Rd, Singapore 159953",
+    "categories": [
+      "Mall related"
+    ],
+    "images": [
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/Anchorpoint-Halloween-maze.jpg",
+        "source_credit": "The New Age Parents"
+      }
+    ],
+    "id": 896,
+    "longitude": 103.80507620000002,
+    "latitude": 1.2887705999999999,
+    "district": "Queenstown",
+    "area": "Central Region"
+  },
+  {
+    "title": "Things to do this long weekend in Singapore",
+    "organiser": "The New Age Parents",
+    "blurb": "Things to do this Deepavali long weekend in Singapore",
+    "description": "Explore a variety of activities and attractions suitable for families and kids during the long weekend in Singapore. Discover fun and engaging options for parents and children to enjoy together. This includes family-friendly locations, kid-centric events, and places where parents can relax while the kids are entertained. Enjoy the Deepavali celebrations with your loved ones, creating memorable experiences and bonding moments. From indoor playgrounds to outdoor adventures, there's something for everyone to make the most of this special time.",
+    "guid": "https://thenewageparents.com/harbourfront-halloween/",
+    "activity_or_event": "activity",
+    "url": "https://thenewageparents.com/harbourfront-halloween/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": null,
+    "label_tag": null,
+    "Keyword_tag": "family activities, kids activities, singapore, long weekend, Deepavali, family-friendly, indoor playground, outdoor adventures",
+    "full_address": "UBI TECHPARK, 10, Ubi Cres, #03-15, LOBBY B, Singapore 408564",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/Things-to-do-this-long-weekend-17-to-20-Oct-2025.jpg",
+        "source_credit": "The New Age Parents"
+      }
+    ],
+    "id": 897,
+    "longitude": 103.89636499999999,
+    "latitude": 1.3264631999999998,
+    "district": "Geylang",
+    "area": "Central Region"
+  },
+  {
+    "title": "SuperPark Singapore Unveils a Double-Thrill",
+    "organiser": "The New Age Parents",
+    "blurb": "Things to do this Deepavali long weekend in Singapore",
+    "description": "SuperPark Singapore offers a thrilling experience with a wide range of activities suitable for families and kids. It features various play areas, including trampoline platforms, adventure courses, and interactive games. The park is designed to cater to different age groups and skill levels, ensuring that everyone can have a fun and engaging time. With its focus on active play and family-friendly entertainment, SuperPark Singapore is a great destination for a memorable day out.",
+    "guid": "https://thenewageparents.com/harbourfront-halloween/",
+    "activity_or_event": "activity",
+    "url": "https://thenewageparents.com/harbourfront-halloween/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$25 to S$40",
+    "price": 25.0,
+    "min_price": 25.0,
+    "max_price": 40.0,
+    "age_group_display": "1 to 99 years",
+    "min_age": 1.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating Hours Vary",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "SuperPark Singapore",
+    "label_tag": null,
+    "Keyword_tag": "Indoor Playground, Trampoline Park, Adventure Park, Family Entertainment",
+    "full_address": "3 Temasek Blvd, #01-488 Suntec City Mall, Singapore 038983",
+    "categories": [
+      "Indoor Playground",
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2023/10/Sports-Hub-Deepavali-Rangoli.jpg",
+        "source_credit": "The New Age Parents"
+      }
+    ],
+    "id": 898,
+    "longitude": 103.85860319999999,
+    "latitude": 1.2961791,
+    "district": "Downtown Core",
+    "area": "Central Region"
+  },
+  {
+    "title": "MOE School Holidays 2026 Singapore",
+    "organiser": "The New Age Parents",
+    "blurb": "School to start on 2 Jan and to end on 20 Nov 2026",
+    "description": "Information regarding the MOE School Holidays for 2026 in Singapore. This includes the start and end dates of the school year, providing parents and students with essential dates for planning purposes. Stay updated on the academic calendar to effectively manage schedules and activities. This information is crucial for families to organize vacations, enrichment programs, and other commitments around the school terms. Keep track of key dates to ensure a well-planned and balanced year for students and their families.",
+    "guid": "https://thenewageparents.com/harbourfront-halloween/",
+    "activity_or_event": "event",
+    "url": "https://thenewageparents.com/harbourfront-halloween/",
+    "is_free": null,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Monastery Mid-Autumn Celebrations 2025",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Singapore",
+    "label_tag": null,
+    "Keyword_tag": "School holidays, academic calendar, family planning, Singapore",
+    "full_address": "565 Balestier Rd, Block C, Level 1, Singapore 329927",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2012/07/primary-school-in-singapore-300x183.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2024/10/Halloween-at-Woodgrove-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/09/Jurong-Lake-Gardens-Mid-Autumn-Food-Market-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/Halloween-Party-2025-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/09/Lian-Shan-Shuang-Lin-Monastery-Mid-Autumn-1-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      }
+    ],
+    "id": 899,
+    "longitude": 103.8449253,
+    "latitude": 1.3257583,
+    "district": "Novena",
+    "area": "Central Region"
+  },
+  {
+    "title": "Halloween at Woodgrove Singapore 2025",
+    "organiser": "The New Age Parents",
+    "blurb": "Halloween parties and activities in Singapore 2025",
+    "description": "Explore Halloween celebrations at Woodgrove in Singapore for 2025. Discover a range of Halloween parties and activities suitable for families and children. Enjoy spooky fun with themed events, costume contests, and trick-or-treating opportunities. Woodgrove offers a safe and engaging environment for kids to experience the Halloween spirit. Plan ahead to make the most of the festivities and create memorable moments. This event is perfect for families looking for a fun and festive way to celebrate Halloween together in Singapore.",
+    "guid": "https://thenewageparents.com/harbourfront-halloween/",
+    "activity_or_event": "event",
+    "url": "https://thenewageparents.com/harbourfront-halloween/",
+    "is_free": null,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Monastery Mid-Autumn Celebrations 2025",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Woodgrove",
+    "label_tag": null,
+    "Keyword_tag": "Halloween, parties, activities, Singapore, Woodgrove",
+    "full_address": "30 Woodlands Ave 1, Singapore 739065",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2012/07/primary-school-in-singapore-300x183.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2024/10/Halloween-at-Woodgrove-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/09/Jurong-Lake-Gardens-Mid-Autumn-Food-Market-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/Halloween-Party-2025-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/09/Lian-Shan-Shuang-Lin-Monastery-Mid-Autumn-1-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      }
+    ],
+    "id": 900,
+    "longitude": 103.78107820000001,
+    "latitude": 1.4291794,
+    "district": "Woodlands",
+    "area": "North Region"
+  },
+  {
+    "title": "Mid-Autumn Festival @ Jurong Lake Gardens 2025",
+    "organiser": "The New Age Parents",
+    "blurb": "Lights by the Lake",
+    "description": "Celebrate the Mid-Autumn Festival at Jurong Lake Gardens in 2025 with the enchanting 'Lights by the Lake' event. Experience a magical evening filled with stunning lantern displays, cultural performances, and delicious festive treats. This family-friendly event offers a unique opportunity to immerse yourself in the traditions and beauty of the Mid-Autumn Festival. Enjoy the serene atmosphere of the gardens while admiring the intricate lantern designs and participating in various activities. A perfect outing for families and friends to create lasting memories together.",
+    "guid": "https://thenewageparents.com/harbourfront-halloween/",
+    "activity_or_event": "event",
+    "url": "https://thenewageparents.com/harbourfront-halloween/",
+    "is_free": null,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Monastery Mid-Autumn Celebrations 2025",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Jurong Lake Gardens",
+    "label_tag": null,
+    "Keyword_tag": "Mid-Autumn Festival, Jurong Lake Gardens, Lights by the Lake",
+    "full_address": "Yuan Ching Rd",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2012/07/primary-school-in-singapore-300x183.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2024/10/Halloween-at-Woodgrove-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/09/Jurong-Lake-Gardens-Mid-Autumn-Food-Market-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/Halloween-Party-2025-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/09/Lian-Shan-Shuang-Lin-Monastery-Mid-Autumn-1-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      }
+    ],
+    "id": 901,
+    "longitude": 103.7250768,
+    "latitude": 1.3351474,
+    "district": "Jurong East",
+    "area": "West Region"
+  },
+  {
+    "title": "Halloween parties and activities in Singapore",
+    "organiser": "The New Age Parents",
+    "blurb": "Halloween parties and activities in Singapore 2025",
+    "description": "Discover a variety of Halloween parties and activities happening in Singapore in 2025. Find spooky and fun events suitable for families, kids, and adults. From costume parties to haunted houses, there's something for everyone to enjoy. Explore different venues and locations offering unique Halloween experiences. Plan your Halloween celebrations in advance to make the most of the festivities. Whether you're looking for thrilling adventures or family-friendly fun, Singapore has a wide range of Halloween events to choose from. Get ready for a memorable and spooky Halloween season!",
+    "guid": "https://thenewageparents.com/harbourfront-halloween/",
+    "activity_or_event": "event",
+    "url": "https://thenewageparents.com/harbourfront-halloween/",
+    "is_free": null,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Monastery Mid-Autumn Celebrations 2025",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Singapore",
+    "label_tag": null,
+    "Keyword_tag": "Halloween, parties, activities, Singapore",
+    "full_address": "5 Mayo St, Singapore 208305",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2012/07/primary-school-in-singapore-300x183.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2024/10/Halloween-at-Woodgrove-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/09/Jurong-Lake-Gardens-Mid-Autumn-Food-Market-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/Halloween-Party-2025-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/09/Lian-Shan-Shuang-Lin-Monastery-Mid-Autumn-1-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      }
+    ],
+    "id": 902,
+    "longitude": 103.8537997,
+    "latitude": 1.3039557,
+    "district": "Rochor",
+    "area": "Central Region"
+  },
+  {
+    "title": "Lian Shan Shuang Lin Monastery Mid-Autumn Celebrations",
+    "organiser": "The New Age Parents",
+    "blurb": "Lian Shan Shuang Lin Monastery Mid-Autumn Celebrations 2025",
+    "description": "Experience the Mid-Autumn Celebrations at Lian Shan Shuang Lin Monastery in 2025. Enjoy traditional festivities, cultural performances, and beautiful lantern displays. This event offers a unique opportunity to immerse yourself in the rich heritage and traditions of the Mid-Autumn Festival. Explore the monastery grounds adorned with colorful lanterns and participate in various activities suitable for all ages. Celebrate the spirit of togetherness and harmony with family and friends. A memorable cultural experience awaits you at Lian Shan Shuang Lin Monastery during the Mid-Autumn season.",
+    "guid": "https://thenewageparents.com/harbourfront-halloween/",
+    "activity_or_event": "event",
+    "url": "https://thenewageparents.com/harbourfront-halloween/",
+    "is_free": null,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Monastery Mid-Autumn Celebrations 2025",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Lian Shan Shuang Lin Monastery",
+    "label_tag": null,
+    "Keyword_tag": "Mid-Autumn Celebrations, Lian Shan Shuang Lin Monastery",
+    "full_address": "184 Jalan Toa Payoh, Singapore 319944",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2012/07/primary-school-in-singapore-300x183.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2024/10/Halloween-at-Woodgrove-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/09/Jurong-Lake-Gardens-Mid-Autumn-Food-Market-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/Halloween-Party-2025-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      },
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/09/Lian-Shan-Shuang-Lin-Monastery-Mid-Autumn-1-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      }
+    ],
+    "id": 903,
+    "longitude": 103.85645679999999,
+    "latitude": 1.3298827,
+    "district": "Toa Payoh",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurong Lake Gardens Mid-Autumn Festival",
+    "organiser": "The New Age Parents",
+    "blurb": "Lights by the Lake at Jurong Lake Gardens.",
+    "description": "Enjoy the Mid-Autumn Festival at Jurong Lake Gardens with beautiful light displays and a festive atmosphere. This family-friendly event offers a chance to celebrate the season with stunning visual attractions and cultural experiences. Perfect for an evening stroll and photo opportunities, the festival provides a memorable experience for all ages. Explore the gardens illuminated with lanterns and themed installations, creating a magical environment for families to enjoy together. The event is designed to be accessible and engaging for both children and adults, making it a perfect outing for the whole family.",
+    "guid": "https://thenewageparents.com/harbourfront-halloween/",
+    "activity_or_event": "event",
+    "url": "https://thenewageparents.com/harbourfront-halloween/",
+    "is_free": null,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jurong Lake Gardens",
+    "label_tag": null,
+    "Keyword_tag": "Mid-Autumn Festival, Jurong Lake Gardens, family events, light displays, cultural experiences",
+    "full_address": "Yuan Ching Rd",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/09/Jurong-Lake-Gardens-Mid-Autumn-Food-Market-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      }
+    ],
+    "id": 904,
+    "longitude": 103.72645569999999,
+    "latitude": 1.3348491999999998,
+    "district": "Jurong East",
+    "area": "West Region"
+  },
+  {
+    "title": "Halloween Parties and Activities in Singapore 2025",
+    "organiser": "The New Age Parents",
+    "blurb": "Halloween celebrations for families in Singapore.",
+    "description": "Explore a variety of Halloween parties and activities perfect for families in Singapore. From spooky themed events to fun-filled gatherings, discover the best ways to celebrate Halloween with your kids. Enjoy trick-or-treating, costume contests, and other exciting activities designed for a memorable family experience. Find the perfect Halloween adventure for your family and create lasting memories together. This guide provides a comprehensive list of Halloween events suitable for all ages, ensuring a safe and enjoyable celebration for everyone.",
+    "guid": "https://thenewageparents.com/harbourfront-halloween/",
+    "activity_or_event": "event",
+    "url": "https://thenewageparents.com/harbourfront-halloween/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Monastery Mid-Autumn Celebrations 2025",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": null,
+    "label_tag": null,
+    "Keyword_tag": "Halloween parties, family activities, Singapore events, Halloween celebrations, kids events",
+    "full_address": "667B Jurong West Street 65, Singapore 642667",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://thenewageparents.com/wp-content/uploads/2025/10/Halloween-Party-2025-300x200.jpg",
+        "source_credit": "The New Age Parents"
+      }
+    ],
+    "id": 905,
+    "longitude": 103.7018187,
+    "latitude": 1.3410294999999999,
+    "district": "Jurong West",
+    "area": "West Region"
+  },
+  {
+    "title": "The New Age Parents Venue and Activity Directory",
+    "organiser": "The New Age Parents",
+    "blurb": "Find parenting resources, events, and support groups.",
+    "description": "The New Age Parents offers a comprehensive directory of resources for parents in Singapore, including articles, contests, events, promotions, reviews, and support groups. Explore various categories such as parenting tips, expert advice, e-books, and online communities. Stay updated with the latest parenting trends and connect with other parents through their network.",
+    "guid": "https://thenewageparents.com/harbourfront-halloween/",
+    "activity_or_event": "activity",
+    "url": "https://thenewageparents.com/harbourfront-halloween/",
+    "is_free": null,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "The New Age Parents",
+    "label_tag": null,
+    "Keyword_tag": "Parenting, family, kids, events, activities, Singapore",
+    "full_address": "Blk 18 Boon Lay Way #10-140F Tradehub 21, Singapore, Singapore 609966",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://thenewageparents.com/wp-content/themes/classipress/images/nap_fb.png",
+        "source_credit": "The New Age Parents"
+      }
+    ],
+    "id": 906,
+    "longitude": 103.75375009999999,
+    "latitude": 1.3273735,
+    "district": "Clementi",
+    "area": "West Region"
+  }
+]

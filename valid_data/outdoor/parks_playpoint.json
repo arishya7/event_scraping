@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Playpoint - parks: Enhancing Beauty of Nature",
+    "organiser": "Playpoint",
+    "blurb": "Playgrounds inspired by nature, enhancing beauty.",
+    "description": "Our playgrounds are inspired by the environment, the trees, insects, flowers and fields all around us. And our installations serve to enhance the beauty of nature. We’ve decorated Gardens by the Bay with wooden Riva benches, and brought outdoor gyms to kids at Yishun Nature Park. Our Origami playground sculpture in Malaysia is an inspired creation, and our playground at West Coast Park is a favourite amongst families.",
+    "guid": "https://playpoint.asia/projects/parks/?filter-country=singapore",
+    "activity_or_event": "activity",
+    "url": "https://playpoint.asia/projects/parks/?filter-country=singapore",
+    "price_display_teaser": "Contact for pricing",
+    "price_display": "Please contact for pricing",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Gardens by the Bay, Yishun Nature Park, West Coast Park",
+    "full_address": "no projects All Indonesia Malaysia Philippines Singapore Location: All Indonesia Malaysia Philippines Singapore Woodlands Crescent Park Yew Tee Lifestyle Corridor Rivervale Shores Get in touch PLAYPOINT (Singapore) Pte Ltd 71 Ubi Crescent #04-01 Excalibur Centre Singapore 408571 T: +65 6398 1558 F: +65 6398 1559 info@playpoint",
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://playpoint.asia/wp-content/uploads/WCP_Feat01.jpg",
+        "source_credit": "Playpoint"
+      },
+      {
+        "url": "https://playpoint.asia/wp-content/uploads/OilDrums_feat02.jpg",
+        "source_credit": "Playpoint"
+      },
+      {
+        "url": "https://playpoint.asia/wp-content/uploads/LandBirds_Feat02.jpg",
+        "source_credit": "Playpoint"
+      }
+    ]
+  },
+  {
+    "title": "Woodlands Crescent Park Playground Adventure",
+    "organiser": "Playpoint",
+    "blurb": "Explore nature-inspired play at Woodlands Crescent Park.",
+    "description": "Woodlands Crescent Park offers a nature-inspired playground experience for children and families. The park features play equipment designed to blend seamlessly with the natural environment, encouraging kids to explore, climb, and engage in imaginative play. With a focus on outdoor fun and physical activity, Woodlands Crescent Park provides a safe and stimulating environment for children of all ages to enjoy the beauty of nature while staying active. It's a great place for families to spend quality time together in a green and vibrant setting, fostering a love for the outdoors.",
+    "guid": "https://playpoint.asia/projects/parks/?filter-country=singapore",
+    "activity_or_event": "activity",
+    "url": "https://playpoint.asia/projects/parks/?filter-country=singapore",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Woodlands Crescent Park",
+    "full_address": "Singapore 408571",
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://playpoint.asia/wp-content/uploads/WCP_Feat01.jpg",
+        "source_credit": "Playpoint"
+      }
+    ]
+  },
+  {
+    "title": "Yew Tee Lifestyle Corridor Outdoor Fun Zone",
+    "organiser": "Playpoint",
+    "blurb": "Discover outdoor activities at Yew Tee Lifestyle Corridor.",
+    "description": "Yew Tee Lifestyle Corridor is an outdoor space offering various recreational activities for families and individuals. The corridor features outdoor fitness equipment, walking paths, and potentially play areas for children. It provides a space for the community to engage in physical activity and enjoy the outdoors. With a focus on promoting a healthy and active lifestyle, Yew Tee Lifestyle Corridor offers a range of amenities for people of all ages to stay fit and have fun. It's a great place for families to spend time together, exercise, and enjoy the natural surroundings.",
+    "guid": "https://playpoint.asia/projects/parks/?filter-country=singapore",
+    "activity_or_event": "activity",
+    "url": "https://playpoint.asia/projects/parks/?filter-country=singapore",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Yew Tee Lifestyle Corridor",
+    "full_address": "Singapore 408571",
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://playpoint.asia/wp-content/uploads/OilDrums_feat02.jpg",
+        "source_credit": "Playpoint"
+      }
+    ]
+  }
+]

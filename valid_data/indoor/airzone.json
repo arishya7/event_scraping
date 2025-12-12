@@ -1,0 +1,52 @@
+[
+  {
+    "title": "AIRZONE - World's First Indoor Atrium Net Playground",
+    "organiser": "AIRZONE",
+    "blurb": "Bouncy nets spanning levels 2 to 6 of the mall atrium.",
+    "description": "AIRZONE is the world's first indoor atrium net playground. It features bouncy nets that span levels 2 to 6 of the mall atrium, slides to connect one level to the next, and various activities to enjoy. Visitors can explore different zones within the net structure, offering a unique and thrilling experience for families and children. It's a great place for kids and adults to have fun and be active in a safe and engaging environment. The playground provides a memorable adventure for all ages.",
+    "guid": "https://airzone.sg/",
+    "activity_or_event": "activity",
+    "url": "https://airzone.sg/",
+    "price_display_teaser": "From SGD",
+    "price_display": "From S$29",
+    "price": 29.0,
+    "age_group_display": "All ages",
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "mono WORLD'S FIRST INDOOR ATRIUM NET PLAYGROUND With bouncy nets that span levels 2 to 6 of the mall atrium, slides to connect one level to the next, and various activities to enjoy",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "AIRZONE",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": []
+  },
+  {
+    "title": "AIRZONE - Indoor Net Adventure at City Square Mall",
+    "organiser": "AIRZONE",
+    "blurb": "An indoor net adventure at City Square Mall.",
+    "description": "AIRZONE is an indoor net adventure park situated in City Square Mall, offering a unique experience for all ages. Suspended high above the ground, the nets provide a thrilling yet safe environment to climb, bounce, and explore. Visitors can enjoy various activities such as sliding down a giant slide, navigating through the suspended maze, or simply relaxing and taking in the views. AIRZONE is perfect for families, friends, and anyone looking for an exciting and memorable adventure. It combines physical activity with fun, making it an ideal destination for a day out. The nets are designed to be safe and secure, ensuring a worry-free experience for all participants. Suitable for all ages.",
+    "guid": "https://airzone.sg/",
+    "activity_or_event": "activity",
+    "url": "https://airzone.sg/",
+    "price_display_teaser": "Contact for pricing",
+    "price_display": "Please contact for pricing",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "City Square Mall",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": []
+  }
+]

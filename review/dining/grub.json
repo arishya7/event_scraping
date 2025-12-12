@@ -1,0 +1,74 @@
+[
+  {
+    "title": "GRUB at Bishan Park - Family-Friendly Restaurant",
+    "organiser": "GRUB",
+    "blurb": "Dine amidst nature at Bishan Park River Plains.",
+    "description": "GRUB at Bishan Park River Plains offers a family-friendly dining experience with a diverse menu suitable for all ages. Enjoy a relaxed atmosphere with options for breakfast, lunch, and dinner. Perfect for a casual meal with the family, GRUB provides a welcoming environment and tasty food. Located in Bishan Park, it's a great choice for families enjoying the park. With a focus on quality ingredients and friendly service, GRUB ensures a pleasant dining experience for everyone. The menu includes a variety of options to cater to different tastes, ensuring that even the pickiest eaters will find something they enjoy. The restaurant also offers special menus for different times of the day, providing a range of choices for breakfast, lunch, and dinner.",
+    "guid": "https://grub.com.sg/#locations",
+    "activity_or_event": "activity",
+    "url": "https://grub.com.sg/#locations",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 15.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Weekdays: 11am - 10pm, Weekends/PH: 8.30am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Bishan Park",
+    "full_address": "1380 Ang Mo Kio Ave 1, Singapore 569930",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://grub.com.sg/wp-content/uploads/2024/07/3-_-Grub-SG-_-Grub-Pasta-Kitchen-_-Small-Res.jpg",
+        "source_credit": "GRUB"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "GRUB at Stevens - Family-Friendly Restaurant",
+    "organiser": "GRUB",
+    "blurb": "Enjoy delicious meals and a welcoming atmosphere at GRUB.",
+    "description": "GRUB at Bishan Park River Plains offers a family-friendly dining experience with a diverse menu suitable for all ages. Enjoy a relaxed atmosphere with options for breakfast, lunch, and dinner. Perfect for a casual meal with the family, GRUB provides a welcoming environment and tasty food. Located in Bishan Park, it's a great choice for families enjoying the park. With a focus on quality ingredients and friendly service, GRUB ensures a pleasant dining experience for everyone. The menu includes a variety of options to cater to different tastes, ensuring that even the pickiest eaters will find something they enjoy. The restaurant also offers special menus for different times of the day, providing a range of choices for breakfast, lunch, and dinner.",
+    "guid": "https://grub.com.sg/#locations",
+    "activity_or_event": "activity",
+    "url": "https://grub.com.sg/#locations",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 10.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 12pm – 11pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "GRUB Restaurant",
+    "full_address": "Singapore 257840",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\GRUB_at_Stevens___Family_Friendly_Restaurant_1.jpg",
+        "filename": "GRUB_at_Stevens___Family_Friendly_Restaurant_1.jpg",
+        "original_url": "https://grub.com.sg/#locations",
+        "source_credit": "grub"
+      },
+      {
+        "url": "https://grub.com.sg/wp-content/uploads/2022/01/Grub-Fish-Burger-Landscape_LR-610x407.jpg",
+        "source_credit": "GRUB"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

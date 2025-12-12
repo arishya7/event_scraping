@@ -1,0 +1,36 @@
+[
+  {
+    "title": "PS.Cafe East Coast Park - Seaside Dining Venue",
+    "organiser": "PS.Cafe",
+    "blurb": "Bright, airy space with seaside-inspired design.",
+    "description": "PS.Cafe By The Sea, located in East Coast Park, offers a laid-back summer beach house vibe with white-washed walls and ocean blue upholstery. The menu features PS. classics and an extensive selection of seafood dishes. Guests can enjoy their meal inside with sea views or outdoors in the breezy patio dining area. Perfect for lazy brunches or evening dining. Reservations are not available on weekends and public holidays until 5.30pm, walk-ins are welcome during these times.",
+    "guid": "https://www.pscafe.com/pscafe-east-coast-park",
+    "activity_or_event": "event",
+    "url": "https://www.pscafe.com/pscafe-east-coast-park",
+    "price_display_teaser": "Contact for pricing",
+    "price_display": "Please contact for pricing",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Sunday - Thursday & Public Holidays 8.00am - 10.00pm, Friday, Saturday & Eve of Public Holidays 8.00am - 10.30pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "PS.Cafe East Coast Park",
+    "full_address": "Make a Reservation CONCIERGE : +65 6708 9288 / WHATSAPP (Concierge Operating Hours : 10am to 10pm daily) Address: 1110 East Coast Parkway, Cyclist Park, 01-05/06/07 Singapore 449880 Directions HOURS: Sunday - Thursday & Public Holidays 8",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5326c064e4b011eeaa057a38/1753069973335-VJ10ABSJD1Q6K8BNULZQ/ECP%2C+GW%2C+HAR+Brunch+Website+Banner-02.png",
+        "source_credit": "PS.Cafe"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5326c064e4b011eeaa057a38/1753069973335-VJ10ABSJD1Q6K8BNULZQ/ECP%2C+GW%2C+HAR+Brunch+Website+Banner-02.png?format=1500w",
+        "source_credit": "PS.Cafe"
+      }
+    ]
+  }
+]

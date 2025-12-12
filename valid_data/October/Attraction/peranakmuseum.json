@@ -1,0 +1,466 @@
+[
+  {
+    "title": "Peranakan Museum: Exploring Culture and Heritage",
+    "organiser": "National Heritage Board",
+    "blurb": "Discover Peranakan culture through art and exhibitions.",
+    "description": "The Peranakan Museum showcases the rich cultural heritage of the Peranakan community through a diverse collection of artifacts, textiles, and interactive exhibits. Visitors can explore the unique traditions, customs, and artistry of the Peranakan people, gaining insights into their history and cultural significance. The museum offers a family-friendly environment with engaging displays suitable for all ages. Explore the Peacock Power exhibition, showcasing beauty and symbolism across cultures. Daily guided tours are available to enhance your visit and provide deeper understanding of the exhibits. The museum aims to preserve and promote Peranakan culture for future generations.",
+    "guid": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "activity_or_event": "activity",
+    "url": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$15",
+    "price": 15.0,
+    "min_price": 15.0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Open daily from 10am - 7pm, Friday from 10am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Peranakan Museum",
+    "label_tag": null,
+    "Keyword_tag": "Peranakan Museum, culture, heritage, exhibitions, art, traditions, customs, artistry, Peacock Power, guided tours",
+    "full_address": "39 Armenian St, Singapore 179941",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nhb.gov.sg/peranakanmuseum/-/media/tpm2023/images/homepage/homepage-banner-840x1120.jpg",
+        "source_credit": "National Heritage Board"
+      }
+    ],
+    "id": 778,
+    "longitude": 103.8490391,
+    "latitude": 1.2943669,
+    "district": "Museum",
+    "area": "Central Region"
+  },
+  {
+    "title": "Peranakan Museum Special Exhibition: Peacock Power",
+    "organiser": "National Heritage Board",
+    "blurb": "Beauty and Symbolism Across Cultures exhibition.",
+    "description": "With its dazzling feathers and spectacular tail, the peacock has long symbolised beauty, power, and divinity across Asia. Its image travelled widely, inspiring sacred imagery, luxury ornament, and everyday adornment. Shaped by diverse cultural influences, Peranakan art provides an ideal starting point for this journey. Each object invites us to consider how a motif moved between regions and contexts, revealing the networks that connect peoples and how artistic traditions evolve through exchange. ",
+    "guid": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "activity_or_event": "event",
+    "url": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "is_free": null,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": "31-Oct to 30-Aug",
+    "datetime_display": "31 Oct 2025 – 30 Aug 2026",
+    "start_datetime": "2025-10-31T00:00:00+08:00",
+    "end_datetime": "2026-08-30T00:00:00+08:00",
+    "venue_name": "Peranakan Museum",
+    "label_tag": null,
+    "Keyword_tag": "Peranakan art, cultural exhibition, peacock symbolism, Asian art, heritage",
+    "full_address": "39 Armenian St, Singapore 179941",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nhb.gov.sg/peranakanmuseum/-/media/tpm2023/images/whatson/exhibitions/peacock-power/peacock_thumbnail.jpg",
+        "source_credit": "National Heritage Board"
+      },
+      {
+        "url": "https://www.nhb.gov.sg/peranakanmuseum/-/media/tpm2023/images/whatson/programmes/singapore-night-festival-2025/snf2025-kv.png",
+        "source_credit": "National Heritage Board"
+      },
+      {
+        "url": "https://www.nhb.gov.sg/peranakanmuseum/-/media/tpm2023/images/whatson/programmes/daily-guided-tours_450x600.jpg",
+        "source_credit": "National Heritage Board"
+      }
+    ],
+    "id": 779,
+    "longitude": 103.8490391,
+    "latitude": 1.2943669,
+    "district": "Museum",
+    "area": "Central Region"
+  },
+  {
+    "title": "Paradise Island at Armenian Street",
+    "organiser": "National Heritage Board",
+    "blurb": "Singapore Night Festival at Peranakan Museum.",
+    "description": "Meet us at Paradise Island – golden hours, endless vibes. Inspired by objects and motifs from the Peranakan Museum, this hidden paradise comes to life through contemporary art, conversations, and collaboration.",
+    "guid": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "activity_or_event": "event",
+    "url": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "is_free": null,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": "22-Aug to 06-Sep",
+    "datetime_display": "22 AUG to 6 SEP, 7PM—12AM; Programmes: 22 & 23 AUG, 29 & 30 AUG, 7—11PM; Museum extended hours: 5 & 6 SEP, 7–11pm",
+    "start_datetime": "2025-08-22T19:00:00+08:00",
+    "end_datetime": "2025-09-06T23:59:59+08:00",
+    "venue_name": "Peranakan Museum",
+    "label_tag": null,
+    "Keyword_tag": "Night festival, Peranakan Museum, Armenian Street, art, culture",
+    "full_address": "2 Paradise Island, Singapore 098467",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nhb.gov.sg/peranakanmuseum/-/media/tpm2023/images/whatson/exhibitions/peacock-power/peacock_thumbnail.jpg",
+        "source_credit": "National Heritage Board"
+      },
+      {
+        "url": "https://www.nhb.gov.sg/peranakanmuseum/-/media/tpm2023/images/whatson/programmes/singapore-night-festival-2025/snf2025-kv.png",
+        "source_credit": "National Heritage Board"
+      },
+      {
+        "url": "https://www.nhb.gov.sg/peranakanmuseum/-/media/tpm2023/images/whatson/programmes/daily-guided-tours_450x600.jpg",
+        "source_credit": "National Heritage Board"
+      }
+    ],
+    "id": 780,
+    "longitude": 103.8441383,
+    "latitude": 1.2515592,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "Peranakan Museum Daily Guided Tours",
+    "organiser": "National Heritage Board",
+    "blurb": "Daily tours led by volunteer docents available.",
+    "description": "Daily Guided tours led by our volunteer docents are available daily.",
+    "guid": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "activity_or_event": "event",
+    "url": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "is_free": null,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Daily",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Peranakan Museum",
+    "label_tag": null,
+    "Keyword_tag": "Guided tours, Peranakan Museum, cultural tours, heritage",
+    "full_address": "39 Armenian St, Singapore 179941",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nhb.gov.sg/peranakanmuseum/-/media/tpm2023/images/whatson/exhibitions/peacock-power/peacock_thumbnail.jpg",
+        "source_credit": "National Heritage Board"
+      },
+      {
+        "url": "https://www.nhb.gov.sg/peranakanmuseum/-/media/tpm2023/images/whatson/programmes/singapore-night-festival-2025/snf2025-kv.png",
+        "source_credit": "National Heritage Board"
+      },
+      {
+        "url": "https://www.nhb.gov.sg/peranakanmuseum/-/media/tpm2023/images/whatson/programmes/daily-guided-tours_450x600.jpg",
+        "source_credit": "National Heritage Board"
+      }
+    ],
+    "id": 781,
+    "longitude": 103.8490391,
+    "latitude": 1.2943669,
+    "district": "Museum",
+    "area": "Central Region"
+  },
+  {
+    "title": "Peacock Power: Beauty and Symbolism Across Cultures",
+    "organiser": "Peranakan Museum",
+    "blurb": "Dazzling feathers symbolise beauty, power across Asia.",
+    "description": "The peacock, with its dazzling feathers and spectacular tail, has long symbolised beauty, power, and divinity across Asia. Its image travelled widely, inspiring sacred imagery, luxury ornament, and everyday adornment. Shaped by diverse cultural influences, Peranakan art provides an ideal starting point for this journey. Each object invites us to consider how a motif moved between regions and contexts, revealing the networks that connect peoples and how artistic traditions evolve through exchange. The museum showcases how artistic traditions evolve through exchange, making it family-friendly.",
+    "guid": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "activity_or_event": "activity",
+    "url": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "is_free": null,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "sations, and collaboration",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Peranakan Museum",
+    "label_tag": null,
+    "Keyword_tag": "Peranakan art, Asian culture, cultural exhibition, family activities, museum visit",
+    "full_address": "119 Aljunied Ave 2, #01-46, Singapore 380119",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nhb.gov.sg/peranakanmuseum/-/media/tpm2023/images/whatson/exhibitions/peacock-power/peacock_thumbnail.jpg",
+        "source_credit": "Peranakan Museum"
+      }
+    ],
+    "id": 782,
+    "longitude": 103.8867004,
+    "latitude": 1.3202061999999999,
+    "district": "Geylang",
+    "area": "Central Region"
+  },
+  {
+    "title": "Peranakan Museum Daily Guided Tours Available",
+    "organiser": "National Heritage Board",
+    "blurb": "Guided tours led by volunteer docents are available daily.",
+    "description": "Explore the Peranakan Museum through daily guided tours led by knowledgeable volunteer docents. Discover the rich cultural heritage and traditions of the Peranakan community, including their unique customs, foods, languages, and beliefs. The galleries showcase how cultures interact and combine to produce something new and distinctive. Learn about Peranakan fashion, which has responded to the cosmopolitan environment of Southeast Asian port cities for centuries, bringing together diverse influences. Uncover the origins of Peranakan identity and the shared elements that exist across varied expressions. Perfect for families and individuals interested in history and culture.",
+    "guid": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "activity_or_event": "activity",
+    "url": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Daily",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Peranakan Museum",
+    "label_tag": null,
+    "Keyword_tag": "Peranakan culture, guided tours, museum, heritage, family activities",
+    "full_address": "39 Armenian St, Singapore 179941",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nhb.gov.sg/peranakanmuseum/-/media/tpm2023/images/whatson/programmes/daily-guided-tours_450x600.jpg",
+        "source_credit": "National Heritage Board"
+      }
+    ],
+    "id": 783,
+    "longitude": 103.8490391,
+    "latitude": 1.2943669,
+    "district": "Museum",
+    "area": "Central Region"
+  },
+  {
+    "title": "GALLERIES: Family & Community Life Exhibition",
+    "organiser": "National Heritage Board",
+    "blurb": "Peranakan customs, foods, languages, and beliefs.",
+    "description": "Explore how cultures interact and combine to produce something new, different, and distinctive, revealing a range of Peranakan customs, foods, languages, and beliefs. Discover the unique blend of traditions and influences that shape Peranakan identity. The exhibition showcases the rich heritage through various artifacts and stories, offering insights into the community's evolution. Perfect for families and individuals interested in cultural diversity and historical narratives. Engage with interactive displays and learn about the significance of family and community in Peranakan culture.",
+    "guid": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "activity_or_event": "activity",
+    "url": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "is_free": null,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Peranakan Museum",
+    "label_tag": null,
+    "Keyword_tag": "Peranakan culture, family life, community, heritage, traditions",
+    "full_address": "1 Engku Aman Turn, Singapore 408528",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nhb.gov.sg/peranakanmuseum/-/media/tpm2023/images/homepage/family-community-1000x750.jpg",
+        "source_credit": "National Heritage Board"
+      }
+    ],
+    "id": 784,
+    "longitude": 103.89656889999999,
+    "latitude": 1.3164938,
+    "district": "Geylang",
+    "area": "Central Region"
+  },
+  {
+    "title": "GALLERIES: Fashion Exhibition at Peranakan Museum",
+    "organiser": "National Heritage Board",
+    "blurb": "Diverse influences in Peranakan fashion over centuries.",
+    "description": "Explore the evolution of Peranakan fashion, which has responded to the cosmopolitan environment of port cities in Southeast Asia for centuries by bringing together diverse influences. The exhibition showcases the intricate designs and cultural significance of Peranakan attire. Perfect for fashion enthusiasts and those interested in cultural heritage. Discover the unique blend of styles and materials that define Peranakan fashion. Engage with historical garments and learn about the stories behind them. A fascinating journey through the sartorial history of the Peranakan community.",
+    "guid": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "activity_or_event": "activity",
+    "url": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "is_free": null,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Peranakan Museum",
+    "label_tag": null,
+    "Keyword_tag": "Peranakan fashion, cultural influences, Southeast Asia, heritage",
+    "full_address": "39 Armenian St, Singapore 179941",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nhb.gov.sg/peranakanmuseum/-/media/tpm2023/images/homepage/fashion-1000x750.jpg",
+        "source_credit": "National Heritage Board"
+      }
+    ],
+    "id": 785,
+    "longitude": 103.8490391,
+    "latitude": 1.2943669,
+    "district": "Museum",
+    "area": "Central Region"
+  },
+  {
+    "title": "GALLERIES: Origins Exhibition at Peranakan Museum",
+    "organiser": "National Heritage Board",
+    "blurb": "Tracing cultural influences in Peranakan identity.",
+    "description": "Explore the origins of Peranakan identity and trace the different cultural influences that have shaped it. The exhibition delves into the question of what makes someone or something Peranakan, examining the varied expressions and shared elements within the community. Perfect for those interested in cultural studies and historical analysis. Discover the diverse roots and unique characteristics of Peranakan culture. Engage with artifacts and stories that highlight the blend of traditions and influences. A journey through the historical and cultural foundations of the Peranakan community.",
+    "guid": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "activity_or_event": "activity",
+    "url": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "is_free": null,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Peranakan Museum",
+    "label_tag": null,
+    "Keyword_tag": "Peranakan origins, cultural influences, identity, heritage, history",
+    "full_address": "39 Armenian St, Singapore 179941",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nhb.gov.sg/peranakanmuseum/-/media/tpm2023/images/homepage/origins-gallery-1000x750.jpg",
+        "source_credit": "National Heritage Board"
+      }
+    ],
+    "id": 786,
+    "longitude": 103.8490391,
+    "latitude": 1.2943669,
+    "district": "Museum",
+    "area": "Central Region"
+  },
+  {
+    "title": "Peranakan Museum Digital Resources",
+    "organiser": "National Heritage Board",
+    "blurb": "Explore Peranakan culture through videos and articles.",
+    "description": "Discover Peranakan culture through a variety of digital resources. Access videos showcasing Peranakan traditions, activity materials like books and worksheets, and articles featuring recipes and stories. Immerse yourself in the rich heritage of the Peranakan community through these engaging online resources. Perfect for families and individuals interested in learning more about Peranakan culture. Explore the history, art, and traditions of the Peranakan people through these accessible digital materials. Suitable for all ages and interests, these resources offer a comprehensive introduction to Peranakan heritage.",
+    "guid": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "activity_or_event": "activity",
+    "url": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Peranakan Museum",
+    "label_tag": null,
+    "Keyword_tag": "Peranakan culture, Peranakan museum, videos, activity materials, books, worksheets, articles, recipes, stories, heritage, traditions",
+    "full_address": "39 Armenian St, Singapore 179941",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nhb.gov.sg/peranakanmuseum/-/media/tpm2023/images/homepage/activitymaterials-420x560.jpg",
+        "source_credit": "National Heritage Board"
+      }
+    ],
+    "id": 787,
+    "longitude": 103.8490391,
+    "latitude": 1.2943669,
+    "district": "Museum",
+    "area": "Central Region"
+  },
+  {
+    "title": "Peranakan Museum: Discover Peranakan Heritage",
+    "organiser": "National Heritage Board",
+    "blurb": "Explore Peranakan culture through stories and artifacts.",
+    "description": "The Peranakan Museum showcases the rich cultural heritage of the Peranakan community, descendants of Chinese immigrants who married local women in Southeast Asia. The museum features a diverse collection of artifacts, including intricate beadwork, traditional costumes, furniture, and ceramics, offering insights into Peranakan customs, beliefs, and artistic traditions. Visitors can explore themed galleries that delve into various aspects of Peranakan life, such as weddings, cuisine, and religion. The museum also hosts educational programs and cultural events, providing an engaging experience for families and individuals interested in learning about this unique cultural group.",
+    "guid": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "activity_or_event": "activity",
+    "url": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "is_free": null,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Peranakan Museum",
+    "label_tag": null,
+    "Keyword_tag": "Peranakan culture, museum, heritage, artifacts, Southeast Asia, traditions, Peranakan life, cultural events, education",
+    "full_address": "39 Armenian St, Singapore 179941",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nhb.gov.sg/peranakanmuseum/-/media/tpm2023/images/homepage/our-peranakan-stories-bebeseet.png",
+        "source_credit": "National Heritage Board"
+      }
+    ],
+    "id": 788,
+    "longitude": 103.8490391,
+    "latitude": 1.2943669,
+    "district": "Museum",
+    "area": "Central Region"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Pororo Park Singapore - An Immersive Experience",
+    "organiser": "Pororo Park Singapore",
+    "blurb": "An indoor playground with Pororo & friends!",
+    "description": "Pororo Park Singapore offers an immersive and engaging experience for young children and families. Featuring themed play areas, live shows, and educational activities, the park provides a fun and safe environment for kids to explore and interact with their favorite Pororo characters. The park includes play zones, a cafe, and a retail area, making it a comprehensive destination for a family outing. Designed for children aged 1 to 8, Pororo Park Singapore aims to create memorable moments and foster learning through play. With various attractions and interactive exhibits, children can develop their social, emotional, and cognitive skills while having fun.",
+    "guid": "https://pororoparksg.com/",
+    "activity_or_event": "activity",
+    "url": "https://pororoparksg.com/",
+    "price_display_teaser": "Contact for pricing",
+    "price_display": "Please contact for pricing",
+    "price": 0.0,
+    "age_group_display": "1 to 8 years",
+    "min_age": 1.0,
+    "max_age": 8.0,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Pororo Park Singapore",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://pororoparksg.com/wp-content/themes/pororo/assets/img/home/close.png",
+        "source_credit": "Pororo Park Singapore"
+      },
+      {
+        "url": "https://s.w.org/images/core/emoji/16.0.1/svg/1f6a8.svg",
+        "source_credit": "Pororo Park Singapore"
+      }
+    ]
+  }
+]

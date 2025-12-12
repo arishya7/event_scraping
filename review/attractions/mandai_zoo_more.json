@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Wild Wonders @ Singapore Zoo",
+    "organiser": "Mandai Wildlife Reserve",
+    "blurb": "Let your knowledge of the animal kingdom shine!",
+    "description": "Step into the wild as the Singapore Zoo transforms into a living, breathing game board. In Wild Wonders: The Ultimate Animal Showdown, your child becomes a wildlife strategist - choosing animal teammates, completing fun missions across the zoo, and building the ultimate trump card deck. It’s a high-energy, brain-boosting adventure packed with teamwork, critical thinking, and immersive animal discovery. Along the way, children tackle challenges focused on key survival traits like mobility, defence, hunting and foraging. From Orangutans that use tools to Sun Bears with foraging superpowers, your child will discover real animal abilities while having a blast outdoors and connecting with nature. The day ends in an ultimate final card battle - will strategy, smarts, and wild instincts lead their team to victory?",
+    "guid": "https://zooschool.mandai.com/programme/wild-wonders-singapore-zoo-144",
+    "activity_or_event": "event",
+    "url": "https://zooschool.mandai.com/programme/wild-wonders-singapore-zoo-144",
+    "price_display_teaser": "From $70",
+    "price_display": "$70",
+    "price": 0.0,
+    "age_group_display": "5 to 12 years old",
+    "min_age": 5.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Recurring Sat",
+    "datetime_display": "04, 11, 25 October 2025, 9:30am - 12pm",
+    "start_datetime": "2025-10-04T09:30:00",
+    "end_datetime": "2025-10-25T12:00:00",
+    "venue_name": "Singapore Zoo",
+    "full_address": "80 Mandai Lake Road, Singapore 729826",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://mandai-s3-bucket-live.s3.ap-southeast-1.amazonaws.com/ClassImages/1753230468915_banner.jpg",
+        "source_credit": "Mandai Wildlife Reserve"
+      },
+      {
+        "url": "https://mandai-s3-bucket-live.s3.ap-southeast-1.amazonaws.com/ProgrammeHighlight/144/1753230612991.jpg",
+        "source_credit": "Mandai Wildlife Reserve"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

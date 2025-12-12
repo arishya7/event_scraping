@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Marché Mövenpick Family Dining Experience",
+    "organiser": "Marché Restaurants Singapore",
+    "blurb": "Enjoy fresh market fare with a special kids' menu!",
+    "description": "Marché Mövenpick offers a family-friendly dining experience where parents can enjoy fresh market cuisine while kids can choose from the Picky Kids’ Menu. The restaurant provides a relaxed atmosphere suitable for families with young children. The Picky Kids' Menu includes a variety of options designed to appeal to children's tastes, ensuring a satisfying meal for everyone. The restaurant focuses on fresh ingredients and a welcoming environment for families to dine together. The family special is available all day, making it a convenient option for lunch or dinner. The restaurant aims to provide a pleasant and stress-free dining experience for families.",
+    "guid": "https://www.marche-restaurants.sg/en/extra-service/family",
+    "activity_or_event": "activity",
+    "url": "https://www.marche-restaurants.sg/en/extra-service/family",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon - Thu: 11am - 9:30pm, Fri: 11am - 10:30pm, Sat: 10am - 10:30pm, Sun: 10am - 9:30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Marché Mövenpick 313@somerset",
+    "full_address": "313@somerset, 01-40 Level 1 Discovery Walk  238895",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\March__M_venpick_Family_Dining_Experience_1.jpg",
+        "filename": "March__M_venpick_Family_Dining_Experience_1.jpg",
+        "original_url": "https://www.marche-restaurants.sg/en/extra-service/family",
+        "source_credit": "marche"
+      },
+      {
+        "url": "https://media.marche-restaurants.com/karmarun//image/upload/q_60,w_2400,h_1214,c_fill/marche/BkDGHNlnH-Pastakidsxxxxxx_i010191.jpg",
+        "source_credit": "Marché Restaurants Singapore"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Marché Mövenpick Restaurants - Picky Kids’ Menu",
+    "organiser": "Marché Mövenpick",
+    "blurb": "Family-friendly dining options available for kids.",
+    "description": "Marché Mövenpick Restaurants offer a Picky Kids’ Menu designed to cater to the tastes of younger diners. The menu includes a variety of options suitable for children, ensuring a pleasant dining experience for the whole family. The restaurants provide a welcoming atmosphere for families, making it a convenient choice for parents looking for a place to eat with their kids. The Picky Kids’ Menu aims to provide balanced and appealing meals for children, with options that are both nutritious and enjoyable. The restaurants also offer a range of other dishes suitable for adults, ensuring that everyone in the family can find something to their liking. The focus is on fresh ingredients and quality preparation, providing a satisfying dining experience for all ages. The restaurants are designed to be family-friendly, with comfortable seating and a relaxed atmosphere.",
+    "guid": "https://www.marche-restaurants.sg/en/extra-service/family",
+    "activity_or_event": "activity",
+    "url": "https://www.marche-restaurants.sg/en/extra-service/family",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon - Thu: 11am - 10pm, Fri & PH Eve: 11am - 11pm, Sat: 10am - 11pm, Sun & PH: 10am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Suntec City (Tower 3)",
+    "full_address": "Temasek Blvd 3  Suntec City (Tower 3), #01-612 to 614  038983",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\March__M_venpick_Restaurants___Picky_Kids__Menu_1.jpg",
+        "filename": "March__M_venpick_Restaurants___Picky_Kids__Menu_1.jpg",
+        "original_url": "https://www.marche-restaurants.sg/en/our-locations/suntec-city",
+        "source_credit": "marche"
+      },
+      {
+        "url": "https://media.marche-restaurants.com/karmarun//image/upload/q_60,w_2400,h_1214,c_fill/marche/BkDGHNlnH-Pastakidsxxxxxx_i010191.jpg",
+        "source_credit": "Marché Mövenpick"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Marché Mövenpick Marketplace Picky Kids' Menu",
+    "organiser": "Marché Restaurants Singapore",
+    "blurb": "Healthy market options at a special price!",
+    "description": "Children (between 80cm to 140cm in height) get to choose from our healthy market options at a special price! Includes a 30cl of juice or soft drink and a fun-sized ice cream in a cone! Available at 313@somerset, Suntec City, and VivoCity.",
+    "guid": "https://www.marche-restaurants.sg/en/extra-service/family",
+    "activity_or_event": "activity",
+    "url": "https://www.marche-restaurants.sg/en/extra-service/family",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 18.9,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon - Thu: 11am - 9:30pm, Fri: 11am - 10:30pm, Sat: 10am - 10:30pm, Sun: 10am - 9:30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "VivoCity",
+    "full_address": "1 HarbourFront Walk  #03-14, VivoCity  098585",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_3\\images\\user_uploads\\March__M_venpick_Marketplace_Picky_Kids__Menu_1.jpg",
+        "filename": "March__M_venpick_Marketplace_Picky_Kids__Menu_1.jpg",
+        "original_url": "https://www.marche-restaurants.sg/en/extra-service/family",
+        "source_credit": "marche"
+      },
+      {
+        "local_path": "events_output\\event_3\\images\\user_uploads\\March__M_venpick_Marketplace_Picky_Kids__Menu_2.jpg",
+        "filename": "March__M_venpick_Marketplace_Picky_Kids__Menu_2.jpg",
+        "original_url": "https://www.marche-restaurants.sg/en/extra-service/family",
+        "source_credit": "marche"
+      },
+      {
+        "url": "https://media.marche-restaurants.com/karmarun//image/upload/q_60,h_400,c_fill/marche/BJaTAoZez-picky_mascot.png",
+        "source_credit": "Marché Restaurants Singapore"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

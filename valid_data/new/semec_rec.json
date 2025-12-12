@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Sembawang Eating House: A Culinary Adventure Awaits",
+    "organiser": "Sembawang Eating House",
+    "blurb": "Discover a world of flavors at Sembawang Eating House.",
+    "description": "Sembawang Eating House offers a diverse culinary experience with a wide array of food stalls. From local delights to international cuisine, there's something for everyone. Enjoy a family-friendly atmosphere with ample seating and a variety of options to satisfy all taste buds. Perfect for casual dining and exploring new flavors together. The venue provides a comfortable and accessible environment for families to enjoy a meal out. With a focus on quality and variety, Sembawang Eating House is a great place to create lasting memories over delicious food.",
+    "guid": "https://www.semec.com.sg/recreational-spaces",
+    "activity_or_event": "activity",
+    "url": "https://www.semec.com.sg/recreational-spaces",
+    "price_display_teaser": "Free",
+    "price_display": "From S$0 to $20",
+    "price": 0.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating Hours Vary",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Sembawang Eating House",
+    "full_address": "Not Available",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/a8e125_e22497c94d7b4a86b08a6e8d163807a0~mv2.jpg/v1/fill/w_2000,h_2000,q_100,enc_avif,quality_auto/a8e125_e22497c94d7b4a86b08a6e8d163807a0~mv2.jpg",
+        "source_credit": "Sembawang Eating House"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/a8e125_87d9e48b56e94eccb65761f7c92d3494~mv2_d_4896_3264_s_4_2.jpg/v1/fill/w_2000,h_2000,q_100,enc_avif,quality_auto/a8e125_87d9e48b56e94eccb65761f7c92d3494~mv2_d_4896_3264_s_4_2.jpg",
+        "source_credit": "Sembawang Eating House"
+      }
+    ]
+  },
+  {
+    "title": "Recreational Spaces for Community Engagement",
+    "organiser": "SEMEC",
+    "blurb": "Discover recreational spaces for community engagement.",
+    "description": "SEMEC offers a variety of recreational spaces designed to foster community engagement and provide opportunities for leisure and activities. These spaces include parks, playgrounds, and community centers, each equipped with amenities to support various recreational pursuits. Families can enjoy outdoor activities, children can play in safe and engaging environments, and community members can gather for events and programs. These spaces aim to enhance the quality of life and promote social interaction within the community. They provide a platform for people of all ages to connect, participate in recreational activities, and build a stronger sense of community. The recreational spaces are designed to be inclusive and accessible, ensuring that everyone can benefit from the opportunities they offer.",
+    "guid": "https://www.semec.com.sg/recreational-spaces",
+    "activity_or_event": "activity",
+    "url": "https://www.semec.com.sg/recreational-spaces",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Unknown",
+    "full_address": "Not Available",
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/a8e125_87d9e48b56e94eccb65761f7c92d3494~mv2_d_4896_3264_s_4_2.jpg/v1/fill/w_2000,h_2000,q_100,enc_avif,quality_auto/a8e125_87d9e48b56e94eccb65761f7c92d3494~mv2_d_4896_3264_s_4_2.jpg",
+        "source_credit": "SEMEC"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/a8e125_1d2406e4cf7345c1828679641be015db~mv2_d_4032_2526_s_4_2.jpg/v1/fill/w_2000,h_2000,q_100,enc_avif,quality_auto/a8e125_1d2406e4cf7345c1828679641be015db~mv2_d_4032_2526_s_4_2.jpg",
+        "source_credit": "SEMEC"
+      }
+    ]
+  }
+]

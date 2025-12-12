@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Westgate Wonderland Thematic Outdoor Playground",
+    "organiser": "Westgate",
+    "blurb": "Largest thematic outdoor playground in a mall!",
+    "description": "Westgate Wonderland is the largest thematic outdoor playground in a mall, offering numerous features to stretch the imagination of every child. It features a 10-metre tall tree house, enormous watering can, giant insects in beautiful detail, lily pads and flowers. Discover the fun that is larger-than-life because at this wonderland, it's Playtime All The Time! It is located at Level 4 and is open from 10am to 10pm daily. For children aged 2-12 years old and it is free-of-charge! Do note that the operating hours may change without prior notice due to weather conditions.",
+    "guid": "https://www.capitaland.com/sg/malls/westgate/en/stores/westgate-wonderland.html",
+    "activity_or_event": "activity",
+    "url": "https://www.capitaland.com/sg/malls/westgate/en/stores/westgate-wonderland.html",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": "2 to 12 years",
+    "min_age": 2.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "10am to 10pm daily",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Westgate Wonderland",
+    "full_address": "Not Available",
+    "categories": [
+      "Outdoor Playground",
+      "Mall related"
+    ],
+    "images": [
+      {
+        "url": "https://www.capitaland.com/content/dam/capitaland-sites/international/icon-globe.svg",
+        "source_credit": "Westgate"
+      },
+      {
+        "url": "https://www.capitaland.com/content/dam/capitaland-common/flags/sg.png",
+        "source_credit": "Westgate"
+      },
+      {
+        "url": "https://www.capitaland.com/content/dam/capitaland-common/flags/cn.png",
+        "source_credit": "Westgate"
+      },
+      {
+        "url": "https://www.capitaland.com/content/dam/capitaland-common/flags/in.png",
+        "source_credit": "Westgate"
+      },
+      {
+        "url": "https://www.capitaland.com/content/dam/capitaland-common/flags/au.png",
+        "source_credit": "Westgate"
+      }
+    ]
+  },
+  {
+    "title": "Westgate Wonderland",
+    "organiser": "CapitaLand",
+    "blurb": "An outdoor playground at Westgate for kids.",
+    "description": "Westgate Wonderland is an outdoor playground located on Level 4 of Westgate mall. It features a variety of play equipment suitable for children of different ages, including a giant tree house with slides, climbing structures, and water play areas. The playground is designed to provide a fun and engaging environment for kids to explore and play. It is a great place for families to spend time together and enjoy the outdoors. The playground is open daily and is free for all to use. Parents can relax and watch their children play in a safe and secure environment. Westgate Wonderland is a popular destination for families with young children in the Jurong East area.",
+    "guid": "https://www.capitaland.com/sg/malls/westgate/en/stores/westgate-wonderland.html",
+    "activity_or_event": "activity",
+    "url": "https://www.capitaland.com/sg/malls/westgate/en/stores/westgate-wonderland.html",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": null,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Daily",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Westgate",
+    "full_address": "Not Available",
+    "categories": [
+      "Outdoor Playground",
+      "Mall related"
+    ],
+    "images": [
+      {
+        "url": "https://www.capitaland.com/etc.clientlibs/capitaland/clientlibs/clientlib-site/resources/images/listing-container-arrow.svg",
+        "source_credit": "CapitaLand"
+      },
+      {
+        "url": "https://www.capitaland.com/sg/malls/westgate/en/stores/westgate-wonderland/_jcr_content/root/container/container/entitydetails.coreimg.png/content/dam/capitaland-sites/singapore/shop/malls/westgate/tenants/Westgate%20Wonderland_900x900px.png",
+        "source_credit": "CapitaLand"
+      }
+    ]
+  }
+]

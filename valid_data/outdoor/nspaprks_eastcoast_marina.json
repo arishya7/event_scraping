@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Marine Cove Playground at East Coast Park Area C",
+    "organiser": "NParks",
+    "blurb": "Enjoy views of the sea at this 3,500sqm playground.",
+    "description": "Marine Cove Playground offers a wide variety of play features, ranging from climbing nets and balance beams to swings and slides. Highlights include a lighthouse-inspired play tower with rope bridge, climbing nets and 3 slides. There are 2 toddler play areas designed for younger children with spinning wheels, crazy mirrors and a grass maze. Inclusive play equipment encourages those of different abilities to play together with swings and sensory play panels. Suitable for children of all ages, Marine Cove provides a fun and engaging experience for families.",
+    "guid": "https://www.nparks.gov.sg/visit/parks/east-coast-park/amenities/marine-cove",
+    "activity_or_event": "activity",
+    "url": "https://www.nparks.gov.sg/visit/parks/east-coast-park/amenities/marine-cove",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": "2 to 12 years",
+    "min_age": 2.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Open 24 hours",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Marine Cove Playground",
+    "full_address": "East Coast Park Area C (1000 East Coast Parkway, Singapore 449876)",
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://www.nparks.gov.sg/ResourcePackages/NParks/assets/dist/images/icon-sg-crest.svg",
+        "source_credit": "NParks"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/ResourcePackages/NParks/assets/dist/images/government_building.svg",
+        "source_credit": "NParks"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/ResourcePackages/NParks/assets/dist/images/lock.svg",
+        "source_credit": "NParks"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/ResourcePackages/NParks/assets/dist/images//lock.svg",
+        "source_credit": "NParks"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/images/default-source/default-album/_system/nparks-logo_no-tagline.svg?sfvrsn=3183528a_1",
+        "source_credit": "NParks"
+      }
+    ]
+  },
+  {
+    "title": "Lighthouse-inspired Play Tower at Marine Cove",
+    "organiser": "NParks",
+    "blurb": "An 8m (3-storey) tower with rope bridge and slides.",
+    "description": "Modelled after a lighthouse, this 8m (3-storey) tower at the centre of the playground comes with a rope bridge, climbing nets and 3 slides set at different levels. One of the slides is wide enough for parents to slide down with their child. This play tower offers a fun and engaging experience for children of various ages, promoting physical activity and imaginative play. Families can enjoy quality time together in this unique and interactive playground feature. The lighthouse design adds a touch of maritime charm to the park.",
+    "guid": "https://www.nparks.gov.sg/visit/parks/east-coast-park/amenities/marine-cove",
+    "activity_or_event": "activity",
+    "url": "https://www.nparks.gov.sg/visit/parks/east-coast-park/amenities/marine-cove",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Marine Cove, East Coast Park",
+    "full_address": "East Coast Park Area C (1000 East Coast Parkway, Singapore 449876)",
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": []
+  }
+]

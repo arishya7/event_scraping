@@ -1,0 +1,100 @@
+[
+  {
+    "title": "SkyPark by Kiztopia: Adventure and Fun for All Ages",
+    "organiser": "Kiztopia",
+    "blurb": "An elevated play experience with thrilling adventures.",
+    "description": "SkyPark by Kiztopia offers an exhilarating experience with a variety of play elements designed for different age groups. The park features climbing structures, slides, and interactive games that promote physical activity and imaginative play. It's a perfect destination for families looking for a fun and engaging day out. SkyPark is designed to provide a safe and stimulating environment where children can explore, learn, and create lasting memories. The park also hosts birthday parties and group events, making it a versatile venue for celebrations and gatherings. SkyPark is suitable for children of all ages.",
+    "guid": "https://kiztopia.com/brands/skypark/",
+    "activity_or_event": "activity",
+    "url": "https://kiztopia.com/brands/skypark/",
+    "price_display_teaser": "Contact for pricing",
+    "price_display": "Please contact for pricing",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friendly competition among participants",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "SkyPark by Kiztopia",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2023/11/SG_Country-Logos-Website-1196x330px-03.png",
+        "source_credit": "Kiztopia"
+      }
+    ]
+  },
+  {
+    "title": "SkyPark at Orchard Cineleisure: Sporty Indoor Fun",
+    "organiser": "Kiztopia",
+    "blurb": "Dynamic indoor play park with sporty concepts for all.",
+    "description": "SkyPark at Orchard Cineleisure is a dynamic indoor play park featuring sporty concepts like rock climbing and high elements, designed to challenge and inspire children and families. The main highlight is a multi-level play structure that gamifies challenges, fostering friendly competition. Additionally, there are vertical gyms and a ball pit for younger children. SkyPark promises an all-encompassing adventure, igniting physical prowess and creating lasting memories for kids and families of all ages. It's a great place for active kids and families to enjoy a fun-filled day out together.",
+    "guid": "https://kiztopia.com/brands/skypark/",
+    "activity_or_event": "activity",
+    "url": "https://kiztopia.com/brands/skypark/",
+    "price_display_teaser": "Free + Paid options",
+    "price_display": "From S$28 to S$48",
+    "price": 28.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friendly competition among participants",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Orchard Cineleisure",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2023/09/08-1.jpg",
+        "source_credit": "Kiztopia"
+      },
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2023/09/01a.jpg",
+        "source_credit": "Kiztopia"
+      }
+    ]
+  },
+  {
+    "title": "Kiztopia Marina Square: Book Your Play Session",
+    "organiser": "Kiztopia",
+    "blurb": "Book your play session at Kiztopia Marina Square!",
+    "description": "Kiztopia Marina Square offers a variety of play areas and activities for children of all ages. From thrilling slides to interactive games, there's something for everyone to enjoy. Our facilities are designed to provide a safe and stimulating environment where kids can learn, explore, and have fun. We offer various play zones, including a toddler area, a main play structure, and interactive learning stations. Our dedicated staff ensures a clean and well-maintained environment for your peace of mind. Kiztopia is committed to providing a memorable and enriching experience for families.",
+    "guid": "https://kiztopia.com/brands/skypark/",
+    "activity_or_event": "activity",
+    "url": "https://kiztopia.com/brands/skypark/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$28 to S$48",
+    "price": 28.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 14.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating Hours Vary",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Kiztopia Marina Square",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2021/11/pig_icon.png",
+        "source_credit": "Kiztopia"
+      },
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2021/11/cat_icon.png",
+        "source_credit": "Kiztopia"
+      }
+    ]
+  }
+]

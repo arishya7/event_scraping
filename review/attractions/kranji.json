@@ -1,0 +1,293 @@
+[
+  {
+    "title": "Nippon Koi Fish Farm, a serene aquatic haven",
+    "organiser": "Nippon Koi Fish Farm",
+    "blurb": "Selling Japanese Koi since 1980, outside of Japan.",
+    "description": "Nippon Koi Fish Farm, established in 1980, specializes in selling exclusively Japanese Koi, making it a long-standing dealer outside of Japan. The farm offers a comprehensive range of koi-related goods suitable for both Koi and ornamental ponds. Visitors are welcome to explore the farm, which has incorporated sustainable vegetable planting to enhance and innovate its practices. A must-try is their unique Spinach Ice Cream! The farm provides an engaging experience for families interested in aquatic life and sustainable farming practices, making it an ideal destination for a family outing.",
+    "guid": "https://www.kranjicountryside.com/attractions",
+    "activity_or_event": "activity",
+    "url": "https://www.kranjicountryside.com/attractions",
+    "price_display_teaser": "Free",
+    "price_display": "Free entry",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 8:30am - 7pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Nippon Koi Fish Farm",
+    "full_address": "51 Jalan Lekar, Singapore 698946",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Nippon_Koi_Fish_Farm__a_serene_aquatic_haven_1.jpg",
+        "filename": "Nippon_Koi_Fish_Farm__a_serene_aquatic_haven_1.jpg",
+        "original_url": "https://www.kranjicountryside.com/attractions",
+        "source_credit": "kranjicountryside"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Kok Fah Technology Farm: Witness farm technology",
+    "organiser": "Kok Fah Technology Farm",
+    "blurb": "Family-owned business selling leafy vegetables for 40 years.",
+    "description": "Kok Fah Technology Farm is a local family-owned business that has been selling leafy vegetables in Singapore for the past 40 years. The daily operations are managed by the 3rd and 4th generations of the family, including Mr. Wong Kok Fah and his three brothers, who took over from their father in 1979. The farm is open for tours and features a bustling weekend market on its premises. Visitors can witness technology in farming and sustainability practices. This farm offers an educational experience for families, showcasing modern agricultural techniques and promoting sustainable living.",
+    "guid": "https://www.kranjicountryside.com/attractions",
+    "activity_or_event": "activity",
+    "url": "https://www.kranjicountryside.com/attractions",
+    "price_display_teaser": "Free",
+    "price_display": "Free entry, $0.50 per fish feeding packet",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Recurring weekends",
+    "datetime_display": "Recurring weekends, 9am - 5pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Kok Fah Technology Farm",
+    "full_address": "18 Sungei Tengah Road Singapore 698974",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Kok_Fah_Technology_Farm__Witness_farm_technology_1.png",
+        "filename": "Kok_Fah_Technology_Farm__Witness_farm_technology_1.png",
+        "original_url": "https://kokfahfarm.com.sg/weekend-market/",
+        "source_credit": "kokfahfarm"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Kok_Fah_Technology_Farm__Witness_farm_technology_2.jpeg",
+        "filename": "Kok_Fah_Technology_Farm__Witness_farm_technology_2.jpeg",
+        "original_url": "",
+        "source_credit": "Mummysmarket"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Kok_Fah_Technology_Farm__Witness_farm_technology_3.jpeg",
+        "filename": "Kok_Fah_Technology_Farm__Witness_farm_technology_3.jpeg",
+        "original_url": "",
+        "source_credit": "Mummysmarket"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Qian Hu Fish Farm Integrated Service Provider",
+    "organiser": "Qian Hu Fish Farm",
+    "blurb": "Integrated service provider of ornamental fish.",
+    "description": "Qian Hu Fish Farm Trading is one an integrated “one-stop” service provider ranging from farming, importing, exporting and distributing of ornamental fish. There are also Seafood retail areas at the farm. One of the most successful local farming business, Qian Hu Fish Farm also have recreational and play areas such as the Traditional Long Kang Fishing Experience and visitors can also have a guided tour when visiting. The farm offers a unique opportunity to learn about the ornamental fish industry and see the various stages of fish farming. Visitors can also enjoy recreational activities such as the Traditional Long Kang Fishing Experience.",
+    "guid": "https://www.kranjicountryside.com/attractions",
+    "activity_or_event": "activity",
+    "url": "https://www.kranjicountryside.com/attractions",
+    "price_display_teaser": "Free + Paid options",
+    "price_display": "Free entry. Longkang fishing: $7 for 30 mins, $12 for 1 hour.",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Weekdays: 9am – 6pm, Weekends: 9am – 7pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Qian Hu Fish Farm",
+    "full_address": "71, Jalan Lekar, Sungei Tengah, S698950",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_3\\images\\user_uploads\\Qian_Hu_Fish_Farm_Integrated_Service_Provider_1.jpg",
+        "filename": "Qian_Hu_Fish_Farm_Integrated_Service_Provider_1.jpg",
+        "original_url": "https://qianhudiscover.com/visitors-info/",
+        "source_credit": "qianhudiscover"
+      },
+      {
+        "local_path": "events_output\\event_3\\images\\user_uploads\\Qian_Hu_Fish_Farm_Integrated_Service_Provider_2.jpeg",
+        "filename": "Qian_Hu_Fish_Farm_Integrated_Service_Provider_2.jpeg",
+        "original_url": "https://qianhudiscover.com/visitors-info/",
+        "source_credit": "qianhudiscover"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Bollywood Farms: Countryside Surprises and Excitement",
+    "organiser": "Bollywood Farms",
+    "blurb": "A farm full of surprises, excitement, and great fun!",
+    "description": "Bollywood Farms, formerly known as Bollywood Veggies, started in 2000. The farm offers a range of surprises, excitement, and fun activities. It provides a unique countryside experience with a focus on local friendships and wider options. Visitors can explore the farm and enjoy the various offerings, making it a great destination for those seeking a fun and engaging experience. The farm is designed to be full of surprises and excitement, providing a memorable experience for all visitors. It's a place where families and friends can come together to enjoy the countryside.",
+    "guid": "https://www.kranjicountryside.com/attractions",
+    "activity_or_event": "activity",
+    "url": "https://www.kranjicountryside.com/attractions",
+    "price_display_teaser": "Free + Paid options",
+    "price_display": "Free entry. Dining option available",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily (except Mon & Tue)",
+    "datetime_display": "Wed – Fri:10am – 3pm, Weekends & PH: 7am – 6pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Bollywood Farms",
+    "full_address": "100 Neo Tiew Road (Kranji) Singapore 719026",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_4\\images\\user_uploads\\Bollywood_Farms__Countryside_Surprises_and_Excitement_1.png",
+        "filename": "Bollywood_Farms__Countryside_Surprises_and_Excitement_1.png",
+        "original_url": "https://bollywoodfarms.com/contact-us/",
+        "source_credit": "bollywoodfarms"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Orchidville: Premium Orchids and Event Management",
+    "organiser": "Orchidville",
+    "blurb": "International orchid exporter with restaurant and event facilities.",
+    "description": "Orchidville is a leading international exporter of premium quality commercial orchids with extensive distribution networks. In addition to orchids, Orchidville has expanded into the Food and Beverage industry with its own restaurant, Forrest, located on the premises. It also offers expertise in Event Management, providing facilities for conferences, events, and functions. Orchidville combines the beauty of orchids with dining and event services, making it a unique destination for various occasions. Visitors can enjoy the serene environment and explore the diverse offerings available.",
+    "guid": "https://www.kranjicountryside.com/attractions",
+    "activity_or_event": "activity",
+    "url": "https://www.kranjicountryside.com/attractions",
+    "price_display_teaser": "Free + Paid options",
+    "price_display": "Free entry. Dining options available",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Recurring weekends and PH",
+    "datetime_display": "Recurring weekends and PH, 8:30am - 5:30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Orchidville",
+    "full_address": "82 Sungei Tengah Road S(698985)",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_5\\images\\user_uploads\\Orchidville__Premium_Orchids_and_Event_Management_1.jpg",
+        "filename": "Orchidville__Premium_Orchids_and_Event_Management_1.jpg",
+        "original_url": "https://www.orchidville.com.sg/",
+        "source_credit": "orchidville"
+      },
+      {
+        "local_path": "events_output\\event_5\\images\\user_uploads\\Orchidville__Premium_Orchids_and_Event_Management_2.jpg",
+        "filename": "Orchidville__Premium_Orchids_and_Event_Management_2.jpg",
+        "original_url": "https://www.orchidville.com.sg/",
+        "source_credit": "orchidville"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Sungei Buloh Wetland Reserve Experience Nature",
+    "organiser": "Sungei Buloh Wetland Reserve",
+    "blurb": "Discover nature's beauty at Singapore’s first ASEAN park.",
+    "description": "Explore the rich biodiversity of Sungei Buloh Wetland Reserve, Singapore’s first ASEAN Heritage Park. Wander through the wetlands and an extensive mangrove forest. Originally opened as a Nature Park in 1993, 130 hectares were gazetted as a Nature Reserve in 2002. Perfect for families and nature enthusiasts, the reserve offers a unique opportunity to observe diverse flora and fauna in their natural habitat. Enjoy bird watching, guided walks, and educational exhibits suitable for all ages. Discover the wonders of the natural world in this serene and protected environment. A great place for kids to learn about nature.",
+    "guid": "https://www.kranjicountryside.com/attractions",
+    "activity_or_event": "activity",
+    "url": "https://www.kranjicountryside.com/attractions",
+    "price_display_teaser": "Free",
+    "price_display": "Free entry",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 7am - 7pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Sungei Buloh Wetland Reserve",
+    "full_address": "60 Kranji Way, Singapore 739453",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_6\\images\\user_uploads\\Sungei_Buloh_Wetland_Reserve_Experience_Nature_1.jpg",
+        "filename": "Sungei_Buloh_Wetland_Reserve_Experience_Nature_1.jpg",
+        "original_url": "https://www.nparks.gov.sg/visit/parks/park-detail/sungei-buloh-wetland-reserve",
+        "source_credit": "nparks"
+      },
+      {
+        "local_path": "events_output\\event_6\\images\\user_uploads\\Sungei_Buloh_Wetland_Reserve_Experience_Nature_2.jpg",
+        "filename": "Sungei_Buloh_Wetland_Reserve_Experience_Nature_2.jpg",
+        "original_url": "https://www.nparks.gov.sg/visit/parks/park-detail/sungei-buloh-wetland-reserve",
+        "source_credit": "nparks"
+      },
+      {
+        "url": "https://www.kranjicountryside.com/Sungei%20Buloh%20Wetland%20Reserves%201.jpeg",
+        "source_credit": "Sungei Buloh Wetland Reserve"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Hay Dairies Goat Farm: Singapore's Only Goat Farm",
+    "organiser": "Hay Dairies Goat Farm",
+    "blurb": "Visit Singapore's only goat farm since 1988!",
+    "description": "Hay Dairies is Singapore's only goat farm since 1988, with over 800 goats of mixed breed from Minnesota, United States. Farm tours are available, and you can purchase fresh goat milk during your visit. It's a great place for families to learn about goat farming and interact with the animals. The farm offers an educational experience for children and adults alike, providing insights into the dairy farming process. Perfect for families looking for a unique and engaging outing. Suitable for all ages, offering a fun and educational experience for everyone.",
+    "guid": "https://www.kranjicountryside.com/attractions",
+    "activity_or_event": "activity",
+    "url": "https://www.kranjicountryside.com/attractions",
+    "price_display_teaser": "Free + Paid options",
+    "price_display": "Free entry. $5 per packet for goat feeding.",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily (except Tue)",
+    "datetime_display": "Available daily (except Tue), 9am - 4pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Hay Dairies Goat Farm",
+    "full_address": "250 Neo Tiew Crescent, Singapore 719866",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_7\\images\\user_uploads\\Hay_Dairies_Goat_Farm__Singapore_s_Only_Goat_Farm_1.jpg",
+        "filename": "Hay_Dairies_Goat_Farm__Singapore_s_Only_Goat_Farm_1.jpg",
+        "original_url": "https://haydairies.sg/gallery/#iLightbox[gallery_image_1]/1",
+        "source_credit": "haydairies"
+      },
+      {
+        "local_path": "events_output\\event_7\\images\\user_uploads\\Hay_Dairies_Goat_Farm__Singapore_s_Only_Goat_Farm_2.jpeg",
+        "filename": "Hay_Dairies_Goat_Farm__Singapore_s_Only_Goat_Farm_2.jpeg",
+        "original_url": "",
+        "source_credit": "Mummysmarket"
+      },
+      {
+        "local_path": "events_output\\event_7\\images\\user_uploads\\Hay_Dairies_Goat_Farm__Singapore_s_Only_Goat_Farm_3.jpeg",
+        "filename": "Hay_Dairies_Goat_Farm__Singapore_s_Only_Goat_Farm_3.jpeg",
+        "original_url": "",
+        "source_credit": "Mummysmarket"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

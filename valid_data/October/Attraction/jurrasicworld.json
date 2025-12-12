@@ -1,0 +1,806 @@
+[
+  {
+    "title": "Jurassic World at Gardens by the Bay Singapore",
+    "organiser": "Jurassic World",
+    "blurb": "Adventure awaits at Cloud Forest! Welcome to Jurassic World!",
+    "description": "Embark on an unforgettable journey at Jurassic World, nestled in the heart of Gardens by the Bay. Begin your adventure at Brachiosaurus Falls, where lush jungle paths lead you to a breathtaking waterfall. Encounter towering Brachiosaurus amidst the mist, offering a stunning welcome to a world where dinosaurs roam once again. Explore the wonders of prehistoric life in an immersive experience suitable for families and dinosaur enthusiasts of all ages. Discover the magic of Jurassic World and create lasting memories in this unique setting.",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "activity",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "OPEN NOW!",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Gardens by the Bay",
+    "label_tag": null,
+    "Keyword_tag": "Dinosaurs, Adventure, Family, Jurassic World, Gardens by the Bay",
+    "full_address": "Gardens by the bay",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://jurassicworldexperience.com/sg/wp-content/uploads/sites/2/2025/03/JWE-GBTB-Singapore-Logo.webp",
+        "source_credit": "Jurassic World"
+      },
+      {
+        "url": "https://jurassicworldexperience.com/sg/wp-content/uploads/sites/2/2025/03/JWE-GBTB-Singapore-Logo-279x300.webp",
+        "source_credit": "Jurassic World"
+      },
+      {
+        "url": "https://jurassicworldexperience.com/sg/wp-content/uploads/sites/2/2025/03/JWE-GBTB-Singapore-Logo-139x150.webp",
+        "source_credit": "Jurassic World"
+      }
+    ],
+    "id": 817,
+    "longitude": 103.8660295,
+    "latitude": 1.283857,
+    "district": "Marina South",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurassic World at Gardens by the Bay",
+    "organiser": "Jurassic World",
+    "blurb": "A world where dinosaurs roam again in Gardens by the Bay.",
+    "description": "Begin your journey at Brachiosaurus Falls, where jungle paths lead to a stunning waterfall and a face-to-face encounter with towering Brachiosaurus. Experience the thrill as jungle mist swirls and sunlight floods the glass dome. Guests of all ages watch the clash unfold, caught between wonder and adrenaline in a moment suspended in time. It’s a breathtaking welcome to a world where dinosaurs roam again— in the heart of Gardens by the Bay.",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "activity",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$30 to S$40",
+    "price": 30.0,
+    "min_price": 30.0,
+    "max_price": 40.0,
+    "age_group_display": "3 years and above",
+    "min_age": 3.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "sunlight floods the glass dome, guests of all ages watch the clash unfold, caught between wonder and adrenaline in a moment suspended in time",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Gardens by the Bay",
+    "label_tag": null,
+    "Keyword_tag": "Dinosaurs, Jurassic World, Gardens by the Bay, Family, Attraction",
+    "full_address": "Gardens by the bay",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://jurassicworldexperience.com/sg/wp-content/uploads/sites/2/2025/08/JWE_GBTB_20250527-JW-I-91-2.webp",
+        "source_credit": "Jurassic World"
+      },
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/d1f0548c-bb6a-4f27-9786-3c0d4d0211a1/ZONE-4_TYRANNOSAURUS-BREAKOUT_WITH-KIDS.webp",
+        "source_credit": "Jurassic World"
+      }
+    ],
+    "id": 818,
+    "longitude": 103.8660295,
+    "latitude": 1.283857,
+    "district": "Marina South",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurassic World Experience",
+    "organiser": "Cityneon Holdings",
+    "blurb": "Experience wonder and adrenaline in a moment.",
+    "description": "Step into a world where jungle mist swirls and sunlight floods the glass dome, guests of all ages watch the clash unfold, caught between wonder and adrenaline in a moment suspended in time. Get up close with living dinosaurs, including Tyrannosaurus, Brachiosaurus and more. Explore the Evolution Walk and witness a Tyrannosaurus breakout. A thrilling experience for the whole family.",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "activity",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$74 to S$84",
+    "price": 74.0,
+    "min_price": 74.0,
+    "max_price": 84.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "sunlight floods the glass dome, guests of all ages watch the clash unfold, caught between wonder and adrenaline in a moment suspended in time",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jurassic World Singapore",
+    "label_tag": null,
+    "Keyword_tag": "Dinosaurs, Jurassic World, Exhibition, Family, Adventure",
+    "full_address": "Gardens by the bay",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/d1f0548c-bb6a-4f27-9786-3c0d4d0211a1/ZONE-4_TYRANNOSAURUS-BREAKOUT_WITH-KIDS.webp",
+        "source_credit": "Cityneon Holdings"
+      },
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/a7f61c79-1f6d-4b2c-b569-cd551c3c32bc/Pteranodon-Skywalk_JWE_GBTB_1920x1080.webp",
+        "source_credit": "Cityneon Holdings"
+      }
+    ],
+    "id": 819,
+    "longitude": 103.8660295,
+    "latitude": 1.283857,
+    "district": "Marina South",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurassic World: The Exhibition - Living Dinosaurs",
+    "organiser": "Jurassic World",
+    "blurb": "Explore life-size dinosaurs in an immersive experience.",
+    "description": "Step into a world where dinosaurs roam again! Jurassic World: The Exhibition features life-size animatronic dinosaurs in realistic habitats. Walk among the giants, learn about their behaviors, and witness the majesty of these prehistoric creatures. Perfect for families and dinosaur enthusiasts of all ages, this immersive experience brings the Jurassic World franchise to life. Explore the Tyrannosaurus Breakout, Evolution Walk, and Brachiosaurus Encounter zones. Get up close with the dinosaurs and create unforgettable memories.",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "activity",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$39",
+    "price": 39.0,
+    "min_price": 39.0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jurassic World Exhibition",
+    "label_tag": null,
+    "Keyword_tag": "Dinosaurs, Exhibition, Family, Kids, Prehistoric, Adventure",
+    "full_address": "Gardens by the bay",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/d1f0548c-bb6a-4f27-9786-3c0d4d0211a1/ZONE-4_TYRANNOSAURUS-BREAKOUT_WITH-KIDS.webp",
+        "source_credit": "Jurassic World"
+      },
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/a7f61c79-1f6d-4b2c-b569-cd551c3c32bc/Pteranodon-Skywalk_JWE_GBTB_1920x1080.webp",
+        "source_credit": "Jurassic World"
+      },
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/bde5bc7e-491a-4643-ba61-12a452cc0d8f/JWE_GBTB_ZONE-8_BRACHIOSAURUS-ENCOUNTER_FAMILY.webp",
+        "source_credit": "Jurassic World"
+      },
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/7e9ea1a9-e2ae-4054-9fd5-5ad77486e41a/ZONE-17_RETAIL_FRIENDS.webp",
+        "source_credit": "Jurassic World"
+      }
+    ],
+    "id": 820,
+    "longitude": 103.8660295,
+    "latitude": 1.283857,
+    "district": "Marina South",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurassic World Exhibition",
+    "organiser": "Cityneon Holdings",
+    "blurb": "Step into Jurassic World: The Exhibition in Singapore!",
+    "description": "Immerse yourself in scenes inspired by the beloved film, Jurassic World. Encounter life-sized dinosaurs and explore themed zones. This family-friendly exhibition brings the prehistoric world to life with interactive displays and educational content. Perfect for dinosaur enthusiasts of all ages, the exhibition offers a thrilling and informative experience. Discover the wonders of genetics and paleontology in a safe and engaging environment. Get up close with gentle giants and fierce predators in this unforgettable adventure. The exhibition is designed to be both entertaining and educational, making it a great outing for families and individuals alike. Explore the science behind the dinosaurs and learn about their history and behavior. This is an experience you won't want to miss!",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "activity",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$30 to S$40",
+    "price": 30.0,
+    "min_price": 30.0,
+    "max_price": 40.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Singapore",
+    "label_tag": null,
+    "Keyword_tag": "Dinosaurs, Exhibition, Family-friendly, Interactive, Jurassic World",
+    "full_address": "Gardens by the bay",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/bde5bc7e-491a-4643-ba61-12a452cc0d8f/JWE_GBTB_ZONE-8_BRACHIOSAURUS-ENCOUNTER_FAMILY.webp",
+        "source_credit": "Cityneon Holdings"
+      },
+      {
+        "url": "https://jurassicworldexperience.com/sg/wp-content/uploads/sites/2/2025/03/JWE-GBTB-Singapore-Logo.webp",
+        "source_credit": "Cityneon Holdings"
+      }
+    ],
+    "id": 821,
+    "longitude": 103.8660295,
+    "latitude": 1.283857,
+    "district": "Marina South",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurassic World Exhibition at Gardens by the Bay",
+    "organiser": "Jurassic World",
+    "blurb": "Explore Jurassic World at Gardens by the Bay!",
+    "description": "Step into a world where dinosaurs roam again at the Jurassic World Exhibition, located within the Cloud Forest at Gardens by the Bay. This immersive experience allows visitors of all ages to get up close with life-sized animatronic dinosaurs and explore themed environments. The exhibition is designed to be family-friendly, offering educational and entertaining encounters with these prehistoric creatures. The experience lasts approximately 1 hour, but there is no time limit once inside. Perfect for families and dinosaur enthusiasts of all ages, this exhibition provides a thrilling and educational adventure.",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "activity",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": false,
+    "price_display_teaser": "From $22",
+    "price_display": "From S$22 to S$46",
+    "price": 22.0,
+    "min_price": 22.0,
+    "max_price": 46.0,
+    "age_group_display": "3 to 99 years",
+    "min_age": 3.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": "Now!",
+    "datetime_display": "Daily: 9 AM to 9 PM",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Gardens by the Bay",
+    "label_tag": null,
+    "Keyword_tag": "Dinosaurs, Exhibition, Family-friendly, Gardens by the Bay, Adventure",
+    "full_address": "Gardens by the bay",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://jurassicworldexperience.com/sg/wp-content/uploads/sites/2/2025/03/JWE-GBTB-Singapore-Logo.webp",
+        "source_credit": "Jurassic World"
+      },
+      {
+        "url": "https://jurassicworldexperience.com/sg/wp-content/uploads/sites/2/2025/08/JWE_GBTB_20250527-JW-I-91-2.webp",
+        "source_credit": "Jurassic World"
+      }
+    ],
+    "id": 822,
+    "longitude": 103.8660295,
+    "latitude": 1.283857,
+    "district": "Marina South",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurassic World Exhibition Singapore",
+    "organiser": "Cityneon Holdings",
+    "blurb": "Step into Jurassic World. An immersive experience.",
+    "description": "The Jurassic World Exhibition is an immersive experience suitable for all ages. Walk through the iconic Jurassic World gates, encounter life-sized dinosaurs, and learn about the science behind these incredible creatures. Explore the Hammond Creation Lab, get up close with a Velociraptor, and witness the mighty Tyrannosaurus Rex. This family-friendly exhibition offers an educational and thrilling adventure for dinosaur enthusiasts of all ages. Discover the wonders of Jurassic World and create unforgettable memories with your loved ones. The exhibition features interactive displays, realistic animatronics, and stunning set designs that bring the world of Jurassic World to life. Perfect for families, school groups, and anyone fascinated by dinosaurs.",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "activity",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$30 to S$40",
+    "price": 30.0,
+    "min_price": 30.0,
+    "max_price": 40.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jurassic World Exhibition",
+    "label_tag": null,
+    "Keyword_tag": "Dinosaurs, Exhibition, Family-friendly, Interactive, Adventure",
+    "full_address": "Gardens by the bay",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://jurassicworldexperience.com/sg/wp-content/uploads/sites/2/2025/08/JWE_GBTB_20250527-JW-I-91-2.webp",
+        "source_credit": "Cityneon Holdings"
+      },
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/d1f0548c-bb6a-4f27-9786-3c0d4d0211a1/ZONE-4_TYRANNOSAURUS-BREAKOUT_WITH-KIDS.webp",
+        "source_credit": "Cityneon Holdings"
+      }
+    ],
+    "id": 823,
+    "longitude": 103.8660295,
+    "latitude": 1.283857,
+    "district": "Marina South",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurassic World: The Exhibition Singapore",
+    "organiser": "Cityneon Holdings",
+    "blurb": "Step into Jurassic World for an immersive experience.",
+    "description": "An immersive exhibition that brings you face-to-face with life-size dinosaurs. Explore themed zones, encounter realistic animatronic dinosaurs, and learn about the science behind these prehistoric creatures. Perfect for families and dinosaur enthusiasts of all ages. The exhibition offers an educational and thrilling adventure, allowing visitors to get up close with the majestic creatures that once roamed the Earth. Discover the wonders of Jurassic World in this unforgettable experience. This family-friendly event is designed to captivate and educate, providing a unique and engaging journey into the world of dinosaurs.",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "activity",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": false,
+    "price_display_teaser": "From $22",
+    "price_display": "From S$22 to S$46",
+    "price": 22.0,
+    "min_price": 22.0,
+    "max_price": 46.0,
+    "age_group_display": "3 to 99 years",
+    "min_age": 3.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Gardens by the Bay",
+    "label_tag": null,
+    "Keyword_tag": "Dinosaurs, Exhibition, Family-friendly, Jurassic World, Adventure",
+    "full_address": "Gardens by the bay",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/d1f0548c-bb6a-4f27-9786-3c0d4d0211a1/ZONE-4_TYRANNOSAURUS-BREAKOUT_WITH-KIDS.webp",
+        "source_credit": "Cityneon Holdings"
+      },
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/a7f61c79-1f6d-4b2c-b569-cd551c3c32bc/Pteranodon-Skywalk_JWE_GBTB_1920x1080.webp",
+        "source_credit": "Cityneon Holdings"
+      }
+    ],
+    "id": 824,
+    "longitude": 103.8660295,
+    "latitude": 1.283857,
+    "district": "Marina South",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurassic World Dominion Dining Adventure",
+    "organiser": "Jurassic World",
+    "blurb": "Embark on a thrilling prehistoric dining experience.",
+    "description": "Step into a world where dinosaurs roam and adventure awaits! The Jurassic World Dominion Dining Adventure offers an immersive experience for families and dinosaur enthusiasts. Enjoy a themed dining experience with interactive elements and captivating performances. Perfect for kids and adults alike, this adventure brings the Jurassic World to life with stunning visuals and thrilling encounters. Get ready for an unforgettable journey back in time, filled with excitement, delicious food, and awe-inspiring creatures. This family-friendly event promises an evening of wonder and adventure.",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "event",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$108",
+    "price": 108.0,
+    "min_price": 108.0,
+    "max_price": 108.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Satay by the Bay)",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Gardens by the Bay",
+    "label_tag": null,
+    "Keyword_tag": "Dinosaurs, Dining, Adventure, Family, Jurassic World, Themed Dining, Interactive Experience",
+    "full_address": "8 Sentosa Gateway, Singapore 098269",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/a7f61c79-1f6d-4b2c-b569-cd551c3c32bc/Pteranodon-Skywalk_JWE_GBTB_1920x1080.webp",
+        "source_credit": "Jurassic World"
+      },
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/bde5bc7e-491a-4643-ba61-12a452cc0d8f/JWE_GBTB_ZONE-8_BRACHIOSAURUS-ENCOUNTER_FAMILY.webp",
+        "source_credit": "Jurassic World"
+      }
+    ],
+    "id": 825,
+    "longitude": 103.8240431,
+    "latitude": 1.2539178,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurassic World: The Experience at Gardens by the Bay",
+    "organiser": "Jurassic World",
+    "blurb": "Located within the Cloud Forest at Gardens by the Bay.",
+    "description": "Jurassic World: The Experience offers an immersive environment with sound and light effects. Guests can explore the exhibit at their own pace, with most spending an hour or more. Strollers are allowed, but outside food and drinks are not permitted in Cloud Forest. The experience is in English and welcomes all ages, though children 3 years and above require a ticket. Consider potential sound and lighting sensitivities when planning your visit. The experience is located within the Cloud Forest at Gardens by the Bay at 18 Marina Gardens Drive.",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "activity",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": false,
+    "price_display_teaser": "Contact for pricing",
+    "price_display": "Please contact for pricing",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": null,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Most guests take about an hour or longer",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Cloud Forest, Gardens by the Bay",
+    "label_tag": null,
+    "Keyword_tag": "Jurassic World, Gardens by the Bay, Cloud Forest, dinosaurs, immersive experience, family-friendly, attraction",
+    "full_address": "Gardens by the bay",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/bde5bc7e-491a-4643-ba61-12a452cc0d8f/JWE_GBTB_ZONE-8_BRACHIOSAURUS-ENCOUNTER_FAMILY.webp",
+        "source_credit": "Jurassic World"
+      },
+      {
+        "url": "https://jurassicworldexperience.com/sg/wp-content/uploads/sites/2/2025/03/JWE-GBTB-Singapore-Logo.webp",
+        "source_credit": "Jurassic World"
+      }
+    ],
+    "id": 826,
+    "longitude": 103.8660295,
+    "latitude": 1.283857,
+    "district": "Marina South",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurassic World Experience at Gardens by the Bay",
+    "organiser": "Jurassic World",
+    "blurb": "An immersive experience with dinosaurs at Gardens by the Bay.",
+    "description": "Experience the thrill of Jurassic World at Gardens by the Bay. This immersive experience brings you face-to-face with life-sized dinosaurs in a realistic environment. Explore the park, encounter various dinosaur species, and learn about their history and behavior. Perfect for families and dinosaur enthusiasts of all ages. The experience includes interactive exhibits, educational displays, and thrilling encounters with these prehistoric creatures. Get ready for an unforgettable adventure in the world of Jurassic World, suitable for all ages.",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "activity",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$32 to S$42",
+    "price": 32.0,
+    "min_price": 32.0,
+    "max_price": 42.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Satay by the Bay)",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Gardens by the Bay",
+    "label_tag": null,
+    "Keyword_tag": "Dinosaurs, Jurassic World, Gardens by the Bay, Immersive Experience, Family Activity",
+    "full_address": "Gardens by the bay",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://jurassicworldexperience.com/sg/wp-content/uploads/sites/2/2025/03/JWE-GBTB-Singapore-Logo.webp",
+        "source_credit": "Jurassic World"
+      },
+      {
+        "url": "https://jurassicworldexperience.com/sg/wp-content/uploads/sites/2/2025/08/JWE_GBTB_20250527-JW-I-91-2.webp",
+        "source_credit": "Jurassic World"
+      }
+    ],
+    "id": 827,
+    "longitude": 103.8660295,
+    "latitude": 1.283857,
+    "district": "Marina South",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurassic World Exhibition Parking Information",
+    "organiser": "Jurassic World Exhibition",
+    "blurb": "Handicapped lots available in all parking garages.",
+    "description": "The Jurassic World Exhibition provides accessible parking options for visitors with disabilities. Handicapped parking spaces are conveniently located in all parking garages serving the exhibition. These designated parking bays ensure ease of access to the venue for individuals with mobility challenges. The availability of these parking facilities aims to enhance the overall experience for all visitors, allowing everyone to enjoy the exhibition comfortably and without unnecessary difficulty. The exhibition is committed to providing a welcoming and inclusive environment for all guests, and accessible parking is an important part of that commitment.",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "event",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": null,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jurassic World Exhibition",
+    "label_tag": null,
+    "Keyword_tag": "Jurassic World, exhibition, parking, handicapped parking, accessible parking, disabled parking, parking garages",
+    "full_address": "Gardens by the bay",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://jurassicworldexperience.com/sg/wp-content/uploads/sites/2/2025/08/JWE_GBTB_20250527-JW-I-91-2.webp",
+        "source_credit": "Jurassic World Exhibition"
+      },
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/d1f0548c-bb6a-4f27-9786-3c0d4d0211a1/ZONE-4_TYRANNOSAURUS-BREAKOUT_WITH-KIDS.webp",
+        "source_credit": "Jurassic World Exhibition"
+      }
+    ],
+    "id": 828,
+    "longitude": 103.8660295,
+    "latitude": 1.283857,
+    "district": "Marina South",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurassic World: The Experience Singapore",
+    "organiser": "Jurassic World",
+    "blurb": "An immersive exhibition based on the Jurassic World film.",
+    "description": "Step into a world where dinosaurs roam again at Jurassic World: The Exhibition. This immersive experience brings you face-to-face with life-sized dinosaurs, offering an unforgettable adventure for the whole family. Explore the wonders of Jurassic World, encounter majestic creatures, and learn about the science behind these incredible animals. Perfect for dinosaur enthusiasts of all ages, this exhibition combines education and entertainment in a thrilling and engaging environment. Get ready to be amazed by the realistic animatronics and captivating displays that bring the Jurassic World universe to life. A must-see attraction for families and anyone fascinated by dinosaurs.",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "activity",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$39",
+    "price": 39.0,
+    "min_price": 39.0,
+    "max_price": 39.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": null,
+    "label_tag": null,
+    "Keyword_tag": "Jurassic World, dinosaurs, exhibition, family, adventure",
+    "full_address": "Gardens by the bay",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/d1f0548c-bb6a-4f27-9786-3c0d4d0211a1/ZONE-4_TYRANNOSAURUS-BREAKOUT_WITH-KIDS.webp",
+        "source_credit": "Jurassic World"
+      },
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/a7f61c79-1f6d-4b2c-b569-cd551c3c32bc/Pteranodon-Skywalk_JWE_GBTB_1920x1080.webp",
+        "source_credit": "Jurassic World"
+      }
+    ],
+    "id": 829,
+    "longitude": 103.8660295,
+    "latitude": 1.283857,
+    "district": "Marina South",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurassic World: The Experience",
+    "organiser": "Jurassic World",
+    "blurb": "Immersive environments with sound and light effects.",
+    "description": "Jurassic World: The Experience features immersive environments that include loud sound effects and flashing lights. Guests who may be sensitive to sound or lighting effects are encouraged to take this into account when planning their visit. Jurassic World: The Experience features immersive environments that include loud sound effects and flashing lights. Guests who may be sensitive to sound or lighting effects are encouraged to take this into account when planning their visit. Jurassic World: The Experience features immersive environments that include loud sound effects and flashing lights. Guests who may be sensitive to sound or lighting effects are encouraged to take this into account when planning their visit.",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "activity",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": null,
+    "label_tag": null,
+    "Keyword_tag": "Jurassic World, immersive experience, sound effects, flashing lights, family activity",
+    "full_address": "Gardens by the bay",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/a7f61c79-1f6d-4b2c-b569-cd551c3c32bc/Pteranodon-Skywalk_JWE_GBTB_1920x1080.webp",
+        "source_credit": "Jurassic World"
+      },
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/bde5bc7e-491a-4643-ba61-12a452cc0d8f/JWE_GBTB_ZONE-8_BRACHIOSAURUS-ENCOUNTER_FAMILY.webp",
+        "source_credit": "Jurassic World"
+      }
+    ],
+    "id": 830,
+    "longitude": 103.8660295,
+    "latitude": 1.283857,
+    "district": "Marina South",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurassic World: The Experience at Cloud Forest",
+    "organiser": "Gardens by the Bay",
+    "blurb": "An immersive experience with life-sized dinosaurs.",
+    "description": "Step into a world where dinosaurs roam again at Jurassic World: The Experience, located in the Cloud Forest at Gardens by the Bay. This exhibition welcomes guests of all ages to explore and discover these magnificent creatures. Children 12 years and under must be accompanied by an adult. The experience includes film-quality baby puppet dinos and larger dinosaurs behind fenced areas. Guests can capture special moments with photos and videos, and a retail store offers a wide variety of products. The experience is fully wheelchair accessible, ensuring everyone can enjoy the adventure. Operating hours vary, so check the ticketing site for current hours. Contact (65) 6420 6848 or email feedback@gardensbythebay.com.sg for assistance.",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "activity",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": false,
+    "price_display_teaser": "Contact for pricing",
+    "price_display": "Please contact for pricing",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": null,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating hours may vary. Please check the ticketing site.",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Cloud Forest, Gardens by the Bay",
+    "label_tag": null,
+    "Keyword_tag": "Dinosaurs, Jurassic World, Cloud Forest, Gardens by the Bay, Exhibition, Family-friendly",
+    "full_address": "Gardens by the bay",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/bde5bc7e-491a-4643-ba61-12a452cc0d8f/JWE_GBTB_ZONE-8_BRACHIOSAURUS-ENCOUNTER_FAMILY.webp",
+        "source_credit": "Gardens by the Bay"
+      },
+      {
+        "url": "https://jurassicworldexperience.com/sg/wp-content/uploads/sites/2/2025/03/JWE-GBTB-Singapore-Logo.webp",
+        "source_credit": "Gardens by the Bay"
+      }
+    ],
+    "id": 831,
+    "longitude": 103.8660295,
+    "latitude": 1.283857,
+    "district": "Marina South",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurassic World Exhibition - Science Centre SG",
+    "organiser": "Jurassic World",
+    "blurb": "Explore Jurassic World in an hour or longer visit.",
+    "description": "Step into a world where dinosaurs roam once again at the Jurassic World Exhibition, located at the Science Centre Singapore. Guests are encouraged to explore at their own pace, with no time limit once inside, allowing for a fully immersive experience. Discover life-sized dinosaurs, interactive exhibits, and educational displays suitable for all ages. This family-friendly attraction brings the blockbuster franchise to life, offering an unforgettable adventure for dinosaur enthusiasts and curious minds alike. The exhibition provides a blend of entertainment and education, making it an ideal outing for families and individuals interested in paleontology and the Jurassic era. Explore the wonders of prehistoric life and create lasting memories in this thrilling environment.",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "activity",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0.0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Most guests take about an hour or longer",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Science Centre Singapore",
+    "label_tag": null,
+    "Keyword_tag": "Dinosaurs, Exhibition, Science, Family, Adventure",
+    "full_address": "Gardens by the bay",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://jurassicworldexperience.com/sg/wp-content/uploads/sites/2/2025/03/JWE-GBTB-Singapore-Logo.webp",
+        "source_credit": "Jurassic World"
+      },
+      {
+        "url": "https://jurassicworldexperience.com/sg/wp-content/uploads/sites/2/2025/08/JWE_GBTB_20250527-JW-I-91-2.webp",
+        "source_credit": "Jurassic World"
+      }
+    ],
+    "id": 832,
+    "longitude": 103.8660295,
+    "latitude": 1.283857,
+    "district": "Marina South",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurassic World Exhibition - Allow Arrival Time",
+    "organiser": "Jurassic World",
+    "blurb": "Allow time for traffic, parking, and entrance delays.",
+    "description": "Please make sure to allow time for traffic, parking, and entrance delays. Please plan to arrive so that we can begin scanning your tickets for admission 5-10 minutes prior to your admission time. Tickets purchased on-site are subject to availability and we strongly suggest purchasing tickets online in advance. Please make sure to allow time for traffic, parking, and entrance delays. Please plan to arrive so that we can begin scanning your tickets for admission 5-10 minutes prior to your admission time. Tickets purchased on-site are subject to availability and we strongly suggest purchasing tickets online in advance.",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "activity",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": null,
+    "label_tag": null,
+    "Keyword_tag": "Jurassic World, exhibition, arrival time, tickets, parking, entrance",
+    "full_address": "Gardens by the bay",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://jurassicworldexperience.com/sg/wp-content/uploads/sites/2/2025/08/JWE_GBTB_20250527-JW-I-91-2.webp",
+        "source_credit": "Jurassic World"
+      },
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/d1f0548c-bb6a-4f27-9786-3c0d4d0211a1/ZONE-4_TYRANNOSAURUS-BREAKOUT_WITH-KIDS.webp",
+        "source_credit": "Jurassic World"
+      }
+    ],
+    "id": 833,
+    "longitude": 103.8660295,
+    "latitude": 1.283857,
+    "district": "Marina South",
+    "area": "Central Region"
+  },
+  {
+    "title": "Jurassic World: The Experience Retail Store",
+    "organiser": "Jurassic World",
+    "blurb": "Shop for a wide variety of products at our retail store.",
+    "description": "Explore a diverse range of merchandise at the Jurassic World: The Experience retail store. Guests can find various products related to the Jurassic World franchise, including toys, apparel, and collectibles. The store offers a unique shopping experience for fans of all ages, providing an opportunity to take home a piece of the Jurassic World adventure. Discover exclusive items and souvenirs to commemorate your visit to the exhibition. Perfect for families and fans looking to enhance their Jurassic World experience with memorable keepsakes.",
+    "guid": "https://jurassicworldexperience.com/sg/",
+    "activity_or_event": "activity",
+    "url": "https://jurassicworldexperience.com/sg/",
+    "is_free": null,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jurassic World: The Experience",
+    "label_tag": null,
+    "Keyword_tag": "Jurassic World merchandise, retail store, souvenirs, collectibles, toys, apparel",
+    "full_address": "Gardens by the bay",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/d1f0548c-bb6a-4f27-9786-3c0d4d0211a1/ZONE-4_TYRANNOSAURUS-BREAKOUT_WITH-KIDS.webp",
+        "source_credit": "Jurassic World"
+      },
+      {
+        "url": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/a7f61c79-1f6d-4b2c-b569-cd551c3c32bc/Pteranodon-Skywalk_JWE_GBTB_1920x1080.webp",
+        "source_credit": "Jurassic World"
+      }
+    ],
+    "id": 834,
+    "longitude": 103.8660295,
+    "latitude": 1.283857,
+    "district": "Marina South",
+    "area": "Central Region"
+  }
+]

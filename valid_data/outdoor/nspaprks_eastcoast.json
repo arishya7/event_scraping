@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Coastal PlayGrove at East Coast Park",
+    "organiser": "NParks",
+    "blurb": "One-stop family destination with fun facilities.",
+    "description": "Coastal PlayGrove is a destination with a range of facilities for a fun day out. These facilities include a Play tower, Water play area, Nature playgarden and an Outdoor classroom by the sea. The Play tower is Singapore's tallest outdoor play feature. It houses Vertical Challenge, a vertical net play area with rope-based obstacles. Slides are on the 3rd and 4th floor. The Water play area has wading pools connected by a stream with water jets. This area is wheelchair-accessible. The Nature playgarden has play features made of natural materials. The Outdoor classroom is equipped with a chalkboard, boulders, and log stools.",
+    "guid": "https://www.nparks.gov.sg/visit/parks/east-coast-park/amenities/coastal-playgrove",
+    "activity_or_event": "activity",
+    "url": "https://www.nparks.gov.sg/visit/parks/east-coast-park/amenities/coastal-playgrove",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": null,
+    "age_group_display": "3 to 12 years",
+    "min_age": 3.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Opening hours differ by facility. See details.",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "East Coast Park",
+    "full_address": "East Coast Park Area B (902 East Coast Park Service Rd, Singapore 449874). Accessible via the Amber Gardens Underpass.",
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://www.nparks.gov.sg/ResourcePackages/NParks/assets/dist/images/icon-sg-crest.svg",
+        "source_credit": "NParks"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/ResourcePackages/NParks/assets/dist/images/government_building.svg",
+        "source_credit": "NParks"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/ResourcePackages/NParks/assets/dist/images/lock.svg",
+        "source_credit": "NParks"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/ResourcePackages/NParks/assets/dist/images//lock.svg",
+        "source_credit": "NParks"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/images/default-source/default-album/_system/nparks-logo_no-tagline.svg?sfvrsn=3183528a_1",
+        "source_credit": "NParks"
+      }
+    ]
+  },
+  {
+    "title": "Coastal PlayGrove at East Coast Park",
+    "organiser": "NParks",
+    "blurb": "A one-stop family destination for a fun day out.",
+    "description": "Coastal PlayGrove is a family-friendly destination at East Coast Park offering a variety of facilities for a fun day out. It features a large playground with climbing structures, water play areas, and sand pits, providing ample space for children to explore and play. The area also includes open lawns for picnics and relaxation, as well as dining options for families to enjoy. With its diverse range of activities and amenities, Coastal PlayGrove is designed to cater to families with children of all ages, making it an ideal spot for a day of outdoor fun and recreation.",
+    "guid": "https://www.nparks.gov.sg/visit/parks/east-coast-park/amenities/coastal-playgrove",
+    "activity_or_event": "activity",
+    "url": "https://www.nparks.gov.sg/visit/parks/east-coast-park/amenities/coastal-playgrove",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Coastal PlayGrove",
+    "full_address": "East Coast Park Area B (902 East Coast Park Service Rd, Singapore 449874). Accessible via the Amber Gardens Underpass.",
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": []
+  }
+]

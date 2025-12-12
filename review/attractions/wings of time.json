@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Wings of Time Fireworks Symphony at Sentosa",
+    "organiser": "Sentosa",
+    "blurb": "A mesmerizing night show about friendship and courage.",
+    "description": "Wings of Time Fireworks Symphony is the only daily fireworks show in Singapore, combining water, laser, fire, and music to create a breathtaking spectacle. Situated on Siloso Beach, this award-winning show promises an unforgettable experience for all ages. Enjoy spellbinding laser, fire, and water effects set to a majestic soundtrack, complete with a jaw-dropping fireworks display. It's a fitting end to a day out at Sentosa, offering an awe-inspiring performance for families and visitors.",
+    "guid": "https://www.sentosa.com.sg/en/things-to-do/attractions/wings-of-time/",
+    "activity_or_event": "event",
+    "url": "https://www.sentosa.com.sg/en/things-to-do/attractions/wings-of-time/",
+    "price_display_teaser": "From $22",
+    "price_display": "$22",
+    "price": 18.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 7.40pm & 8.40pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Siloso Beach",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Wings_of_Time_Fireworks_Symphony_at_Sentosa_1.jpg",
+        "filename": "Wings_of_Time_Fireworks_Symphony_at_Sentosa_1.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/wings-of-time/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Wings_of_Time_Fireworks_Symphony_at_Sentosa_2.jpg",
+        "filename": "Wings_of_Time_Fireworks_Symphony_at_Sentosa_2.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/wings-of-time/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Wings_of_Time_Fireworks_Symphony_at_Sentosa_3.jpg",
+        "filename": "Wings_of_Time_Fireworks_Symphony_at_Sentosa_3.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/wings-of-time/",
+        "source_credit": "sentosa"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

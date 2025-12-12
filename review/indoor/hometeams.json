@@ -1,0 +1,84 @@
+[
+  {
+    "title": "T-Play Bukit Batok: Transportation-Themed Indoor Playground",
+    "organiser": "HomeTeamNS",
+    "blurb": "Indoor playground at HomeTeamNS Bukit Batok Clubhouse.",
+    "description": "T-Play Bukit Batok is an indoor playground designed and conceptualized in Sweden, that adopts a Scandinavian theme. It is a playground crafted with intricate details to engage children in purposeful play. The playground is designed to allow children to develop in areas such as cognitive, emotional, social and physical through play. It includes various play areas and obstacles to provide a fun and engaging experience for children of different age groups. T-Play is suitable for children between the ages of 1 to 12 years old. It is a great place for families to spend quality time together and create lasting memories. The playground is safe and clean, and the staff are friendly and helpful. It is a perfect place for children to learn and grow through play.",
+    "guid": "https://www.hometeamns.sg/tplay/",
+    "activity_or_event": "activity",
+    "url": "https://www.hometeamns.sg/tplay/",
+    "price_display_teaser": "From $10.90",
+    "price_display": "From $10.90 to $32.70 (Free for children below 1 year old)",
+    "price": 18.0,
+    "age_group_display": "12 years old and below",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily (except Mon)",
+    "datetime_display": "Tue - Thu: 1pm - 7pm, Fri & PH eve: 1pm - 9pm, Weekends & PH & School holidays: 10am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "T-Play Bukit Batok",
+    "full_address": "Level 1, 2 Yishun Walk, Singapore 767944",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\T_Play_Bukit_Batok__Transportation_Themed_Indoor_Playground_1.png",
+        "filename": "T_Play_Bukit_Batok__Transportation_Themed_Indoor_Playground_1.png",
+        "original_url": "https://www.hometeamns.sg/tplay/bukitbatok/",
+        "source_credit": "hometeamns"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "T-Play Khatib: Peranakan-Themed Adventureland",
+    "organiser": "HomeTeamNS",
+    "blurb": "Interactive trampoline, climbing slide tower, sport pitch.",
+    "description": "T-Play at Khatib has an interactive trampoline, climbing slide tower, sport pitch, foam ball shooting arena, ninja course for toddlers and many more exciting features. T-Play indoor playgrounds are designed to engage the child’s brain development, motion coordination and sense of direction. We are really BIG on parent-child bonding too! T-Play partners The Intan, Singapore’s award winning home Museum to transform T Play Khatib into a Peranakan adventureland where fun, play & learning come together in a truly Singaporean spirit. Celebrate your birthday with us!",
+    "guid": "https://www.hometeamns.sg/tplay/",
+    "activity_or_event": "activity",
+    "url": "https://www.hometeamns.sg/tplay/",
+    "price_display_teaser": "From $10.90",
+    "price_display": "From $10.90 to $32.70 (Free for children below 1 year old)",
+    "price": 18.0,
+    "age_group_display": "12 years old and below",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily (except Mon)",
+    "datetime_display": "Tue - Thu: 1pm - 7pm, Fri & PH eve: 1pm - 9pm, Weekends & PH & School holidays: 10am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "T-Play Khatib",
+    "full_address": "Level 1, 2 Yishun Walk, Singapore 767944",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\T_Play_Khatib__Peranakan_Themed_Adventureland_1.jpg",
+        "filename": "T_Play_Khatib__Peranakan_Themed_Adventureland_1.jpg",
+        "original_url": "https://playpoint.asia/projects/hospitality/hometeamns-khatib-2/",
+        "source_credit": "playpoint"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\T_Play_Khatib__Peranakan_Themed_Adventureland_2.jpg",
+        "filename": "T_Play_Khatib__Peranakan_Themed_Adventureland_2.jpg",
+        "original_url": "https://playpoint.asia/projects/hospitality/hometeamns-khatib-2/",
+        "source_credit": "playpoint"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\T_Play_Khatib__Peranakan_Themed_Adventureland_3.jpg",
+        "filename": "T_Play_Khatib__Peranakan_Themed_Adventureland_3.jpg",
+        "original_url": "https://playpoint.asia/projects/hospitality/hometeamns-khatib-2/",
+        "source_credit": "playpoint"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

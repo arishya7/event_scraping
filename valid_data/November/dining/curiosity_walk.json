@@ -1,0 +1,313 @@
+[
+  {
+    "title": "Curiosity Cove at Mandai Wildlife Reserve",
+    "organiser": "Mandai Wildlife Reserve",
+    "blurb": "A new way to play at Mandai Wildlife Reserve!",
+    "description": "Kids can lead their own adventures across four nature-themed zones, moving and exploring like animals do. In these reimagined environments, nature comes alive in playful and creative ways, with bold colours and interactive features that spark curiosity through hands-on and digital play. Designed for families with children aged 3 to 12, be among the first to explore Singapore’s newest and largest indoor nature-inspired playscape — 4,600sqm of imaginative play and adventure! A new way to play is coming to the Mandai Wildlife Reserve! Kids can lead their own adventures across four nature-themed zones, moving and exploring like animals do. In these reimagined environments, nature comes alive in playful and creative ways, with bold colours and interactive features that spark curiosity through hands-on and digital play.",
+    "guid": "https://www.mandai.com/en/curiosity-cove.html",
+    "activity_or_event": "activity",
+    "url": "https://www.mandai.com/en/curiosity-cove.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$20",
+    "price": 20.0,
+    "min_price": 20.0,
+    "max_price": 50.0,
+    "age_group_display": "3 to 12 years",
+    "min_age": 3.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "mong the first to explore Singapore’s newest and largest indoor nature-inspired playscape — 4,600sqm of imaginative play and adventure!",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Mandai Wildlife Reserve",
+    "label_tag": null,
+    "keyword_tag": "indoor playground, nature play, family activities, kids adventure",
+    "address_display": "80 Mandai Lake Rd, Singapore 729826",
+    "categories": [
+      "Indoor Playground",
+      "Attraction"
+    ],
+    "images": [],
+    "id": 524,
+    "longitude": 103.79054889999999,
+    "latitude": 1.4049843,
+    "planning_area": "Central Water Catchment",
+    "region": "North Region"
+  },
+  {
+    "title": "Curiosity Cove: A World of Marine Wonders Awaits",
+    "organiser": "Mandai Wildlife Reserve",
+    "blurb": "Discover marine life and conservation efforts today!",
+    "description": "Curiosity Cove offers an immersive experience into the marine world, showcasing diverse aquatic species and highlighting conservation initiatives. Visitors can explore interactive exhibits, observe fascinating marine creatures, and learn about the importance of protecting our oceans. The cove features various zones, each designed to educate and inspire guests of all ages. From vibrant coral reefs to mysterious deep-sea environments, Curiosity Cove provides a captivating journey into the wonders of marine biodiversity. Perfect for families and marine enthusiasts, it's an educational and entertaining destination that promotes environmental awareness and conservation.",
+    "guid": "https://www.mandai.com/en/curiosity-cove.html",
+    "activity_or_event": "activity",
+    "url": "https://www.mandai.com/en/curiosity-cove.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$30 to S$50",
+    "price": 30.0,
+    "min_price": 30.0,
+    "max_price": 50.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Curiosity Cove",
+    "label_tag": null,
+    "keyword_tag": "marine life, aquatic species, conservation, ocean, biodiversity",
+    "address_display": "Central Water Catchment",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/care-for-planet/conservation-included/conservation-included.svg",
+        "source_credit": "Mandai Wildlife Reserve"
+      }
+    ],
+    "id": 525,
+    "longitude": 103.7905243,
+    "latitude": 1.4060249999999999,
+    "planning_area": "Central Water Catchment",
+    "region": "North Region"
+  },
+  {
+    "title": "Curiosity Cove: Marine Encounters in Singapore",
+    "organiser": "Mandai Wildlife Group",
+    "blurb": "Explore marine biodiversity at our interactive cove.",
+    "description": "Discover the wonders of marine life at Curiosity Cove, an interactive zone designed to educate and inspire. Engage with fascinating exhibits showcasing diverse marine species and learn about conservation efforts. Perfect for families and children of all ages, this immersive experience offers hands-on activities and educational displays that highlight the importance of protecting our oceans. Explore the underwater world through engaging presentations and interactive exhibits, fostering a deeper appreciation for marine biodiversity. The cove features touch pools, observation tanks, and informative displays, providing a comprehensive and family-friendly learning environment.",
+    "guid": "https://www.mandai.com/en/curiosity-cove.html",
+    "activity_or_event": "activity",
+    "url": "https://www.mandai.com/en/curiosity-cove.html",
+    "is_free": false,
+    "price_display_teaser": "Contact for pricing",
+    "price_display": "Please contact for pricing",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Curiosity Cove",
+    "label_tag": null,
+    "keyword_tag": "marine life, interactive exhibits, conservation, family activities, educational displays",
+    "address_display": "Central Water Catchment",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/care-for-planet/conservation-included/conservation-included.svg",
+        "source_credit": "Mandai Wildlife Group"
+      }
+    ],
+    "id": 526,
+    "longitude": 103.7905243,
+    "latitude": 1.4060249999999999,
+    "planning_area": "Central Water Catchment",
+    "region": "North Region"
+  },
+  {
+    "title": "Curiosity Cove: Marine Experiences in Singapore",
+    "organiser": "Mandai Wildlife Reserve",
+    "blurb": "Explore marine life through interactive experiences.",
+    "description": "Curiosity Cove offers immersive marine experiences designed for families and children. Discover fascinating sea creatures and learn about marine conservation through interactive exhibits and educational programs. Perfect for kids and adults who are curious about the underwater world. Engage with marine life experts and participate in hands-on activities that promote ocean awareness. The cove features diverse marine habitats and provides a unique opportunity to connect with nature. Enjoy a family-friendly environment where learning and fun come together to create unforgettable memories. Explore the wonders of the ocean at Curiosity Cove.",
+    "guid": "https://www.mandai.com/en/curiosity-cove.html",
+    "activity_or_event": "activity",
+    "url": "https://www.mandai.com/en/curiosity-cove.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$15 to S$30",
+    "price": 15.0,
+    "min_price": 15.0,
+    "max_price": 30.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating hours vary, check website",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Curiosity Cove",
+    "label_tag": null,
+    "keyword_tag": "marine life, interactive exhibits, marine conservation, educational programs, family activities",
+    "address_display": "Central Water Catchment",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/misc/social-qr/tiktok.png",
+        "source_credit": "Mandai Wildlife Reserve"
+      },
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/logo/social/xiaohongshu-white.svg",
+        "source_credit": "Mandai Wildlife Reserve"
+      },
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/logo/social/xiaohongshu-green.svg",
+        "source_credit": "Mandai Wildlife Reserve"
+      },
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/misc/social-qr/xiaohongshu-qr-code.jpg",
+        "source_credit": "Mandai Wildlife Reserve"
+      },
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/misc/social-qr/wechat.jpg",
+        "source_credit": "Mandai Wildlife Reserve"
+      }
+    ],
+    "id": 527,
+    "longitude": 103.7905243,
+    "latitude": 1.4060249999999999,
+    "planning_area": "Central Water Catchment",
+    "region": "North Region"
+  },
+  {
+    "title": "Curiosity Cove: Marine Experiences at Mandai Wildlife",
+    "organiser": "Mandai Wildlife Group",
+    "blurb": "Explore marine biodiversity and conservation efforts.",
+    "description": "Curiosity Cove offers immersive marine experiences focused on biodiversity and conservation. Visitors can discover fascinating marine life, learn about ongoing conservation projects, and engage in interactive exhibits. The cove aims to educate and inspire families and children about the importance of protecting our oceans and marine ecosystems. It provides a unique opportunity to connect with marine wildlife and understand the challenges they face, fostering a sense of responsibility towards marine conservation. Perfect for families and children interested in marine life and conservation.",
+    "guid": "https://www.mandai.com/en/curiosity-cove.html",
+    "activity_or_event": "activity",
+    "url": "https://www.mandai.com/en/curiosity-cove.html",
+    "is_free": false,
+    "price_display_teaser": "Contact for pricing",
+    "price_display": "Please contact for pricing",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Curiosity Cove",
+    "label_tag": null,
+    "keyword_tag": "marine life, conservation, marine biodiversity, ocean education, wildlife",
+    "address_display": "Central Water Catchment",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/misc/social-qr/tiktok.png",
+        "source_credit": "Mandai Wildlife Group"
+      },
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/logo/social/xiaohongshu-white.svg",
+        "source_credit": "Mandai Wildlife Group"
+      },
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/logo/social/xiaohongshu-green.svg",
+        "source_credit": "Mandai Wildlife Group"
+      },
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/misc/social-qr/xiaohongshu-qr-code.jpg",
+        "source_credit": "Mandai Wildlife Group"
+      },
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/misc/social-qr/wechat.jpg",
+        "source_credit": "Mandai Wildlife Group"
+      }
+    ],
+    "id": 528,
+    "longitude": 103.7905243,
+    "latitude": 1.4060249999999999,
+    "planning_area": "Central Water Catchment",
+    "region": "North Region"
+  },
+  {
+    "title": "Curiosity Cove",
+    "organiser": "Mandai Wildlife Reserve",
+    "blurb": "Explore marine biodiversity at our interactive cove.",
+    "description": "Discover the wonders of marine life at Curiosity Cove, an interactive zone designed to educate and inspire. Engage with fascinating exhibits showcasing diverse marine species and learn about conservation efforts. Perfect for families and children of all ages, Curiosity Cove offers a unique opportunity to connect with the ocean's inhabitants. Explore interactive displays, get up close with marine animals, and participate in educational programs. Our family-friendly environment ensures an enriching and memorable experience for everyone. Dive into the depths of marine biodiversity and uncover the secrets of the sea at Curiosity Cove.",
+    "guid": "https://www.mandai.com/en/curiosity-cove.html",
+    "activity_or_event": "activity",
+    "url": "https://www.mandai.com/en/curiosity-cove.html",
+    "is_free": false,
+    "price_display_teaser": "Contact for pricing",
+    "price_display": "Please contact for pricing",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Curiosity Cove",
+    "label_tag": null,
+    "keyword_tag": "marine life, interactive exhibits, conservation, marine species, educational programs",
+    "address_display": "Central Water Catchment",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [],
+    "id": 529,
+    "longitude": 103.7905243,
+    "latitude": 1.4060249999999999,
+    "planning_area": "Central Water Catchment",
+    "region": "North Region"
+  },
+  {
+    "title": "Curiosity Cove: Marine Exploration in Singapore",
+    "organiser": "Mandai Wildlife Group",
+    "blurb": "Explore marine life at Singapore's aquatic wonderland.",
+    "description": "Curiosity Cove offers an immersive marine experience, allowing visitors to discover diverse aquatic species and ecosystems. Explore interactive exhibits and underwater viewing galleries. Perfect for families and marine enthusiasts, it provides educational and engaging encounters with marine biodiversity. Discover the wonders of the ocean through captivating displays and conservation insights. Observe fascinating sea creatures and learn about their habitats. A memorable adventure awaits at Curiosity Cove, where curiosity meets conservation.",
+    "guid": "https://www.mandai.com/en/curiosity-cove.html",
+    "activity_or_event": "activity",
+    "url": "https://www.mandai.com/en/curiosity-cove.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$30 to S$50",
+    "price": 30.0,
+    "min_price": 30.0,
+    "max_price": 50.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Curiosity Cove",
+    "label_tag": null,
+    "keyword_tag": "marine life, aquatic animals, ocean exploration, family attraction",
+    "address_display": "Central Water Catchment",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/logo/awards/waza-logo.png",
+        "source_credit": "Mandai Wildlife Group"
+      },
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/logo/awards/gstc-sapwhite-bg.png",
+        "source_credit": "Mandai Wildlife Group"
+      },
+      {
+        "url": "https://www.mandai.com/content/dam/mandai/logo/awards/singapore-tourism-award-2024.svg",
+        "source_credit": "Mandai Wildlife Group"
+      }
+    ],
+    "id": 530,
+    "longitude": 103.7905243,
+    "latitude": 1.4060249999999999,
+    "planning_area": "Central Water Catchment",
+    "region": "North Region"
+  }
+]

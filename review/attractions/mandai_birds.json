@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Bird Paradise",
+    "organiser": "Mandai Wildlife Group",
+    "blurb": "Explore a world of avian wonders at Bird Paradise.",
+    "description": "Discover a vibrant sanctuary teeming with diverse bird species from around the globe. Immerse yourself in captivating exhibits, interactive experiences, and lush landscapes that showcase the beauty and importance of avian life. Perfect for families and nature enthusiasts, Bird Paradise offers an unforgettable journey into the world of birds, fostering appreciation and conservation awareness. Explore different geographical zones and witness spectacular bird shows. A family-friendly destination that combines education and entertainment, creating lasting memories for all ages. Enjoy interactive feeding sessions and learn about the unique adaptations of various bird species. This is an immersive experience for all.",
+    "guid": "https://www.mandai.com/en/bird-paradise.html",
+    "activity_or_event": "activity",
+    "url": "https://www.mandai.com/en/bird-paradise.html",
+    "price_display_teaser": "From $27.20",
+    "price_display": "From $27.20 - $49",
+    "price": 38.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 9am - 6pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Bird Paradise",
+    "full_address": "20 Mandai Lake Road Singapore 729825",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Bird_Paradise_1.jpg",
+        "filename": "Bird_Paradise_1.jpg",
+        "original_url": "https://www.mandai.com/en/bird-paradise.html",
+        "source_credit": "mandai"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Bird_Paradise_2.jpg",
+        "filename": "Bird_Paradise_2.jpg",
+        "original_url": "https://www.mandai.com/en/bird-paradise.html",
+        "source_credit": "mandai"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Bird_Paradise_3.jpg",
+        "filename": "Bird_Paradise_3.jpg",
+        "original_url": "https://www.mandai.com/en/bird-paradise.html",
+        "source_credit": "mandai"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

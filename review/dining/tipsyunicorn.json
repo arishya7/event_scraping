@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Tipsy Unicorn: Beach Club Paradise in Sentosa",
+    "organiser": "Tipsy Unicorn",
+    "blurb": "Dazzling beach club with curated events and delights.",
+    "description": "Tipsy Unicorn is a dazzling beach club nestled in Sentosa, creating spectacular moments through curated events, entertainment, fitness, and exceptional culinary delights. Set against a stunning beachfront backdrop, it offers an unforgettable trip to paradise. Enjoy basking in the golden rays or dancing under the enchanting moonlight. The venue provides a vibrant atmosphere suitable for families looking for a unique beach experience with various activities and dining options. It's perfect for those seeking a blend of relaxation and entertainment in a picturesque setting.",
+    "guid": "https://www.tipsyunicorn.com.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.tipsyunicorn.com.sg/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Sun - Thu: 11am - 10pm, Fri - Sat: 11am - 12am (Adults only (18+) after 6pm on Fri - Sun, eve of PH)",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Tipsy Unicorn",
+    "full_address": "36 Siloso Beach Walk,  #01-01, Sentosa Island  Singapore 099007",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/904a35_76824454761c4453886d94fbbd0210a7~mv2.jpg/v1/fill/w_2000,h_2000,al_c,q_100,usm_0.66_1.00_0.01,enc_avif,quality_auto/904a35_76824454761c4453886d94fbbd0210a7~mv2.jpg",
+        "source_credit": "Tipsy Unicorn"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/904a35_21dda4dc9d1f4c69af6d78b165d96755~mv2.jpg/v1/fill/w_2000,h_2000,al_c,q_100,usm_0.66_1.00_0.01,enc_avif,quality_auto/904a35_21dda4dc9d1f4c69af6d78b165d96755~mv2.jpg",
+        "source_credit": "Tipsy Unicorn"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/904a35_5de2ace25bed4a9c977c456d7fc6602d~mv2.jpg/v1/fill/w_2000,h_2000,al_c,q_100,usm_0.66_1.00_0.01,enc_avif,quality_auto/904a35_5de2ace25bed4a9c977c456d7fc6602d~mv2.jpg",
+        "source_credit": "Tipsy Unicorn"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

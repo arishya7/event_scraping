@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Waka Waka World - Safari-Themed Indoor Playground",
+    "organiser": "Waka Waka",
+    "blurb": "Safari-themed indoor playground for children.",
+    "description": "Waka Waka is a Safari-themed indoor playground for children from 7 months to 12 years old. Located at Annex@Furama, Waka Waka has ample amount of space for little ones to unleash their energy. Waka Waka helps enhance various developmental skills through fun physical activity. From giant wave slides to challenging obstacle courses, Waka Waka is an adventure that guarantees a play experience like no other. There’s also a bistro and lounge area for the parents to kickback and relax while the children run wild. What’re you waiting for? Come on down for a roarin’ good time today!",
+    "guid": "https://playatwakawaka.com/home/sg",
+    "activity_or_event": "activity",
+    "url": "https://playatwakawaka.com/home/sg",
+    "price_display_teaser": "From $27",
+    "price_display": "From $27  - $32",
+    "price": 0.0,
+    "age_group_display": "14 years old and below",
+    "min_age": 0.0,
+    "max_age": 14.0,
+    "datetime_display_teaser": "Irregular",
+    "datetime_display": "Irregular, to check with venue",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Waka Waka",
+    "full_address": "#05-01, 407 Havelock Rd, Singapore 169634",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Waka_Waka_World___Safari_Themed_Indoor_Playground_1.jpeg",
+        "filename": "Waka_Waka_World___Safari_Themed_Indoor_Playground_1.jpeg",
+        "original_url": "https://playatwakawaka.com/home/sg",
+        "source_credit": "playatwakawaka"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Waka_Waka_World___Safari_Themed_Indoor_Playground_2.jpeg",
+        "filename": "Waka_Waka_World___Safari_Themed_Indoor_Playground_2.jpeg",
+        "original_url": "https://playatwakawaka.com/home/sg",
+        "source_credit": "playatwakawaka"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Waka_Waka_World___Safari_Themed_Indoor_Playground_3.jpeg",
+        "filename": "Waka_Waka_World___Safari_Themed_Indoor_Playground_3.jpeg",
+        "original_url": "https://playatwakawaka.com/home/sg",
+        "source_credit": "playatwakawaka"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Waka_Waka_World___Safari_Themed_Indoor_Playground_4.png",
+        "filename": "Waka_Waka_World___Safari_Themed_Indoor_Playground_4.png",
+        "original_url": "https://playatwakawaka.com/home/sg",
+        "source_credit": "playatwakawaka"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Waka_Waka_World___Safari_Themed_Indoor_Playground_5.png",
+        "filename": "Waka_Waka_World___Safari_Themed_Indoor_Playground_5.png",
+        "original_url": "https://playatwakawaka.com/home/sg",
+        "source_credit": "playatwakawaka"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Kidztropic at Poiz Centre",
+    "organiser": "Kidztropic ",
+    "blurb": "Play venue for families and kids.",
+    "description": "Kidztropic is a cozy indoor playground made just for little adventurers aged, where curiosity and creativity take center stage. Children can scramble up colorful climbing walls, zoom down slides, bounce on trampolines, and dive into the ball pit for giggles galore. There’s also a pretend play corner where imaginations run wild—think role-play houses or make-believe shops—and a sensory play area packed with Montessori-style toys and tactile experiences to keep little hands busy and minds buzzing. While kids explore their world, parents can relax, chat, or simply soak in the joy of seeing their child’s delight. For family bonding, Kidztropic also hosts storytelling, workshops, and birthday-party events filled with fun and learning.",
+    "guid": "https://playatwakawaka.com/home/sg",
+    "activity_or_event": "activity",
+    "url": "https://www.kidztropic.com/kidztropic",
+    "price_display_teaser": "From $25",
+    "price_display": "Tue - Fri: $25 (2 hours) Weekends & PH: $29 (2 hours)",
+    "price": 0.0,
+    "age_group_display": "6 years old and below",
+    "min_age": 0.0,
+    "max_age": 6.0,
+    "datetime_display_teaser": "Available daily (except Mon)",
+    "datetime_display": "Weekdays (except Mon): 2pm – 7pm, Weekends/PH: 10am – 8pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Kidztropic",
+    "full_address": "51 Upper Serangoon Rd, #03-12/13 Poiz Centre, Singapore 347697",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Kidztropic_at_Poiz_Centre_1.jpg",
+        "filename": "Kidztropic_at_Poiz_Centre_1.jpg",
+        "original_url": "https://www.kidztropic.com/kidztropic",
+        "source_credit": "kidztropic"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "title": "Science Centre Singapore Scientific Institution",
+    "organiser": "Science Centre Singapore",
+    "blurb": "Promotion of science and tech education for public.",
+    "description": "The Science Centre Singapore is dedicated to promoting scientific and technological education for the general public. Located in Jurong East, it offers a variety of exhibitions, activities, and workshops designed to engage visitors of all ages. Key attractions include KidsSTOP™, Omni-Theatre, Snow City, and E.S.C. - ESCAPE @ SCIENCE CENTRE. The centre also hosts science shows, demonstrations, and competitions. With a focus on interactive learning, the Science Centre aims to inspire curiosity and foster a deeper understanding of science and technology among families and children. It provides various programmes for schools and corporate groups, ensuring an enriching experience for everyone.",
+    "guid": "https://www.science.edu.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.science.edu.sg/",
+    "price_display_teaser": "From $4",
+    "price_display": "From $4 - $12",
+    "price": 6.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily (except Mon)",
+    "datetime_display": "Available daily (except Mon), 10am - 5pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Science Centre Singapore",
+    "full_address": "",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Science_Centre_Singapore_Scientific_Institution_1.jpg",
+        "filename": "Science_Centre_Singapore_Scientific_Institution_1.jpg",
+        "original_url": "https://www.science.edu.sg/whats-on/exhibitions/urban-mutations",
+        "source_credit": "science"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Omni-Theatre: Immersive Dome Screen Experience",
+    "organiser": "Science Centre Singapore",
+    "blurb": "Experience movies on a large format dome screen!",
+    "description": "The Omni-Theatre at Science Centre Singapore offers an immersive cinematic experience on a large format dome screen. Featuring a variety of educational and entertaining films, the Omni-Theatre transports viewers to different worlds and allows them to explore science and nature in a unique and engaging way. With its state-of-the-art projection and sound systems, the Omni-Theatre provides a captivating experience for audiences of all ages. Perfect for families and movie enthusiasts, the Omni-Theatre offers a memorable and educational outing. Discover the wonders of the universe on a giant dome screen.",
+    "guid": "https://www.science.edu.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.science.edu.sg/",
+    "price_display_teaser": "From $6",
+    "price_display": "From $6 - $14",
+    "price": 6.0,
+    "age_group_display": "7 years old and above",
+    "min_age": 7.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am - 6pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Omni-Theatre",
+    "full_address": "",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Omni_Theatre__Immersive_Dome_Screen_Experience_1.jpg",
+        "filename": "Omni_Theatre__Immersive_Dome_Screen_Experience_1.jpg",
+        "original_url": "https://www.science.edu.sg/visit-us/omni-theatre/about-omni-theatre",
+        "source_credit": "science"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Snow City: Singapore's First Permanent Snow Centre",
+    "organiser": "Science Centre Singapore",
+    "blurb": "Experience real snow at Singapore's first snow centre!",
+    "description": "Snow City is Singapore's first permanent snow centre, offering visitors the opportunity to experience real snow in a sub-zero environment. With a variety of snow activities, including snow tubing, snow sculptures, and a snow playground, Snow City provides a fun and unique experience for all ages. Perfect for families and those looking to escape the tropical heat, Snow City offers a memorable and exciting outing. Discover the magic of winter in the heart of Singapore. Enjoy thrilling snow activities and create lasting memories with family and friends.",
+    "guid": "https://www.science.edu.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.snowcity.com.sg/",
+    "price_display_teaser": "From $27",
+    "price_display": "From $27 - $31",
+    "price": 18.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": "Available daily (except Mon)",
+    "datetime_display": "Weekdays (except Mon): 10am – 5pm, Weekends & PH & School holidays: 10am – 6pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Snow City",
+    "full_address": "",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_3\\images\\user_uploads\\Snow_City__Singapore_s_First_Permanent_Snow_Centre_1.jpg",
+        "filename": "Snow_City__Singapore_s_First_Permanent_Snow_Centre_1.jpg",
+        "original_url": "https://ticket.snowcity.com.sg/",
+        "source_credit": "snowcity"
+      },
+      {
+        "local_path": "events_output\\event_3\\images\\user_uploads\\Snow_City__Singapore_s_First_Permanent_Snow_Centre_2.png",
+        "filename": "Snow_City__Singapore_s_First_Permanent_Snow_Centre_2.png",
+        "original_url": "https://ticket.snowcity.com.sg/",
+        "source_credit": "snowcity"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

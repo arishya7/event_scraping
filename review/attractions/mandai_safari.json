@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Night Safari Singapore Wildlife Experience",
+    "organiser": "Mandai Wildlife Group",
+    "blurb": "Experience wildlife in their nocturnal environment.",
+    "description": "Embark on a fascinating journey into the world of nocturnal animals at Night Safari. Observe a diverse range of creatures in their naturalistic habitats under the cover of darkness. The Night Safari offers an immersive experience for families and wildlife enthusiasts, showcasing the unique behaviors of animals that are active at night. Explore walking trails and enjoy the Creatures of the Night Show for an unforgettable adventure. Perfect for families and individuals interested in wildlife and conservation.",
+    "guid": "https://www.mandai.com/en/night-safari.html",
+    "activity_or_event": "activity",
+    "url": "https://www.mandai.com/en/night-safari.html",
+    "price_display_teaser": "From $32.80",
+    "price_display": "From $32.80 - $58",
+    "price": 55.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 6:30pm – 12am",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Night Safari",
+    "full_address": "80 Mandai Lake Rd, Singapore 729826",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Night_Safari_Singapore_Wildlife_Experience_1.jpg",
+        "filename": "Night_Safari_Singapore_Wildlife_Experience_1.jpg",
+        "original_url": "https://www.mandai.com/en/night-safari.html",
+        "source_credit": "mandai"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Night_Safari_Singapore_Wildlife_Experience_2.jpg",
+        "filename": "Night_Safari_Singapore_Wildlife_Experience_2.jpg",
+        "original_url": "https://www.mandai.com/en/night-safari.html",
+        "source_credit": "mandai"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

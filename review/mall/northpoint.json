@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Wet Playground at Northpoint City",
+    "organiser": "Northpoint City",
+    "blurb": "Your family fun starts here at Northpoint City!",
+    "description": "Have a splashing good time at Northpoint City Level 4 (North Wing) as your little ones swoosh down the water slides. Let them soak in fun under our exciting tipping buckets. Do remember to bring along extra sets of clothes and towels for your little ones, or just take the chance to shop for a brand new set in Northpoint!",
+    "guid": "https://www.northpointcity.com.sg/family",
+    "activity_or_event": "activity",
+    "url": "https://www.northpointcity.com.sg/family",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": "",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily (except Mon)",
+    "datetime_display": "Available daily (except Mon), 10.30am to 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Northpoint City",
+    "full_address": "Stores Map FRx Membership FRx Gift Cards Download FRx app What’s On Promotions Store Offers Events Blog Northpoint City 930 Yishun Avenue 2 Singapore 769098 (65) 6754 2300 Get Directions Customer Service Counter North Wing, Level 2 Opening Hours: 10am to 10pm Redemption Hours: 10am to 9",
+    "categories": [
+      "Mall related",
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Wet_Playground_at_Northpoint_City_1.jpg",
+        "filename": "Wet_Playground_at_Northpoint_City_1.jpg",
+        "original_url": "https://www.northpointcity.com.sg/family",
+        "source_credit": "northpointcity"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

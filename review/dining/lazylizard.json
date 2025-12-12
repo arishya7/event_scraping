@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Lazy Lizard Restaurant: A Family-Friendly Dining Spot",
+    "organiser": "Lazy Lizard",
+    "blurb": "Enjoy home-style food and drinks in a relaxed setting.",
+    "description": "Lazy Lizard is a restaurant that offers a relaxed and family-friendly dining experience. With a focus on home-style food and a variety of drinks, it's a great place for families to gather and enjoy a meal together. The restaurant provides a comfortable atmosphere where parents can unwind while kids enjoy the menu options. It is designed to cater to families looking for a casual dining experience with a diverse menu to suit different tastes. The venue also hosts events and happenings, making it a vibrant spot for the community. The restaurant aims to provide a welcoming environment for families and individuals alike.",
+    "guid": "https://lazylizard.com.sg/",
+    "activity_or_event": "activity",
+    "url": "https://lazylizard.com.sg/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item. Kids dine free every weekend & PH.",
+    "price": 15.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon - Thu: 12pm - 10:30pm, Fri: 12pm - 12am, Sat: 11am - 12am, Sun: 11am - 10:30am",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Lazy Lizard",
+    "full_address": "1 West Coast Drive #01-85 & #01-86, NEWest, 128020",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Lazy_Lizard_Restaurant__A_Family_Friendly_Dining_Spot_1.jpg",
+        "filename": "Lazy_Lizard_Restaurant__A_Family_Friendly_Dining_Spot_1.jpg",
+        "original_url": "https://lazylizard.com.sg/happenings/",
+        "source_credit": "lazylizard"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Lazy_Lizard_Restaurant__A_Family_Friendly_Dining_Spot_2.jpg",
+        "filename": "Lazy_Lizard_Restaurant__A_Family_Friendly_Dining_Spot_2.jpg",
+        "original_url": "https://lazylizard.com.sg/locations/",
+        "source_credit": "lazylizard"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Little Lazy Lizard - Bukit Timah Family Dining",
+    "organiser": "Lazy Lizard",
+    "blurb": "Family-friendly dining at Bukit Timah Road, Singapore.",
+    "description": "Little Lazy Lizard at Bukit Timah Road offers a relaxed and family-friendly dining experience. Enjoy a diverse menu in a comfortable setting, perfect for gatherings with loved ones. The restaurant provides a welcoming atmosphere for families looking to enjoy a meal together. With a variety of dishes to choose from, there's something for everyone to enjoy. The location is easily accessible and provides a convenient dining option for residents and visitors alike. The restaurant aims to provide a memorable dining experience for all its guests.",
+    "guid": "https://lazylizard.com.sg/",
+    "activity_or_event": "activity",
+    "url": "https://lazylizard.com.sg/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item. Kids dine free every weekend & PH.",
+    "price": 15.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon - Thu: 12pm - 9:30pm, Fri: 12pm - 10pm, Weekends: 11am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Little Lazy Lizard",
+    "full_address": "789 Bukit Timah Rd, Singapore 269763",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Little_Lazy_Lizard___Bukit_Timah_Family_Dining_1.jpg",
+        "filename": "Little_Lazy_Lizard___Bukit_Timah_Family_Dining_1.jpg",
+        "original_url": "https://lazylizard.com.sg/locations/",
+        "source_credit": "lazylizard"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Little_Lazy_Lizard___Bukit_Timah_Family_Dining_2.jpg",
+        "filename": "Little_Lazy_Lizard___Bukit_Timah_Family_Dining_2.jpg",
+        "original_url": "https://lazylizard.com.sg/locations/",
+        "source_credit": "lazylizard"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

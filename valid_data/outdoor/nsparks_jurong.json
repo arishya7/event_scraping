@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Forest Ramble (Nature Playgarden) at Lakeside Garden",
+    "organiser": "Jurong Lake Gardens",
+    "blurb": "Nature playgarden with various play areas for kids.",
+    "description": "Forest Ramble is a nature playgarden at Lakeside Garden in Jurong Lake Gardens. It offers a variety of play areas designed for children to explore and interact with nature. The playgarden includes sand play, water play, and climbing structures, providing a fun and engaging environment for kids of all ages. It's a great place for families to spend time outdoors and enjoy the natural surroundings. The play areas are designed to encourage creativity and physical activity, making it a perfect destination for a family outing. The playgarden is suitable for children of various ages and abilities, with different zones catering to different interests and skill levels. Parents can relax and enjoy the scenery while their children explore and play in a safe and stimulating environment.",
+    "guid": "https://juronglakegardens.nparks.gov.sg/forest-ramble/",
+    "activity_or_event": "activity",
+    "url": "https://juronglakegardens.nparks.gov.sg/forest-ramble/",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Sunken Garden Water Lily Pavilion Water Lily Garden",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Forest Ramble",
+    "full_address": "Not Available",
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": []
+  },
+  {
+    "title": "Forest Ramble Nature-Inspired Playground",
+    "organiser": "National Parks Board (NParks)",
+    "blurb": "Explore nature-inspired play at Forest Ramble!",
+    "description": "Forest Ramble is a 2.3-hectare nature playgarden featuring 13 adventure stations inspired by animals in Jurong Lake Gardens. Children can mimic the movements of creatures inhabiting freshwater swamp forests, gliding like the Grey Heron, leaping like the Squirrel, or splashing like the Smooth-coated Otter. The playground includes inclusive play elements for children of all abilities, allowing everyone to create their own unique adventure play experience in nature. Kindly note that Heron Play and Snake Play in Forest Ramble will be closed for maintenance works until further notice. Thank you for your understanding.",
+    "guid": "https://juronglakegardens.nparks.gov.sg/forest-ramble/",
+    "activity_or_event": "activity",
+    "url": "https://juronglakegardens.nparks.gov.sg/forest-ramble/",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Jurong Lake Gardens",
+    "full_address": "Not Available",
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://juronglakegardens.nparks.gov.sg/images/Lakeside Garden/Forest Ramble/Forest_Ramble_Banner_1.jpg",
+        "source_credit": "National Parks Board (NParks)"
+      },
+      {
+        "url": "https://juronglakegardens.nparks.gov.sg/images/Lakeside Garden/Forest Ramble/Forest_Famble_1.jpg",
+        "source_credit": "National Parks Board (NParks)"
+      },
+      {
+        "url": "https://juronglakegardens.nparks.gov.sg/images/Lakeside Garden/Forest Ramble/Forest_Ramble_2.jpg",
+        "source_credit": "National Parks Board (NParks)"
+      },
+      {
+        "url": "https://juronglakegardens.nparks.gov.sg/images/Lakeside Garden/Forest Ramble/Forest_Ramble_3.jpg",
+        "source_credit": "National Parks Board (NParks)"
+      },
+      {
+        "url": "https://juronglakegardens.nparks.gov.sg/images/Lakeside Garden/Forest Ramble/Forest_Ramble_4.jpg",
+        "source_credit": "National Parks Board (NParks)"
+      }
+    ]
+  }
+]

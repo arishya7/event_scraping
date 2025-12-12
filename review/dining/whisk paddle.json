@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Whisk & Paddle - Punggol (Pet-friendly, outdoors)",
+    "organiser": "Whisk & Paddle",
+    "blurb": "Pet-friendly outdoor dining at Punggol Tebing Lane.",
+    "description": "Whisk & Paddle at Punggol offers a unique pet-friendly outdoor dining experience. Enjoy a relaxing atmosphere with your furry friends while savoring delicious food and drinks. The cafe provides a scenic view and a comfortable setting for families and pet owners alike. It's a great place to unwind and enjoy quality time with your loved ones and pets. The outdoor seating area is spacious and well-maintained, making it ideal for a casual meal or a special occasion. The menu features a variety of options to cater to different tastes, ensuring a satisfying dining experience for everyone.",
+    "guid": "https://whiskandpaddle.com.sg/contact-us/",
+    "activity_or_event": "activity",
+    "url": "https://whiskandpaddle.com.sg/contact-us/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily (except Mon)",
+    "datetime_display": "Weekdays (except Mon): 12pm – 10pm, Weekends/PH: 9:30am – 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Whisk & Paddle - Punggol",
+    "full_address": "Address: 10 Tebing Lane, #01-01, Singapore 828836",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Whisk___Paddle___Punggol__Pet_friendly__outdoors__1.jpg",
+        "filename": "Whisk___Paddle___Punggol__Pet_friendly__outdoors__1.jpg",
+        "original_url": "https://whiskandpaddle.com.sg/gallery/",
+        "source_credit": "whiskandpaddle"
+      },
+      {
+        "url": "http://whiskandpaddle.com.sg/wp-content/uploads/2018/02/whisk_paddle_logo.png",
+        "source_credit": "Whisk & Paddle"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Whisk & Paddle at Bukit Gombak Park",
+    "organiser": "Whisk & Paddle",
+    "blurb": "Visit Whisk & Paddle at Bukit Gombak Park.",
+    "description": "Whisk & Paddle is located at Bukit Gombak Park. Enjoy the scenic views while dining. Note that this location is not pet-friendly. Visit our Facebook page for frequent updates on our operation especially during Public Holidays to avoid disappointment. For table reservations, please call respective outlets. Walk-in only on Sat/Sun/PH/Eve of PH, no reservation.",
+    "guid": "https://whiskandpaddle.com.sg/contact-us/",
+    "activity_or_event": "activity",
+    "url": "https://whiskandpaddle.com.sg/contact-us/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily (except Mon)",
+    "datetime_display": "Weekdays (except Mon): 12pm – 10pm, Weekends/PH: 9:30am – 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Bukit Gombak Park",
+    "full_address": "Address: 816 Bukit Batok West Avenue 5, #01-01 Singapore 659089",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Whisk___Paddle_at_Bukit_Gombak_Park_1.jpeg",
+        "filename": "Whisk___Paddle_at_Bukit_Gombak_Park_1.jpeg",
+        "original_url": "",
+        "source_credit": "Mummysmarket"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Whisk___Paddle_at_Bukit_Gombak_Park_2.jpeg",
+        "filename": "Whisk___Paddle_at_Bukit_Gombak_Park_2.jpeg",
+        "original_url": "",
+        "source_credit": "Mummysmarket"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

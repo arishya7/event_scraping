@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Café Melba: A Community Hub for Families & Friends",
+    "organiser": "Café Melba",
+    "blurb": "Lifestyle café with family-friendly vibe and spacious areas.",
+    "description": "Café Melba is a lifestyle café in Singapore, inspired by the vibrant influences of Melbourne and Asia. We blend casual dining with a family-friendly vibe, offering quality coffee, fresh pizzas, sandwiches, and select Asian dishes in a relaxed setting with spacious outdoor areas. As a hub for families, friends, and community events, we combine Eastern and Western traditions to create inclusive, memorable experiences, striving to be a trendsetter in Singapore’s café scene. Café Melba is a lifestyle café in Singapore, inspired by the vibrant influences of Melbourne and Asia. We blend casual dining with a family-friendly vibe, offering quality coffee, fresh pizzas, sandwiches, and select Asian dishes in a relaxed setting with spacious outdoor areas. As a hub for families, friends, and community events, we combine Eastern and Western traditions to create inclusive, memorable experiences, striving to be a trendsetter in Singapore’s café scene.",
+    "guid": "https://www.cafemelba.com.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.cafemelba.com.sg/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item. Kids dine free on Monday.",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 9am-9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Café Melba",
+    "full_address": "90 Goodman Road, Goodman Arts Centre, Blk N #01-56 Singapore, 439053",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Caf__Melba__A_Community_Hub_for_Families___Friends_1.webp",
+        "filename": "Caf__Melba__A_Community_Hub_for_Families___Friends_1.webp",
+        "original_url": "https://www.cafemelba.com.sg/",
+        "source_credit": "cafemelba"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Caf__Melba__A_Community_Hub_for_Families___Friends_2.webp",
+        "filename": "Caf__Melba__A_Community_Hub_for_Families___Friends_2.webp",
+        "original_url": "https://www.cafemelba.com.sg/",
+        "source_credit": "cafemelba"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Caf__Melba__A_Community_Hub_for_Families___Friends_3.webp",
+        "filename": "Caf__Melba__A_Community_Hub_for_Families___Friends_3.webp",
+        "original_url": "https://www.cafemelba.com.sg/",
+        "source_credit": "cafemelba"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Cafe Melba: A Family-Friendly Dining Experience",
+    "organiser": "Cafe Melba",
+    "blurb": "Quality dining, inclusivity, community, family-friendly.",
+    "description": "Cafe Melba values quality in every aspect, from ingredients to service, ensuring a memorable dining experience. We celebrate diversity and strive to create a welcoming environment where everyone feels valued. We aim to be an active participant in our community, hosting events and activities that bring people together and foster meaningful connections. We cultivate a relaxed and enjoyable atmosphere for families, ensuring that guests of all ages can feel at home and enjoy their time with us. Our goal is to provide a space where families can create lasting memories while enjoying delicious food and drinks in a comfortable setting.",
+    "guid": "https://www.cafemelba.com.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.cafemelba.com.sg/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon - Thu: 8am - 9pm, Fri - Sun/PH: 8am-10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Cafe Melba",
+    "full_address": "1 Stars Avenue, #03-01,  Singapore, 138507",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Cafe_Melba__A_Family_Friendly_Dining_Experience_1.webp",
+        "filename": "Cafe_Melba__A_Family_Friendly_Dining_Experience_1.webp",
+        "original_url": "https://www.cafemelba.com.sg/",
+        "source_credit": "cafemelba"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Cafe_Melba__A_Family_Friendly_Dining_Experience_2.webp",
+        "filename": "Cafe_Melba__A_Family_Friendly_Dining_Experience_2.webp",
+        "original_url": "https://www.cafemelba.com.sg/",
+        "source_credit": "cafemelba"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Cafe_Melba__A_Family_Friendly_Dining_Experience_3.webp",
+        "filename": "Cafe_Melba__A_Family_Friendly_Dining_Experience_3.webp",
+        "original_url": "https://www.cafemelba.com.sg/",
+        "source_credit": "cafemelba"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

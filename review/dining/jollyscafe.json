@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Jovis Cafe: A Family-Friendly Dining Experience",
+    "organiser": "Jovis Cafe",
+    "blurb": "Cosy cafe near Clementi with mains, coffee & desserts.",
+    "description": "Jovis Cafe is a family-friendly and work-friendly cafe located near Clementi. We offer an extensive menu of mains, coffee, alcohol, and desserts suitable for all ages. Our mission is to create a place where beautiful memories with loved ones are made. We provide free Wi-Fi, power plugs, books, and magazines, making it perfect for dates, study sessions, and family dinners. Come and enjoy a relaxing and welcoming atmosphere with a variety of food and beverage options for everyone in the family.",
+    "guid": "https://joviscafe.sg/",
+    "activity_or_event": "activity",
+    "url": "https://joviscafe.sg/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily (except Thu)",
+    "datetime_display": "Mon - Wed: 11.30am – 9:30pm, Fri - Sun: 10:30am – 9:30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Jovis Cafe",
+    "full_address": "Not Available",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Jovis_Cafe__A_Family_Friendly_Dining_Experience_1.jpg",
+        "filename": "Jovis_Cafe__A_Family_Friendly_Dining_Experience_1.jpg",
+        "original_url": "https://joviscafe.sg/",
+        "source_credit": "joviscafe"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

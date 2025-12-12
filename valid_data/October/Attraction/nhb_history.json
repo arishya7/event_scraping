@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Singapore History Gallery at National Museum",
+    "organiser": "National Museum of Singapore",
+    "blurb": "Discover Singapore's history from settlement to city.",
+    "description": "Explore the comprehensive history of Singapore's evolution, from its early days as an ancient settlement to its transformation into a modern metropolis. Uncover the pivotal moments that shaped the nation, including its time as a Crown Colony, its resilience during war and occupation as Syonan-To, and its ultimate emergence as an independent and thriving Singapore. Delve into the stories and artifacts that bring Singapore's past to life, offering insights into the cultural, social, and political forces that have shaped its identity.",
+    "guid": "https://www.nhb.gov.sg/nationalmuseum/whats-on/exhibition/singapore-history-gallery",
+    "activity_or_event": "activity",
+    "url": "https://www.nhb.gov.sg/nationalmuseum/whats-on/exhibition/singapore-history-gallery",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Daily from 10am to 7pm | Last admission at 6.30pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "National Museum of Singapore",
+    "label_tag": null,
+    "Keyword_tag": "Singapore history, museum, exhibition, historical artifacts, cultural heritage",
+    "full_address": "Singapore 178957",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nhb.gov.sg/html/Nms2024/assets/images/icons/ico-additinerary.svg",
+        "source_credit": "National Museum of Singapore"
+      }
+    ],
+    "id": 752,
+    "longitude": 103.85151669999999,
+    "latitude": 1.2902217,
+    "district": "Downtown Core",
+    "area": "Central Region"
+  }
+]

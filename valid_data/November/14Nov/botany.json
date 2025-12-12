@@ -1,0 +1,257 @@
+[
+  {
+    "title": "Botany at Robertson Quay: Family-Friendly Dining",
+    "organiser": "Botany",
+    "blurb": "Culinary delights and mindful living come together.",
+    "description": "Botany is a restaurant in Robertson Quay where culinary delights and mindful living come together. Founded in 2019 by Cassandra Riene, this all-day dining haven offers a diverse menu that caters to vegans, vegetarians, gluten-free diners, and meat lovers alike. Currently recognised as one of the best brunch places in Singapore, Botany combines delicious food with a welcoming ambiance. Whether you're looking for a relaxing weekend brunch or a memorable meal, we offer something for everyone. The restaurant provides a welcoming atmosphere for families and children.",
+    "guid": "https://www.botany.com.sg/about",
+    "activity_or_event": "Kids-friendly dining",
+    "url": "https://www.botany.com.sg/about",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan",
+    "datetime_display": "All-day dining",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Botany Robertson Quay",
+    "address_display": "86 Robertson Quay, #01-03 Next to M Social Hotel, Singapore 238245",
+    "label": null,
+    "keyword_tag": [
+      "restaurant",
+      "family-friendly",
+      "dining",
+      "brunch",
+      "Robertson Quay"
+    ],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/3550d2_2cc40a27ba0143c89a8cff3d34a78c71~mv2.jpeg/v1/fill/w_2000,h_2000,al_c,q_100,usm_0.66_1.00_0.01,enc_avif,quality_auto/3550d2_2cc40a27ba0143c89a8cff3d34a78c71~mv2.jpeg",
+        "source_credit": "Botany",
+        "filename": "Botany_Robertson_Quay_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/Botany_Robertson_Quay_1.jpg"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/e74654_4c67fece4db6430281f328cd6e3f54f4~mv2.jpg/v1/fill/w_2000,h_2000,al_c,q_100,usm_0.66_1.00_0.01,enc_avif,quality_auto/e74654_4c67fece4db6430281f328cd6e3f54f4~mv2.jpg",
+        "source_credit": "Botany",
+        "filename": "Botany_Robertson_Quay_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/Botany_Robertson_Quay_2.jpg"
+      }
+    ],
+    "id": 731,
+    "longitude": 103.83720179999999,
+    "latitude": 1.2901029,
+    "planning_area": "Singapore River",
+    "region": "Central Region"
+  },
+  {
+    "title": "Botany Singapore - About Us",
+    "organiser": "Botany Singapore",
+    "blurb": "Discover Botany Singapore's story and mission.",
+    "description": "Botany Singapore is dedicated to providing high-quality products and services. We focus on sustainability and customer satisfaction. Our mission is to create a positive impact on the community and environment. We offer a range of services designed to meet diverse needs. Our team is committed to excellence and innovation. We strive to exceed expectations in every project we undertake. We believe in building long-term relationships with our clients and partners. Our values include integrity, transparency, and collaboration. We are constantly evolving to meet the changing needs of the market. We are passionate about what we do and dedicated to making a difference. We aim to be a leader in our industry and a trusted partner for our clients. We are committed to continuous improvement and innovation. We value our employees and provide a supportive work environment. We believe in giving back to the community and supporting local initiatives. We are proud of our achievements and excited about the future.",
+    "guid": "https://www.botany.com.sg/about",
+    "activity_or_event": "activity",
+    "url": "https://www.botany.com.sg/about",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Botany Singapore",
+    "address_display": "86 Robertson Quay, #01-03 Next to M Social Hotel, Singapore 238245",
+    "label": null,
+    "keyword_tag": [],
+    "categories": [],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/3550d2_2005cbffaf03426e84ca4479a01a1503~mv2.png/v1/fill/w_2000,h_2000,al_c,q_100,usm_0.66_1.00_0.01,enc_avif,quality_auto/logos%20magazine.png",
+        "source_credit": "Botany Singapore",
+        "filename": "Botany_Singapore_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/Botany_Singapore_1.jpg"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/3550d2_2005cbffaf03426e84ca4479a01a1503~mv2.png/v1/fill/w_100",
+        "source_credit": "Botany Singapore",
+        "filename": "Botany_Singapore_2.jpg",
+        "local_path": null
+      },
+      {
+        "url": "https://www.botany.com.sg/h_100",
+        "source_credit": "Botany Singapore",
+        "filename": "Botany_Singapore_3.jpg",
+        "local_path": null
+      },
+      {
+        "url": "https://www.botany.com.sg/al_c",
+        "source_credit": "Botany Singapore",
+        "filename": "Botany_Singapore_4.jpg",
+        "local_path": null
+      },
+      {
+        "url": "https://www.botany.com.sg/q_85",
+        "source_credit": "Botany Singapore",
+        "filename": "Botany_Singapore_5.jpg",
+        "local_path": null
+      }
+    ],
+    "id": 732,
+    "longitude": 103.83720179999999,
+    "latitude": 1.2901029,
+    "planning_area": "Singapore River",
+    "region": "Central Region"
+  },
+  {
+    "title": "Botany Singapore at Robertson Quay",
+    "organiser": "The Well Group",
+    "blurb": "Family-friendly dining at Robertson Quay.",
+    "description": "Botany Singapore offers a family-friendly dining experience at Robertson Quay. Enjoy a diverse menu in a welcoming atmosphere. The restaurant provides a comfortable setting for families to relax and enjoy a meal together. With a focus on quality ingredients and a pleasant ambiance, Botany Singapore is an ideal spot for family outings.",
+    "guid": "https://www.botany.com.sg/about",
+    "activity_or_event": "Kids-friendly dining",
+    "url": "https://www.botany.com.sg/about",
+    "price_display_teaser": "From $",
+    "price_display": "Menu items vary in price",
+    "price": 15,
+    "min_price": 15,
+    "max_price": 50,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "Daily",
+    "datetime_display": "Monday - Friday 9am - 10pm Saturday, Sunday, PH 8.30 am - 10 pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Botany Singapore",
+    "address_display": "86 Robertson Quay, #01-03 Next to M Social Hotel, Singapore 238245",
+    "label": null,
+    "keyword_tag": [
+      "family-friendly",
+      "dining",
+      "Robertson Quay"
+    ],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/3550d2_2005cbffaf03426e84ca4479a01a1503~mv2.png/v1/fill/w_2000,h_2000,al_c,q_100,usm_0.66_1.00_0.01,enc_avif,quality_auto/logos%20magazine.png",
+        "source_credit": "The Well Group",
+        "filename": "Botany_Singapore_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/Botany_Singapore_1.jpg"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/3550d2_2005cbffaf03426e84ca4479a01a1503~mv2.png/v1/fill/w_100",
+        "source_credit": "The Well Group",
+        "filename": "Botany_Singapore_2.jpg",
+        "local_path": null
+      },
+      {
+        "url": "https://www.botany.com.sg/h_100",
+        "source_credit": "The Well Group",
+        "filename": "Botany_Singapore_3.jpg",
+        "local_path": null
+      },
+      {
+        "url": "https://www.botany.com.sg/al_c",
+        "source_credit": "The Well Group",
+        "filename": "Botany_Singapore_4.jpg",
+        "local_path": null
+      },
+      {
+        "url": "https://www.botany.com.sg/q_85",
+        "source_credit": "The Well Group",
+        "filename": "Botany_Singapore_5.jpg",
+        "local_path": null
+      }
+    ],
+    "id": 733,
+    "longitude": 103.83720179999999,
+    "latitude": 1.2901029,
+    "planning_area": "Singapore River",
+    "region": "Central Region"
+  },
+  {
+    "title": "Botany Singapore",
+    "organiser": "The Well Group",
+    "blurb": "A dining experience at Robertson Quay.",
+    "description": "Botany Singapore offers a unique dining experience with a focus on fresh, quality ingredients. Located at Robertson Quay, it provides a relaxed atmosphere for families and individuals alike. Enjoy a diverse menu with options for various dietary preferences. The restaurant is open from 9am to 10pm on weekdays and 8.30am to 10pm on weekends and public holidays, making it a convenient choice for any meal. With its accessible location and welcoming ambiance, Botany Singapore is a great place to enjoy a meal with family and friends. The restaurant aims to provide a comfortable and enjoyable dining experience for all its guests, with a menu that caters to a wide range of tastes. Whether you're looking for a hearty breakfast, a light lunch, or a satisfying dinner, Botany Singapore has something for everyone. The friendly staff and inviting atmosphere make it a perfect spot for a casual meal or a special occasion.",
+    "guid": "https://www.botany.com.sg/about",
+    "activity_or_event": "Kids-friendly dining",
+    "url": "https://www.botany.com.sg/about",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": null,
+    "datetime_display": "Monday - Friday 9am - 10pm Saturday, Sunday, PH 8.30 am - 10 pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Botany Singapore",
+    "address_display": "86 Robertson Quay, #01-03 Next to M Social Hotel, Singapore 238245",
+    "label": null,
+    "keyword_tag": [
+      "dining",
+      "Robertson Quay",
+      "family",
+      "restaurant"
+    ],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/3550d2_2005cbffaf03426e84ca4479a01a1503~mv2.png/v1/fill/w_2000,h_2000,al_c,q_100,usm_0.66_1.00_0.01,enc_avif,quality_auto/logos%20magazine.png",
+        "source_credit": "The Well Group",
+        "filename": "Botany_Singapore_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/Botany_Singapore_1.jpg"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/3550d2_2005cbffaf03426e84ca4479a01a1503~mv2.png/v1/fill/w_100",
+        "source_credit": "The Well Group",
+        "filename": "Botany_Singapore_2.jpg",
+        "local_path": null
+      },
+      {
+        "url": "https://www.botany.com.sg/h_100",
+        "source_credit": "The Well Group",
+        "filename": "Botany_Singapore_3.jpg",
+        "local_path": null
+      },
+      {
+        "url": "https://www.botany.com.sg/al_c",
+        "source_credit": "The Well Group",
+        "filename": "Botany_Singapore_4.jpg",
+        "local_path": null
+      },
+      {
+        "url": "https://www.botany.com.sg/q_85",
+        "source_credit": "The Well Group",
+        "filename": "Botany_Singapore_5.jpg",
+        "local_path": null
+      }
+    ],
+    "id": 734,
+    "longitude": 103.83720179999999,
+    "latitude": 1.2901029,
+    "planning_area": "Singapore River",
+    "region": "Central Region"
+  }
+]

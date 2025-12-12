@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Endless Fun Awaits at F3 Theme Park Singapore",
+    "organiser": "F3 Theme Park",
+    "blurb": "Get your tickets and start the fun at F3 Theme Park!",
+    "description": "F3 Theme Park offers a variety of attractions and activities suitable for families and children. The park features play areas, rides, and interactive experiences designed to provide endless fun and entertainment. Visitors can enjoy a full day of adventure and create lasting memories. The park is designed to cater to a wide range of ages, ensuring that everyone has something to enjoy. With a focus on safety and engagement, F3 Theme Park is the perfect destination for a family outing. The park also offers various dining options and amenities to enhance the overall experience.",
+    "guid": "https://f3themepark.com/",
+    "activity_or_event": "activity",
+    "url": "https://f3themepark.com/",
+    "price_display_teaser": "From $29.80",
+    "price_display": "$29.80 (1 hour), $39.80 (2hour), $49.80 (3 hour) for 1 adult + 1 child",
+    "price": 30.0,
+    "age_group_display": "14 years old and below",
+    "min_age": 0.0,
+    "max_age": 14.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon: 2pm - 8pm, Tue - Sun: 10am - 8pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "F3 Theme Park",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Endless_Fun_Awaits_at_F3_Theme_Park_Singapore_1.webp",
+        "filename": "Endless_Fun_Awaits_at_F3_Theme_Park_Singapore_1.webp",
+        "original_url": "https://f3themepark.com/activities/",
+        "source_credit": "f3themepark"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Endless_Fun_Awaits_at_F3_Theme_Park_Singapore_2.jpeg",
+        "filename": "Endless_Fun_Awaits_at_F3_Theme_Park_Singapore_2.jpeg",
+        "original_url": "https://f3themepark.com/activities/",
+        "source_credit": "f3themepark"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Endless_Fun_Awaits_at_F3_Theme_Park_Singapore_3.jpeg",
+        "filename": "Endless_Fun_Awaits_at_F3_Theme_Park_Singapore_3.jpeg",
+        "original_url": "https://f3themepark.com/activities/",
+        "source_credit": "f3themepark"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Endless_Fun_Awaits_at_F3_Theme_Park_Singapore_4.jpeg",
+        "filename": "Endless_Fun_Awaits_at_F3_Theme_Park_Singapore_4.jpeg",
+        "original_url": "https://f3themepark.com/activities/",
+        "source_credit": "f3themepark"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Endless_Fun_Awaits_at_F3_Theme_Park_Singapore_5.jpeg",
+        "filename": "Endless_Fun_Awaits_at_F3_Theme_Park_Singapore_5.jpeg",
+        "original_url": "https://f3themepark.com/activities/",
+        "source_credit": "f3themepark"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Endless_Fun_Awaits_at_F3_Theme_Park_Singapore_6.webp",
+        "filename": "Endless_Fun_Awaits_at_F3_Theme_Park_Singapore_6.webp",
+        "original_url": "https://f3themepark.com/activities/",
+        "source_credit": "f3themepark"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

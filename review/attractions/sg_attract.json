@@ -1,0 +1,139 @@
+[
+  {
+    "title": "Adventure Cove Waterpark: Thrilling Water Slides",
+    "organiser": "Adventure Cove",
+    "blurb": "Have a splashing good time at Adventure Cove!",
+    "description": "Experience thrilling water slides, snorkel with fishes, and relax on the lazy river. Adventure Cove Waterpark offers a variety of aquatic adventures suitable for families and thrill-seekers alike. From high-speed slides to gentle currents, there's something for everyone to enjoy. Explore marine life, soak up the sun, and create unforgettable memories. Perfect for a day of family fun and excitement. Enjoy the wave pool and various dining options available within the park. A great way to cool off and have an amazing time with your loved ones.",
+    "guid": "https://www.visitsingapore.com/things-to-do/top-things-to-do/?anchorid=family-fun",
+    "activity_or_event": "activity",
+    "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/?anchorid=family-fun",
+    "price_display_teaser": "From $28",
+    "price_display": "From $28 - $40 (Free for child below 4 years old)",
+    "price": 28.0,
+    "age_group_display": "4 years old and above",
+    "min_age": 4.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am - 5pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Adventure Cove Waterpark",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction",
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Adventure_Cove_Waterpark__Thrilling_Water_Slides_1.jpg",
+        "filename": "Adventure_Cove_Waterpark__Thrilling_Water_Slides_1.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/adventure-cove-waterpark/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Adventure_Cove_Waterpark__Thrilling_Water_Slides_2.jpg",
+        "filename": "Adventure_Cove_Waterpark__Thrilling_Water_Slides_2.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/adventure-cove-waterpark/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Adventure_Cove_Waterpark__Thrilling_Water_Slides_3.jpg",
+        "filename": "Adventure_Cove_Waterpark__Thrilling_Water_Slides_3.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/adventure-cove-waterpark/",
+        "source_credit": "sentosa"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Wild Wild Wet: Water Park Adventure",
+    "organiser": "Wild Wild Wet",
+    "blurb": "Slide, splash and have an exciting water park adventure!",
+    "description": "With endless excitement for the whole family. Wild Wild Wet offers a variety of thrilling water rides and attractions suitable for all ages. Perfect for families looking for a fun and exciting day out. Enjoy the various slides, pools, and water play areas available throughout the park. A great way to cool off and have an amazing time with your loved ones. Experience the thrill of high-speed slides and the relaxation of lazy rivers. Discover the excitement and adventure that awaits you at Wild Wild Wet. A perfect destination for a day of family fun.",
+    "guid": "https://www.visitsingapore.com/things-to-do/top-things-to-do/?anchorid=family-fun",
+    "activity_or_event": "activity",
+    "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/?anchorid=family-fun",
+    "price_display_teaser": "From $21",
+    "price_display": "From $21 - $39 (Free for child below 3 years old)",
+    "price": 24.0,
+    "age_group_display": "3 years old and above",
+    "min_age": 3.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily (except Tue)",
+    "datetime_display": "Weekdays (except Tue): 12pm - 6pm, Weekends/School Holidays/PH: 11am - 6pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Wild Wild Wet",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction",
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Wild_Wild_Wet__Water_Park_Adventure_1.jpg",
+        "filename": "Wild_Wild_Wet__Water_Park_Adventure_1.jpg",
+        "original_url": "https://www.wildwildwet.com/explore/rides-attractions/details/sea-the-world",
+        "source_credit": "wildwildwet"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Wild_Wild_Wet__Water_Park_Adventure_2.jpg",
+        "filename": "Wild_Wild_Wet__Water_Park_Adventure_2.jpg",
+        "original_url": "https://www.wildwildwet.com/explore/rides-attractions/details/sea-the-world",
+        "source_credit": "wildwildwet"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Wild_Wild_Wet__Water_Park_Adventure_3.jpg",
+        "filename": "Wild_Wild_Wet__Water_Park_Adventure_3.jpg",
+        "original_url": "https://www.wildwildwet.com/explore/rides-attractions/details/sea-the-world",
+        "source_credit": "wildwildwet"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Wild_Wild_Wet__Water_Park_Adventure_4.jpg",
+        "filename": "Wild_Wild_Wet__Water_Park_Adventure_4.jpg",
+        "original_url": "https://www.wildwildwet.com/explore/rides-attractions/details/sea-the-world",
+        "source_credit": "wildwildwet"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Bounce Singapore: Trampoline Fun for All",
+    "organiser": "Bounce Singapore",
+    "blurb": "Bounce, flip and play on trampolines!",
+    "description": "Bringing active fun to the whole family. Bounce Singapore offers a variety of trampoline activities and attractions suitable for all ages. Perfect for families looking for a fun and energetic day out. Enjoy the various trampoline courts, obstacle courses, and other activities available throughout the venue. A great way to get active and have an amazing time with your loved ones. Experience the thrill of bouncing and flipping in a safe and controlled environment. Discover the excitement and adventure that awaits you at Bounce Singapore. A perfect destination for a day of family fun.",
+    "guid": "https://www.visitsingapore.com/things-to-do/top-things-to-do/?anchorid=family-fun",
+    "activity_or_event": "activity",
+    "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/?anchorid=family-fun",
+    "price_display_teaser": "From $19",
+    "price_display": "From $19 - $27.20",
+    "price": 19.0,
+    "age_group_display": "3 years old and above",
+    "min_age": 3.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon - Thu: 10am – 8pm, Fri: 10am – 9pm, Sat/PH: 9pm – 9pm, Sun: 9am – 8pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Bounce Singapore",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_3\\images\\user_uploads\\Bounce_Singapore__Trampoline_Fun_for_All_1.jpg",
+        "filename": "Bounce_Singapore__Trampoline_Fun_for_All_1.jpg",
+        "original_url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/?anchorid=family-fun",
+        "source_credit": "visitsingapore"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

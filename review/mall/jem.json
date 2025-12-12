@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Jem Play: Honeycomb-Themed Playground at Level 5",
+    "organiser": "Lendlease",
+    "blurb": "Kids climb, crawl, and revel in imaginative adventures!",
+    "description": "Jem Play is a honeycomb-themed playground located at Level 5 of Jem. It offers families with children a space to climb across an exciting canopy, crawl through safe and fun nests and hammocks, making their own little nest world as they revel in an imaginative adventure with dry and water play amidst open spaces. It is designed to provide an engaging and fun experience for children of various ages, promoting physical activity and imaginative play in a safe environment within the mall.",
+    "guid": "https://www.jem.sg/overview/",
+    "activity_or_event": "activity",
+    "url": "https://www.jem.sg/overview/",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": "2 to 12 years old",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Jem Play",
+    "full_address": "Not Available",
+    "categories": [
+      "Outdoor Playground",
+      "Mall related"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Jem_Play__Honeycomb_Themed_Playground_at_Level_5_1.webp",
+        "filename": "Jem_Play__Honeycomb_Themed_Playground_at_Level_5_1.webp",
+        "original_url": "https://www.jem.sg/overview/",
+        "source_credit": "jem"
+      },
+      {
+        "url": "https://www.jem.sg/cdn-cgi/image/format=webp,quality=80/contentassets/5d4e041540ca43b3b03f4de55ed5205d/jemfacade2025.webp",
+        "source_credit": "Lendlease"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

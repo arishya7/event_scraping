@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Canopy Jurong Lake Gardens Dining Experience",
+    "organiser": "Canopy",
+    "blurb": "Dine in nature with lakeside tranquility at Canopy.",
+    "description": "Canopy at Jurong Lake Gardens offers a unique dining experience surrounded by lush greenery and a tranquil lakeside atmosphere. It's the perfect spot for a serene day out, offering a brunch menu with outlet-exclusive items. Enjoy dining amidst nature's beauty, making it an ideal destination for families and individuals seeking a peaceful escape. The biophilic backdrop enhances the dining experience, creating a refreshing and relaxing environment for all visitors. Perfect for families looking for a relaxing dining experience.",
+    "guid": "https://www.canopygardendining.com/location/jurong-lake-gardens/",
+    "activity_or_event": "activity",
+    "url": "https://www.canopygardendining.com/location/jurong-lake-gardens/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Weekdays: 11:30am - 10pm, Weekends,/PH: 9am - 10:30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Jurong Lake Gardens",
+    "full_address": "70 Yuan Ching Road #01-02, Singapore 619675",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Canopy_Jurong_Lake_Gardens_Dining_Experience_1.jpg",
+        "filename": "Canopy_Jurong_Lake_Gardens_Dining_Experience_1.jpg",
+        "original_url": "https://www.canopygardendining.com/location/jurong-lake-gardens/",
+        "source_credit": "canopygardendining"
+      },
+      {
+        "url": "https://images.getbento.com/accounts/7fbedbda09fb6a0d9158c5f539aca81c/media/images/889690I5A5105.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "source_credit": "Canopy"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

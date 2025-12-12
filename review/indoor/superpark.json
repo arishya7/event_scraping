@@ -1,0 +1,55 @@
+[
+  {
+    "title": "SuperPark Singapore",
+    "organiser": "SuperPark",
+    "blurb": "Tens of activities that will make you smile and move.",
+    "description": "SuperPark Singapore offers a multitude of activities designed to bring smiles and movement to visitors of all ages. This indoor activity park provides a wide range of engaging and energetic experiences suitable for families and individuals alike. From climbing walls and trampoline platforms to obstacle courses and interactive games, SuperPark is designed to promote physical activity and create memorable moments. It's a place where families can bond, kids can unleash their energy, and adults can rediscover their playful side through a variety of fun and challenging activities. The park emphasizes the importance of active play and offers a safe and stimulating environment for everyone to enjoy.",
+    "guid": "https://www.superpark.com.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.superpark.com.sg/",
+    "price_display_teaser": "From $16.95",
+    "price_display": "From $16.95 - $35.90",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon – Thu: 10.30am – 8pm,  Fri: 10.30am – 9pm, Sat/PH/School Holidays: 9am – 9pm, Sun: 9am – 8pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "SuperPark Singapore",
+    "full_address": "3 Temasek Boulevard #01-488 Suntec City Mall Singapore 038983",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\SuperPark_Singapore_1.jpg",
+        "filename": "SuperPark_Singapore_1.jpg",
+        "original_url": "https://www.superpark.com.sg/activities/",
+        "source_credit": "superpark"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\SuperPark_Singapore_2.jpg",
+        "filename": "SuperPark_Singapore_2.jpg",
+        "original_url": "https://www.superpark.com.sg/activities/",
+        "source_credit": "superpark"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\SuperPark_Singapore_3.jpg",
+        "filename": "SuperPark_Singapore_3.jpg",
+        "original_url": "https://www.superpark.com.sg/activities/",
+        "source_credit": "superpark"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\SuperPark_Singapore_4.jpg",
+        "filename": "SuperPark_Singapore_4.jpg",
+        "original_url": "https://www.superpark.com.sg/activities/",
+        "source_credit": "superpark"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

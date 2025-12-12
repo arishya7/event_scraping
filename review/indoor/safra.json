@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Kidz Amaze SAFRA Toa Payoh - Unlimited Playtime Fun",
+    "organiser": "SAFRA",
+    "blurb": "Enjoy playtime at Kidz Amaze SAFRA Toa Payoh!",
+    "description": "Kidz Amaze at SAFRA Toa Payoh offers an engaging indoor playground experience for children. With various play zones designed to stimulate creativity and physical activity, kids can explore, climb, and slide in a safe environment. The playground features interactive elements and soft play areas suitable for different age groups, ensuring a fun-filled visit for the whole family. Parents can relax and supervise while children enjoy hours of entertainment. The facility is designed to promote active play and social interaction among children in a secure setting.",
+    "guid": "https://www.safra.sg/our-facilities/kidz-amaze",
+    "activity_or_event": "activity",
+    "url": "https://www.safra.sg/our-facilities/kidz-amaze",
+    "price_display_teaser": "From $10.10",
+    "price_display": "From $10.10 - $20.20 (Free for child below 2 months old)",
+    "price": 0.0,
+    "age_group_display": "18 years old and below",
+    "min_age": 0.0,
+    "max_age": 18.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Weekdays: 1pm - 7pm, Weekends & PH: 10am - 9pm, School holiday (weekday): 10am - 7pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "SAFRA Toa Payoh",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Kidz_Amaze_SAFRA_Toa_Payoh___Unlimited_Playtime_Fun_1.jpg",
+        "filename": "Kidz_Amaze_SAFRA_Toa_Payoh___Unlimited_Playtime_Fun_1.jpg",
+        "original_url": "https://www.safra.sg/our-facilities/kidz-amaze/facilities-rates",
+        "source_credit": "safra"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Kidz_Amaze_SAFRA_Toa_Payoh___Unlimited_Playtime_Fun_2.jpg",
+        "filename": "Kidz_Amaze_SAFRA_Toa_Payoh___Unlimited_Playtime_Fun_2.jpg",
+        "original_url": "https://www.safra.sg/our-facilities/kidz-amaze/facilities-rates",
+        "source_credit": "safra"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Kidz Amaze SAFRA Jurong - Unlimited Playtime Adventures",
+    "organiser": "SAFRA",
+    "blurb": "Enjoy playtime at Kidz Amaze SAFRA Jurong!",
+    "description": "Kidz Amaze at SAFRA Jurong provides an exciting indoor playground experience for children. Featuring a multi-level play structure with slides, tunnels, and climbing areas, kids can unleash their energy and imagination. The playground is designed to promote physical activity and social interaction in a safe and supervised environment. With dedicated play zones for different age groups, children of all ages can enjoy a fun-filled day. Parents can relax and supervise while their kids explore the various play elements. The facility offers a comfortable and engaging space for families to create lasting memories.",
+    "guid": "https://www.safra.sg/our-facilities/kidz-amaze",
+    "activity_or_event": "activity",
+    "url": "https://www.safra.sg/our-facilities/kidz-amaze",
+    "price_display_teaser": "From $10.10",
+    "price_display": "From $10.10 - $20.20 (Free for child below 1 year old)",
+    "price": 0.0,
+    "age_group_display": "18 years old and below",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Weekdays: 1pm - 7pm, Weekends & PH: 10am - 9pm, School holiday (weekday): 10am - 7pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "SAFRA Jurong",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Kidz_Amaze_SAFRA_Jurong___Unlimited_Playtime_Adventures_1.jpg",
+        "filename": "Kidz_Amaze_SAFRA_Jurong___Unlimited_Playtime_Adventures_1.jpg",
+        "original_url": "https://www.safra.sg/our-facilities/kidz-amaze/facilities-rates",
+        "source_credit": "safra"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Kidz_Amaze_SAFRA_Jurong___Unlimited_Playtime_Adventures_2.jpg",
+        "filename": "Kidz_Amaze_SAFRA_Jurong___Unlimited_Playtime_Adventures_2.jpg",
+        "original_url": "https://www.safra.sg/our-facilities/kidz-amaze/facilities-rates",
+        "source_credit": "safra"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Splash @ Kidz Amaze SAFRA Punggol - Water Fun!",
+    "organiser": "SAFRA",
+    "blurb": "Enjoy playtime at Splash @ Kidz Amaze SAFRA Punggol!",
+    "description": "Splash @ Kidz Amaze at SAFRA Punggol offers a unique water play experience for children. With interactive water features, slides, and splash pads, kids can cool off and have a blast in a safe and supervised environment. The water playground is designed to promote sensory exploration and physical activity, encouraging children to engage in active play. Parents can relax and supervise while their kids enjoy the various water elements. The facility provides a refreshing and entertaining space for families to create unforgettable memories. Please check the website for any specific age restrictions.",
+    "guid": "https://www.safra.sg/our-facilities/kidz-amaze",
+    "activity_or_event": "activity",
+    "url": "https://www.safra.sg/our-facilities/kidz-amaze",
+    "price_display_teaser": "From $10.10",
+    "price_display": "From $10.10 - $22.25 (Free for child below 2 months old)",
+    "price": 0.0,
+    "age_group_display": "18 years old and below",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Weekdays: 1pm - 7pm, Weekends & PH: 10am - 9pm, School holiday (weekday): 10am - 7pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "SAFRA Punggol",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_3\\images\\user_uploads\\Splash___Kidz_Amaze_SAFRA_Punggol___Water_Fun__1.jpg",
+        "filename": "Splash___Kidz_Amaze_SAFRA_Punggol___Water_Fun__1.jpg",
+        "original_url": "https://www.safra.sg/our-facilities/kidz-amaze/facilities-rates",
+        "source_credit": "safra"
+      },
+      {
+        "local_path": "events_output\\event_3\\images\\user_uploads\\Splash___Kidz_Amaze_SAFRA_Punggol___Water_Fun__2.jpg",
+        "filename": "Splash___Kidz_Amaze_SAFRA_Punggol___Water_Fun__2.jpg",
+        "original_url": "https://www.safra.sg/our-facilities/kidz-amaze/facilities-rates",
+        "source_credit": "safra"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

@@ -1,0 +1,1090 @@
+[
+  {
+    "title": "Canopy Park at Jewel Changi Airport",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Enjoy play attractions and dining options.",
+    "description": "Located at the topmost level of Jewel Changi Airport, Canopy Park is home to many play attractions and dining options. Attractions include the Discovery Slides, Foggy Bowls, Petal Garden, and Topiary Walk. It offers a mix of horticultural displays and unique leisure experiences for visitors of all ages. Enjoy a fun-filled day with family and friends amidst lush greenery and stunning views. The park also features various dining options to satisfy your cravings after a day of exploration and play. It's a perfect destination for both locals and tourists seeking entertainment and relaxation.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "activity",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$8",
+    "price": 8.0,
+    "min_price": 8.0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating hours vary, check website",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Canopy Park",
+    "label_tag": null,
+    "keyword_tag": "Canopy Park, Jewel Changi Airport, attractions, play, dining",
+    "address_display": "Airport Blvd., Level 5 78, Singapore 819666",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-location@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-hotel@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 607,
+    "longitude": 103.98958879999999,
+    "latitude": 1.3600986,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Jewel Rain Vortex at Jewel Changi Airport",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Marvel at the world's tallest indoor waterfall.",
+    "description": "The Jewel Rain Vortex is the world's tallest indoor waterfall, cascading down seven stories. It is a stunning centerpiece of Jewel Changi Airport, surrounded by lush greenery of the Forest Valley. Visitors can enjoy breathtaking views of the Rain Vortex from various vantage points within Jewel. The HSBC Rain Vortex is a majestic sight to behold, especially during the light and sound show that takes place in the evening. It's a must-see attraction for anyone visiting Singapore, offering a unique and unforgettable experience. The surrounding Forest Valley provides a tranquil escape amidst the bustling airport environment.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "attraction",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Open daily, check website for showtimes",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jewel Rain Vortex",
+    "label_tag": null,
+    "keyword_tag": "Rain Vortex, Jewel Changi Airport, waterfall, attraction",
+    "address_display": "78 Airport Blvd., Singapore 819666",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-hotel@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-car@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 608,
+    "longitude": 103.98973,
+    "latitude": 1.360136,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Forest Valley at Jewel Changi Airport",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Explore lush greenery in an indoor environment.",
+    "description": "The Forest Valley at Jewel Changi Airport is an indoor garden featuring thousands of trees and plants. Visitors can wander through the lush landscape, enjoying the tranquility and beauty of nature. The Forest Valley provides a refreshing escape from the urban environment, offering a serene space for relaxation and exploration. It's a perfect place to take a leisurely stroll, admire the diverse flora, and connect with nature. The valley surrounds the Rain Vortex, creating a harmonious blend of water and greenery. It's an ideal destination for nature lovers and those seeking a peaceful retreat.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "attraction",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Open daily",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Forest Valley",
+    "label_tag": null,
+    "keyword_tag": "Forest Valley, Jewel Changi Airport, garden, nature",
+    "address_display": "78 Airport Blvd.",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-car@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-mrt@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 609,
+    "longitude": 103.9895919,
+    "latitude": 1.3601723,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Jewel Changi Airport: Venue Hire & Attractions",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Explore venue hire and attractions at Jewel Changi.",
+    "description": "Jewel Changi Airport offers a variety of venue hire options and attractions suitable for different events and activities. From weddings to team building, discover unique spaces and experiences. Explore the Shiseido Forest Valley, Canopy Park, and various retail and dining options. Perfect for families and individuals looking for a memorable experience. Enjoy the lush greenery and innovative attractions that Jewel has to offer. Whether you're planning a special event or a day out, Jewel provides a diverse range of activities and amenities to cater to your needs. Discover Jewel Tour and Jewel Beleafers Volunteer Programme.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "event",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$0 to S$99",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 99,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Weddings at Jewel Wedding Photography at Jewel Team Building at Jewel Discover Jewel Tour Jewel Beleafers Volunteer Programme TOURISTS Tourist Perks & Promotions Tax Refund at Jewel",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "venue hire, attractions, weddings, team building, Shiseido Forest Valley, Canopy Park, retail, dining, Jewel Tour, Jewel Beleafers Volunteer Programme",
+    "address_display": "Singapore",
+    "categories": [
+      "Attraction",
+      "Mall"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/Menu/visit.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 610,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Jewel Changi Airport Venue Hire",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Explore venue hire options at Jewel Changi Airport.",
+    "description": "Discover unique venue hire options at Jewel Changi Airport for various events. Jewel Changi Airport offers a variety of spaces suitable for different occasions, from corporate events to private celebrations. Explore the possibilities and create a memorable experience in this iconic location. Consider Jewel Changi Airport for your next event and enjoy the stunning architecture and lush greenery. The venue provides a unique backdrop for any occasion, ensuring a memorable experience for all attendees. Jewel Changi Airport offers versatile spaces to accommodate various event needs, making it an ideal choice for your next gathering.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "event",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Weddings at Jewel Wedding Photography at Jewel Team Building at Jewel Discover Jewel Tour Jewel Beleafers Volunteer Programme",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "Venue hire, event space, corporate events, private celebrations",
+    "address_display": "Singapore",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/clock2.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-location@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 611,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Jewel Changi Airport Attractions",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Discover the attractions at Jewel Changi Airport.",
+    "description": "Explore the various attractions at Jewel Changi Airport, offering a range of entertainment and leisure options for visitors of all ages. From the HSBC Rain Vortex to the Shiseido Forest Valley, there's something for everyone to enjoy. Experience the thrill of the Canopy Park or relax amidst the lush greenery. Jewel Changi Airport provides a unique and immersive environment, making it a must-visit destination. Discover the magic of Jewel and create unforgettable memories with your family and friends. Jewel Changi Airport offers a diverse range of attractions to cater to different interests and preferences, ensuring a delightful experience for all visitors.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "activity",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Weddings at Jewel Wedding Photography at Jewel Team Building at Jewel Discover Jewel Tour Jewel Beleafers Volunteer Programme",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "Attractions, Rain Vortex, Forest Valley, Canopy Park",
+    "address_display": "Singapore",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-location@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-hotel@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 612,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Jewel Changi Airport Tourist Perks & Promotions",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Explore tourist perks and promotions at Jewel Changi.",
+    "description": "Discover a variety of tourist perks and promotions available at Jewel Changi Airport. Explore various retail and dining options, and enjoy exclusive deals designed for tourists. Jewel Changi Airport offers a unique blend of nature, shopping, and dining experiences, making it a must-visit destination for travelers. Enjoy special offers and promotions to enhance your visit. This is a great place for families to explore and enjoy the various attractions and amenities.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "activity",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "tourist perks, promotions, Jewel Changi Airport, shopping, dining",
+    "address_display": "Singapore",
+    "categories": [
+      "Attraction",
+      "Mall"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-hotel@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-car@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 613,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Jewel Changi Airport Canopy Park Attractions",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Explore attractions at Canopy Park in Jewel Changi.",
+    "description": "Discover a variety of attractions at Jewel Changi Airport's Canopy Park, including the Jewel Rain Vortex, Forest Valley, Discovery Slides, Walking Net, Bouncing Net, Mirror Maze, Hedge Maze, and Canopy Bridge. Enjoy interactive experiences at the Changi Experience Studio. Perfect for families and tourists seeking fun and adventure in Singapore. Explore the lush greenery and thrilling activities suitable for all ages. The Canopy Park offers a unique blend of nature and entertainment, making it a must-visit destination. Experience the magic of Jewel Changi Airport with its diverse range of attractions and activities.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "activity",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$8 to S$39",
+    "price": 8.0,
+    "min_price": 8.0,
+    "max_price": 39.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating hours vary by attraction",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "Canopy Park, Jewel Changi Airport, attractions, family, kids",
+    "address_display": "Singapore",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-car@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-mrt@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 614,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Jewel Changi Airport Shopping & Dining",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Enjoy exclusive offers & deals at Jewel.",
+    "description": "Explore a wide array of shopping and dining options at Jewel Changi Airport. From retail stores to diverse culinary experiences, Jewel offers something for everyone. Discover exclusive deals and promotions while enjoying the unique ambiance of this iconic destination. Perfect for families looking to spend quality time together, Jewel provides a memorable experience with its stunning architecture and vibrant atmosphere. Indulge in a variety of cuisines and find the perfect souvenir to remember your visit. Jewel Changi Airport is more than just an airport; it's a destination in itself, offering a blend of shopping, dining, and entertainment.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "activity",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "Shopping, Dining, Retail, Promotions, Family, Jewel Changi Airport",
+    "address_display": "Singapore",
+    "categories": [
+      "Mall",
+      "Dining"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/Menu/shop.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 615,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Jewel Changi Airport Shopping & Dining Promotions",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Enjoy exclusive offers & deals at Jewel.",
+    "description": "Explore a variety of shopping and dining promotions at Jewel Changi Airport. Discover exclusive offers and deals available to enhance your experience. Jewel Changi Airport offers a unique blend of retail, dining, and entertainment options, making it a destination for families and individuals alike. From delectable dining experiences to exciting shopping opportunities, there's something for everyone to enjoy. Take advantage of these promotions to make the most of your visit to Jewel Changi Airport. Whether you're looking for a family outing or a solo adventure, Jewel Changi Airport provides a memorable experience.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "event",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "shopping, dining, promotions, Jewel Changi Airport, deals",
+    "address_display": "Singapore",
+    "categories": [
+      "Mall",
+      "Dining"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/clock2.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-location@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 616,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Yotelair",
+    "organiser": "Yotelair",
+    "blurb": "Relax, rejuvenate and be refreshed at YOTELAIR Hotel.",
+    "description": "YOTELAIR is the first hotel of its kind in Asia, offering a unique and convenient stay experience. Guests can relax and rejuvenate in comfortable cabins designed for short stays. The hotel provides a refreshing environment for travelers looking to rest and recharge before or after their flights. With modern amenities and a focus on efficiency, YOTELAIR ensures a seamless and enjoyable stay for all guests. It is family-friendly and provides a comfortable environment for all.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "activity",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Yotelair",
+    "label_tag": null,
+    "keyword_tag": "hotel, short stay, airport hotel, relaxation, rejuvenation",
+    "address_display": "78 Airport Boulevard #04-280 JEWEL, Singapore Changi Airport, Singapore 819666",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-location@2x.png",
+        "source_credit": "Yotelair"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-hotel@2x.png",
+        "source_credit": "Yotelair"
+      }
+    ],
+    "id": 617,
+    "longitude": 103.9902994,
+    "latitude": 1.3597468,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Yotelair: Relax and Rejuvenate in Comfort",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Relax, rejuvenate and be refreshed at YOTELAIR Hotel.",
+    "description": "YOTELAIR Singapore Changi Airport is located within Jewel Changi Airport, offering a convenient and comfortable stay for travelers. Guests can enjoy modern cabins, a gym, and a communal workspace. The hotel provides a seamless experience for those with early morning flights or long layovers, ensuring a restful and productive stay. The hotel is designed for short stays, offering flexible booking options and efficient service. It's an ideal spot for families needing a quick rest before or after a flight, providing a comfortable and quiet environment.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "activity",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$140",
+    "price": 140.0,
+    "min_price": 140.0,
+    "max_price": 140.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Yotelair",
+    "label_tag": null,
+    "keyword_tag": "hotel, airport hotel, short stay, transit hotel, Jewel Changi Airport",
+    "address_display": "78 Airport Boulevard #04-280 JEWEL, Singapore Changi Airport, Singapore 819666",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-hotel@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-car@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 618,
+    "longitude": 103.9902994,
+    "latitude": 1.3597468,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Jewel Changi Airport: A World of Adventure Awaits",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Explore attractions, dining, and retail experiences.",
+    "description": "Jewel Changi Airport offers a variety of attractions and activities suitable for families and children. From the HSBC Rain Vortex, the world's tallest indoor waterfall, to the Shiseido Forest Valley, a stunning indoor garden, there's something for everyone. Kids can enjoy the Canopy Park with its various play areas, including the Discovery Slides and Foggy Bowls. The Jewel also features a wide selection of dining options and retail outlets, making it a perfect destination for a day out with the family. The airport provides a unique blend of nature, entertainment, and shopping, creating a memorable experience for visitors of all ages. With its family-friendly amenities and diverse range of activities, Jewel Changi Airport is an ideal place for families to spend quality time together.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "activity",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$8",
+    "price": 8.0,
+    "min_price": 8.0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating Hours Vary",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "Indoor attractions, family activities, shopping, dining",
+    "address_display": "Singapore",
+    "categories": [
+      "Attraction",
+      "Mall"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/Menu/stay.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 619,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Yotelair",
+    "organiser": "Yotelair",
+    "blurb": "Relax, rejuvenate and be refreshed at YOTELAIR Hotel.",
+    "description": "YOTELAIR is the first hotel of its kind in Asia, offering a unique and refreshing experience for travelers. Guests can relax and rejuvenate in comfortable cabins designed for short stays, perfect for transit passengers or those seeking a quick break. The hotel provides essential amenities and services to ensure a convenient and enjoyable stay.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "activity",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "hotel, short stay, transit, relaxation, rejuvenation",
+    "address_display": "Singapore",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/Menu/stay.png",
+        "source_credit": "Yotelair"
+      }
+    ],
+    "id": 620,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "YOTELAIR Hotel: Asia's First Relaxation Hub",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Relax, rejuvenate, and be refreshed at YOTELAIR.",
+    "description": "YOTELAIR Singapore Changi Airport offers a unique hotel experience designed for travellers seeking rest and relaxation. Located within Jewel Changi Airport, it provides convenient access to all airport terminals. Guests can enjoy comfortable cabins, refreshing showers, and a range of amenities to ensure a seamless and revitalizing stay. Whether you're on a layover or need a place to unwind before or after a flight, YOTELAIR offers a tranquil escape. The hotel features flexible booking options, allowing guests to book cabins by the hour. Perfect for families needing a quick rest.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "activity",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$120",
+    "price": 120.0,
+    "min_price": 120.0,
+    "max_price": 120.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "YOTELAIR Singapore Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "hotel, airport, relaxation, layover, accommodation",
+    "address_display": "78 Airport Boulevard #04-280 JEWEL, Singapore Changi Airport, Singapore 819666",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/clock2.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-location@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 621,
+    "longitude": 103.9902994,
+    "latitude": 1.3597468,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Jewel Changi Airport Shopping and Dining Rewards",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Enjoy cashback rewards at Jewel Changi Airport mall.",
+    "description": "Jewel Changi Airport offers a variety of shopping and dining options with cashback rewards through its Jewel Infinity Programme. Selected Changi Rewards Platinum members can enjoy exclusive benefits. The mall provides a unique retail and dining experience for visitors and shoppers. Explore a wide range of stores and restaurants, and take advantage of the rewards program to enhance your shopping experience. Jewel Changi Airport is a destination that combines retail, dining, and entertainment for all visitors. Enjoy the convenience and benefits of the Jewel Infinity Programme while you shop and dine.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "activity",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$0",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "shopping, dining, rewards, Jewel Infinity Programme, Changi Rewards Platinum",
+    "address_display": "Singapore",
+    "categories": [
+      "Mall",
+      "Dining"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/Menu/shop.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 622,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Jewel Changi Airport - Double Rewards",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Enjoy up to 4.5% rebate at Jewel Changi Airport!",
+    "description": "Jewel Changi Airport offers an exclusive programme for selected Changi Rewards Platinum members. As the only mall in Singapore serving up to 4.5% rebate, it provides the highest cashback reward at Jewel Changi Airport. Terms and conditions apply. This is a great opportunity for families to enjoy shopping and dining while earning rewards. The programme is designed to enhance the shopping experience for loyal customers, providing them with exclusive benefits and privileges. It's a perfect way to make the most of your visit to Jewel Changi Airport.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "activity",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "shopping, dining, rewards, cashback, Changi Rewards Platinum members",
+    "address_display": "Singapore",
+    "categories": [
+      "Mall"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-hotel@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-car@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 623,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Jewel Infinity Programme",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "An exclusive programme for selected members",
+    "description": "An exclusive programme for selected Changi Rewards Platinum members. This programme offers a range of benefits and exclusive experiences within Jewel Changi Airport. Members can enjoy priority access, special discounts, and invitations to exclusive events. The programme aims to enhance the overall experience for frequent visitors and provide a more personalized and rewarding experience. It is designed to cater to the needs and preferences of its members, ensuring a memorable and enjoyable visit to Jewel Changi Airport. The programme is family-friendly and offers something for everyone.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "activity",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "Changi Rewards, Platinum members, exclusive programme, Jewel Changi Airport",
+    "address_display": "Singapore",
+    "categories": [
+      "Attraction",
+      "Mall"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-car@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-mrt@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 624,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Jewel Celebrates The Magic of Adventure",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Adventure awaits with Disney Cruise Line this season!",
+    "description": "Jewel Changi Airport celebrates the Magic of Adventure with Disney Cruise Line, featuring a 16-metre tall Disney Adventure Festive Tree at Forest Valley, adorned with lights and Mickey-shaped ornaments. Four-metre tall topiary sculptures of Captain Mickey Mouse and Captain Minnie Mouse and a Disney Cruise Line inspired anchor are also present. Photo installations at Canopy Park, inspired by the themed areas onboard the ship, feature characters from Toy Story and the Disney Princesses. A special installation inspired by Duffy and the Friend Ship will be performed at the Disney Imagination Garden onboard the ship. Enjoy the Magic of Adventure Light & Music Showcase, a journey through the seven themed areas onboard the Disney Adventure, with Disney, Pixar and Marvel stories appearing on the Rain Vortex.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "event",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": "05-Nov to 04-Jan",
+    "datetime_display": "Mon to Sun: 8pm and 9pm",
+    "start_datetime": "2025-11-05T00:00:00+08:00",
+    "end_datetime": "2026-01-04T23:59:59+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "Disney, Light & Music Showcase, Photo Installations, Festive Tree",
+    "address_display": "Singapore",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-mrt@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/clock2.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 625,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Jewel Celebrates The Magic of Adventure with Disney",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Adventure awaits with Disney Cruise Line this season!",
+    "description": "Jewel Changi Airport celebrates the Magic of Adventure with Disney Cruise Line. A 16-metre tall Disney Adventure Festive Tree stands at Forest Valley, adorned with lights and Mickey-shaped ornaments. Four-metre tall topiary sculptures of Captain Mickey Mouse and Captain Minnie Mouse and a Disney Cruise Line inspired anchor are also present. Explore photo installations at Canopy Park, inspired by themed areas onboard the ship, featuring characters from Toy Story and the Disney Princesses. A special installation inspired by Duffy and the Friend Ship is also available.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "activity",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friends from Toy Story and the Disney Princesses",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "Disney, Festive Tree, Photo Installations, Characters, Family, Adventure",
+    "address_display": "Singapore",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/clock2.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-location@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 626,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Jewel Changi Airport's Disney Adventure",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Win a magical cruise voyage on the Disney Adventure!",
+    "description": "Stand a chance to win a 3-night cruise voyage in a Deluxe Garden View with Verandah Stateroom on the Disney Adventure! Post your most creative photo or video of the Disney Cruise Line themed installation at Canopy Park AND Forest Valley. Tell us why you'd love to sail away on the magical Disney Adventure. Pre-purchase your Canopy Park tickets before 5 Nov on our website today! Tag @jewelchangiairport & #DisneyCruiseAdventureJEWEL2025.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "event",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "Disney Cruise, Canopy Park, Forest Valley, Photo Contest",
+    "address_display": "Singapore",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-location@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-hotel@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 627,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "The Magic of Adventure Light & Music Showcase",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Dazzling light & sound show at Jewel Rain Vortex!",
+    "description": "Experience the all-new Light & Music Showcase, The Magic of Adventure, transforming the iconic 40-metre-tall Jewel Rain Vortex into a dazzling stage. Guests will be taken on a journey through the seven themed areas onboard the Disney Adventure, each represented by its respective glowing medallions. Enjoy a spectacular blend of light and sound, and look out for beloved Disney, Pixar and Marvel stories that will appear on the Rain Vortex. This family-friendly showcase is perfect for all ages. Spend and redeem limited-edition Disney Cruise Line collectibles with a minimum spend of $60.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "event",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "S$15.90 to S$52.90",
+    "price": 15.9,
+    "min_price": 15.9,
+    "max_price": 52.9,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Mon to Sun (including eve of PH and PH): 8pm and 9pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Jewel Rain Vortex",
+    "label_tag": null,
+    "keyword_tag": "Light and Music Show, Disney, Pixar, Marvel, Family, Collectibles",
+    "address_display": "78 Airport Blvd., Singapore 819666",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-hotel@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-car@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 628,
+    "longitude": 103.98973,
+    "latitude": 1.360136,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Disney Cruise Line Collectibles at Jewel Changi",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Purchase limited-edition Disney collectibles with spend.",
+    "description": "Purchase a limited-edition Disney Cruise Line collectible at $15.90, $29.90 or $52.90 when you spend a minimum of $60 in a single receipt. Available collectibles include a Mini Luggage, Travel Blanket with Bag, Sailor Chip Cushion, Sailor Dale Cushion, and a Puffy Carry-on Bag with Surprise bag charm. Purchase the collectibles via the Changi app and bring along your qualifying receipt and collectible purchase confirmation email to L2 East Gateway Garden for collection from 11am - 10pm daily. Last redemption is at 9:30pm. Collectibles can be purchased via the Changi app.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "activity",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "S$15.90 to S$52.90",
+    "price": 15.9,
+    "min_price": 15.9,
+    "max_price": 52.9,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "11am - 10pm, daily. Last redemption is at 9:30pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "Disney collectibles, shopping, Jewel Changi Airport",
+    "address_display": "Singapore",
+    "categories": [
+      "Mall"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-car@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-mrt@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 629,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Jewel Changi Airport Celebrates Disney Adventure",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Win a Disney Cruise Line stay with UOB card spend!",
+    "description": "Spend a minimum of $200 in a single receipt with your UOB Credit/Debit card at any participating outlets in Jewel Changi Airport and stand a chance to win a 3-night stay in a Deluxe Oceanview Stateroom with Verandah onboard the Disney Adventure (worth USD $2,500). Redemptions must be made at Level 2 East Gateway Garden (between Coucou Hotpot.Brew Tea and Kam’s Roast) from 11am to 10pm daily. Last redemption is at 9:30pm. This promotion offers an exciting opportunity for families to experience the magic of Disney Cruise Line.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "event",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $2",
+    "price_display": "S$2.00",
+    "price": 2.0,
+    "min_price": 2.0,
+    "max_price": 2.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "11am to 10pm, daily. Last redemption is at 9:30pm.",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "Disney Cruise, UOB card promotion, Jewel Changi Airport",
+    "address_display": "Singapore",
+    "categories": [
+      "Mall"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-mrt@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/clock2.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 630,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  },
+  {
+    "title": "Jewel Changi Airport Retail & F&B Outlets",
+    "organiser": "Jewel Changi Airport",
+    "blurb": "Redeem a Jewel Gift Voucher with Mastercard purchase.",
+    "description": "Enjoy shopping and dining at Jewel Changi Airport's various retail and F&B outlets. Spend a minimum of $200 in a maximum of 3 same-day receipts charged to your Mastercard to redeem a $10 Jewel Gift Voucher. Redemptions can be made daily from 11am to 10pm at Level 2 East Gateway Garden (between Coucou Hotpot.Brew Tea and Kam’s Roast). Last redemption is at 9:30pm. Terms and conditions apply. Explore a wide range of retail options and dining experiences suitable for families and individuals alike. This promotion enhances the shopping experience, making it more rewarding for Mastercard users.",
+    "guid": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "activity_or_event": "activity",
+    "url": "https://www.jewelchangiairport.com/en/promotion/Jewel-Celebrates-The-Magic-of-Adventure-with-Disney-Cruise-Line.html",
+    "is_free": false,
+    "price_display_teaser": "From $10",
+    "price_display": "S$10.00",
+    "price": 10.0,
+    "min_price": 0,
+    "max_price": 10.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "11am to 10pm daily. Last redemption at 9:30pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jewel Changi Airport",
+    "label_tag": null,
+    "keyword_tag": "shopping, dining, retail, F&B, Jewel Changi Airport, Mastercard promotion",
+    "address_display": "Singapore",
+    "categories": [
+      "Mall",
+      "Dining"
+    ],
+    "images": [
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/clock2.png",
+        "source_credit": "Jewel Changi Airport"
+      },
+      {
+        "url": "https://www.jewelchangiairport.com/content/dam/jca-project/global/icons/icon-jewel-location@2x.png",
+        "source_credit": "Jewel Changi Airport"
+      }
+    ],
+    "id": 631,
+    "longitude": 103.9897598,
+    "latitude": 1.3602094,
+    "planning_area": "Changi",
+    "region": "East Region"
+  }
+]

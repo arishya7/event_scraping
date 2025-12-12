@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Singapore Flyer: An Immersive Journey in the Sky",
+    "organiser": "Singapore Flyer",
+    "blurb": "See Singapore’s Story Come Alive on An Immersive Journey",
+    "description": "Experience breathtaking panoramic views of Singapore's skyline and beyond from the Singapore Flyer. This iconic observation wheel offers a unique perspective of the city's landmarks, including Marina Bay Sands, Gardens by the Bay, and the Singapore River. Enjoy a leisurely ride in a spacious capsule, perfect for families and visitors of all ages. Discover the beauty of Singapore from a whole new angle, creating unforgettable memories with loved ones. The Singapore Flyer provides a captivating experience that showcases the city's vibrant culture and stunning architecture.",
+    "guid": "https://www.singaporeflyer.com/en",
+    "activity_or_event": "activity",
+    "url": "https://www.singaporeflyer.com/en",
+    "price_display_teaser": "From SGD",
+    "price_display": "From S$35 to S$45",
+    "price": 35.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Singapore Flyer",
+    "full_address": "Singapore 039803",
+    "categories": [
+      "Attraction"
+    ],
+    "images": []
+  }
+]

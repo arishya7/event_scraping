@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Wild Wonders @ Bird Paradise Adventure",
+    "organiser": "Mandai Wildlife Reserve",
+    "blurb": "Feathered Mystery Adventure at Bird Paradise awaits!",
+    "description": "Unleash your child’s inner wildlife detective as they hunt clues, meet amazing birds, and discover surprising connections between birds and humans - all in a fun, interactive game at Bird Paradise! This family-friendly adventure encourages exploration and learning about the avian world. Children will engage in activities that promote observation skills and problem-solving. The experience is designed to be both educational and entertaining, making it a memorable outing for families. Discover the wonders of birds and their relationship with humans through this interactive adventure.",
+    "guid": "https://zooschool.mandai.com/programme/wild-wonders-bird-paradise-154",
+    "activity_or_event": "activity",
+    "url": "https://zooschool.mandai.com/programme/wild-wonders-bird-paradise-154",
+    "price_display_teaser": "From $70",
+    "price_display": "$70",
+    "price": 0.0,
+    "age_group_display": "5 to 12 years old",
+    "min_age": 5.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Recurring Fri",
+    "datetime_display": "17, 24, 31 Oct 2025, 3:30 - 5:30pm",
+    "start_datetime": "2025-10-17T15:30:00",
+    "end_datetime": "2025-10-31T17:30:00",
+    "venue_name": "Bird Paradise",
+    "full_address": "80 Mandai Lake Road, Singapore 729826",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://mandai-s3-bucket-live.s3.ap-southeast-1.amazonaws.com/ClassImages/1754378874685_banner.jpg",
+        "source_credit": "Mandai Wildlife Reserve"
+      },
+      {
+        "url": "https://mandai-s3-bucket-live.s3.ap-southeast-1.amazonaws.com/ProgrammeHighlight/154/1754381911591.jpg",
+        "source_credit": "Mandai Wildlife Reserve"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

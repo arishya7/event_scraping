@@ -1,0 +1,44 @@
+[
+  {
+    "title": "AIRZONE - World's First Indoor Atrium Net Playground",
+    "organiser": "AIRZONE",
+    "blurb": "Bouncy nets spanning levels 2 to 6 of the mall atrium.",
+    "description": "AIRZONE is the world's first indoor atrium net playground. It features bouncy nets that span levels 2 to 6 of the mall atrium, slides to connect one level to the next, and various activities to enjoy. Visitors can explore different zones within the net structure, offering a unique and thrilling experience for families and children. It's a great place for kids and adults to have fun and be active in a safe and engaging environment. The playground provides a memorable adventure for all ages.",
+    "guid": "https://airzone.sg/",
+    "activity_or_event": "activity",
+    "url": "https://airzone.sg/",
+    "price_display_teaser": "From $27.90",
+    "price_display": "From $27.90 - $29.90 for 1 hour",
+    "price": 29.0,
+    "age_group_display": "Suitable for all ages (Children below 5 years old must be accompanied by a supervising adult with separate ticket)",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am - 9:30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "AIRZONE",
+    "full_address": "Not Available",
+    "categories": [
+      "Mall related",
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\AIRZONE___World_s_First_Indoor_Atrium_Net_Playground_1.webp",
+        "filename": "AIRZONE___World_s_First_Indoor_Atrium_Net_Playground_1.webp",
+        "original_url": "https://img.pagecloud.com/WkkT_M2mE9Q3VBL8j-6X1jpmTOU=/2100x0/filters:no_upscale()/airzone/images/image-ID-94ec9765-9f02-4656-91eb-5d8559072ff0.jpeg",
+        "source_credit": "airzone"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\AIRZONE___World_s_First_Indoor_Atrium_Net_Playground_2.webp",
+        "filename": "AIRZONE___World_s_First_Indoor_Atrium_Net_Playground_2.webp",
+        "original_url": "https://airzone.sg/",
+        "source_credit": "airzone"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

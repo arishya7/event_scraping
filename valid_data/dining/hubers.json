@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Huber's Bistro: A Culinary Experience for Families",
+    "organiser": "Huber's",
+    "blurb": "Enjoy quality dining in a relaxed, family-friendly bistro.",
+    "description": "Huber's Bistro offers a delightful culinary experience for families. With a diverse menu catering to various tastes, it's an ideal spot for a relaxed meal. The bistro provides a welcoming atmosphere where families can enjoy quality time together while savoring delicious food. From hearty mains to delectable desserts, there's something for everyone. Please note that the bistro is closed on Mondays, including public holidays that fall on Mondays, and reservations are not accepted.",
+    "guid": "https://www.hubers.com.sg/Bistro.aspx",
+    "activity_or_event": "activity",
+    "url": "https://www.hubers.com.sg/Bistro.aspx",
+    "price_display_teaser": "Null",
+    "price_display": "From S$0 to S$0",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Tues – Fri: 11.00am - 10.00pm Sat, Sun & public holidays: 9.30am - 10.00pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Huber's Bistro",
+    "full_address": "Not Available",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://www.hubers.com.sg/Upload/BistroBanner/BistroBanner20210716102453674.jpg",
+        "source_credit": "Huber's"
+      }
+    ]
+  },
+  {
+    "title": "Huber's Butchery - Home Delivery Information",
+    "organiser": "Huber's",
+    "blurb": "Next available slot for Home Delivery is available.",
+    "description": "Huber's Butchery offers home delivery services. Please select your preferred delivery date from the calendar. Make payment before to secure the slot. This service is designed for families and individuals who prefer to enjoy Huber's products from the comfort of their homes. The delivery service ensures that customers can access fresh and high-quality meats and other products without needing to visit the physical store. It is a convenient option for busy parents and families.",
+    "guid": "https://www.hubers.com.sg/Bistro.aspx",
+    "activity_or_event": "activity",
+    "url": "https://www.hubers.com.sg/Bistro.aspx",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Huber's Butchery",
+    "full_address": "Not Available",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": []
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Barossa Steak & Grill Kids Meal Promotion",
+    "organiser": "Creative Eateries",
+    "blurb": "Enjoy a free kids meal with every 2 paying adults!",
+    "description": "Bring your kids along to Barossa Steak & Grill and enjoy a free kids meal with every 2 paying adults! Choose from kid’s favourite Fish & Chips to Grilled Marinated Chicken Thigh or Truffle Mushroom Cream Spaghettini Pasta. Valid for dine in only, Mon to Thurs. Prices are subjected to GST and service charge. Not valid with other promotions, discounts, vouchers and/or credit card privileges. Not valid on Public Holidays, Special Occasions and their respective Eve of. Other T&Cs apply.",
+    "guid": "https://www.barossa.com.sg/promotions/kids-meal-promotion",
+    "activity_or_event": "activity",
+    "url": "https://www.barossa.com.sg/promotions/kids-meal-promotion",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan",
+    "datetime_display": "Mon to Thurs",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Barossa Steak & Grill",
+    "address_display": "1 HarbourFront Walk, #01-161/162 Vivocity, Singapore 098585",
+    "label": null,
+    "keyword_tag": [
+      "kids meal",
+      "dining",
+      "family"
+    ],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6147ebbf2458cd2b686aacc4/0095b7fe-4663-4166-9d21-4b1e6169a6ba/Complimentary+Set+For+2+%28%2498%2B%2B%29+%283%29.png",
+        "source_credit": "Creative Eateries",
+        "filename": "Barossa_Steak_Grill_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/Barossa_Steak_Grill_1.jpg"
+      }
+    ],
+    "id": 715,
+    "longitude": 103.8215699,
+    "latitude": 1.2634001,
+    "planning_area": "Bukit Merah",
+    "region": "Central Region"
+  },
+  {
+    "title": "Barossa Steak and Grill",
+    "organiser": "Creative Eateries Pte Ltd",
+    "blurb": "Enjoy steak and grill options for the whole family.",
+    "description": "Barossa Steak and Grill offers a variety of steak and grilled dishes suitable for families. The restaurant provides a casual dining experience with a focus on quality ingredients and flavorful preparations. It's a great place to enjoy a meal with kids and parents alike, offering a relaxed atmosphere and a menu that caters to different tastes. The restaurant is known for its grilled meats and other family-friendly options, making it a convenient choice for a meal out. The ambiance is welcoming, and the service is attentive, ensuring a pleasant dining experience for all. The menu includes a range of options, from classic steaks to lighter fare, ensuring there's something for everyone in the family to enjoy. The restaurant also offers a selection of sides and desserts to complete the meal, making it a comprehensive dining destination for families looking for a satisfying and enjoyable experience.",
+    "guid": "https://www.barossa.com.sg/promotions/kids-meal-promotion",
+    "activity_or_event": "Kids-friendly dining",
+    "url": "https://www.barossa.com.sg/promotions/kids-meal-promotion",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan",
+    "datetime_display": "Please check the website for operating hours",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Barossa Steak and Grill",
+    "address_display": "1 HarbourFront Walk, #01-161/162 Vivocity, Singapore 098585",
+    "label": null,
+    "keyword_tag": [
+      "steak",
+      "grill",
+      "family",
+      "dining"
+    ],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6147ebbf2458cd2b686aacc4/0095b7fe-4663-4166-9d21-4b1e6169a6ba/Complimentary+Set+For+2+%28%2498%2B%2B%29+%283%29.png",
+        "source_credit": "Creative Eateries Pte Ltd",
+        "filename": "Barossa_Steak_and_Grill_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/Barossa_Steak_and_Grill_1.jpg"
+      }
+    ],
+    "is_free": false,
+    "id": 716,
+    "longitude": 103.8215699,
+    "latitude": 1.2634001,
+    "planning_area": "Bukit Merah",
+    "region": "Central Region"
+  }
+]

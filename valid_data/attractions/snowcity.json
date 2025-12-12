@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Snow City Singapore: Winter Wonderland Experience",
+    "organiser": "Snow City",
+    "blurb": "Experience snow and winter fun in tropical Singapore!",
+    "description": "Snow City offers a unique winter experience with real snow, providing a fun and educational environment for families and children. Activities include snow play, a snow slide, and interactive exhibits. Perfect for escaping the heat and enjoying a taste of winter. Snow City is Singapore's first permanent indoor snow centre. It features a 60-metre snow slope for sledding and snowboarding, as well as a snow playground for kids to build snowmen and have snowball fights. The venue also hosts various events and activities throughout the year, making it a popular destination for families and tourists alike. It's an ideal place for children and adults to experience the magic of winter in a safe and controlled environment. The snow is made using a special snow-making machine that produces real snow, ensuring an authentic winter experience.",
+    "guid": "https://www.snowcity.com.sg/operating-hours/",
+    "activity_or_event": "activity",
+    "url": "https://www.snowcity.com.sg/operating-hours/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$21 to S$28",
+    "price": 21.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Tuesdays to Fridays: 10:00am – 5:00pm; Weekends, School & Public Holidays: 10:00am – 6:00pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Snow City",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": []
+  }
+]

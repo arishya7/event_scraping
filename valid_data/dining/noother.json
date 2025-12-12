@@ -1,0 +1,70 @@
+[
+  {
+    "title": "NOM - No Other Meaning at Macpherson Community Club",
+    "organiser": "NOM",
+    "blurb": "Visit NOM at Macpherson Community Club Level 1!",
+    "description": "NOM offers a variety of dining options in a family-friendly environment. Enjoy our menu selections during our opening hours. We are located at Macpherson Community Club, Level 1. Our operating hours are weekdays 12pm-10pm and Sat/Sun/Public Holidays 11am-10pm. We are closed every Tuesday. If PH falls on a Tuesday, we will be closed on Wednesday instead. Contact us at +65 6747 3839 or info@noothermeaning.com for inquiries.",
+    "guid": "https://www.noothermeaning.com/",
+    "activity_or_event": "Kids-friendly dining",
+    "url": "https://www.noothermeaning.com/",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Weekdays: 12pm-10pm Sat/Sun/Public Holidays: 11am-10pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Macpherson Community Club",
+    "full_address": "400 Paya Lebar Way, Macpherson Community Club Level 1, Singapore 379131",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "http://www.noothermeaning.com/wp-content/uploads/2013/05/NOM-Logo.png",
+        "source_credit": "NOM"
+      },
+      {
+        "url": "http://www.noothermeaning.com/wp-content/uploads/2013/05/pinterest-NOM-300x300.png",
+        "source_credit": "NOM"
+      }
+    ]
+  },
+  {
+    "title": "No Other Meaning - Venue Information Extraction",
+    "organiser": "No Other Meaning",
+    "blurb": "Venue details and contact information available here.",
+    "description": "This page provides contact information, including telephone number and email address, for No Other Meaning. Opening hours are also mentioned with a note about Public Holidays. Please contact them directly for details on activities, play areas, amenities, features, and general admission prices. This information is intended for families, kids, and parents looking for venue details.",
+    "guid": "https://www.noothermeaning.com/",
+    "activity_or_event": "activity",
+    "url": "https://www.noothermeaning.com/",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "If PH falls on a Tuesday, we will be closed on Wednesday instead",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "No Other Meaning",
+    "full_address": "400 Paya Lebar Way, Macpherson Community Club Level 1, Singapore 379131",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "http://www.noothermeaning.com/wp-content/uploads/2013/05/pinterest-NOM-300x300.png",
+        "source_credit": "No Other Meaning"
+      },
+      {
+        "url": "http://www.noothermeaning.com/wp-content/uploads/2013/05/twitter-NOM.png",
+        "source_credit": "No Other Meaning"
+      }
+    ]
+  }
+]

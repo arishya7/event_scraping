@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Hip Kids Play Playground at Forum The Shopping Mall",
+    "organiser": "Forum The Shopping Mall",
+    "blurb": "Enjoy boundless fun in our Hip Kids Play playground!",
+    "description": "Hip Kids Play playground offers a fun and safe environment for young children to explore and play. With slides and other engaging features, children can enjoy a new adventure with every visit. The playground is designed for children ages seven and below and below the height of 120cm, ensuring a safe and enjoyable experience for all. Parents can relax knowing their children are in a secure and entertaining environment. Just pop by the Information Counter located on Level 2 during mall hours from 10am to 8pm to sign up!",
+    "guid": "https://forumtheshoppingmall.com.sg/hip-kids-play/#playground",
+    "activity_or_event": "activity",
+    "url": "https://forumtheshoppingmall.com.sg/hip-kids-play/#playground",
+    "price_display_teaser": "From $5",
+    "price_display": "S$5.00",
+    "price": 5.0,
+    "age_group_display": "7 years and below",
+    "min_age": null,
+    "max_age": 7.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "10am to 8pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Forum The Shopping Mall",
+    "full_address": "583 Orchard Road, Singapore 238884. © Copyright",
+    "categories": [
+      "Indoor Playground",
+      "Mall related"
+    ],
+    "images": [
+      {
+        "url": "https://forumtheshoppingmall.com.sg/hip-kids-play/images/pic_aboutus.jpg",
+        "source_credit": "Forum The Shopping Mall"
+      }
+    ]
+  }
+]

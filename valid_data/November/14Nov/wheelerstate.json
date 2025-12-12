@@ -1,0 +1,200 @@
+[
+  {
+    "title": "Wheeler's Estate: Dining and Heritage Experience",
+    "organiser": "Wheeler's Estate",
+    "blurb": "Experience old-world charm in a colonial building.",
+    "description": "Wheeler's Estate offers an enchanting ambiance in a preserved black & white colonial building that once housed British Royal Air Force officers. With its longhouse structure and heritage, it provides a unique dining and event space for everyone.",
+    "guid": "https://wheelersestate.com/our-story/",
+    "activity_or_event": "activity",
+    "url": "https://wheelersestate.com/our-story/",
+    "price_display_teaser": "From $",
+    "price_display": "Check website for menu prices",
+    "price": 15,
+    "min_price": 15,
+    "max_price": 80,
+    "age_group_display": "All ages",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "Daily",
+    "datetime_display": "Check website for operating hours",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Wheeler's Estate",
+    "address_display": "2 Park Ln, Singapore 798386",
+    "label": null,
+    "keyword_tag": [
+      "dining",
+      "heritage",
+      "colonial",
+      "family"
+    ],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://wheelersestate.com/wp-content/uploads/2023/03/bikewheel.webp",
+        "source_credit": "Wheeler's Estate",
+        "filename": "Wheeler_s_Estate_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/Wheeler_s_Estate_1.jpg"
+      },
+      {
+        "url": "https://wheelersestate.com/wp-content/uploads/2023/03/bikewheel2.webp",
+        "source_credit": "Wheeler's Estate",
+        "filename": "Wheeler_s_Estate_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/Wheeler_s_Estate_2.jpg"
+      }
+    ],
+    "id": 720,
+    "longitude": 103.86805869999999,
+    "latitude": 1.4093057,
+    "planning_area": "Seletar",
+    "region": "North-East Region"
+  },
+  {
+    "title": "Wheeler's Estate",
+    "organiser": "Wheeler's Estate",
+    "blurb": "Enchanting ambiance that exudes old-world charm.",
+    "description": "Originally built before World War II, our black & white colonial building was once home to high-ranking British Royal Air Force officers. With its preserved longhouse structure and heritage, you'll experience an enchanting ambiance that exudes old-world charm. At Wheeler's Estate, there's something for everyone.",
+    "guid": "https://wheelersestate.com/our-story/",
+    "activity_or_event": "activity",
+    "url": "https://wheelersestate.com/our-story/",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Wheeler's Estate",
+    "address_display": "2 Park Ln, Singapore 798386",
+    "label": null,
+    "keyword_tag": [],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://wheelersestate.com/wp-content/uploads/2023/03/bikewheel2.webp",
+        "source_credit": "Wheeler's Estate",
+        "filename": "Wheeler_s_Estate_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/Wheeler_s_Estate_1.jpg"
+      },
+      {
+        "url": "https://wheelersestate.com/wp-content/uploads/2023/03/guitar-1.webp",
+        "source_credit": "Wheeler's Estate",
+        "filename": "Wheeler_s_Estate_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/Wheeler_s_Estate_2.jpg"
+      }
+    ],
+    "id": 721,
+    "longitude": 103.86805869999999,
+    "latitude": 1.4093057,
+    "planning_area": "Seletar",
+    "region": "North-East Region"
+  },
+  {
+    "title": "Wheeler's Estate: Alfresco Dining & Activities",
+    "organiser": "Wheeler's Estate",
+    "blurb": "Alfresco dining, live music, and community events.",
+    "description": "Wheeler's Estate offers a unique gastronomical experience with alfresco ambiance, live entertainment, and a menu crafted by Jayd Kitt. Indulge in the aroma of firewood-grilled meats and explore the community with local brands at Wheeler's Market. It's more than just a restaurant; it's a sensory adventure with spacious seating, local live performances, intimate solemnisations, and brunch options for families and even furkids. Experience cultural fusion and innovation in dishes, making every meal a fresh and exciting experience. Wheeler's Estate is a place where food is not just a meal, but a sensory adventure, offering a diverse range of activities and dining options for everyone. Enjoy the vibrant atmosphere and support local brands while creating lasting memories with family and friends. The venue provides a welcoming space for all, ensuring a delightful experience with every visit, making it a perfect destination for a memorable day out.",
+    "guid": "https://wheelersestate.com/our-story/",
+    "activity_or_event": "activity",
+    "url": "https://wheelersestate.com/our-story/",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 99,
+    "age_group_display": "All Ages",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Please check website for operating hours",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Wheeler's Estate",
+    "address_display": "2 Park Ln, Singapore 798386",
+    "label": null,
+    "keyword_tag": [
+      "alfresco dining",
+      "live music",
+      "family",
+      "community",
+      "local brands"
+    ],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://wheelersestate.com/wp-content/uploads/2023/03/guitar-1.webp",
+        "source_credit": "Wheeler's Estate",
+        "filename": "Wheeler_s_Estate_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/Wheeler_s_Estate_1.jpg"
+      },
+      {
+        "url": "https://wheelersestate.com/wp-content/uploads/2023/03/drums.webp",
+        "source_credit": "Wheeler's Estate",
+        "filename": "Wheeler_s_Estate_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/Wheeler_s_Estate_2.jpg"
+      }
+    ],
+    "id": 722,
+    "longitude": 103.86805869999999,
+    "latitude": 1.4093057,
+    "planning_area": "Seletar",
+    "region": "North-East Region"
+  },
+  {
+    "title": "Wheeler's Estate Gastronomical Experience",
+    "organiser": "Wheeler's Estate",
+    "blurb": "Indulge in a gastronomical experience like no other!",
+    "description": "Wheeler's Estate offers more than just a restaurant experience. Indulge in our spacious alfresco seating, enjoy local live performances, hold intimate solemnisations, brunch with family or furkids, support local brands at Wheeler's Market, and explore the community. Savor the aroma of our specially imported Jarrah, Apple & Lychee firewood used for grilling exquisite meats like our Signature Tomahawk Steak. At Wheeler's Estate, it's not just a meal, but a sensory experience that will leave you wanting more. It's a sensory experience that will leave you wanting more. Wheeler's Estate is a place to create memories and enjoy the company of loved ones.",
+    "guid": "https://wheelersestate.com/our-story/",
+    "activity_or_event": "activity",
+    "url": "https://wheelersestate.com/our-story/",
+    "price_display_teaser": "From $",
+    "price_display": "Varies",
+    "price": 30,
+    "min_price": 30,
+    "max_price": 150,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Check website for operating hours",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Wheeler's Estate",
+    "address_display": "2 Park Ln, Singapore 798386",
+    "label": null,
+    "keyword_tag": [
+      "alfresco dining",
+      "live music",
+      "family brunch",
+      "local brands"
+    ],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://wheelersestate.com/wp-content/uploads/2025/10/W4_02524-scaled.jpg",
+        "source_credit": "Wheeler's Estate",
+        "filename": "Wheeler_s_Estate_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/Wheeler_s_Estate_1.jpg"
+      }
+    ],
+    "id": 723,
+    "longitude": 103.86805869999999,
+    "latitude": 1.4093057,
+    "planning_area": "Seletar",
+    "region": "North-East Region"
+  }
+]

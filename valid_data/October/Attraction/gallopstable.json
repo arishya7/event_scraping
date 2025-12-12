@@ -1,0 +1,243 @@
+[
+  {
+    "title": "Pony and Horse Rides at Gallop Stable Bukit Timah",
+    "organiser": "Gallop Stable",
+    "blurb": "Enjoy pony rides for kids and horse rides for adults.",
+    "description": "Gallop Stable @ Horsecity (Bukit Timah) offers pony rides for children aged 3 and above, providing a safe and thrilling horseback riding experience. Horse rides for adults are also available. Rides are fully supervised by trained staff, and helmets are provided. Pony and horse rides are available from Tuesdays to Sundays. Weekday sessions are from 10 am to 12 pm and 2 pm to 6 pm. Weekend sessions are from 9 am to 12 pm and 2 pm to 7 pm. Please note that rides are not available during wet weather or extreme heat.",
+    "guid": "https://www.gallopstable.com/pony-and-horse-rides/",
+    "activity_or_event": "activity",
+    "url": "https://www.gallopstable.com/pony-and-horse-rides/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$10",
+    "price": 10.0,
+    "min_price": 10.0,
+    "max_price": 10.0,
+    "age_group_display": "3 years and above",
+    "min_age": 3.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Tuesdays to Sundays: Weekdays 10 am-12 pm/2 pm-6 pm, Weekends 9 am-12 pm/2 pm-7 pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Gallop Stable @ Horsecity (Bukit Timah)",
+    "label_tag": null,
+    "Keyword_tag": "Pony rides, horse rides, kids activities, outdoor activities, family fun",
+    "full_address": "1 Pasir Ris Cl, Singapore 519599",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.gallopstable.com/wp-content/uploads/2018/04/ponyhorse.jpg",
+        "source_credit": "Gallop Stable"
+      }
+    ],
+    "id": 574,
+    "longitude": 103.95513650000001,
+    "latitude": 1.3794773,
+    "district": "Pasir Ris",
+    "area": "East Region"
+  },
+  {
+    "title": "Pony and Horse Rides at Gallop Stable Pasir Ris Park",
+    "organiser": "Gallop Stable",
+    "blurb": "Enjoy pony rides for kids and horse rides for adults.",
+    "description": "Gallop Stable @ Pasir Ris Park offers pony rides for children aged 3 and above, providing a safe and thrilling horseback riding experience. Horse rides for adults are also available. Rides are fully supervised by trained staff, and helmets are provided. Pony and horse rides are available from Tuesdays to Sundays. Weekday sessions are from 10 am to 12 pm and 2 pm to 7 pm. Weekend sessions are from 8 am to 12 pm and 2 pm to 7 pm. Please note that rides are not available during wet weather or extreme heat.",
+    "guid": "https://www.gallopstable.com/pony-and-horse-rides/",
+    "activity_or_event": "activity",
+    "url": "https://www.gallopstable.com/pony-and-horse-rides/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$10",
+    "price": 10.0,
+    "min_price": 10.0,
+    "max_price": 10.0,
+    "age_group_display": "3 years and above",
+    "min_age": 3.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Tuesdays to Sundays: Weekdays 10 am-12 pm/2 pm-7 pm, Weekends 8 am-12 pm/2 pm-7 pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Gallop Stable @ Pasir Ris Park",
+    "label_tag": null,
+    "Keyword_tag": "Pony rides, horse rides, kids activities, outdoor activities, family fun",
+    "full_address": "61 Pasir Ris Green, Singapore 518225",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.gallopstable.com/wp-content/uploads/2018/04/ponyhorse.jpg",
+        "source_credit": "Gallop Stable"
+      }
+    ],
+    "id": 575,
+    "longitude": 103.9484659,
+    "latitude": 1.3792004999999998,
+    "district": "Pasir Ris",
+    "area": "East Region"
+  },
+  {
+    "title": "Gallop Stable @ Horsecity (Bukit Timah)",
+    "organiser": "Gallop Stable",
+    "blurb": "Pony and horse rides available for all ages.",
+    "description": "Gallop Stable @ Horsecity (Bukit Timah) offers pony and horse rides for children aged 3 years and above, providing a safe and thrilling experience. Horse rides for adults are also available. Rides are fully supervised by trained staff, and helmets are provided. Pony and horse rides are available from Tuesdays to Sundays. Weekday pony rides are available in two sessions: 10 am to 12 pm and 2 pm to 6 pm. Weekend pony rides are available in two sessions: 9 am to 12 pm and 2 pm to 7 pm. Please note that pony and horse rides are not available during wet weather or in extreme heat.",
+    "guid": "https://www.gallopstable.com/pony-and-horse-rides/",
+    "activity_or_event": "activity",
+    "url": "https://www.gallopstable.com/pony-and-horse-rides/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$10 per ride",
+    "price": 10.0,
+    "min_price": 10.0,
+    "max_price": 10.0,
+    "age_group_display": "3 years and above",
+    "min_age": 3.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": "Tue-Sun",
+    "datetime_display": "Tue to Fri: 10 am-12 pm / 2 pm-6 pm; Sat to Sun & PH: 9 am-12 pm / 2 pm-7 pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Gallop Stable @ Horsecity (Bukit Timah)",
+    "label_tag": null,
+    "Keyword_tag": "Pony rides, horse rides, kids activities, family fun",
+    "full_address": "100 Turf Club Rd, Horsecity, Singapore 287992",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.gallopstable.com/wp-content/uploads/2018/04/pony-rides_1.jpg",
+        "source_credit": "Gallop Stable"
+      }
+    ],
+    "id": 576,
+    "longitude": 103.79559019999999,
+    "latitude": 1.3353529,
+    "district": "Bukit Timah",
+    "area": "Central Region"
+  },
+  {
+    "title": "Gallop Stable @ Pasir Ris Park",
+    "organiser": "Gallop Stable",
+    "blurb": "Enjoy pony and horse rides in a natural setting.",
+    "description": "Gallop Stable @ Pasir Ris Park offers pony and horse rides for all ages in a scenic park environment. Children aged 3 years and above can enjoy pony rides, while adults can participate in horse rides. Rides are supervised by trained staff, and helmets are provided for safety. Pony and horse rides are available from Tuesdays to Sundays. Weekday pony rides are available in two sessions: 10 am to 12 pm and 2 pm to 7 pm. Weekend pony rides are available in two sessions: 8 am to 12 pm and 2 pm to 7 pm. Please note that pony and horse rides are not available during wet weather or in extreme heat.",
+    "guid": "https://www.gallopstable.com/pony-and-horse-rides/",
+    "activity_or_event": "activity",
+    "url": "https://www.gallopstable.com/pony-and-horse-rides/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$10 per ride",
+    "price": 10.0,
+    "min_price": 10.0,
+    "max_price": 10.0,
+    "age_group_display": "3 years and above",
+    "min_age": 3.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": "Tue-Sun",
+    "datetime_display": "Tue to Fri: 10 am-12 pm / 2 pm-7 pm; Sat to Sun & PH: 8 am-12 pm / 2 pm-7 pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Gallop Stable @ Pasir Ris Park",
+    "label_tag": null,
+    "Keyword_tag": "Pony rides, horse rides, kids activities, family fun",
+    "full_address": "61 Pasir Ris Green, Singapore 518225",
+    "categories": [
+      "Attraction",
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://www.gallopstable.com/wp-content/uploads/2018/04/pony-rides_1.jpg",
+        "source_credit": "Gallop Stable"
+      }
+    ],
+    "id": 577,
+    "longitude": 103.9484659,
+    "latitude": 1.3792004999999998,
+    "district": "Pasir Ris",
+    "area": "East Region"
+  },
+  {
+    "title": "Gallop Stable Horsey Activities",
+    "organiser": "Gallop Stable",
+    "blurb": "Pony and horse rides for all ages and abilities.",
+    "description": "Gallop Stable offers a variety of horsey activities including pony and horse rides suitable for all ages and abilities. They also provide pony and bunny feeding experiences, birthday party packages, photoshoot opportunities, and corporate and group events. Enjoy a day out with the family and experience the joy of interacting with these gentle animals. Gallop Stable provides a safe and fun environment for children and adults to learn about and appreciate horses and ponies. Activities are designed to be engaging and educational, making it a memorable experience for everyone. Whether you're a seasoned rider or a first-timer, there's something for everyone at Gallop Stable.",
+    "guid": "https://www.gallopstable.com/pony-and-horse-rides/",
+    "activity_or_event": "activity",
+    "url": "https://www.gallopstable.com/pony-and-horse-rides/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$30",
+    "price": 30.0,
+    "min_price": 30.0,
+    "max_price": 30.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Gallop Stable",
+    "label_tag": null,
+    "Keyword_tag": "Pony rides, horse rides, bunny feeding, birthday parties, photoshoot, corporate events, family activities",
+    "full_address": "61 Pasir Ris Green, Singapore 518225",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.gallopstable.com/wp-content/uploads/2018/04/pony-rides_1.jpg",
+        "source_credit": "Gallop Stable"
+      }
+    ],
+    "id": 578,
+    "longitude": 103.9484659,
+    "latitude": 1.3792004999999998,
+    "district": "Pasir Ris",
+    "area": "East Region"
+  },
+  {
+    "title": "Gallop Stable: Corporate and Group Events",
+    "organiser": "Gallop Stable",
+    "blurb": "Events for corporate groups at Gallop Stable.",
+    "description": "Gallop Stable offers unique and engaging corporate and group events centered around horses and equestrian activities. These events provide opportunities for team building, recreation, and learning about horses in a fun and interactive environment. Activities may include guided horse rides, pony rides, stable tours, and demonstrations. Tailored packages are available to suit different group sizes and preferences, ensuring a memorable experience for all participants. These events are designed to promote teamwork, communication, and appreciation for animals and nature. Gallop Stable provides a safe and enjoyable setting for corporate and group outings.",
+    "guid": "https://www.gallopstable.com/pony-and-horse-rides/",
+    "activity_or_event": "event",
+    "url": "https://www.gallopstable.com/pony-and-horse-rides/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$90",
+    "price": 90.0,
+    "min_price": 90.0,
+    "max_price": 90.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Gallop Stable",
+    "label_tag": null,
+    "Keyword_tag": "Horse riding, pony rides, stable tours, corporate events, group activities, team building, equestrian activities, animal interaction, outdoor recreation",
+    "full_address": "1 Pasir Ris Cl, Singapore 519599",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.gallopstable.com/wp-content/uploads/2018/04/pony-rides_1.jpg",
+        "source_credit": "Gallop Stable"
+      }
+    ],
+    "id": 579,
+    "longitude": 103.95513650000001,
+    "latitude": 1.3794773,
+    "district": "Pasir Ris",
+    "area": "East Region"
+  }
+]

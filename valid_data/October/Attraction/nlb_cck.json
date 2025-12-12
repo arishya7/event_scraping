@@ -1,0 +1,431 @@
+[
+  {
+    "title": "Choa Chu Kang Public Library",
+    "organiser": "National Library Board",
+    "blurb": "Visit the Choa Chu Kang Public Library today!",
+    "description": "Choa Chu Kang Public Library offers a wide range of resources and services for all ages. Located in Lot One Shoppers' Mall, the library provides access to books, multimedia materials, and study areas. The Study and Multimedia Zone is open from 9:00 AM to 10:00 PM daily, including public holidays. Bookdrop and Reservation Lockers are available subject to mall opening hours. The library aims to promote reading and lifelong learning within the community, providing a comfortable and accessible environment for everyone to explore and discover new knowledge.",
+    "guid": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "activity_or_event": "activity",
+    "url": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Mon - Sun: 11:00 AM - 09:00 PM",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Choa Chu Kang Public Library",
+    "label_tag": null,
+    "Keyword_tag": "Library, books, reading, study, multimedia, Choa Chu Kang, Lot One Shoppers' Mall",
+    "full_address": "21 Choa Chu Kang Avenue 4 #04-01/02 and #05-06, Lot One Shopper’s Mall, Singapore 689812",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [],
+    "id": 807,
+    "longitude": 103.7452205,
+    "latitude": 1.3849770000000001,
+    "district": "Choa Chu Kang",
+    "area": "West Region"
+  },
+  {
+    "title": "Choa Chu Kang Public Library Activities",
+    "organiser": "National Library Board",
+    "blurb": "Explore diverse activities at the Choa Chu Kang library.",
+    "description": "Choa Chu Kang Public Library offers a variety of activities and workshops for all ages. From storytelling sessions and community events to educational talks and learning experiences, there's something for everyone. The library provides a welcoming space for families to engage in enriching activities and discover new interests. Join us for a range of programs designed to inspire learning and foster community connections through various interactive sessions and workshops suitable for children and adults alike. The library aims to promote literacy and lifelong learning through its diverse offerings.",
+    "guid": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "activity_or_event": "activity",
+    "url": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": "18-Oct to 01-Nov",
+    "datetime_display": null,
+    "start_datetime": "2025-10-18T00:00:00+08:00",
+    "end_datetime": "2025-11-01T00:00:00+08:00",
+    "venue_name": "Choa Chu Kang Public Library",
+    "label_tag": null,
+    "Keyword_tag": "library activities, workshops, storytelling, community events, educational talks",
+    "full_address": "21 Choa Chu Kang Avenue 4 #04-01/02 and #05-06, Lot One Shopper’s Mall, Singapore 689812",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nlb.gov.sg/eva/175680529385.png",
+        "source_credit": "National Library Board"
+      },
+      {
+        "url": "https://www.nlb.gov.sg/eva/175680658705.png",
+        "source_credit": "National Library Board"
+      },
+      {
+        "url": "https://www.nlb.gov.sg/eva/176051566536.png",
+        "source_credit": "National Library Board"
+      },
+      {
+        "url": "https://www.nlb.gov.sg/eva/175793730722.png",
+        "source_credit": "National Library Board"
+      },
+      {
+        "url": "https://www.nlb.gov.sg/eva/176017260421.jpg",
+        "source_credit": "National Library Board"
+      }
+    ],
+    "id": 808,
+    "longitude": 103.7452205,
+    "latitude": 1.3849770000000001,
+    "district": "Choa Chu Kang",
+    "area": "West Region"
+  },
+  {
+    "title": "Choa Chu Kang Public Library - Thinker+",
+    "organiser": "National Library Board",
+    "blurb": "Library with hydroponics showcase & AR learning trail.",
+    "description": "Choa Chu Kang Public Library offers a variety of features including Thinker+, an indoor garden, story circle, teen collection, and study zone. Visitors can explore interesting facts about nature through curated illustrations on the Nature Walls and experience immersive content by scanning QR codes around the library with their mobile phones on the augmented-reality (AR) learning trail. The library also houses a hydroponics showcase, making it the first public library to do so. The library caters to families and children with its diverse collection and interactive learning experiences.",
+    "guid": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "activity_or_event": "activity",
+    "url": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating Hours as per source",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Choa Chu Kang Public Library",
+    "label_tag": null,
+    "Keyword_tag": "library, hydroponics, AR learning, nature, reading, study",
+    "full_address": "21 Choa Chu Kang Avenue 4 #04-01/02 and #05-06, Lot One Shopper’s Mall, Singapore 689812",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nlb.gov.sg/eva/175793730722.png",
+        "source_credit": "National Library Board"
+      }
+    ],
+    "id": 809,
+    "longitude": 103.7452205,
+    "latitude": 1.3849770000000001,
+    "district": "Choa Chu Kang",
+    "area": "West Region"
+  },
+  {
+    "title": "Choa Chu Kang Public Library Gallery & More",
+    "organiser": "National Library Board",
+    "blurb": "Explore the Indoor Garden, Story Circle, and Teen Zone.",
+    "description": "Choa Chu Kang Public Library offers a variety of spaces and resources for visitors of all ages. The library features an art gallery showcasing local talent, an indoor garden providing a tranquil reading environment, a story circle for engaging storytelling sessions, and a dedicated teen collection and study zone. These spaces cater to different interests and age groups, making the library a valuable community resource for learning and leisure. The library aims to provide a welcoming and enriching environment for families and individuals to explore and discover new knowledge and experiences.",
+    "guid": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "activity_or_event": "activity",
+    "url": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Choa Chu Kang Public Library",
+    "label_tag": null,
+    "Keyword_tag": "Library, Gallery, Indoor Garden, Teen Zone, Story Circle, Study Zone, Reading, Community",
+    "full_address": "21 Choa Chu Kang Avenue 4 #04-01/02 and #05-06, Lot One Shopper’s Mall, Singapore 689812",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nlb.gov.sg/main/-/media/NLBMedia/Images/Visit-Us/Libraries/CCKPL/Library-Images/Choa-Chu-Kang-Library-Supplementary-Images-1-Indoor-Garden.jpeg",
+        "source_credit": "National Library Board"
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/-/media/NLBMedia/Images/Visit-Us/Libraries/CCKPL/Library-Images/Choa-Chu-Kang-Library-Supplementary-Images-2-Story-Circle.jpeg",
+        "source_credit": "National Library Board"
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/-/media/NLBMedia/Images/Visit-Us/Libraries/CCKPL/Library-Images/Choa-Chu-Kang-Library-Supplementary-Images-3-Teen-Collection.jpeg",
+        "source_credit": "National Library Board"
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/-/media/NLBMedia/Images/Visit-Us/Libraries/CCKPL/Library-Images/Choa-Chu-Kang-Library-Supplementary-Images-4-Study-Zone.jpeg",
+        "source_credit": "National Library Board"
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/-/media/NLBMedia/Images/Visit-Us/Libraries/CCKPL/Choa-Chu-Kang-Library-Banner.jpg",
+        "source_credit": "National Library Board"
+      }
+    ],
+    "id": 810,
+    "longitude": 103.7452205,
+    "latitude": 1.3849770000000001,
+    "district": "Choa Chu Kang",
+    "area": "West Region"
+  },
+  {
+    "title": "Choa Chu Kang Public Library - Study Zone",
+    "organiser": "National Library Board",
+    "blurb": "Extended hours at our Study and Multimedia Zone.",
+    "description": "Choa Chu Kang Library was officially opened at Lot One Shoppers' Mall Level 3 on 22 February 1997. We re-located to Level 4 of the same shopping mall in 2008. In 2019, we were closed for renovation. Two years later, on 27 October 2021, we were officially re-opened. Our re-opened library is about 30 percent bigger than it was before. We are the first public library to house a hydroponics showcase. Visitors can experience immersive content by scanning QR codes around our library with their mobile phones, on our augmented-reality (AR) learning trail. Interesting facts about nature through curated illustrations on our Nature Walls.",
+    "guid": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "activity_or_event": "activity",
+    "url": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "opened at Lot One Shoppers' Mall Level 3 on 22 February 1997 by Mr Yeo Cheow Tong, then Minister for Health and the Environment, and MP for Hong Kah GRC",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Choa Chu Kang Public Library",
+    "label_tag": null,
+    "Keyword_tag": "Library, Study Zone, Multimedia Zone, Augmented Reality, Nature",
+    "full_address": "21 Choa Chu Kang Avenue 4 #04-01/02 and #05-06, Lot One Shopper’s Mall, Singapore 689812",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [],
+    "id": 811,
+    "longitude": 103.7452205,
+    "latitude": 1.3849770000000001,
+    "district": "Choa Chu Kang",
+    "area": "West Region"
+  },
+  {
+    "title": "Choa Chu Kang Public Library: A Community Hub",
+    "organiser": "National Library Board",
+    "blurb": "Discover nature, AR trails, and extended study hours.",
+    "description": "Choa Chu Kang Public Library offers a variety of resources and services for families and children. Explore nature-themed illustrations on the Nature Walls and engage with immersive content through augmented reality (AR) learning trails. The library also features a hydroponics showcase, extended hours in the Study and Multimedia Zone, and a virtual tour. It's a great place for families to learn and discover together, with resources catering to all ages and interests. The library provides a welcoming environment for children to explore books, participate in programs, and develop a love for reading. The library also offers a social story to help children with autism or sensory sensitivities prepare for their visit.",
+    "guid": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "activity_or_event": "activity",
+    "url": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Extended hours at our Study and Multimedia Zone",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Choa Chu Kang Public Library",
+    "label_tag": null,
+    "Keyword_tag": "library, nature, AR trail, study zone, multimedia, reading, books, hydroponics, learning",
+    "full_address": "21 Choa Chu Kang Avenue 4 #04-01/02 and #05-06, Lot One Shopper’s Mall, Singapore 689812",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nlb.gov.sg/main/-/media/NLBMedia/Images/Visit-Us/Libraries/CCKPL/Choa-Chu-Kang-Library-Banner.jpg",
+        "source_credit": "National Library Board"
+      }
+    ],
+    "id": 812,
+    "longitude": 103.7452205,
+    "latitude": 1.3849770000000001,
+    "district": "Choa Chu Kang",
+    "area": "West Region"
+  },
+  {
+    "title": "Choa Chu Kang Public Library - Family Activities",
+    "organiser": "National Library Board",
+    "blurb": "Explore facilities for families at the public library.",
+    "description": "Choa Chu Kang Public Library offers a variety of facilities suitable for families and children. These include eNewspaper Stations, an Indoor Garden, Multimedia Stations, a Reading / Study Lounge, Story Pods, and a dedicated Storytelling / Activity Area. The library is wheelchair accessible and conveniently located near public transport, making it an ideal destination for families seeking educational and recreational activities. The Green Grove with Hydroponics Showcase provides an interactive learning experience about plants and sustainable gardening. The library aims to provide a welcoming and engaging environment for all ages, fostering a love for reading and learning within the community.",
+    "guid": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "activity_or_event": "activity",
+    "url": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Choa Chu Kang Public Library",
+    "label_tag": null,
+    "Keyword_tag": "library, family activities, reading, storytelling, hydroponics, study lounge",
+    "full_address": "21 Choa Chu Kang Avenue 4 #04-01/02 and #05-06, Lot One Shopper’s Mall, Singapore 689812",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nlb.gov.sg/main/-/media/NLBMedia/Images/Visit-Us/Libraries/CCKPL/Library-Images/Choa-Chu-Kang-Library-Floor-Images-1-1st-floor-L4-of-the-mall.jpg",
+        "source_credit": "National Library Board"
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/-/media/NLBMedia/Images/Visit-Us/Libraries/CCKPL/Library-Images/Choa-Chu-Kang-Library-Floor-Images-2-2nd-floor-L5-of-the-mall.jpg",
+        "source_credit": "National Library Board"
+      }
+    ],
+    "id": 813,
+    "longitude": 103.7452205,
+    "latitude": 1.3849770000000001,
+    "district": "Choa Chu Kang",
+    "area": "West Region"
+  },
+  {
+    "title": "Choa Chu Kang Public Library Facilities",
+    "organiser": "National Library Board",
+    "blurb": "Explore facilities at Choa Chu Kang Public Library.",
+    "description": "Choa Chu Kang Public Library offers a variety of facilities including eNewspaper Stations, a Green Grove with Hydroponics Showcase, an Indoor Garden, Multimedia Stations, a Reading / Study Lounge, Story Pods, a Storytelling / Activity Area, and wheelchair accessibility. The library spans two floors (L4 and L5) of the mall, providing ample space for reading and activities. It is designed to cater to diverse interests and age groups, making it a family-friendly destination for learning and leisure. The library aims to foster a love for reading and lifelong learning through its comprehensive resources and engaging spaces. The Green Grove with Hydroponics Showcase offers an interactive learning experience about plants and sustainable gardening. The Story Pods and Storytelling / Activity Area are designed to engage children with stories and activities.",
+    "guid": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "activity_or_event": "activity",
+    "url": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Choa Chu Kang Public Library",
+    "label_tag": null,
+    "Keyword_tag": "library, reading, study, activities, storytelling, hydroponics, garden, multimedia, eNewspaper, wheelchair accessible",
+    "full_address": "21 Choa Chu Kang Avenue 4 #04-01/02 and #05-06, Lot One Shopper’s Mall, Singapore 689812",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [],
+    "id": 814,
+    "longitude": 103.7452205,
+    "latitude": 1.3849770000000001,
+    "district": "Choa Chu Kang",
+    "area": "West Region"
+  },
+  {
+    "title": "Choa Chu Kang Public Library - Floor Plan Details",
+    "organiser": "National Library Board",
+    "blurb": "Explore the library's layout across two floors.",
+    "description": "Discover the floor plan of Choa Chu Kang Public Library, spanning two levels within the mall. The library features a variety of resources and spaces designed for learning and exploration. Level 4 (1st floor) and Level 5 (2nd floor) offer different sections and amenities to cater to diverse interests and age groups. Visit us to explore the library's collections, programs, and services. The library provides a welcoming environment for families and individuals to engage with literature and knowledge. The library is designed to be family-friendly, offering a range of resources and programs suitable for children and adults alike. The library aims to promote reading and lifelong learning within the community.",
+    "guid": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "activity_or_event": "activity",
+    "url": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Choa Chu Kang Public Library",
+    "label_tag": null,
+    "Keyword_tag": "library, reading, books, resources, learning, community, floor plan",
+    "full_address": "21 Choa Chu Kang Avenue 4 #04-01/02 and #05-06, Lot One Shopper’s Mall, Singapore 689812",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nlb.gov.sg/main/-/media/NLBMedia/Images/Visit-Us/Libraries/CCKPL/Library-Images/Choa-Chu-Kang-Library-Floor-Images-1-1st-floor-L4-of-the-mall.jpg",
+        "source_credit": "National Library Board"
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/-/media/NLBMedia/Images/Visit-Us/Libraries/CCKPL/Library-Images/Choa-Chu-Kang-Library-Floor-Images-2-2nd-floor-L5-of-the-mall.jpg",
+        "source_credit": "National Library Board"
+      }
+    ],
+    "id": 815,
+    "longitude": 103.7452205,
+    "latitude": 1.3849770000000001,
+    "district": "Choa Chu Kang",
+    "area": "West Region"
+  },
+  {
+    "title": "Choa Chu Kang Public Library - A Community Hub",
+    "organiser": "National Library Board",
+    "blurb": "Explore books, resources, and reading initiatives here.",
+    "description": "Choa Chu Kang Public Library offers a wide range of resources and services for families and children. These include books, eBooks, magazines, and newspapers. The library also provides access to eLearning resources, learning communities, and research materials. Families can participate in reading initiatives and explore various online resources. The library aims to be a community hub for learning and discovery, providing a welcoming environment for all ages. It is a great place for families to spend time together, reading and learning. The library also offers various programs and activities for children and adults, promoting literacy and lifelong learning. The library is wheelchair accessible.",
+    "guid": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "activity_or_event": "activity",
+    "url": "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/choa-chu-kang-public-library",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Choa Chu Kang Public Library",
+    "label_tag": null,
+    "Keyword_tag": "Library, books, reading, resources, learning, community, family, children",
+    "full_address": "21 Choa Chu Kang Avenue 4 #04-01/02 and #05-06, Lot One Shopper’s Mall, Singapore 689812",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nlb.gov.sg/main/-/media/NLBMedia/Images/Visit-Us/Libraries/CCKPL/Library-Images/Choa-Chu-Kang-Library-Floor-Images-1-1st-floor-L4-of-the-mall.jpg",
+        "source_credit": "National Library Board"
+      },
+      {
+        "url": "https://www.nlb.gov.sg/main/-/media/NLBMedia/Images/Visit-Us/Libraries/CCKPL/Library-Images/Choa-Chu-Kang-Library-Floor-Images-2-2nd-floor-L5-of-the-mall.jpg",
+        "source_credit": "National Library Board"
+      }
+    ],
+    "id": 816,
+    "longitude": 103.7452205,
+    "latitude": 1.3849770000000001,
+    "district": "Choa Chu Kang",
+    "area": "West Region"
+  }
+]

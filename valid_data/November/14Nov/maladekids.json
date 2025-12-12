@@ -1,0 +1,359 @@
+[
+  {
+    "title": "Kids Eat Free At Anchorpoint",
+    "organiser": "The Marmalade Pantry",
+    "blurb": "Enjoy a free kids' meal with every adult entree.",
+    "description": "The Marmalade Pantry at Anchorpoint offers a delightful dining experience for families. With every adult entree ordered, children can enjoy a complimentary meal from the kids' menu. This promotion provides a perfect opportunity for families to savor delicious food in a relaxed and welcoming atmosphere. The kids' menu features a variety of tasty and nutritious options designed to appeal to young palates, ensuring a satisfying meal for everyone. The restaurant's cozy ambiance and attentive service make it an ideal spot for family outings and gatherings. Enjoy quality time with your loved ones while indulging in a memorable dining experience at The Marmalade Pantry.",
+    "guid": "https://www.themarmaladepantry.com.sg/promos/marmaladekids",
+    "activity_or_event": "Kids-friendly dining",
+    "url": "https://www.themarmaladepantry.com.sg/promos/marmaladekids",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "Children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan",
+    "datetime_display": "Check website for operating hours",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "The Marmalade Pantry Anchorpoint",
+    "address_display": "370 Alexandra Rd, #01-23/24/25/35/36 Anchorpoint Shopping Centre, Singapore 159953",
+    "label": null,
+    "keyword_tag": [
+      "kids eat free",
+      "family dining",
+      "Anchorpoint"
+    ],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/605172bead25631910e30333/1691742026253-906KOWNR3PXZFJKLY5Q0/TMP+Kids+Menu+Photoshoot_Group_7.jpg",
+        "source_credit": "The Marmalade Pantry",
+        "filename": "The_Marmalade_Pantry_Anchorpoint_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/The_Marmalade_Pantry_Anchorpoint_1.jpg"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/605172bead25631910e30333/1691742026253-906KOWNR3PXZFJKLY5Q0/TMP+Kids+Menu+Photoshoot_Group_7.jpg?format=1000w",
+        "source_credit": "The Marmalade Pantry",
+        "filename": "The_Marmalade_Pantry_Anchorpoint_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/The_Marmalade_Pantry_Anchorpoint_2.jpg"
+      }
+    ],
+    "id": 724,
+    "longitude": 103.8050284,
+    "latitude": 1.2887944999999998,
+    "planning_area": "Queenstown",
+    "region": "Central Region"
+  },
+  {
+    "title": "The Marmalade Pantry Anchorpoint",
+    "organiser": "The Marmalade Pantry",
+    "blurb": "Kids eat free with a la carte main purchase.",
+    "description": "Enjoy a free kids’ meal with any a la carte main ordered from the menu at The Marmalade Pantry Anchorpoint. The kids' corner menu includes Grilled Ham & Cheese Toast, Mushroom Tomato Pasta, and more. Each item includes a single scoop of ice cream with a choice of vanilla, chocolate, or strawberry. Kid’s Corner Menu is available at The Marmalade Pantry Downtown, Novena and Anchorpoint only.",
+    "guid": "https://www.themarmaladepantry.com.sg/promos/marmaladekids",
+    "activity_or_event": "Kids-friendly dining",
+    "url": "https://www.themarmaladepantry.com.sg/promos/marmaladekids",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "10 and below",
+    "min_age": 0,
+    "max_age": 10,
+    "datetime_display_teaser": "Mondays to Fridays",
+    "datetime_display": "Mondays to Fridays, 3pm onwards (excluding public holidays)",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "The Marmalade Pantry Anchorpoint",
+    "address_display": "370 Alexandra Rd, #01-23/24/25/35/36 Anchorpoint Shopping Centre, Singapore 159953",
+    "label": null,
+    "keyword_tag": [
+      "kids eat free",
+      "dining",
+      "family"
+    ],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/605172bead25631910e30333/1691742026253-906KOWNR3PXZFJKLY5Q0/TMP+Kids+Menu+Photoshoot_Group_7.jpg?format=1000w",
+        "source_credit": "The Marmalade Pantry",
+        "filename": "The_Marmalade_Pantry_Anchorpoint_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/The_Marmalade_Pantry_Anchorpoint_1.jpg"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/605172bead25631910e30333/1691741931367-RUTGU94O6C63EF1EZDV5/TMP+Kids+Menu+Photoshoot_21.jpg",
+        "source_credit": "The Marmalade Pantry",
+        "filename": "The_Marmalade_Pantry_Anchorpoint_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/The_Marmalade_Pantry_Anchorpoint_2.jpg"
+      }
+    ],
+    "id": 725,
+    "longitude": 103.8050284,
+    "latitude": 1.2887944999999998,
+    "planning_area": "Queenstown",
+    "region": "Central Region"
+  },
+  {
+    "title": "The Marmalade Pantry Downtown",
+    "organiser": "The Marmalade Pantry",
+    "blurb": "Kid’s Corner Menu with new delights.",
+    "description": "Look forward to delectable options on our kid’s corner menu such as Grilled Ham & Cheese Toast, Mushroom Tomato Pasta, and more. Each item includes a single scoop of tasty ice cream with a choice of vanilla, chocolate, or strawberry. Kid’s Corner Menu is available at The Marmalade Pantry Downtown, Novena and Anchorpoint only.",
+    "guid": "https://www.themarmaladepantry.com.sg/promos/marmaladekids",
+    "activity_or_event": "Kids-friendly dining",
+    "url": "https://www.themarmaladepantry.com.sg/promos/marmaladekids",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Mondays to Fridays, 3pm onwards (excluding public holidays) Kids eat free, bring the whole family! Enjoy a free kids’ meal with any a la carte main ordered from the menu",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "The Marmalade Pantry Downtown",
+    "address_display": "100 Peck Seah St, #01-01 Oasia Hotel Downtown, Singapore 079333",
+    "label": null,
+    "keyword_tag": [
+      "kids menu",
+      "dining",
+      "family"
+    ],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/605172bead25631910e30333/1691741931367-RUTGU94O6C63EF1EZDV5/TMP+Kids+Menu+Photoshoot_21.jpg",
+        "source_credit": "The Marmalade Pantry",
+        "filename": "The_Marmalade_Pantry_Downtown_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/The_Marmalade_Pantry_Downtown_1.jpg"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/605172bead25631910e30333/1691742983681-AY4BDGSYN8KYDDBYCNRV/TMP+Kids+Menu+Photoshoot_Dishes+-+Creamy+Chicken_2.jpg",
+        "source_credit": "The Marmalade Pantry",
+        "filename": "The_Marmalade_Pantry_Downtown_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/The_Marmalade_Pantry_Downtown_2.jpg"
+      }
+    ],
+    "id": 726,
+    "longitude": 103.8442496,
+    "latitude": 1.2758957,
+    "planning_area": "Outram",
+    "region": "Central Region"
+  },
+  {
+    "title": "The Marmalade Pantry Novena",
+    "organiser": "The Marmalade Pantry",
+    "blurb": "Kid’s Corner Menu with new delights.",
+    "description": "Look forward to delectable options on our kid’s corner menu such as Grilled Ham & Cheese Toast, Mushroom Tomato Pasta, and more. Each item includes a single scoop of tasty ice cream with a choice of vanilla, chocolate, or strawberry. Kid’s Corner Menu is available at The Marmalade Pantry Downtown, Novena and Anchorpoint only.",
+    "guid": "https://www.themarmaladepantry.com.sg/promos/marmaladekids",
+    "activity_or_event": "Kids-friendly dining",
+    "url": "https://www.themarmaladepantry.com.sg/promos/marmaladekids",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Mondays to Fridays, 3pm onwards (excluding public holidays) Kids eat free, bring the whole family! Enjoy a free kids’ meal with any a la carte main ordered from the menu",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "The Marmalade Pantry Novena",
+    "address_display": "8 Sinaran Dr, #01-02/04 Oasia Hotel, Singapore 307470",
+    "label": null,
+    "keyword_tag": [
+      "kids menu",
+      "dining",
+      "family"
+    ],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/605172bead25631910e30333/1691742983681-AY4BDGSYN8KYDDBYCNRV/TMP+Kids+Menu+Photoshoot_Dishes+-+Creamy+Chicken_2.jpg",
+        "source_credit": "The Marmalade Pantry",
+        "filename": "The_Marmalade_Pantry_Novena_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/The_Marmalade_Pantry_Novena_1.jpg"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/605172bead25631910e30333/1691742983681-AY4BDGSYN8KYDDBYCNRV/TMP+Kids+Menu+Photoshoot_Dishes+-+Creamy+Chicken_2.jpg?format=300w",
+        "source_credit": "The Marmalade Pantry",
+        "filename": "The_Marmalade_Pantry_Novena_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/The_Marmalade_Pantry_Novena_2.jpg"
+      }
+    ],
+    "id": 727,
+    "longitude": 103.84486659999999,
+    "latitude": 1.3203764999999998,
+    "planning_area": "Novena",
+    "region": "Central Region"
+  },
+  {
+    "title": "The Marmalade Pantry Downtown Kid’s Corner",
+    "organiser": "The Marmalade Pantry",
+    "blurb": "Exciting new delights await you and your little ones!",
+    "description": "The Marmalade Pantry Downtown offers a Kid’s Corner Menu with delectable options such as Grilled Ham & Cheese Toast, Mushroom Tomato Pasta, and more. Each item includes a single scoop of tasty ice cream with a choice of vanilla, chocolate, or strawberry. The Kid’s Corner Menu is available at The Marmalade Pantry Downtown.",
+    "guid": "https://www.themarmaladepantry.com.sg/promos/marmaladekids",
+    "activity_or_event": "Kids-friendly dining",
+    "url": "https://www.themarmaladepantry.com.sg/promos/marmaladekids",
+    "price_display_teaser": "From $",
+    "price_display": "Varies",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": "Children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Operating Hours Vary",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "The Marmalade Pantry Downtown",
+    "address_display": "100 Peck Seah St, #01-01 Oasia Hotel Downtown, Singapore 079333",
+    "label": null,
+    "keyword_tag": [
+      "Kids menu",
+      "dining",
+      "family"
+    ],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/605172bead25631910e30333/1691742983681-AY4BDGSYN8KYDDBYCNRV/TMP+Kids+Menu+Photoshoot_Dishes+-+Creamy+Chicken_2.jpg?format=300w",
+        "source_credit": "The Marmalade Pantry",
+        "filename": "The_Marmalade_Pantry_Downtown_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/The_Marmalade_Pantry_Downtown_1.jpg"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/605172bead25631910e30333/1691742026253-906KOWNR3PXZFJKLY5Q0/TMP+Kids+Menu+Photoshoot_Group_7.jpg",
+        "source_credit": "The Marmalade Pantry",
+        "filename": "The_Marmalade_Pantry_Downtown_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/The_Marmalade_Pantry_Downtown_2.jpg"
+      }
+    ],
+    "id": 728,
+    "longitude": 103.8442496,
+    "latitude": 1.2758957,
+    "planning_area": "Outram",
+    "region": "Central Region"
+  },
+  {
+    "title": "The Marmalade Pantry Novena Kid’s Corner",
+    "organiser": "The Marmalade Pantry",
+    "blurb": "Exciting new delights await you and your little ones!",
+    "description": "The Marmalade Pantry Novena offers a Kid’s Corner Menu with delectable options such as Grilled Ham & Cheese Toast, Mushroom Tomato Pasta, and more. Each item includes a single scoop of tasty ice cream with a choice of vanilla, chocolate, or strawberry. The Kid’s Corner Menu is available at The Marmalade Pantry Novena.",
+    "guid": "https://www.themarmaladepantry.com.sg/promos/marmaladekids",
+    "activity_or_event": "Kids-friendly dining",
+    "url": "https://www.themarmaladepantry.com.sg/promos/marmaladekids",
+    "price_display_teaser": "From $",
+    "price_display": "Varies",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": "Children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Operating Hours Vary",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "The Marmalade Pantry Novena",
+    "address_display": "8 Sinaran Dr, #01-02/04 Oasia Hotel, Singapore 307470",
+    "label": null,
+    "keyword_tag": [
+      "Kids menu",
+      "dining",
+      "family"
+    ],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/605172bead25631910e30333/1691742026253-906KOWNR3PXZFJKLY5Q0/TMP+Kids+Menu+Photoshoot_Group_7.jpg",
+        "source_credit": "The Marmalade Pantry",
+        "filename": "The_Marmalade_Pantry_Novena_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/The_Marmalade_Pantry_Novena_1.jpg"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/605172bead25631910e30333/1691742026253-906KOWNR3PXZFJKLY5Q0/TMP+Kids+Menu+Photoshoot_Group_7.jpg?format=1000w",
+        "source_credit": "The Marmalade Pantry",
+        "filename": "The_Marmalade_Pantry_Novena_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/The_Marmalade_Pantry_Novena_2.jpg"
+      }
+    ],
+    "id": 729,
+    "longitude": 103.84486659999999,
+    "latitude": 1.3203764999999998,
+    "planning_area": "Novena",
+    "region": "Central Region"
+  },
+  {
+    "title": "The Marmalade Pantry Anchorpoint Kid’s Corner",
+    "organiser": "The Marmalade Pantry",
+    "blurb": "Exciting new delights await you and your little ones!",
+    "description": "The Marmalade Pantry Anchorpoint offers a Kid’s Corner Menu with delectable options such as Grilled Ham & Cheese Toast, Mushroom Tomato Pasta, and more. Each item includes a single scoop of tasty ice cream with a choice of vanilla, chocolate, or strawberry. The Kid’s Corner Menu is available at The Marmalade Pantry Anchorpoint.",
+    "guid": "https://www.themarmaladepantry.com.sg/promos/marmaladekids",
+    "activity_or_event": "Kids-friendly dining",
+    "url": "https://www.themarmaladepantry.com.sg/promos/marmaladekids",
+    "price_display_teaser": "From $",
+    "price_display": "Varies",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": "Children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Operating Hours Vary",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "The Marmalade Pantry Anchorpoint",
+    "address_display": "370 Alexandra Rd, #01-23/24/25/35/36 Anchorpoint Shopping Centre, Singapore 159953",
+    "label": null,
+    "keyword_tag": [
+      "Kids menu",
+      "dining",
+      "family"
+    ],
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/605172bead25631910e30333/1691742026253-906KOWNR3PXZFJKLY5Q0/TMP+Kids+Menu+Photoshoot_Group_7.jpg?format=1000w",
+        "source_credit": "The Marmalade Pantry",
+        "filename": "The_Marmalade_Pantry_Anchorpoint_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/The_Marmalade_Pantry_Anchorpoint_1.jpg"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/605172bead25631910e30333/1691741931367-RUTGU94O6C63EF1EZDV5/TMP+Kids+Menu+Photoshoot_21.jpg",
+        "source_credit": "The Marmalade Pantry",
+        "filename": "The_Marmalade_Pantry_Anchorpoint_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/14Nov/images/The_Marmalade_Pantry_Anchorpoint_2.jpg"
+      }
+    ],
+    "id": 730,
+    "longitude": 103.8050284,
+    "latitude": 1.2887944999999998,
+    "planning_area": "Queenstown",
+    "region": "Central Region"
+  }
+]

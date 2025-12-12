@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Paragon Playground & Kiddy Rides on Level 5",
+    "organiser": "Paragon",
+    "blurb": "Fun for children at our playground and kiddy rides!",
+    "description": "Let the children have some fun at our playground and kiddy rides on Level 5 while you take a break from shopping. The playground offers a safe and engaging environment for kids to play and explore. Kiddy rides provide entertainment for younger children. It's a perfect spot for families to relax and enjoy their time at Paragon. The area is designed to be family-friendly, ensuring a pleasant experience for both parents and children. Enjoy a variety of rides and play structures suitable for different age groups.",
+    "guid": "https://paragon.com.sg/paragon-junior/",
+    "activity_or_event": "activity",
+    "url": "https://paragon.com.sg/paragon-junior/",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": "2 to 12 years old",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10:00am to 10:00pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Paragon Shopping Centre Level 5",
+    "full_address": "290 Orchard Rd, Singapore 238859",
+    "categories": [
+      "Mall related",
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Paragon_Playground___Kiddy_Rides_on_Level_5_1.jpg",
+        "filename": "Paragon_Playground___Kiddy_Rides_on_Level_5_1.jpg",
+        "original_url": "https://paragon.com.sg/paragon-junior/",
+        "source_credit": "paragon"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Honest Food in Small Batches Experience",
+    "organiser": "Batch",
+    "blurb": "Quality and artisanality in everything we offer.",
+    "description": "Honest to goodness, it is our commitment to quality and artisanality in everything we offer to you and your little ones. Comfortable classics don't need to be overprocessed, think in-house sourdough, fresh pasta, and bakes. As we continually gain inspiration from what’s grown around us, escape from the hustle and bustle to a space that feels like a haven rather than an interruption to the iconic gardens.",
+    "guid": "https://www.batch.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.batch.sg/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily (except Mon)",
+    "datetime_display": "Weekdays (except Mon): 9am - 6pm, Weekends: 8am -6pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Batch",
+    "full_address": "1H Cluny Rd, #01-K1, Singapore 259604",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Honest_Food_in_Small_Batches_Experience_1.webp",
+        "filename": "Honest_Food_in_Small_Batches_Experience_1.webp",
+        "original_url": "https://www.batch.sg/home",
+        "source_credit": "batch"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/665d3fc8af6ef24f0a9d549a/c05c8e1f-5182-4ac0-8c22-d89d9744207d/R70A3921.jpeg",
+        "source_credit": "Batch"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

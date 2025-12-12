@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Valley Point Shopping Centre Playground",
+    "organiser": "Valley Point Shopping Centre",
+    "blurb": "Fun and enjoyable environment for children's exercise.",
+    "description": "Our outdoor playground provides a fun and enjoyable environment for children, where play is considered to be one of the most effective forms of exercise. The playground offers a space for kids to engage in physical activity and have fun in a safe and stimulating setting. It is designed to promote healthy development and social interaction among children of various ages. Parents can relax knowing their children are in a secure environment.",
+    "guid": "https://www.valleypoint.com.sg/home/retail/amenities/",
+    "activity_or_event": "activity",
+    "url": "https://www.valleypoint.com.sg/home/retail/amenities/",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": "1 to 6 years old",
+    "min_age": 0.0,
+    "max_age": 6.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Valley Point Shopping Centre",
+    "full_address": "Not Available",
+    "categories": [
+      "Outdoor Playground",
+      "Mall related"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_10\\images\\user_uploads\\Valley_Point_Shopping_Centre_Playground_1.jpeg",
+        "filename": "Valley_Point_Shopping_Centre_Playground_1.jpeg",
+        "original_url": "",
+        "source_credit": "User Upload"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

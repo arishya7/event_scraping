@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Ola Beach Club: Watersports and Beachfront Dining",
+    "organiser": "Ola Beach Club",
+    "blurb": "Enjoy watersports and dining by the beach!",
+    "description": "Ola Beach Club offers a variety of watersports activities suitable for families and kids, including jet skiing, stand-up paddleboarding, and kayaking. Relax on the beach with Hawaiian-inspired cuisine and refreshing drinks. The club provides a family-friendly atmosphere with a dedicated kids' menu and beach games. Enjoy the sun, sand, and sea with a range of activities for all ages. Perfect for a day of fun and relaxation by the beach, with options for both adventurous watersports and laid-back dining experiences. The venue is designed to cater to families looking for a memorable beachside experience.",
+    "guid": "https://olabeachclub.com/dining/",
+    "activity_or_event": "activity",
+    "url": "https://olabeachclub.com/dining/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$25",
+    "price": 25.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Ola Beach Club",
+    "full_address": "Singapore 099005",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://olabeachclub.com/wp-content/uploads/2022/08/Sub-Brands-Logo-05.png",
+        "source_credit": "Ola Beach Club"
+      }
+    ]
+  },
+  {
+    "title": "Ola Beach Club: A Hawaiian-Themed Beachfront Venue",
+    "organiser": "Ola Beach Club",
+    "blurb": "Enjoy water sports and dining by the beach.",
+    "description": "Ola Beach Club is a Hawaiian-themed beachfront venue offering a range of water sports activities and dining options. Guests can enjoy stand-up paddleboarding, kayaking, and other water-based adventures. The club also features a restaurant and bar serving Hawaiian-inspired cuisine and tropical cocktails. It's a great place for families to relax and have fun by the sea. The venue provides a unique experience with its Polynesian ambiance and stunning views of the coastline, making it a perfect spot for a day out with kids and adults alike. Enjoy the sun, sand, and sea at Ola Beach Club.",
+    "guid": "https://olabeachclub.com/dining/",
+    "activity_or_event": "activity",
+    "url": "https://olabeachclub.com/dining/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$25",
+    "price": 25.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Ola Beach Club",
+    "full_address": "Singapore 099005",
+    "categories": [
+      "Attraction",
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://olabeachclub.com/wp-content/uploads/2022/08/Sub-Brands-Logo-05.png",
+        "source_credit": "Ola Beach Club"
+      }
+    ]
+  },
+  {
+    "title": "Ola Beach Club: Coastal Dining Experience",
+    "organiser": "Ola Beach Club",
+    "blurb": "Enjoy Hawaiian-inspired cuisine by the beach.",
+    "description": "Ola Beach Club offers a unique dining experience with Hawaiian-inspired cuisine. Enjoy a variety of dishes while relaxing by the beach. The venue provides a casual and family-friendly atmosphere, perfect for a day out with loved ones. Indulge in delicious food and refreshing drinks while taking in the scenic views. The club features both indoor and outdoor seating options, allowing guests to choose their preferred ambiance. With its vibrant atmosphere and delicious food, Ola Beach Club is a great place to unwind and enjoy the coastal vibes.",
+    "guid": "https://olabeachclub.com/dining/",
+    "activity_or_event": "activity",
+    "url": "https://olabeachclub.com/dining/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$20 to S$50",
+    "price": 20.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Ola Beach Club",
+    "full_address": "Singapore 099005",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://olabeachclub.com/wp-content/uploads/2022/08/GrpPic_02-scaled.jpg",
+        "source_credit": "Ola Beach Club"
+      }
+    ]
+  },
+  {
+    "title": "Ola Beach Club: Hawaiian Flavours and Watersports",
+    "organiser": "Ola Beach Club",
+    "blurb": "Hawaiian-inspired menu, watersports, and ocean views.",
+    "description": "Ola Beach Club offers a Hawaiian-inspired dining experience alongside exciting watersports activities. Enjoy fresh poke bowls, plant-based dishes, and hearty grills while taking in the sounds of the waves. It's a perfect spot for families to relax and enjoy the beach, with options for both dining and active fun. The menu caters to various tastes, ensuring there's something for everyone. The club provides a vibrant atmosphere with a focus on Hawaiian culture and hospitality, making it a memorable destination for visitors of all ages. Enjoy the sun, sand, and sea with a touch of Aloha.",
+    "guid": "https://olabeachclub.com/dining/",
+    "activity_or_event": "activity",
+    "url": "https://olabeachclub.com/dining/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$15 to S$45",
+    "price": 15.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Ola Beach Club",
+    "full_address": "Singapore 099005",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": []
+  },
+  {
+    "title": "Ola Beach Club Dining Experience",
+    "organiser": "Ola Beach Club",
+    "blurb": "Enjoy Hawaiian-inspired dishes by the sea.",
+    "description": "Ola Beach Club offers a unique dining experience with Hawaiian-inspired cuisine. Enjoy a variety of dishes while relaxing by the sea. The menu features fresh seafood, grilled meats, and tropical fruits, perfect for a family outing. The relaxed atmosphere and beautiful views make it an ideal spot for a casual meal or a special occasion. The venue is family-friendly and provides a welcoming environment for guests of all ages. The dining area is spacious and comfortable, ensuring a pleasant experience for everyone. The staff are attentive and dedicated to providing excellent service. The location is perfect for enjoying the sunset while savoring delicious food.",
+    "guid": "https://olabeachclub.com/dining/",
+    "activity_or_event": "activity",
+    "url": "https://olabeachclub.com/dining/",
+    "price_display_teaser": "From SGD",
+    "price_display": "From S$20 to S$80",
+    "price": 20.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating Hours as per source website",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Ola Beach Club",
+    "full_address": "Singapore 099005",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": []
+  },
+  {
+    "title": "Ola Beach Club - Hawaiian Inspired Dining",
+    "organiser": "Ola Beach Club",
+    "blurb": "Hawaiian-inspired menu with fresh poke bowls.",
+    "description": "Ola Beach Club offers a Hawaiian-inspired dining experience with a menu that includes fresh poke bowls, plant-based dishes, and hearty grills. Guests can enjoy their meals in between watersports sessions while taking in the sounds of the waves. It's a family-friendly environment where everyone can find something to enjoy, from light and healthy options to more substantial meals. The club provides a relaxed atmosphere perfect for a casual meal with family and friends after a day of fun in the sun. The menu caters to various dietary preferences, ensuring a pleasant dining experience for all visitors. The location is ideal for families looking to combine beach activities with a delicious meal.",
+    "guid": "https://olabeachclub.com/dining/",
+    "activity_or_event": "activity",
+    "url": "https://olabeachclub.com/dining/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$15 to S$50",
+    "price": 15.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Ola Beach Club",
+    "full_address": "Singapore 099005",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": []
+  },
+  {
+    "title": "Ola Beach Club: Coastal Dining and Water Sports",
+    "organiser": "Ola Beach Club",
+    "blurb": "Beachfront dining and water sports activities await you.",
+    "description": "Ola Beach Club offers a Hawaiian-themed experience with a restaurant and bar serving Polynesian-inspired cuisine and cocktails. Guests can enjoy water sports activities such as stand-up paddleboarding and kayaking. The venue is family-friendly, with a relaxed atmosphere perfect for a day out with kids. Enjoy the sun, sand, and sea while indulging in delicious food and drinks. The club provides a unique beach experience with a touch of Hawaiian hospitality, making it a memorable destination for families and friends. It's a great place to unwind and enjoy the coastal vibes.",
+    "guid": "https://olabeachclub.com/dining/",
+    "activity_or_event": "activity",
+    "url": "https://olabeachclub.com/dining/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$25 to S$50",
+    "price": 25.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating Hours as per source",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Ola Beach Club",
+    "full_address": "Singapore 099005",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://olabeachclub.com/wp-content/uploads/2022/08/Copy-of-_P1A9808-scaled.jpg",
+        "source_credit": "Ola Beach Club"
+      },
+      {
+        "url": "https://olabeachclub.com/wp-content/uploads/2022/08/Copy-of-_P1A9891-scaled.jpg",
+        "source_credit": "Ola Beach Club"
+      },
+      {
+        "url": "https://olabeachclub.com/wp-content/uploads/2022/08/Ahi-Poke-Bowl_02-scaled.jpg",
+        "source_credit": "Ola Beach Club"
+      },
+      {
+        "url": "https://olabeachclub.com/wp-content/uploads/2022/08/sept-2018.jpeg",
+        "source_credit": "Ola Beach Club"
+      },
+      {
+        "url": "https://olabeachclub.com/wp-content/uploads/2022/08/Cold-Cavier-Pasta-scaled.jpg",
+        "source_credit": "Ola Beach Club"
+      },
+      {
+        "url": "https://olabeachclub.com/wp-content/uploads/2022/08/IMG_6024-scaled.jpg",
+        "source_credit": "Ola Beach Club"
+      }
+    ]
+  },
+  {
+    "title": "Ola Beach Club: A Tranquil Beachfront Dining Spot",
+    "organiser": "Ola Beach Club",
+    "blurb": "Enjoy Hawaiian-inspired dishes with a beachfront view.",
+    "description": "Ola Beach Club offers a unique dining experience with a Hawaiian twist. Situated on the beachfront, it's a perfect spot for families to relax and enjoy delicious food. The menu features a variety of dishes, from fresh seafood to flavorful poke bowls, catering to different tastes. With its laid-back atmosphere and stunning views, Ola Beach Club provides a memorable dining experience for both adults and children. The venue is family-friendly, offering a relaxed environment where kids can enjoy the beach while parents savor the cuisine. The club also hosts occasional events and activities suitable for families, making it a great destination for a day out.",
+    "guid": "https://olabeachclub.com/dining/",
+    "activity_or_event": "activity",
+    "url": "https://olabeachclub.com/dining/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$20 to S$50",
+    "price": 20.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Ola Beach Club",
+    "full_address": "Singapore 099005",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://olabeachclub.com/wp-content/uploads/2022/08/Copy-of-_P1A9808-scaled.jpg",
+        "source_credit": "Ola Beach Club"
+      },
+      {
+        "url": "https://olabeachclub.com/wp-content/uploads/2022/08/Copy-of-_P1A9891-scaled.jpg",
+        "source_credit": "Ola Beach Club"
+      },
+      {
+        "url": "https://olabeachclub.com/wp-content/uploads/2022/08/Ahi-Poke-Bowl_02-scaled.jpg",
+        "source_credit": "Ola Beach Club"
+      },
+      {
+        "url": "https://olabeachclub.com/wp-content/uploads/2022/08/sept-2018.jpeg",
+        "source_credit": "Ola Beach Club"
+      },
+      {
+        "url": "https://olabeachclub.com/wp-content/uploads/2022/08/Cold-Cavier-Pasta-scaled.jpg",
+        "source_credit": "Ola Beach Club"
+      },
+      {
+        "url": "https://olabeachclub.com/wp-content/uploads/2022/08/IMG_6024-scaled.jpg",
+        "source_credit": "Ola Beach Club"
+      }
+    ]
+  },
+  {
+    "title": "Ola Beach Club - Watersports and Dining Venue",
+    "organiser": "Ola Beach Club",
+    "blurb": "Beachfront dining and watersports activities available.",
+    "description": "Ola Beach Club offers a unique beachfront experience with a Hawaiian-themed restaurant and a variety of watersports activities. Enjoy delicious food and drinks while relaxing by the sea, or get active with watersports like stand-up paddleboarding and kayaking. Perfect for families and friends looking for a fun day out. The restaurant serves a range of dishes, from light bites to hearty meals, with a focus on fresh, local ingredients. The watersports centre provides equipment and instruction for all skill levels, ensuring a safe and enjoyable experience for everyone. Whether you're looking to relax or get active, Ola Beach Club has something for everyone.",
+    "guid": "https://olabeachclub.com/dining/",
+    "activity_or_event": "activity",
+    "url": "https://olabeachclub.com/dining/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$25",
+    "price": 25.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Restaurant: Mon – Thu: 10am–9pm, Fri: 10am–10pm, Sat: 9am–10pm, Sun: 9am–9pm. Watersports Centre: Mon – Sun: 9am–7pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Ola Beach Club",
+    "full_address": "Ola Beach Club 46 Siloso Beach Walk Singapore 099005 Directions Opening Hours Restaurant Mon – Thu: 10am–9pm Fri: 10am–10pm Sat: 9am–10pm Sun: 9am–9pm Watersports Centre Mon – Sun: 9am–7pm Sitemap Watersports Experiences Dining Events Location FAQ For Event enquiries: events@olabeachclub",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": []
+  },
+  {
+    "title": "Ola Beach Club: A Hawaiian-Themed Beach Paradise",
+    "organiser": "Ola Beach Club",
+    "blurb": "Enjoy water sports and Hawaiian-inspired dishes here.",
+    "description": "Ola Beach Club is Singapore’s only Hawaiian-themed lifestyle venue. Nestled along Siloso Beach, Sentosa, it offers a wide range of water sports activities, including stand-up paddleboarding and kayaking. The club also features a restaurant serving Hawaiian-inspired cuisine and a bar with tropical cocktails. Families can relax on the beach, enjoy the water sports, and savor delicious food and drinks. The venue is perfect for a day of fun and relaxation by the sea, with a vibrant atmosphere and friendly service. It's a great place for both adults and children to experience a taste of Hawaii in Singapore. The club provides a unique beachside experience with its Polynesian decor and laid-back vibe, making it an ideal spot for a family outing or a casual get-together with friends. The menu includes a variety of dishes, from classic Hawaiian fare to modern interpretations, ensuring there's something for everyone to enjoy. The bar offers a wide selection of drinks, including signature cocktails and refreshing mocktails, perfect for cooling down on a hot day.",
+    "guid": "https://olabeachclub.com/dining/",
+    "activity_or_event": "activity",
+    "url": "https://olabeachclub.com/dining/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$25 to S$40",
+    "price": 25.0,
+    "age_group_display": "All ages",
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating Hours as per source website",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Ola Beach Club",
+    "full_address": "Singapore 099005",
+    "categories": [
+      "Attraction"
+    ],
+    "images": []
+  },
+  {
+    "title": "Ola Beach Club - Siloso Beach Walk Singapore",
+    "organiser": "Ola Beach Club",
+    "blurb": "Beachfront dining and water sports in Sentosa.",
+    "description": "Ola Beach Club offers a Hawaiian-themed beachfront experience with a restaurant and bar serving Polynesian-inspired cuisine and tropical cocktails. Guests can enjoy water sports activities such as stand-up paddleboarding and kayaking. The club features a swimming pool and a sandy beach area, perfect for families and kids to relax and play. With its vibrant atmosphere and stunning ocean views, Ola Beach Club provides a unique and memorable dining and recreational experience for all ages. Enjoy the sun, sand, and sea with a touch of Hawaiian hospitality.",
+    "guid": "https://olabeachclub.com/dining/",
+    "activity_or_event": "activity",
+    "url": "https://olabeachclub.com/dining/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$25 to S$50",
+    "price": 25.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating Hours as per source website",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Ola Beach Club",
+    "full_address": "Ola Beach Club 46 Siloso Beach Walk Singapore 099005 Directions",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": []
+  },
+ 
+  {
+    "title": "Ola Beach Club: Watersports and Dining by the Sea",
+    "organiser": "Ola Beach Club",
+    "blurb": "Enjoy watersports and dining at Ola Beach Club.",
+    "description": "Ola Beach Club offers a variety of watersports activities and dining options right by the sea. Experience thrilling adventures with jet skis, banana boats, and stand-up paddleboards. Relax and enjoy delicious food and drinks with a Hawaiian-themed menu. Perfect for families and friends looking for a fun day out. Enjoy the sun, sand, and sea with exciting watersports and tasty dining options. Create unforgettable memories at Ola Beach Club. A great place for families to spend time together.",
+    "guid": "https://olabeachclub.com/dining/",
+    "activity_or_event": "activity",
+    "url": "https://olabeachclub.com/dining/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$25",
+    "price": 25.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Ola Beach Club",
+    "full_address": "Singapore 099005",
+    "categories": [
+      "Attraction",
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://olabeachclub.com/wp-content/uploads/2022/08/Sub-Brands-Logo-05.png",
+        "source_credit": "Ola Beach Club"
+      }
+    ]
+  },
+  
+  
+  {
+    "title": "Ola Beach Club: Water Sports and Beachfront Dining",
+    "organiser": "Ola Beach Club",
+    "blurb": "Enjoy water sports and dining by Siloso Beach Walk.",
+    "description": "Ola Beach Club offers a variety of water sports activities such as stand-up paddleboarding and kayaking, along with a beachfront dining experience. It's a great place for families to relax and enjoy the sun, sand, and sea. The club features a Hawaiian-themed menu with kid-friendly options, making it suitable for families with children of all ages. Guests can also enjoy the swimming pool and beach access. The venue provides a casual and relaxed atmosphere, perfect for a day out with the family. The club also hosts events and parties, adding to the vibrant atmosphere. With its beachfront location and diverse offerings, Ola Beach Club is a popular destination for both locals and tourists seeking a fun and relaxing day by the sea. The club aims to provide a memorable experience for all its guests, with friendly staff and excellent service.",
+    "guid": "https://olabeachclub.com/dining/",
+    "activity_or_event": "activity",
+    "url": "https://olabeachclub.com/dining/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$30",
+    "price": 30.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Ola Beach Club",
+    "full_address": "Singapore 099005",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": []
+  }
+]

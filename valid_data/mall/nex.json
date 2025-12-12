@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Automated Teller Machine (ATM) at NEX Shopping Mall",
+    "organiser": "NEX",
+    "blurb": "Find convenient ATM services at NEX Shopping Mall.",
+    "description": "NEX provides Automated Teller Machine (ATM) services for shoppers. ATMs are located at L3, near Krispy Kreme (#03-K13) and at B2, within Maybank (#B2-27). These ATMs offer convenient access to banking services while you shop and dine at NEX. Enjoy the ease of withdrawing cash for your shopping needs.",
+    "guid": "https://www.nex.com.sg/Information/Amenities",
+    "activity_or_event": "activity",
+    "url": "https://www.nex.com.sg/Information/Amenities",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "NEX",
+    "full_address": "23 Serangoon Central Singapore 556083",
+    "categories": [
+      "Mall related"
+    ],
+    "images": [
+      {
+        "url": "https://www.nex.com.sg/Image/Thumbnail?filename=tn94IBGrqv_2bo3Sn6ktdSu_2fmeeKFatbV4f5qpGg3Fkmejbx1vNR2_2bDXnkNq1GFgt_2b&width=208&height=36",
+        "source_credit": "NEX"
+      },
+      {
+        "url": "https://www.nex.com.sg/Image/Thumbnail?filename=Pv4EhcnOauhuJaiti1kyTK25doYOjWl3yKo9GCmxCPyL1AshYqmC3W2cTe8JKX8m&width=208&height=36",
+        "source_credit": "NEX"
+      },
+      {
+        "url": "https://www.nex.com.sg/Image/Thumbnail?filename=2kiLECuAvpc3QMndAxQ_2fel6jX9eNx9b6ZR7osh0Ka8FIgK7I4lmr9K8Z4eWFwRBi&width=208&height=36",
+        "source_credit": "NEX"
+      },
+      {
+        "url": "https://www.nex.com.sg/Image/Thumbnail?filename=JyZMyrn1FCEYY6UhcZgCTdRJF4Ch6RhYyFlD4Vm3wEZ4YSlT4k7N9cy5qBlcTMLK&width=208&height=36",
+        "source_credit": "NEX"
+      },
+      {
+        "url": "https://www.nex.com.sg/Image/Thumbnail?filename=K2b7vF44k3IXXFYOtP4dykNegW1V7ZsT3QL_2bucRFHtUnzcmdKZtaIcJB8z9_2fWIGO&width=208&height=36",
+        "source_credit": "NEX"
+      }
+    ]
+  }
+]

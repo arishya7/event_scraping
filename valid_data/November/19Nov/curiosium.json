@@ -1,0 +1,511 @@
+[
+  {
+    "title": "Curiosium Bukit Timah Road",
+    "organiser": "Curiosium",
+    "blurb": "Play-and-learn destination with interactive stations.",
+    "description": "Curiosium is a play-and-learn destination where curiosity comes alive. It features 10 interactive stations where kids and adults can paint a life-size dinosaur, build with giant yellow foam blocks, explore the magic of light, experiment with slime, and reimagine LEGO creations. Every visit includes a Curio-Capsule Workshop, a hands-on activity with a take-home item. With workshops changing every week, no two visits are ever the same. Located at Bukit Timah Road, Curiosium is the perfect place for families to learn, play, and make lasting memories together.",
+    "guid": "https://www.curiosium.asia/about",
+    "activity_or_event": "activity",
+    "url": "https://www.curiosium.asia/about",
+    "price_display_teaser": "From $",
+    "is_free": false,
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": "Kids and Adults",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": null,
+    "datetime_display": "Monday - Friday: 5 PM - 8 PM Saturday - Sunday: 9 AM-8 PM",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Curiosium Bukit Timah Road",
+    "address_display": "887 Bukit Timah Rd, Singapore 279896",
+    "label_tag": null,
+    "keyword_tag": [
+      "play",
+      "learn",
+      "interactive",
+      "family"
+    ],
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/fd9976_37b39c01067c4f3ea790d4726e93e764~mv2.png/v1/crop/x_12,y_233,w_1575,h_1251/fill/w_183,h_146,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%23ffe604.png",
+        "source_credit": "Curiosium",
+        "filename": "Curiosium_Bukit_Timah_Road_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Curiosium_Bukit_Timah_Road_1.jpg"
+      }
+    ],
+    "id": 742,
+    "longitude": 103.7909131,
+    "latitude": 1.3326943999999998,
+    "planning_area": "Bukit Timah",
+    "region": "Central Region"
+  },
+  {
+    "title": "Curiosium Goldhill Plaza",
+    "organiser": "Curiosium",
+    "blurb": "Play-and-learn destination with interactive stations.",
+    "description": "Curiosium is a play-and-learn destination where curiosity comes alive. It features 10 interactive stations where kids and adults can paint a life-size dinosaur, build with giant yellow foam blocks, explore the magic of light, experiment with slime, and reimagine LEGO creations. Every visit includes a Curio-Capsule Workshop, a hands-on activity with a take-home item. With workshops changing every week, no two visits are ever the same. Located at Goldhill Plaza, Curiosium is the perfect place for families to learn, play, and make lasting memories together.",
+    "guid": "https://www.curiosium.asia/about",
+    "activity_or_event": "activity",
+    "url": "https://www.curiosium.asia/about",
+    "price_display_teaser": "From $",
+    "is_free": false,
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": "Kids and Adults",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": null,
+    "datetime_display": "Monday - Friday: 5 PM - 8 PM Saturday - Sunday: 9 AM-8 PM",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Curiosium Goldhill Plaza",
+    "address_display": "1 Goldhill Plaza, #02-23, Singapore 308900",
+    "label_tag": null,
+    "keyword_tag": [
+      "play",
+      "learn",
+      "interactive",
+      "family"
+    ],
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/fd9976_37b39c01067c4f3ea790d4726e93e764~mv2.png/v1/crop/x_12,y_233,w_1575,h_1251/fill/w_183,h_146,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%23ffe604.png",
+        "source_credit": "Curiosium",
+        "filename": "Curiosium_Goldhill_Plaza_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Curiosium_Goldhill_Plaza_1.jpg"
+      }
+    ],
+    "id": 743,
+    "longitude": 103.84289129999999,
+    "latitude": 1.3179367,
+    "planning_area": "Novena",
+    "region": "Central Region"
+  },
+  {
+    "title": "Curiosium Mohamed Sultan",
+    "organiser": "Curiosium",
+    "blurb": "Play-and-learn destination with interactive stations.",
+    "description": "Curiosium is a play-and-learn destination where curiosity comes alive. It features 10 interactive stations where kids and adults can paint a life-size dinosaur, build with giant yellow foam blocks, explore the magic of light, experiment with slime, and reimagine LEGO creations. Every visit includes a Curio-Capsule Workshop, a hands-on activity with a take-home item. With workshops changing every week, no two visits are ever the same. Located at Mohamed Sultan, Curiosium is the perfect place for families to learn, play, and make lasting memories together.",
+    "guid": "https://www.curiosium.asia/about",
+    "activity_or_event": "activity",
+    "url": "https://www.curiosium.asia/about",
+    "price_display_teaser": "From $",
+    "is_free": false,
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": "Kids and Adults",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": null,
+    "datetime_display": "Monday - Friday: 5 PM - 8 PM Saturday - Sunday: 9 AM-8 PM",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Curiosium Mohamed Sultan",
+    "address_display": "1 Goldhill Plaza, #02-23, Singapore 308900",
+    "label_tag": null,
+    "keyword_tag": [
+      "play",
+      "learn",
+      "interactive",
+      "family"
+    ],
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/fd9976_37b39c01067c4f3ea790d4726e93e764~mv2.png/v1/crop/x_12,y_233,w_1575,h_1251/fill/w_183,h_146,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%23ffe604.png",
+        "source_credit": "Curiosium",
+        "filename": "Curiosium_Mohamed_Sultan_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Curiosium_Mohamed_Sultan_1.jpg"
+      }
+    ],
+    "id": 744,
+    "longitude": 103.84289129999999,
+    "latitude": 1.3179367,
+    "planning_area": "Novena",
+    "region": "Central Region"
+  },
+  {
+    "title": "Curiosium Joo Chiat",
+    "organiser": "Curiosium",
+    "blurb": "Play-and-learn destination with interactive stations.",
+    "description": "Curiosium is a play-and-learn destination where curiosity comes alive. It features 10 interactive stations where kids and adults can paint a life-size dinosaur, build with giant yellow foam blocks, explore the magic of light, experiment with slime, and reimagine LEGO creations. Every visit includes a Curio-Capsule Workshop, a hands-on activity with a take-home item. With workshops changing every week, no two visits are ever the same. Located at Joo Chiat, Curiosium is the perfect place for families to learn, play, and make lasting memories together.",
+    "guid": "https://www.curiosium.asia/about",
+    "activity_or_event": "activity",
+    "url": "https://www.curiosium.asia/about",
+    "price_display_teaser": "From $",
+    "is_free": false,
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": "Kids and Adults",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": null,
+    "datetime_display": "Monday - Friday: 5 PM - 8 PM Saturday - Sunday: 9 AM-8 PM",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Curiosium Joo Chiat",
+    "address_display": "1 Goldhill Plaza, #02-23, Singapore 308900",
+    "label_tag": null,
+    "keyword_tag": [
+      "play",
+      "learn",
+      "interactive",
+      "family"
+    ],
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/fd9976_37b39c01067c4f3ea790d4726e93e764~mv2.png/v1/crop/x_12,y_233,w_1575,h_1251/fill/w_183,h_146,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%23ffe604.png",
+        "source_credit": "Curiosium",
+        "filename": "Curiosium_Joo_Chiat_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Curiosium_Joo_Chiat_1.jpg"
+      }
+    ],
+    "id": 745,
+    "longitude": 103.84289129999999,
+    "latitude": 1.3179367,
+    "planning_area": "Novena",
+    "region": "Central Region"
+  },
+  {
+    "title": "Curiosium Science Education Centre Activities",
+    "organiser": "Curiosium",
+    "blurb": "Engaging science activities for kids and families.",
+    "description": "Curiosium is a science education centre offering a range of hands-on activities and workshops designed to make learning science fun and engaging for children and families. The centre provides an interactive environment where kids can explore scientific concepts through experiments, demonstrations, and play. It aims to foster curiosity and a love for science in young minds. Activities include science camps, workshops, and open play sessions. The centre is dedicated to providing a fun and educational experience for all visitors, encouraging them to discover the wonders of science in a stimulating and supportive setting.",
+    "guid": "https://www.curiosium.asia/about",
+    "activity_or_event": "activity",
+    "url": "https://www.curiosium.asia/about",
+    "price_display_teaser": "From $",
+    "is_free": false,
+    "price_display": "Check website for pricing",
+    "price": 25,
+    "min_price": 25.0,
+    "max_price": 25.0,
+    "age_group_display": "Kids and families",
+    "min_age": 3,
+    "max_age": 12,
+    "datetime_display_teaser": "Daily",
+    "datetime_display": "Monday - Friday: 5 PM - 8 PM Saturday - Sunday: 9 AM-8 PM",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Curiosium Science Education Centre",
+    "address_display": "1 Goldhill Plaza, #02-23, Singapore 308900",
+    "categories": [
+      "Attraction"
+    ],
+    "keyword_tag": [
+      "science",
+      "education",
+      "kids",
+      "activities",
+      "family"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/fd9976_d3decb763d194e99a01855000d4a6ef2~mv2.png/v1/crop/x_22,y_0,w_853,h_1152/fill/w_223,h_304,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/envato-labs-image-edit%20(33)%20copy.png",
+        "source_credit": "Curiosium",
+        "filename": "Curiosium_Science_Education_Centre_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Curiosium_Science_Education_Centre_1.jpg"
+      }
+    ],
+    "id": 746,
+    "longitude": 103.84289129999999,
+    "latitude": 1.3179367,
+    "planning_area": "Novena",
+    "region": "Central Region"
+  },
+  {
+    "title": "Curiosium Bukit Timah - Creative Play Space",
+    "organiser": "Curiosium",
+    "blurb": "Explore a world of creativity and imagination.",
+    "description": "Curiosium Bukit Timah offers a unique creative play space for children. Our space is designed to inspire imagination and foster creativity through a variety of engaging activities. We provide a safe and stimulating environment where children can explore, learn, and grow. Our play areas include interactive exhibits, art stations, and building zones, all designed to encourage hands-on learning and creative expression. We also offer workshops and classes for children of all ages, led by experienced instructors who are passionate about helping children develop their creative potential. Our goal is to provide a space where children can discover their talents, build confidence, and have fun while learning.",
+    "guid": "https://www.curiosium.asia/about",
+    "activity_or_event": "activity",
+    "url": "https://www.curiosium.asia/about",
+    "price_display_teaser": "From $",
+    "is_free": false,
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": "All Ages",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Operating Hours: Please enquire",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Curiosium Bukit Timah",
+    "address_display": "887 Bukit Timah Rd, Singapore 279896",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "keyword_tag": [
+      "creative",
+      "play",
+      "kids",
+      "Bukit Timah"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/fd9976_d3decb763d194e99a01855000d4a6ef2~mv2.png/v1/crop/x_22,y_0,w_853,h_1152/fill/w_223,h_304,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/envato-labs-image-edit%20(33)%20copy.png",
+        "source_credit": "Curiosium",
+        "filename": "Curiosium_Bukit_Timah_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Curiosium_Bukit_Timah_1.jpg"
+      }
+    ],
+    "id": 747,
+    "longitude": 103.7909131,
+    "latitude": 1.3326943999999998,
+    "planning_area": "Bukit Timah",
+    "region": "Central Region"
+  },
+  {
+    "title": "Curiosium Goldhill Plaza - Creative Play Space",
+    "organiser": "Curiosium",
+    "blurb": "Explore a world of creativity and imagination.",
+    "description": "Curiosium Goldhill Plaza offers a unique creative play space for children. Our space is designed to inspire imagination and foster creativity through a variety of engaging activities. We provide a safe and stimulating environment where children can explore, learn, and grow. Our play areas include interactive exhibits, art stations, and building zones, all designed to encourage hands-on learning and creative expression. We also offer workshops and classes for children of all ages, led by experienced instructors who are passionate about helping children develop their creative potential. Our goal is to provide a space where children can discover their talents, build confidence, and have fun while learning.",
+    "guid": "https://www.curiosium.asia/about",
+    "activity_or_event": "activity",
+    "url": "https://www.curiosium.asia/about",
+    "price_display_teaser": "From $",
+    "is_free": false,
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": "All Ages",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Operating Hours: Please enquire",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Curiosium Goldhill Plaza",
+    "address_display": "1 Goldhill Plaza, #02-23, Singapore 308900",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "keyword_tag": [
+      "creative",
+      "play",
+      "kids",
+      "Goldhill Plaza"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/fd9976_d3decb763d194e99a01855000d4a6ef2~mv2.png/v1/crop/x_22,y_0,w_853,h_1152/fill/w_223,h_304,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/envato-labs-image-edit%20(33)%20copy.png",
+        "source_credit": "Curiosium",
+        "filename": "Curiosium_Goldhill_Plaza_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Curiosium_Goldhill_Plaza_1.jpg"
+      }
+    ],
+    "id": 748,
+    "longitude": 103.84289129999999,
+    "latitude": 1.3179367,
+    "planning_area": "Novena",
+    "region": "Central Region"
+  },
+  {
+    "title": "Curiosium Joo Chiat - Creative Play Space",
+    "organiser": "Curiosium",
+    "blurb": "Explore a world of creativity and imagination.",
+    "description": "Curiosium Joo Chiat offers a unique creative play space for children. Our space is designed to inspire imagination and foster creativity through a variety of engaging activities. We provide a safe and stimulating environment where children can explore, learn, and grow. Our play areas include interactive exhibits, art stations, and building zones, all designed to encourage hands-on learning and creative expression. We also offer workshops and classes for children of all ages, led by experienced instructors who are passionate about helping children develop their creative potential. Our goal is to provide a space where children can discover their talents, build confidence, and have fun while learning.",
+    "guid": "https://www.curiosium.asia/about",
+    "activity_or_event": "activity",
+    "url": "https://www.curiosium.asia/about",
+    "price_display_teaser": "From $",
+    "is_free": false,
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": "All Ages",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Operating Hours: Please enquire",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Curiosium Joo Chiat",
+    "address_display": "1 Goldhill Plaza, #02-23, Singapore 308900",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "keyword_tag": [
+      "creative",
+      "play",
+      "kids",
+      "Joo Chiat"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/fd9976_d3decb763d194e99a01855000d4a6ef2~mv2.png/v1/crop/x_22,y_0,w_853,h_1152/fill/w_223,h_304,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/envato-labs-image-edit%20(33)%20copy.png",
+        "source_credit": "Curiosium",
+        "filename": "Curiosium_Joo_Chiat_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Curiosium_Joo_Chiat_1.jpg"
+      }
+    ],
+    "id": 749,
+    "longitude": 103.84289129999999,
+    "latitude": 1.3179367,
+    "planning_area": "Novena",
+    "region": "Central Region"
+  },
+  {
+    "title": "Curiosium Mohamed Sultan - Creative Play Space",
+    "organiser": "Curiosium",
+    "blurb": "Explore a world of creativity and imagination.",
+    "description": "Curiosium Mohamed Sultan offers a unique creative play space for children. Our space is designed to inspire imagination and foster creativity through a variety of engaging activities. We provide a safe and stimulating environment where children can explore, learn, and grow. Our play areas include interactive exhibits, art stations, and building zones, all designed to encourage hands-on learning and creative expression. We also offer workshops and classes for children of all ages, led by experienced instructors who are passionate about helping children develop their creative potential. Our goal is to provide a space where children can discover their talents, build confidence, and have fun while learning.",
+    "guid": "https://www.curiosium.asia/about",
+    "activity_or_event": "activity",
+    "url": "https://www.curiosium.asia/about",
+    "price_display_teaser": "From $",
+    "is_free": false,
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": "All Ages",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": "01-Jan to 31-Dec",
+    "datetime_display": "Operating Hours: Please enquire",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Curiosium Mohamed Sultan",
+    "address_display": "1 Goldhill Plaza, #02-23, Singapore 308900",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "keyword_tag": [
+      "creative",
+      "play",
+      "kids",
+      "Mohamed Sultan"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/fd9976_d3decb763d194e99a01855000d4a6ef2~mv2.png/v1/crop/x_22,y_0,w_853,h_1152/fill/w_223,h_304,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/envato-labs-image-edit%20(33)%20copy.png",
+        "source_credit": "Curiosium",
+        "filename": "Curiosium_Mohamed_Sultan_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Curiosium_Mohamed_Sultan_1.jpg"
+      }
+    ],
+    "id": 750,
+    "longitude": 103.84289129999999,
+    "latitude": 1.3179367,
+    "planning_area": "Novena",
+    "region": "Central Region"
+  },
+  {
+    "title": "Curiosium Bukit Timah",
+    "organiser": "Emerald City Edutainment Group",
+    "blurb": "Explore educational activities at Bukit Timah.",
+    "description": "Curiosium Bukit Timah offers a range of educational activities designed to engage and stimulate children's curiosity. With interactive exhibits and hands-on learning experiences, children can explore various subjects in a fun and engaging environment. The facility aims to foster a love for learning and discovery through play. It provides a safe and enriching space for children to develop their skills and knowledge. The Bukit Timah location is open and ready to welcome families seeking educational fun. Activities include interactive exhibits, workshops, and guided tours designed to cater to different age groups and interests. The venue also hosts birthday parties and other special events, making it a great destination for celebrations.",
+    "guid": "https://www.curiosium.asia/about",
+    "activity_or_event": "activity",
+    "url": "https://www.curiosium.asia/about",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": null,
+    "datetime_display": "OPEN) 121 Joo Chiat Road 27 Mohamed Sultan Road 1 Goldhill Plaza 02-23 (OPEN) Buy tickets Contact For more information about the event, feel free to contact us",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Curiosium Bukit Timah",
+    "address_display": "887 Bukit Timah Rd, Singapore 279896",
+    "categories": [
+      "Attraction"
+    ],
+    "keyword_tag": [
+      "educational",
+      "activities",
+      "children"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/fd9976_d3decb763d194e99a01855000d4a6ef2~mv2.png/v1/crop/x_22,y_0,w_853,h_1152/fill/w_223,h_304,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/envato-labs-image-edit%20(33)%20copy.png",
+        "source_credit": "Emerald City Edutainment Group",
+        "filename": "Curiosium_Bukit_Timah_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Curiosium_Bukit_Timah_1.jpg"
+      }
+    ],
+    "id": 751,
+    "longitude": 103.7909131,
+    "latitude": 1.3326943999999998,
+    "planning_area": "Bukit Timah",
+    "region": "Central Region"
+  },
+  {
+    "title": "Curiosium Mohamed Sultan Road",
+    "organiser": "Emerald City Edutainment Group",
+    "blurb": "Explore educational activities at Mohamed Sultan.",
+    "description": "Curiosium Mohamed Sultan Road offers a range of educational activities designed to engage and stimulate children's curiosity. With interactive exhibits and hands-on learning experiences, children can explore various subjects in a fun and engaging environment. The facility aims to foster a love for learning and discovery through play. It provides a safe and enriching space for children to develop their skills and knowledge. Activities include interactive exhibits, workshops, and guided tours designed to cater to different age groups and interests. The venue also hosts birthday parties and other special events, making it a great destination for celebrations.",
+    "guid": "https://www.curiosium.asia/about",
+    "activity_or_event": "activity",
+    "url": "https://www.curiosium.asia/about",
+    "price_display_teaser": "Free",
+    "is_free": true,
+    "price_display": "Free",
+    "price": 0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "Families and children",
+    "min_age": 0,
+    "max_age": 99,
+    "datetime_display_teaser": null,
+    "datetime_display": "OPEN) 121 Joo Chiat Road 27 Mohamed Sultan Road 1 Goldhill Plaza 02-23 (OPEN) Buy tickets Contact For more information about the event, feel free to contact us",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Curiosium Mohamed Sultan Road",
+    "address_display": "1 Goldhill Plaza, #02-23, Singapore 308900",
+    "categories": [
+      "Attraction"
+    ],
+    "keyword_tag": [
+      "educational",
+      "activities",
+      "children"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/fd9976_d3decb763d194e99a01855000d4a6ef2~mv2.png/v1/crop/x_22,y_0,w_853,h_1152/fill/w_223,h_304,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/envato-labs-image-edit%20(33)%20copy.png",
+        "source_credit": "Emerald City Edutainment Group",
+        "filename": "Curiosium_Mohamed_Sultan_Road_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/Curiosium_Mohamed_Sultan_Road_1.jpg"
+      }
+    ],
+    "id": 752,
+    "longitude": 103.84289129999999,
+    "latitude": 1.3179367,
+    "planning_area": "Novena",
+    "region": "Central Region"
+  }
+]

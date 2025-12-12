@@ -1,0 +1,426 @@
+[
+  {
+    "title": "Restaurant Espoir: Le Petit Chef Dining Experience",
+    "organiser": "Restaurant Espoir (Singapore)",
+    "blurb": "An immersive culinary journey with Le Petit Chef!",
+    "description": "Restaurant Espoir (Singapore) offers a unique theatre and dining experience with Le Petit Chef, the world's smallest chef. From June 2024, weekend lunch shows are tailored to be kid-friendly, welcoming children of all ages. Evening shows have a minimum age requirement of 5 years. The show features shared seating, with tables accommodating up to 4 guests. Larger groups may be seated at adjacent tables. Contact concierge@restaurant-espoir.sg or +65 8860 5935 for corporate or bulk bookings. Waiting lists are available for sold-out dates.",
+    "guid": "https://lepetitchef.com/singapore",
+    "activity_or_event": "event",
+    "url": "https://lepetitchef.com/singapore",
+    "is_free": false,
+    "price_display_teaser": "Contact for pricing",
+    "price_display": "Please contact for pricing",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": null,
+    "age_group_display": "All ages for lunch, 5 years and above for dinner",
+    "min_age": 5.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Weekends from June 2024",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Restaurant Espoir",
+    "label_tag": null,
+    "Keyword_tag": "immersive dining, culinary experience, kid-friendly, Le Petit Chef",
+    "full_address": "70 Amoy St, Singapore 069889",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://booking.2spicy.de/uploads/265be40a7c567ea6576dace2d17aa1fb.png",
+        "source_credit": "Restaurant Espoir (Singapore)"
+      }
+    ],
+    "id": 476,
+    "longitude": 103.84666759999999,
+    "latitude": 1.2801038999999999,
+    "district": "Outram",
+    "area": "Central Region"
+  },
+  {
+    "title": "Le Petit Chef Dining Experience",
+    "organiser": "Le Petit Chef",
+    "blurb": "Enjoy a unique dining experience with a cartoon show.",
+    "description": "Le Petit Chef offers a unique and entertaining dining experience that combines fine dining with a cartoon show. The food is well-presented and flavorful, with generous portions. The atmosphere is special, and the service is top-notch. It's a great experience for families and those looking for a novel dining adventure. The cartoon show adds an element of fun and entertainment to the meal, making it a memorable experience for all ages. The menu is well-curated, and the staff is accommodating to dietary requests.",
+    "guid": "https://lepetitchef.com/singapore",
+    "activity_or_event": "activity",
+    "url": "https://lepetitchef.com/singapore",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$130",
+    "price": 130.0,
+    "min_price": 130.0,
+    "max_price": 200.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "months ago Had a great experience! Justus Joseph 7 months ago The atmosphere, food was great and very big portion! liangying tan 7 months ago A very different and special dining experience",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Grand Hyatt Singapore",
+    "label_tag": null,
+    "Keyword_tag": "Fine dining, cartoon show, unique dining experience, family-friendly, entertainment",
+    "full_address": "70 Amoy St, Singapore 069889",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://d2nce6johdc51d.cloudfront.net/source/google.svg",
+        "source_credit": "Le Petit Chef"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a/ACg8ocJGvl18GPmST1TqZJwSdNjYecTu6JjWOxPjJrAfwqi5D4qPwQ=s120-c-rp-mo-ba4-br100",
+        "source_credit": "Le Petit Chef"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a/ACg8ocLkqUpRjAZMsNXYmHiur9HAyw2KWXy2Pm6lXnd2vdjJzWCG_0Q=s120-c-rp-mo-ba2-br100",
+        "source_credit": "Le Petit Chef"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a/ACg8ocL-YsB-pT0qwqtdbTwVq6O7nDuyPPRH1JWmOuyKlOnVYSU5yQ=s120-c-rp-mo-br100",
+        "source_credit": "Le Petit Chef"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a-/ALV-UjXiNtHlgmtSziJVw_Mkj5M2M9UBfNfaXZDDddI9m26xg90bU44pdA=s120-c-rp-mo-br100",
+        "source_credit": "Le Petit Chef"
+      }
+    ],
+    "id": 477,
+    "longitude": 103.84666759999999,
+    "latitude": 1.2801038999999999,
+    "district": "Outram",
+    "area": "Central Region"
+  },
+  {
+    "title": "Le Petit Chef - An Immersive Dining Experience",
+    "organiser": "Le Petit Chef",
+    "blurb": "An immersive dining experience for the whole family.",
+    "description": "Le Petit Chef offers a unique and immersive dining experience that combines 3D visual technology with gourmet cuisine. Diners follow the culinary adventures of a tiny chef who projects onto their plates and prepares each course before their eyes. The experience is designed to be engaging and entertaining for all ages, making it a perfect family outing. The menu features a variety of dishes crafted with fresh, high-quality ingredients, catering to different tastes and dietary preferences. The interactive nature of the show keeps children entertained while adults can appreciate the culinary artistry. The venue provides a comfortable and welcoming atmosphere, ensuring a memorable dining experience for everyone. The show typically lasts around 2 hours, offering a multi-sensory journey that combines food, technology, and storytelling.",
+    "guid": "https://lepetitchef.com/singapore",
+    "activity_or_event": "activity",
+    "url": "https://lepetitchef.com/singapore",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$130",
+    "price": 130.0,
+    "min_price": 130.0,
+    "max_price": 130.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Grand Hyatt Singapore",
+    "label_tag": null,
+    "Keyword_tag": "Immersive dining, family dining, 3D dining, gourmet cuisine, interactive dining, kids entertainment",
+    "full_address": "70 Amoy St, Singapore 069889",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://d2nce6johdc51d.cloudfront.net/source/google.svg",
+        "source_credit": "Le Petit Chef"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a/ACg8ocJGvl18GPmST1TqZJwSdNjYecTu6JjWOxPjJrAfwqi5D4qPwQ=s120-c-rp-mo-ba4-br100",
+        "source_credit": "Le Petit Chef"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a/ACg8ocLkqUpRjAZMsNXYmHiur9HAyw2KWXy2Pm6lXnd2vdjJzWwCG_0Q=s120-c-rp-mo-ba2-br100",
+        "source_credit": "Le Petit Chef"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a/ACg8ocL-YsB-pT0qwqtdbTwVq6O7nDuyPPRH1JWmOuyKlOnVYSU5yQ=s120-c-rp-mo-br100",
+        "source_credit": "Le Petit Chef"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a-/ALV-UjXiNtHlgmtSziJVw_Mkj5M2M9UBfNfaXZDDddI9m26xg90bU44pdA=s120-c-rp-mo-br100",
+        "source_credit": "Le Petit Chef"
+      }
+    ],
+    "id": 478,
+    "longitude": 103.84666759999999,
+    "latitude": 1.2801038999999999,
+    "district": "Outram",
+    "area": "Central Region"
+  },
+  {
+    "title": "Le Petit Chef Dining Experience at Grand Hyatt",
+    "organiser": "Le Petit Chef",
+    "blurb": "An immersive dining experience with a culinary show.",
+    "description": "Le Petit Chef offers a unique dining experience that combines 3D visual technology with gourmet cuisine. Diners can enjoy a multi-course meal while watching a miniature chef prepare their dishes on their table. The experience is family-friendly, with a special junior menu available for children aged 3-12 years. The regular menu includes options like Burrata Salad, Laksa Bouillabaisse, Assam Nyonya Roasted Chicken Leg, and Filet Mignon with Truffle Jus. Vegan and supreme chef menus are also available. It's an engaging and entertaining way to enjoy a meal with the whole family.",
+    "guid": "https://lepetitchef.com/singapore",
+    "activity_or_event": "activity",
+    "url": "https://lepetitchef.com/singapore",
+    "is_free": false,
+    "price_display_teaser": "From $188",
+    "price_display": "S$188++ per person",
+    "price": 188.0,
+    "min_price": 188.0,
+    "max_price": null,
+    "age_group_display": "3 to 12 years",
+    "min_age": 3.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Sundried Tomato Coulis | Serunding | Yellow Cherry Tomato | Mixed Herbs",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Grand Hyatt Singapore",
+    "label_tag": null,
+    "Keyword_tag": "Immersive dining, 3D visual technology, gourmet cuisine, family-friendly, junior menu, multi-course meal",
+    "full_address": "Grand Hyatt Manila 8th Avenue, corner 35th St, Taguig, 1634 Metro Manila, Philippines",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.2spicy.de/images/espoir-singapore-sept-2025-promo.jpg",
+        "source_credit": "Le Petit Chef"
+      },
+      {
+        "url": "https://lepetitchef.com/blog/wp-content/uploads/2024/06/EspoirSingaporeAnniversary.jpg",
+        "source_credit": "Le Petit Chef"
+      },
+      {
+        "url": "https://lepetitchef.com/blog/wp-content/uploads/2024/06/EspoirSingaporeBirthday.jpg",
+        "source_credit": "Le Petit Chef"
+      },
+      {
+        "url": "https://2spicy.de/blog/wp-content/uploads/2021/01/LePetitChef-with-carrot-frei-klein.png",
+        "source_credit": "Le Petit Chef"
+      }
+    ],
+    "id": 479,
+    "longitude": 121.05208919999998,
+    "latitude": 14.556633300000001,
+    "district": null,
+    "area": null
+  },
+  {
+    "title": "Le Petit Chef Menu",
+    "organiser": "Le Petit Chef",
+    "blurb": "Enjoy a unique dining experience with our special menu.",
+    "description": "Experience a culinary journey with our Petit Chef Menu, featuring a delightful Burrata Salad with fresh Burrata, Sundried Tomato Coulis, Serunding, Yellow Cherry Tomato, and Mixed Herbs. Indulge in our Laksa Bouillabaisse, a rich Lobster Broth with Oven-baked Halibut, Grilled Squid, Prawn, and Mussels. Savor the Assam Nyonya Roasted Chicken Leg with Assam Nyonya Beurre Blanc, Baby Carrot, and Crisp Fermented Potato. Delight in our Filet Mignon with Truffle Jus, served with Creamed Potato and Steamed Broccolini. Finish with our Crema Catalana, infused with Orange and Cinnamon.",
+    "guid": "https://lepetitchef.com/singapore",
+    "activity_or_event": "activity",
+    "url": "https://lepetitchef.com/singapore",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$89",
+    "price": 89.0,
+    "min_price": 89.0,
+    "max_price": 89.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Sundried Tomato Coulis | Serunding | Yellow Cherry Tomato | Mixed Herbs",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Le Petit Chef",
+    "label_tag": null,
+    "Keyword_tag": "Dining, Culinary Experience, Fine Dining, Family Restaurant",
+    "full_address": "Le Petit Chef Menu",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [],
+    "id": 480,
+    "longitude": null,
+    "latitude": null,
+    "district": null,
+    "area": null
+  },
+  {
+    "title": "Le Petit Chef - Supreme Chef Menu",
+    "organiser": "Le Petit Chef",
+    "blurb": "Enjoy a unique dining experience with Le Petit Chef.",
+    "description": "Indulge in the Supreme Chef Menu featuring a Burrata Salad with Black Mission Figs, Laksa Bouillabaisse with Baby Abalone, Assam Nyonya Roasted Chicken Leg with Shoyu Ikura, Filet Mignon with Truffle Jus and Orange & Cinnamon Crema Catalana with Candied Kumquat. This menu offers a delightful culinary journey for families and food enthusiasts alike, showcasing a blend of flavors and textures that will tantalize your taste buds. Perfect for a special occasion or a memorable dining experience.",
+    "guid": "https://lepetitchef.com/singapore",
+    "activity_or_event": "activity",
+    "url": "https://lepetitchef.com/singapore",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$150",
+    "price": 150.0,
+    "min_price": 150.0,
+    "max_price": 150.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Sundried Tomato Coulis | Serunding | Yellow Cherry Tomato | Mixed Herbs *** Laksa Bouillabaisse BABY ABALONE | Lobster Broth | Oven-baked Halibut | Grilled Squid | Prawn | Mussels *** Assam Nyonya Roasted Chicken Leg SHOYU IKURA | Roasted Chicken Leg | Assam Nyonya Beurre Blanc | Baby Carrot | Crisp Fermented Potato *** Filet Mignon with Truffle Jus PAN SEARED FOIE GRAS | Creamed Potato | Steamed Broccolini | Truffle Jus *** Orange & Cinnamon Crema Catalana CANDIED KUMQUAT | Orange | Cinnamon | Cream | Eggs",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Le Petit Chef Singapore",
+    "label_tag": null,
+    "Keyword_tag": "Dining, Family, Food, Culinary Experience",
+    "full_address": "Le Petit Chef - Supreme Chef Menu",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [],
+    "id": 481,
+    "longitude": null,
+    "latitude": null,
+    "district": null,
+    "area": null
+  },
+  {
+    "title": "Le Petit Chef - Vegan Menu",
+    "organiser": "Le Petit Chef",
+    "blurb": "Enjoy a vegan culinary experience.",
+    "description": "Experience a unique vegan menu featuring dishes such as Vegan Burrata Salad with Homemade Vegan Burrata, Vegan Laksa Bouillabaisse with Vegan Laksa Broth, Baked Miso Cauliflower with Miso Cauliflower and Assam Nyonya, Tempeh Steak with Tempeh and Vegan Desiree Mashed, and Orange & Cinnamon Panna Cotta with Orange Zest and Cinnamon. This menu offers a delightful culinary journey for vegan diners and those looking to explore plant-based cuisine. Perfect for families and individuals seeking a sophisticated and delicious dining experience with a focus on innovative vegan dishes. The menu is crafted to showcase the versatility and flavors of plant-based ingredients, providing a memorable meal for all.",
+    "guid": "https://lepetitchef.com/singapore",
+    "activity_or_event": "activity",
+    "url": "https://lepetitchef.com/singapore",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$100 to S$200",
+    "price": 100.0,
+    "min_price": 100.0,
+    "max_price": 200.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Sundried Tomato Coulis | Serunding | Yellow Cherry Tomato | Mixed Herbs *** Vegan Laksa Bouillabaisse Vegan Laksa Broth | King Abalone Mushroom | Vegetarian Shark Fin | Baby Bamboo Shoot *** Baked Miso Cauliflower Miso Cauliflower | Assam Nyonya | Baby Carrot | Crispy Fermented Potato *** Tempeh Steak Tempeh | Vegan Desiree Mashed | Sautéed Wild Mushrooms | Steamed Broccolini | Curry Romesco *** Orange & Cinnamon Panna Cotta Orange Zest | Cinnamon | Vegan Cream | Caramel",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Le Petit Chef",
+    "label_tag": null,
+    "Keyword_tag": "Vegan dining, Vegan menu, Plant-based cuisine, Family dining, Culinary experience",
+    "full_address": "70 Amoy St, Singapore 069889",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [],
+    "id": 482,
+    "longitude": 103.84666759999999,
+    "latitude": 1.2801038999999999,
+    "district": "Outram",
+    "area": "Central Region"
+  },
+  {
+    "title": "Le Petit Chef - Junior Menu",
+    "organiser": "Le Petit Chef",
+    "blurb": "Junior Menu for dinner and weekend lunch shows.",
+    "description": "The Junior Menu is designed for children aged 5-12 years for dinner shows and 3-12 years for weekend lunch shows. It includes a variety of dishes such as Potato Salad, Sweet Corn Chowder, Pan-Roasted Chicken Leg, Hamburg Steak with Truffle Jus, and Chocolate Pudding. This menu offers a delightful culinary experience tailored for young palates, ensuring a memorable and enjoyable dining adventure for families. The menu is crafted to be both nutritious and appealing, making it a perfect choice for children attending the Le Petit Chef shows. The interactive dining experience combined with the specially curated menu makes it a unique and engaging event for kids and their parents.",
+    "guid": "https://lepetitchef.com/singapore",
+    "activity_or_event": "event",
+    "url": "https://lepetitchef.com/singapore",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Price varies, please check website",
+    "price": null,
+    "min_price": null,
+    "max_price": null,
+    "age_group_display": "3 to 12 years",
+    "min_age": 3.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Check website for show times",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Le Petit Chef",
+    "label_tag": null,
+    "Keyword_tag": "Dining, Interactive Dining, Junior Menu, Family Dining, Kids Menu",
+    "full_address": "70 Amoy St, Singapore 069889",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [],
+    "id": 483,
+    "longitude": 103.84666759999999,
+    "latitude": 1.2801038999999999,
+    "district": "Outram",
+    "area": "Central Region"
+  },
+  {
+    "title": "Le Petit Chef Singapore - Dining Experience",
+    "organiser": "Le Petit Chef",
+    "blurb": "An immersive dining experience for the whole family.",
+    "description": "Le Petit Chef offers a unique dining experience where the story of a small chef is projected onto your table. The experience combines 3D visual technology with gourmet cuisine, creating an engaging and memorable meal for families. While specific menus and offerings may vary, the overall experience is designed to be family-friendly and entertaining. The restaurant provides infant and toddler seating, but food is not provided for children in this age range. Special celebration sets are available for anniversaries and birthdays, including decorated platters and non-alcoholic sparkling wines. Non-alcoholic beverage pairings are also offered to complement the meal.",
+    "guid": "https://lepetitchef.com/singapore",
+    "activity_or_event": "activity",
+    "url": "https://lepetitchef.com/singapore",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Grand Hyatt Singapore",
+    "label_tag": null,
+    "Keyword_tag": "Dining, Family Dining, Immersive Experience, Kids-Friendly, Fine Dining",
+    "full_address": "70 Amoy St, Singapore 069889",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [],
+    "id": 484,
+    "longitude": 103.84666759999999,
+    "latitude": 1.2801038999999999,
+    "district": "Outram",
+    "area": "Central Region"
+  },
+  {
+    "title": "Le Petit Chef Dining Experience in Singapore",
+    "organiser": "Le Petit Chef",
+    "blurb": "Enjoy an unforgettable dining and entertainment show.",
+    "description": "Le Petit Chef offers a unique dining experience in Singapore, combining delightful dining with entertainment. The miniature chef comes to life on your dinner table through visual mapping, paired with themed music, props, and an exquisite menu. Using 3D projection mapping technology, a virtual story is projected onto the tabletop, creating the illusion of a hologram or 3D projection. This family-friendly experience captures the imagination with stunning visuals and artistic knowledge, promising an unforgettable culinary journey for all ages.",
+    "guid": "https://lepetitchef.com/singapore",
+    "activity_or_event": "activity",
+    "url": "https://lepetitchef.com/singapore",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$150",
+    "price": 150.0,
+    "min_price": 150.0,
+    "max_price": 150.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Le Petit Chef",
+    "label_tag": null,
+    "Keyword_tag": "Dining, Entertainment, 3D Projection Mapping, Family-friendly, Culinary Experience",
+    "full_address": "70 Amoy St, Singapore 069889",
+    "categories": [
+      "Kids-friendly dining",
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://lepetitchef.com/blog/wp-content/uploads/2024/06/EspoirSingaporeAnniversary.jpg",
+        "source_credit": "Le Petit Chef"
+      },
+      {
+        "url": "https://lepetitchef.com/blog/wp-content/uploads/2024/06/EspoirSingaporeBirthday.jpg",
+        "source_credit": "Le Petit Chef"
+      }
+    ],
+    "id": 485,
+    "longitude": 103.84666759999999,
+    "latitude": 1.2801038999999999,
+    "district": "Outram",
+    "area": "Central Region"
+  }
+]

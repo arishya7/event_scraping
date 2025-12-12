@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Super Loco Robertson Quay Mexican Cantina",
+    "organiser": "Super Loco",
+    "blurb": "Cosy Mexican cantina in Robertson Quay neighbourhood.",
+    "description": "Located in Robertson Quay, Super Loco offers Mexican cuisine in a vibrant setting. The restaurant features colorful street posters reminiscent of Mexico City's barrios. It's a family-friendly riverside spot for weekend brunch or lunch and dinner. The venue is known for its lively atmosphere and is suitable for families and even furry friends looking for a place to dine and relax by the Singapore River. The restaurant provides a cozy environment for enjoying Mexican food.",
+    "guid": "https://super-loco.com/robertsonquay",
+    "activity_or_event": "activity",
+    "url": "https://super-loco.com/robertsonquay",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon - Wed: 5pm - 11pm, Thu: 11:30pm - 11pm, Fri: 11:30am - 11:30pm, Sat: 10am - 11:30pm, Sun: 10am - 11pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Super Loco Robertson Quay",
+    "full_address": "The Quayside, 60 Robertson Quay #01-13 Singapore 238252",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Super_Loco_Robertson_Quay_Mexican_Cantina_1.webp",
+        "filename": "Super_Loco_Robertson_Quay_Mexican_Cantina_1.webp",
+        "original_url": "https://super-loco.com/robertsonquay",
+        "source_credit": "superloco"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/64bd41d5f55df83ffad083ce/c07f2756-d4d4-4ae2-ae44-7556cb6b842b/Super-Loco-Robertson-Quay-1-1-2.jpg",
+        "source_credit": "Super Loco"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/64bd41d5f55df83ffad083ce/5414f79d-7409-43cd-a0ca-ad24a2a3793d/Super+Loco+RQ+Logo.png",
+        "source_credit": "Super Loco"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

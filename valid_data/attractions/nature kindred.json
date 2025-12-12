@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Nature Kindred (Indoor) Kid Farm Adventures",
+    "organiser": "Nature Kindred",
+    "blurb": "Parent-child bonding adventures at Nature Kindred.",
+    "description": "Nature Kindred offers unique experiences through nature activities. Join us for meaningful parent-child bonding adventures at our Indoor Kid Farm. Open every Saturday, Sunday & Certain Public holidays. Time slot: 10.30am -5.30pm. Activities include interacting with farm animals, learning about nature, and engaging in fun, educational play. Perfect for families looking to spend quality time together in a natural setting. Our farm provides a safe and stimulating environment for children to explore and discover the wonders of nature. We offer a variety of hands-on experiences that promote learning and development.",
+    "guid": "https://www.naturekindred.com/experience-1",
+    "activity_or_event": "activity",
+    "url": "https://www.naturekindred.com/experience-1",
+    "price_display_teaser": "Free + Paid options",
+    "price_display": "From S$0 to S$null",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": "null",
+    "datetime_display": "Open on every Saturday , Sunday & Certain Public holiday Time slot: 10.30am -5.30pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Nature Kindred (Indoor) Kid Farm",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": []
+  },
+  {
+    "title": "Nature Kindred Kid Farm - Parent-Child Adventures",
+    "organiser": "Nature Kindred",
+    "blurb": "Meaningful parent-child bonding adventures await you!",
+    "description": "Nature Kindred offers unique experiences through nature activities. The Indoor Kid Farm provides a comfortable and relaxing environment for children to engage in various activities. These activities include kid fishing, aquascaping, art & craft, planting, terrarium planting, and mini prawning. Each activity is designed to improve hand-eye coordination, foster patience, and encourage creativity. The venue features a comfortable seating area, sheltered space with fans, air-conditioned DIY room, and accessible toilet. It's a fun and educational way for kids to connect with nature and create lasting memories with their families.",
+    "guid": "https://www.naturekindred.com/experience-1",
+    "activity_or_event": "activity",
+    "url": "https://www.naturekindred.com/experience-1",
+    "price_display_teaser": "Null",
+    "price_display": "From S$0 to S$0",
+    "price": 0.0,
+    "age_group_display": "All ages",
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": "Null",
+    "datetime_display": "Every Saturday, Sunday & Certain Public holiday, 10.30am -5.30pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Nature Kindred Kid Farm",
+    "full_address": "Not Available",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": []
+  },
+  {
+    "title": "Kid Fishing Experience with Mini Lego Fish Tank",
+    "organiser": "Nature Kindred",
+    "blurb": "Indoor kid fishing experience with comfortable seating.",
+    "description": "The indoor kid fishing experience features a comfortable seating area designed for children using slow movement tactics to catch the fishes. The space is fully sheltered, with fans to keep it cool, and includes an accessible toilet conveniently located right by the fish pond. The quiet environment enhances the experience, offering a relaxing setting for kids to enjoy fishing. This activity benefits children by improving hand-eye coordination, fostering patience, and providing a sensory-rich environment that supports their developmental growth.",
+    "guid": "https://www.naturekindred.com/experience-1",
+    "activity_or_event": "activity",
+    "url": "https://www.naturekindred.com/experience-1",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Nature Kindred",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": []
+  }
+]

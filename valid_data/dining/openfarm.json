@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Open Farm Community Urban Farm and Restaurant",
+    "organiser": "Open Farm Community",
+    "blurb": "Garden Weddings and Corporate Events",
+    "description": "Open Farm Community is a unique urban farm and restaurant that offers a variety of experiences. It features a working farm where visitors can learn about sustainable agriculture, as well as a restaurant that serves dishes made with fresh, locally-sourced ingredients. The venue is suitable for families and individuals interested in experiencing farm-to-table dining and learning about urban farming. It also hosts garden weddings and corporate events, providing a unique and natural setting for celebrations and gatherings. The farm aims to connect people with nature and promote sustainable living through its various offerings.",
+    "guid": "https://www.openfarmcommunity.com/",
+    "activity_or_event": "activity",
+    "url": "https://www.openfarmcommunity.com/",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "OPEN FARM COMMUNITY URBAN FARM AND RESTAURANT",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Open Farm Community",
+    "full_address": "130E Minden Road, Singapore 248819",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5f0bbcc3a47d231c00d5636d/2394715d-5d5d-4f39-8eda-864e6c8d6b08/open-farm-community-restaurant-01.jpg",
+        "source_credit": "Open Farm Community"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5f0bbcc3a47d231c00d5636d/2394715d-5d5d-4f39-8eda-864e6c8d6b08/open-farm-community-restaurant-01.jpg?format=100w",
+        "source_credit": "Open Farm Community"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5f0bbcc3a47d231c00d5636d/2394715d-5d5d-4f39-8eda-864e6c8d6b08/open-farm-community-restaurant-01.jpg?format=300w",
+        "source_credit": "Open Farm Community"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5f0bbcc3a47d231c00d5636d/2394715d-5d5d-4f39-8eda-864e6c8d6b08/open-farm-community-restaurant-01.jpg?format=500w",
+        "source_credit": "Open Farm Community"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5f0bbcc3a47d231c00d5636d/2394715d-5d5d-4f39-8eda-864e6c8d6b08/open-farm-community-restaurant-01.jpg?format=750w",
+        "source_credit": "Open Farm Community"
+      }
+    ]
+  }
+]

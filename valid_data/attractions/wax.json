@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Madame Tussauds Singapore: A Wax Experience",
+    "organiser": "Madame Tussauds",
+    "blurb": "Experience lifelike wax figures of your favorite stars.",
+    "description": "Step into the world of fame at Madame Tussauds Singapore. Get up close and personal with incredibly lifelike wax figures of celebrities, historical icons, and sports legends. Enjoy interactive exhibits and immersive experiences that bring you closer to the stars. Perfect for families and fans of all ages, Madame Tussauds offers a unique opportunity to capture memorable moments with your favorite personalities. Explore different zones, including music, film, sports, and history, and discover the stories behind the figures. A fun and engaging attraction for everyone.",
+    "guid": "https://www.madametussauds.com/singapore/",
+    "activity_or_event": "Attraction",
+    "url": "https://www.madametussauds.com/singapore/",
+    "price_display_teaser": "From SGD",
+    "price_display": "From S$42",
+    "price": 42.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Madame Tussauds Singapore",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.madametussauds.com/singapore/media/3igb4gz2/homepage_banner_desktop_vis.png",
+        "source_credit": "Madame Tussauds"
+      },
+      {
+        "url": "https://www.madametussauds.com/singapore/media/bcxfqpkn/tc-website-homepage-banner.png",
+        "source_credit": "Madame Tussauds"
+      }
+    ]
+  },
+  {
+    "title": "Images of Singapore by Madame Tussauds Venue",
+    "organiser": "Madame Tussauds Singapore",
+    "blurb": "Discover Singapore's rich history and culture here!",
+    "description": "Embark on an immersive journey through 200 years of Singapore's history and culture at Images of Singapore. This attraction offers a unique and engaging way to discover Singapore's stories. Explore various exhibits and displays that bring the past to life. The guided tour provides additional insights and enhances the overall experience. Perfect for families and visitors of all ages interested in learning about Singapore's heritage. Don't miss the chance to discover Singapore's stories in a whole new way with this family-friendly attraction.",
+    "guid": "https://www.madametussauds.com/singapore/",
+    "activity_or_event": "activity",
+    "url": "https://www.madametussauds.com/singapore/",
+    "price_display_teaser": "From SGD",
+    "price_display": "From S$35 to S$50",
+    "price": 35.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating Hours as per website",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Images of Singapore",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.madametussauds.com/singapore/media/bbvfq24d/mtussauds_ios_fa.jpg?rxy=0.49999976584519107,0.45901060814615996&format=webp&quality=80&width=400&height=400",
+        "source_credit": "Madame Tussauds Singapore"
+      },
+      {
+        "url": "https://www.madametussauds.com/singapore/media/bbvfq24d/mtussauds_ios_fa.jpg?rxy=0.49999976584519107",
+        "source_credit": "Madame Tussauds Singapore"
+      },
+      {
+        "url": "https://www.madametussauds.com/singapore/0.45901060814615996&format=webp&quality=80&width=500&height=500",
+        "source_credit": "Madame Tussauds Singapore"
+      },
+      {
+        "url": "https://www.madametussauds.com/singapore/0.45901060814615996&format=webp&quality=80&width=600&height=600",
+        "source_credit": "Madame Tussauds Singapore"
+      },
+      {
+        "url": "https://www.madametussauds.com/singapore/0.45901060814615996&format=webp&quality=80&width=700&height=700",
+        "source_credit": "Madame Tussauds Singapore"
+      }
+    ]
+  }
+]

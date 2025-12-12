@@ -1,0 +1,987 @@
+[
+  {
+    "title": "Splash Tribe at The Palawan @ Sentosa",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "A fuss-free day out with distinct lounging areas.",
+    "description": "Splash Tribe offers a daycation destination with various amenities and refreshments. It features pools suitable for all ages, including kids-friendly pools and an infinity-edge pool by the beach. Guests can also relax in exclusive two-storey gazebos with views of the pools and beach, adding a touch of exclusivity to their visit. Enjoy a splashing good time with family and friends at this vibrant destination. The venue provides a range of options for relaxation and recreation, ensuring a memorable experience for all visitors. With its thoughtful amenities and diverse pool options, Splash Tribe is an ideal spot for a family day out.",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friendly pools and play areas to an infinity-edge pool right by the beach, a splashing good time awaits everyone Exclusive Gazebos Lounge in your very own two-storey gazebo for a sweeping view of the pools and beach, and an added touch of exclusivity",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Splash Tribe",
+    "label_tag": null,
+    "Keyword_tag": "water play, family fun, kids activities, swimming pools, beach",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Attraction-Logo-3.png",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Frame-3406-1.png",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 509,
+    "longitude": 103.81965579999999,
+    "latitude": 1.2505098,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "Splash Tribe",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Enjoy a fuss-free day out with distinct lounging areas.",
+    "description": "Splash Tribe offers a variety of pools for all ages, from kids-friendly pools and play areas to an infinity-edge pool right by the beach. It provides distinct lounging areas and thoughtful amenities and refreshments for a fuss-free day out. Families can enjoy a splashing good time with various water activities suitable for different age groups. The venue is designed to cater to both relaxation and fun, making it an ideal destination for a family daycation. With its range of amenities and pools, Splash Tribe ensures a memorable experience for everyone.",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friendly pools and play areas to an infinity-edge pool right by the beach, a splashing good time awaits everyone",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Splash Tribe",
+    "label_tag": null,
+    "Keyword_tag": "water park, kids pool, family activities, daycation, swimming",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Frame-3406-1.png",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Splash-Tribe_Image-3_560x480.jpg",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 510,
+    "longitude": 103.81965579999999,
+    "latitude": 1.2505098,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "Splash Tribe at The Palawan Sentosa - Dining",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Enjoy delicious fare and vibrant concoctions poolside.",
+    "description": "Splash Tribe offers a delightful dining experience with a variety of food and beverage options designed to complement poolside enjoyment. The menu includes crowd-pleasing dishes and refreshing drinks suitable for families and kids. Food highlights feature Garlic Marinated Prawn Flatbread, Duck Lettuce Wraps, Tataki Salmon Bowl, and Tomato & Burrata. Beverage options range from Signature Tiki Cocktails to delightful milkshakes and mocktails. With options for both adults and children, Splash Tribe provides a relaxed and enjoyable dining atmosphere for all ages. The venue is perfect for families looking to unwind and indulge in tasty treats while enjoying the pool.",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$15 to S$40",
+    "price": 15.0,
+    "min_price": 15.0,
+    "max_price": 40.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "mon Bowl Tomato & Burrata Garlic Marinated Prawn Flatbread Duck Lettuce Wraps Tataki Salmon Bowl Tomato & Burrata Garlic Marinated Prawn Flatbread Duck Lettuce Wraps Tataki Salmon Bowl Tomato & Burrata Next Beverage Highlights Previous Signature Tiki Cocktails Delightful Milkshakes Signature Mocktails Summery Cocktails Signature Tiki Cocktails Delightful Milkshakes Signature Mocktails Summery Cocktails Signature Tiki Cocktails Delightful Milkshakes Signature Mocktails Summery Cocktails Next Menu Download Menu Download Kids Menu Download Brunch Menu Download Cake Menu",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Splash Tribe",
+    "label_tag": null,
+    "Keyword_tag": "Dining, poolside dining, family dining, kids menu, cocktails, milkshakes",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Website_Splash-Tribe_Signature-Food_Garlic-Marinated-Prawn-Flatbread.jpg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Website_Splash-Tribe_Signature-Food_Duck-Lettuce-Wraps.jpg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Website_SplashTribe_Food-Highlights_Tataki-Salmon-Bowl_364x411.jpg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Website_Splash-Tribe_Food-Highlights_Tomato-_-Burrata_364x411.jpg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Website_Splash-Tribe_Signature-Beverages_Signature-Tiki-Cocktails.jpg",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 511,
+    "longitude": 103.81965579999999,
+    "latitude": 1.2505098,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "HydroDash",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Dive into a water adventure at HydroDash!",
+    "description": "HydroDash is Singapore’s first and only floating aqua park. It features inflatable obstacles for all ages. Participants can dash, slide, leap, and repeat. HydroDash is returning on 14 February 2025 and offers a fun water adventure for families and friends. It's a great place for kids and adults to challenge themselves and enjoy the water. The park is designed with different difficulty levels, making it suitable for both beginners and experienced adventurers. The aqua park provides a safe and exciting environment for everyone to enjoy a day out in the sun.",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friend in me ​ Nothing like a good ol’ boop to",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "HydroDash",
+    "label_tag": null,
+    "Keyword_tag": "floating aqua park, water adventure, inflatable obstacles, family fun",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Splash-Tribe_Image-3_294x424.jpg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Splash-Tribe_Image-4_560x480.jpg",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 512,
+    "longitude": 103.8210532,
+    "latitude": 1.2500643999999999,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "HyperDrive",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Level up the fun at HyperDrive this holidays!",
+    "description": "HyperDrive is a thrilling indoor gamified electric go-kart circuit with bold flavours and front-row view of the race. Kids can look the part and experience the thrill of racing. It's a great place for families and friends to enjoy a day out. The circuit is designed with different difficulty levels, making it suitable for both beginners and experienced racers. HyperDrive provides a safe and exciting environment for everyone to enjoy a day of racing. Located within HyperDrive, enjoy dining at HyperDrive Cafe.",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friend in me ​ Nothing like a good ol’ boop to",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "HyperDrive",
+    "label_tag": null,
+    "Keyword_tag": "indoor gamified electric go-kart circuit, racing, family fun",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Splash-Tribe_Image-4_560x480.jpg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Attraction-Logo-3.png",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 513,
+    "longitude": 103.8194268,
+    "latitude": 1.2506713999999999,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "UltraGolf",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Every putt is a winning moment at UltraGolf!",
+    "description": "At UltraGolf, the fun never stops. It's a great place for families and friends to enjoy a day out. The course is designed with different difficulty levels, making it suitable for both beginners and experienced golfers. UltraGolf provides a fun experience for everyone to enjoy a day of putting. Swing by and dive into a “hole-some” experience. Little golfers, precise putts, and endless fun—who’s ready to tee up for family fun!",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friend in me ​ Nothing like a good ol’ boop to",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "UltraGolf",
+    "label_tag": null,
+    "Keyword_tag": "golf, family fun, putting",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Attraction-Logo-3.png",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Frame-3406-1.png",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 514,
+    "longitude": 103.81992799999999,
+    "latitude": 1.2505009,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "The Palawan Dog Run",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Paws up for playtime! Dog Run at Palawan!",
+    "description": "Bring your furry friends to The Palawan Dog Run for a fun day out. It's a great place for dogs to run and play. The dog run provides a safe and exciting environment for dogs to enjoy a day out. It's always time for family adventures!",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friend in me ​ Nothing like a good ol’ boop to",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "The Palawan Dog Run",
+    "label_tag": null,
+    "Keyword_tag": "dog run, playtime, family adventures",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Frame-3406-1.png",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Splash-Tribe_Image-3_560x480.jpg",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 515,
+    "longitude": 103.81992799999999,
+    "latitude": 1.2505009,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "HydroDash: Floating Aqua Park Adventure",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Dive into a water adventure at HydroDash!",
+    "description": "HydroDash is Singapore’s first and only floating aqua park. It offers a thrilling water adventure with dash, slide, and leap activities. HydroDash is returning on 14 February 2025 and makes its return tommorow – 14 February 2025! Grab your gear, rally your friends and family, and get ready for some fun in the sun. It's perfect for families and friends looking for a fun day out. The park features inflatable obstacles, slides, and climbing walls, providing endless entertainment for all ages. Located at The Palawan Sentosa, it's easily accessible and offers a unique water park experience.",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friend in me ​ Nothing like a good ol’ boop to",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "HydroDash",
+    "label_tag": null,
+    "Keyword_tag": "Floating aqua park, water adventure, inflatable obstacles, slides, climbing walls, family fun",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Splash-Tribe_Image-3_560x480.jpg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Splash-Tribe_Image-3_294x424.jpg",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 516,
+    "longitude": 103.8210532,
+    "latitude": 1.2500643999999999,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "HyperDrive: Thrilling Go-Kart Racing Experience",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Go head-to-head with friends in a thrilling race!",
+    "description": "HyperDrive offers a thrilling go-kart racing experience for kids and adults. Located within The Palawan Sentosa, it features an exciting track where racers can zoom through and feel the adrenaline rush. Kids can look the part and enjoy the fun. It's a perfect spot for parties, corporate events, or family gatherings. Located within HyperDrive, enjoy dining at HyperDrive Cafe with bold flavours and front-row view of the race. The venue provides an unforgettable day of fun and excitement for all ages. Planning a party, corporate event, or family gathering? We’ve got you covered! From thrilling go-kart",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friend in me ​ Nothing like a good ol’ boop to",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "HyperDrive",
+    "label_tag": null,
+    "Keyword_tag": "Go-kart racing, thrilling race, family fun, adrenaline rush, HyperDrive Cafe",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Splash-Tribe_Image-3_294x424.jpg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Splash-Tribe_Image-4_560x480.jpg",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 517,
+    "longitude": 103.8194268,
+    "latitude": 1.2506713999999999,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "UltraGolf: Family Fun with Mini Golf Adventures",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Every putt is a winning moment at UltraGolf!",
+    "description": "UltraGolf offers a fun mini golf experience for the whole family. Little golfers, precise putts, and endless fun—who’s ready for a tee-rific day? At UltraGolf, the fun never stops — and for good reason! Swing by and dive into a “hole-some” experience. It's a perfect spot for family outings and friendly competitions. The course features creative designs and challenges suitable for all skill levels. Located within The Palawan Sentosa, it's easily accessible and provides a memorable experience for all ages. Whether you're a seasoned golfer or a beginner, UltraGolf guarantees a day of laughter and excitement.",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friend in me ​ Nothing like a good ol’ boop to",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "UltraGolf",
+    "label_tag": null,
+    "Keyword_tag": "Mini golf, family fun, golfing, family outings, friendly competitions",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Splash-Tribe_Image-4_560x480.jpg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Attraction-Logo-3.png",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 518,
+    "longitude": 103.81992799999999,
+    "latitude": 1.2505009,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "Splash Tribe: Ultimate Kids' Getaway",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Splash, play and dine - the ultimate kids' getaway!",
+    "description": "Splash Tribe is the ultimate kids' getaway, offering a combination of water play, dining, and relaxation. Big slides, little adventurers! Endless fun awaits at Splash Tribe. Sun, splashes, and smiles await at Splash Tribe! From now. Weekends are always better at Splash Tribe! Whether the little ones are floating with joy. It's a perfect destination for families looking to spend quality time together. The venue features various water attractions, play areas, and dining options, ensuring a memorable experience for everyone. Located at The Palawan Sentosa, it's easily accessible and provides a safe and enjoyable environment for children to explore and have fun.",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friend in me ​ Nothing like a good ol’ boop to",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Splash Tribe",
+    "label_tag": null,
+    "Keyword_tag": "Water play, kids getaway, family fun, water attractions, play areas",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Attraction-Logo-3.png",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Frame-3406-1.png",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 519,
+    "longitude": 103.81965579999999,
+    "latitude": 1.2505098,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "The Palawan Dog Run: Paws Up for Playtime!",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Bring your furry friends to The Palawan Dog Run",
+    "description": "The Palawan Dog Run is a dedicated space for furry friends to enjoy playtime. It provides a safe and fun environment for dogs to run, play, and socialize. Bring your furry friends to The Palawan Dog Run. Located within The Palawan Sentosa, it's easily accessible and offers a great opportunity for pet owners to bond with their dogs. The venue is equipped with various amenities to ensure a comfortable experience for both dogs and their owners. It's a perfect spot for a day out with your beloved pets, where they can exercise and have fun in a secure setting.",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friend in me ​ Nothing like a good ol’ boop to",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "The Palawan Dog Run",
+    "label_tag": null,
+    "Keyword_tag": "Dog run, furry friends, playtime, pet owners, dog socialization",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Frame-3406-1.png",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Splash-Tribe_Image-3_560x480.jpg",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 520,
+    "longitude": 103.81992799999999,
+    "latitude": 1.2505009,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "HyperDrive: Thrilling Go-Kart Racing",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Go head-to-head with your friends in a thrilling race!",
+    "description": "HyperDrive offers a karting experience like never before, with thrilling races and bragging rights up for grabs. Kids can look the part and level up the fun during the holidays. Located within HyperDrive, enjoy dining at HyperDrive Cafe with bold flavours and a front-row view of the racing action. It's the perfect place for family gatherings, corporate events, or parties. Zoom through the track and feel the adrenaline rush as you compete with friends and family.",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friend in me ​ Nothing like a good ol’ boop to",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "HyperDrive",
+    "label_tag": null,
+    "Keyword_tag": "go-kart racing, karting, family fun, racing action, adrenaline rush",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://s.w.org/images/core/emoji/16.0.1/svg/1f4a5.svg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://scontent-sin11-1.cdninstagram.com/v/t51.75761-15/490484159_17952296939939766_7948232649512936437_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=lfeD94kTdXQQ7kNvwFPT6TD&_nc_oc=AdkLG0Is-fFcPx49PYzzMB7j2Go4_wu6p91cNnq-unN7F1x34eIA-jwXLdtl9nenkg4&_nc_zt=23&_nc_ht=scontent-sin11-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=XAdXQ3v6sk7m2dE4i6TRSA&oh=00_AfUs8Tfi-YLToW9M7jVYrIcWdbR2c4SqWAauNfkmFvXvIg&oe=68BB7E47",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://s.w.org/images/core/emoji/16.0.1/svg/1f43e.svg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://s.w.org/images/core/emoji/16.0.1/svg/1f49b.svg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://scontent-sin6-2.cdninstagram.com/v/t51.75761-15/489573233_17952297716939766_5551447652181443124_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=ZUM62hzkbxEQ7kNvwGXdClv&_nc_oc=AdnEE5touB9TutGx3-LBa1NSLeMq15rP9XHHwcpIq6PjHCwZRC8dmITY6FdoL7kzirk&_nc_zt=23&_nc_ht=scontent-sin6-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=XAdXQ3v6sk7m2dE4i6TRSA&oh=00_AfV5E2DZ6LF-y6CiP0Q7ccoNaxQryAwkNGjRoq0o_QsxZQ&oe=68BB5DC2",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 521,
+    "longitude": 103.8194268,
+    "latitude": 1.2506713999999999,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "UltraGolf: Family Fun with Putting",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Every putt is a winning moment at UltraGolf!",
+    "description": "UltraGolf offers a fun and engaging experience for the whole family. Little golfers can enjoy precise putts and endless fun. It's a great way to spend quality time together, creating lasting memories. The venue provides a welcoming atmosphere where kids can learn and improve their putting skills. Whether you're a seasoned golfer or a beginner, UltraGolf is the perfect place to tee up for family fun. The fun never stops — and for good reason!",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friend in me ​ Nothing like a good ol’ boop to",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "UltraGolf",
+    "label_tag": null,
+    "Keyword_tag": "family fun, putting, golfing, kids activities, recreation",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://s.w.org/images/core/emoji/16.0.1/svg/1f4a5.svg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://scontent-sin11-1.cdninstagram.com/v/t51.75761-15/490484159_17952296939939766_7948232649512936437_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=lfeD94kTdXQQ7kNvwFPT6TD&_nc_oc=AdkLG0Is-fFcPx49PYzzMB7j2Go4_wu6p91cNnq-unN7F1x34eIA-jwXLdtl9nenkg4&_nc_zt=23&_nc_ht=scontent-sin11-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=XAdXQ3v6sk7m2dE4i6TRSA&oh=00_AfUs8Tfi-YLToW9M7jVYrIcWdbR2c4SqWAauNfkmFvXvIg&oe=68BB7E47",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://s.w.org/images/core/emoji/16.0.1/svg/1f43e.svg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://s.w.org/images/core/emoji/16.0.1/svg/1f49b.svg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://scontent-sin6-2.cdninstagram.com/v/t51.75761-15/489573233_17952297716939766_5551447652181443124_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=ZUM62hzkbxEQ7kNvwGXdClv&_nc_oc=AdnEE5touB9TutGx3-LBa1NSLeMq15rP9XHHwcpIq6PjHCwZRC8dmITY6FdoL7kzirk&_nc_zt=23&_nc_ht=scontent-sin6-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=XAdXQ3v6sk7m2dE4i6TRSA&oh=00_AfV5E2DZ6LF-y6CiP0Q7ccoNaxQryAwkNGjRoq0o_QsxZQ&oe=68BB5DC2",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 522,
+    "longitude": 103.81992799999999,
+    "latitude": 1.2505009,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "UltraGolf: Tee Up for Family Fun!",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Little golfers, precise putts, and endless fun!",
+    "description": "UltraGolf offers a fun and engaging experience for the whole family. It features a unique putting course with challenging obstacles and creative designs. Players of all ages can test their skills and enjoy a friendly competition. The course is designed to be both entertaining and accessible, making it a perfect activity for families with young children. UltraGolf provides a relaxed and enjoyable atmosphere where families can bond and create lasting memories. It's a great way to spend quality time together while enjoying the outdoors.",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friend in me ​ Nothing like a good ol’ boop to",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "UltraGolf",
+    "label_tag": null,
+    "Keyword_tag": "mini golf, putting course, family fun, outdoor activity",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction",
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://s.w.org/images/core/emoji/16.0.1/svg/1f43e.svg",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 523,
+    "longitude": 103.81992799999999,
+    "latitude": 1.2505009,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "HyperDrive: Thrilling Race and Dining Experience",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Go head-to-head with your friends in a thrilling race!",
+    "description": "HyperDrive offers a unique karting experience with bold flavors and a front-row view of the race. Kids can look the part and enjoy dining at HyperDrive Cafe. It provides a thrilling race for friends and family. Located within HyperDrive, the cafe offers a variety of dining options. It's a perfect destination for those seeking an adrenaline-pumping activity combined with delicious food. The venue ensures a safe and enjoyable experience for everyone with trained staff and safety measures in place. HyperDrive is a great place to spend quality time together while enjoying the excitement of karting.",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friend in me ​ Nothing like a good ol’ boop to",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "HyperDrive",
+    "label_tag": null,
+    "Keyword_tag": "karting, go-kart, racing, dining, cafe",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://s.w.org/images/core/emoji/16.0.1/svg/1f49b.svg",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 524,
+    "longitude": 103.8194268,
+    "latitude": 1.2506713999999999,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "Splash Tribe at The Palawan @ Sentosa Information",
+    "organiser": "The Palawan @ Sentosa",
+    "blurb": "Fun for all ages with pools and waterslides!",
+    "description": "Splash Tribe welcomes guests of all ages. Children under 1.3 metres must wear life jackets when using the pool, except the waterslides. Life jackets are available at the towel stand. Children must be accompanied by an adult at all times in the pool. Swim diapers are mandatory for children 4 years old and below. Diapers are available for purchase onsite. Pool pollution is strictly prohibited, and guests found polluting the pool will incur a cleaning fee. Contact us for reservation amendments.",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": false,
+    "price_display_teaser": "Contact for pricing",
+    "price_display": "Please contact for pricing",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": null,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Splash Tribe",
+    "label_tag": null,
+    "Keyword_tag": "water park, swimming pool, waterslides, family fun, kids activities",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Frame-3406-1.png",
+        "source_credit": "The Palawan @ Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2023/04/Splash-Tribe_Image-3_560x480.jpg",
+        "source_credit": "The Palawan @ Sentosa"
+      }
+    ],
+    "id": 525,
+    "longitude": 103.81965579999999,
+    "latitude": 1.2505098,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "HydroDash and iFly Adventure Package",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Sky-high adventures with the Fly and Dash Package!",
+    "description": "Experience the thrill of sky-high adventures and make a splash with the Fly and Dash Package. This package combines the excitement of iFly with the fun of HydroDash, offering a memorable experience for families and thrill-seekers alike. Enjoy a day filled with adrenaline-pumping activities and create lasting memories. Perfect for those seeking adventure and excitement in a family-friendly environment. This package is designed to cater to both adults and children, ensuring everyone has a fantastic time. Get ready for a day of unforgettable fun and adventure.",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": false,
+    "price_display_teaser": "From $88",
+    "price_display": "S$88.00",
+    "price": 88.0,
+    "min_price": 88.0,
+    "max_price": 88.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": "06-Sep to 11-Dec",
+    "datetime_display": "06 September to 11 December 2025",
+    "start_datetime": "2025-09-06T00:00:00+08:00",
+    "end_datetime": "2025-12-11T23:59:59+08:00",
+    "venue_name": "HydroDash, iFly",
+    "label_tag": null,
+    "Keyword_tag": "HydroDash, iFly, water park, adventure, family fun",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2025/09/Fly-and-Dash-1920-x-1080-px.jpg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/themes/palawan2/theme/static/images/calendar.svg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/themes/palawan2/theme/static/images/location.svg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2025/09/Whats-on-5000x3500px-1-scaled.jpg",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 526,
+    "longitude": 103.8210532,
+    "latitude": 1.2500643999999999,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "HyperDrive Go-Kart Party",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Island’s only party on a go-kart track!",
+    "description": "Get ready for an electrifying night at HyperDrive, where the go-kart track transforms into a dancefloor. This unique event combines the thrill of go-karting with the energy of a party, creating an unforgettable experience. Enjoy music, lights, and high-speed fun as you race around the track. Perfect for adults looking for a unique and exciting night out. This event is designed to provide a thrilling and memorable experience for all participants. Get ready to party on the track and experience the ultimate fusion of speed and music.",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "event",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": false,
+    "price_display_teaser": "From $88",
+    "price_display": "S$88.00",
+    "price": 88.0,
+    "min_price": 88.0,
+    "max_price": 88.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": "27-Sep",
+    "datetime_display": "27 September 2025 - 09:00 PM",
+    "start_datetime": "2025-09-27T21:00:00+08:00",
+    "end_datetime": "2025-09-27T23:59:59+08:00",
+    "venue_name": "HyperDrive",
+    "label_tag": null,
+    "Keyword_tag": "HyperDrive, go-kart, party, dancefloor, racing",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2025/09/Fly-and-Dash-1920-x-1080-px.jpg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/themes/palawan2/theme/static/images/calendar.svg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/themes/palawan2/theme/static/images/location.svg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2025/09/Whats-on-5000x3500px-1-scaled.jpg",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 527,
+    "longitude": 103.8194268,
+    "latitude": 1.2506713999999999,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "Fly and Dash Adventures Sky-High and Make a Splash",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Take your adventures sky-high and make a splash!",
+    "description": "The Fly and Dash package offers a combination of experiences at HydroDash and iFly. This package allows visitors to enjoy both water-based activities and the thrill of indoor skydiving. It's designed for those seeking adventure and excitement. HydroDash is a floating water park with inflatable obstacles, while iFly provides an indoor skydiving experience. This package is suitable for families and individuals looking for a fun and active day out. The package combines the thrill of flying with the fun of splashing around in the water.",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": false,
+    "price_display_teaser": "From $88",
+    "price_display": "S$88.00",
+    "price": 88.0,
+    "min_price": 88.0,
+    "max_price": 88.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": "06-Sep to 11-Dec",
+    "datetime_display": "06 September to 11 December 2025",
+    "start_datetime": "2025-09-06T00:00:00+08:00",
+    "end_datetime": "2025-12-11T23:59:59+08:00",
+    "venue_name": "HydroDash, iFly",
+    "label_tag": null,
+    "Keyword_tag": "Water park, inflatable obstacles, indoor skydiving, adventure, family fun",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2025/09/Fly-and-Dash-1920-x-1080-px.jpg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/themes/palawan2/theme/static/images/calendar.svg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/themes/palawan2/theme/static/images/location.svg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2025/09/Whats-on-5000x3500px-1-scaled.jpg",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 528,
+    "longitude": 103.8210532,
+    "latitude": 1.2500643999999999,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  },
+  {
+    "title": "Splash Tribe: Fly and Dash Package Adventure",
+    "organiser": "The Palawan Sentosa",
+    "blurb": "Take your adventures sky-high and make a splash!",
+    "description": "Experience thrilling adventures with the Fly and Dash Package. This package offers a combination of high-flying activities and water-based fun, perfect for families and kids seeking an exciting day out. Enjoy access to various attractions within Splash Tribe, designed to provide memorable experiences for all ages. Engage in activities that cater to both adrenaline seekers and those looking for relaxed, family-friendly entertainment. The package includes access to specific attractions within the venue, ensuring a day filled with laughter and adventure. This is a great way to spend quality time with family and create lasting memories.",
+    "guid": "https://www.thepalawansentosa.com/splash-tribe/",
+    "activity_or_event": "activity",
+    "url": "https://www.thepalawansentosa.com/splash-tribe/",
+    "is_free": false,
+    "price_display_teaser": "From $88",
+    "price_display": "S$88.00",
+    "price": 88.0,
+    "min_price": 88.0,
+    "max_price": 88.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Splash Tribe",
+    "label_tag": null,
+    "Keyword_tag": "water park, family activities, kids activities, adventure, splash, fun",
+    "full_address": "54 Palawan Beach Walk, The Palawan @ Sentosa, 098233",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2025/09/Fly-and-Dash-1920-x-1080-px.jpg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/themes/palawan2/theme/static/images/calendar.svg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/themes/palawan2/theme/static/images/location.svg",
+        "source_credit": "The Palawan Sentosa"
+      },
+      {
+        "url": "https://www.thepalawansentosa.com/wp-content/uploads/2025/09/Whats-on-5000x3500px-1-scaled.jpg",
+        "source_credit": "The Palawan Sentosa"
+      }
+    ],
+    "id": 529,
+    "longitude": 103.81965579999999,
+    "latitude": 1.2505098,
+    "district": "Southern Islands",
+    "area": "Central Region"
+  }
+]

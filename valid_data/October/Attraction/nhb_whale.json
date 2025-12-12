@@ -1,0 +1,83 @@
+[
+  {
+    "title": "A Whale of a Tale, Magical Bridge Design Playground",
+    "organiser": "National Museum of Singapore",
+    "blurb": "Intergenerational playground at National Museum of Singapore",
+    "description": "Located near the Front Lawn, the playground reimagines the iconic blue whale skeleton once displayed at the museum. Designed by Magical Bridge Foundation, it incorporates nostalgic details such as mosaic tiles inspired by some of the iconic playgrounds of our yesteryear. Built for people of all ages and abilities with accessible equipment that has features attuned to the needs of both young and old, and encourages intergenerational bonding. This includes senior-friendly workout areas, sensory play features, and picnic benches for everyone to enjoy. A family-friendly space for all.",
+    "guid": "https://www.nhb.gov.sg/nationalmuseum/whats-on/exhibition/a-whale-of-a-tale",
+    "activity_or_event": "activity",
+    "url": "https://www.nhb.gov.sg/nationalmuseum/whats-on/exhibition/a-whale-of-a-tale",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "friendly workout areas, sensory play features, and picnic benches for everyone to enjoy",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "National Museum of Singapore",
+    "label_tag": null,
+    "Keyword_tag": "Intergenerational playground, accessible playground, sensory play, family-friendly, National Museum of Singapore",
+    "full_address": "Stamford Rd, Stamford Green",
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://www.nhb.gov.sg/nationalmuseum/-/media/nms2024/exhibition/a-whale-of-a-tale/whale-of-a-tale.jpg",
+        "source_credit": "National Museum of Singapore"
+      }
+    ],
+    "id": 727,
+    "longitude": 103.8493247,
+    "latitude": 1.2962909000000002,
+    "district": "Museum",
+    "area": "Central Region"
+  },
+  {
+    "title": "A Playground for All at National Museum Singapore",
+    "organiser": "National Museum of Singapore",
+    "blurb": "Intergenerational playground with accessible equipment.",
+    "description": "The first intergenerational playground at a museum in Singapore, reimagining the iconic blue whale skeleton once displayed at the museum. Designed by Magical Bridge Foundation and sponsored by Amanda Toh-Steckler and the late Vince Steckler, the playground incorporates nostalgic details such as mosaic tiles inspired by iconic playgrounds. It is built for people of all ages and abilities with accessible equipment that has features attuned to the needs of both young and old, and encourages intergenerational bonding. Features include senior-friendly workout areas, sensory play features, and picnic benches for everyone to enjoy.",
+    "guid": "https://www.nhb.gov.sg/nationalmuseum/whats-on/exhibition/a-whale-of-a-tale",
+    "activity_or_event": "activity",
+    "url": "https://www.nhb.gov.sg/nationalmuseum/whats-on/exhibition/a-whale-of-a-tale",
+    "is_free": true,
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "min_price": 0,
+    "max_price": 0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Permanent Experience",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "National Museum of Singapore",
+    "label_tag": null,
+    "Keyword_tag": "playground, intergenerational, museum, accessible, sensory play, workout areas",
+    "full_address": "23-B Coleman St, Singapore 179807",
+    "categories": [
+      "Outdoor Playground",
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.nhb.gov.sg/nationalmuseum/-/media/nms2024/exhibition/a-whale-of-a-tale/playground-logoplate.png",
+        "source_credit": "National Museum of Singapore"
+      }
+    ],
+    "id": 728,
+    "longitude": 103.8487246,
+    "latitude": 1.2929268999999999,
+    "district": "Museum",
+    "area": "Central Region"
+  }
+]

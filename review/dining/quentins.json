@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Quentin's Eurasian Restaurant Dining Experience",
+    "organiser": "Quentin's Eurasian Restaurant",
+    "blurb": "Enjoy authentic Eurasian cuisine in a family setting.",
+    "description": "Quentin's Eurasian Restaurant offers a unique dining experience with traditional Eurasian dishes. The restaurant provides a family-friendly atmosphere, making it a great place to enjoy a meal with loved ones. The menu features a variety of flavorful dishes, showcasing the rich culinary heritage of the Eurasian community. From classic stews to spicy curries, there's something for everyone to enjoy. The restaurant is known for its warm hospitality and commitment to serving delicious, authentic Eurasian cuisine. Perfect for families looking to explore new flavors and create lasting memories.",
+    "guid": "https://www.quentins.com.sg/?gad_source=1&gad_campaignid=22890101035&gbraid=0AAAAACg9vFUlgj1loj505KTGJqHKEERdL&gclid=CjwKCAjw2vTFBhAuEiwAFaScwo5n5_qCrSHQXwlWWM_dQ4LPtvy6sjYz1-jAiDv9t-gQXRbUviO0LBoCF2UQAvD_BwE",
+    "activity_or_event": "activity",
+    "url": "https://www.quentins.com.sg/?gad_source=1&gad_campaignid=22890101035&gbraid=0AAAAACg9vFUlgj1loj505KTGJqHKEERdL&gclid=CjwKCAjw2vTFBhAuEiwAFaScwo5n5_qCrSHQXwlWWM_dQ4LPtvy6sjYz1-jAiDv9t-gQXRbUviO0LBoCF2UQAvD_BwE",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 20.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily (except Mon)",
+    "datetime_display": "Available daily (except Mon), 11:30am - 2:30pm & 5:30pm - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Quentin's Eurasian Restaurant",
+    "full_address": "139 Ceylon Rd, Level 1 Eurasian Heritage Gallery, Singapore 429744",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Quentin_s_Eurasian_Restaurant_Dining_Experience_1.jpg",
+        "filename": "Quentin_s_Eurasian_Restaurant_Dining_Experience_1.jpg",
+        "original_url": "https://www.quentins.com.sg/?gad_source=1&gad_campaignid=22890101035&gbraid=0AAAAACg9vFUlgj1loj505KTGJqHKEERdL&gclid=CjwKCAjw2vTFBhAuEiwAFaScwo5n5_qCrSHQXwlWWM_dQ4LPtvy6sjYz1-jAiDv9t-gQXRbUviO0LBoCF2UQAvD_BwE",
+        "source_credit": "quentins"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Quentin_s_Eurasian_Restaurant_Dining_Experience_2.jpg",
+        "filename": "Quentin_s_Eurasian_Restaurant_Dining_Experience_2.jpg",
+        "original_url": "https://www.quentins.com.sg/",
+        "source_credit": "quentins"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "title": "VroomTown™ - Drive-Play City for Kids",
+    "organiser": "Vroom Town",
+    "blurb": "SINGAPORE’S 1ST DRIVE-PLAY CITY FOR KIDS",
+    "description": "Vroom Town is Singapore's first drive-play city for kids, offering a unique and immersive learning experience. Children can learn about road safety and traffic rules while enjoying the thrill of driving their own miniature vehicles in a realistic city environment. The facility features various themed zones, including a petrol station, car wash, and construction site, providing a fun and educational experience for young drivers. It is designed to promote cognitive development, problem-solving skills, and social interaction in a safe and engaging setting. Perfect for children aged 3 to 10, Vroom Town offers a memorable and enriching experience that combines learning and play.",
+    "guid": "https://vroomtown.com.sg/",
+    "activity_or_event": "activity",
+    "url": "https://vroomtown.com.sg/",
+    "price_display_teaser": "From $38",
+    "price_display": "$38 for VROOM licensed, $49 for First time learners (1 hour, 1 adult + 1 child)",
+    "price": 0.0,
+    "age_group_display": "12 years old and below",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Sun - Thu: 10am - 8pm, Fri & Sat: 10am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Marina Square",
+    "full_address": "6 Raffles Blvd, Marina Square #01-208, 039594",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Learn__Experience_and_Enjoy_Driving_in_SINGAPORE_1.jpg",
+        "filename": "Learn__Experience_and_Enjoy_Driving_in_SINGAPORE_1.jpg",
+        "original_url": "https://vroomtown.com.sg/",
+        "source_credit": "vroomtown"
+      },
+      {
+        "url": "https://vroomtown.com.sg/wp-content/uploads/2024/05/VroomTown_Logo-1.png",
+        "source_credit": "Vroom Town"
+      },
+      {
+        "url": "https://vroomtown.com.sg/wp-content/uploads/2024/06/VroomTown-Map-1-1.png",
+        "source_credit": "Vroom Town"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

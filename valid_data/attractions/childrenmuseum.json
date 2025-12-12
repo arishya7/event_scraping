@@ -1,0 +1,108 @@
+[
+  {
+    "title": "Children's Museum Singapore: Fun For Everyone!",
+    "organiser": "Children's Museum Singapore",
+    "blurb": "Fun activities for everyone at Children's Museum.",
+    "description": "The Children's Museum Singapore offers a variety of engaging and educational exhibits designed for children of all ages. With interactive displays and hands-on activities, kids can explore different cultures, learn about history, and discover the world around them. The museum features themed galleries that cater to various interests, from art and science to nature and technology. Families can enjoy a fun-filled day of learning and play together, creating lasting memories. The museum aims to inspire curiosity, creativity, and a love for learning in children through its immersive and interactive environment. Perfect for a family day out.",
+    "guid": "https://www.heritage.sg/childrensmuseum",
+    "activity_or_event": "activity",
+    "url": "https://www.heritage.sg/childrensmuseum",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Children's Museum Singapore",
+    "full_address": "Singapore 179807",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.heritage.sg/childrensmuseum/-/media/cmsg2022/homepage/banner/homepage-fun-activities-for-everyonedesktop-size.png",
+        "source_credit": "Children's Museum Singapore"
+      },
+      {
+        "url": "https://www.heritage.sg/childrensmuseum/-/media/cmsg2022/homepage/banner/2025---cmsg/2025-advance-booking/cmsg-2025---advance-booking---desktop.png",
+        "source_credit": "Children's Museum Singapore"
+      }
+    ]
+  },
+  {
+    "title": "Singapore Children's Museum Activities and Events",
+    "organiser": "Singapore Children's Museum",
+    "blurb": "Explore activities and events at the Children's Museum.",
+    "description": "The Singapore Children's Museum offers a variety of activities and events designed to engage children in learning about Singapore's heritage and culture. Through interactive exhibits and hands-on experiences, children can explore different aspects of Singaporean life, from food to traditions. The museum provides a family-friendly environment where children can play, learn, and discover. Activities include storytelling sessions, craft workshops, and guided tours. The museum aims to foster a love for learning and an appreciation for Singapore's rich heritage among young visitors. The PLAY + MAKE space allows children to explore Singapore’s rich food heritage through hands-on activities. These activities are perfect for families looking for educational and fun experiences.",
+    "guid": "https://www.heritage.sg/childrensmuseum",
+    "activity_or_event": "activity",
+    "url": "https://www.heritage.sg/childrensmuseum",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "sations, as we spotlight the inspiring journey of Anastasia Tjendri-Liew, founder of Bengawan Solo and affectionately known as the Queen of Kueh Lapis",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Singapore Children's Museum",
+    "full_address": "Singapore 179807",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.heritage.sg/childrensmuseum/-/media/cmsg/sep-hol---2025/crafting-sweet-treats-shaping-a-legacy/crafting-sweet-treats-shaping-a-legacy-11--size.png",
+        "source_credit": "Singapore Children's Museum"
+      },
+      {
+        "url": "https://www.heritage.sg/childrensmuseum/-/media/cmsg/oct-childrens-day---2025/nanyang-sauce/nanyang-sauce-1-1--size.png",
+        "source_credit": "Singapore Children's Museum"
+      },
+      {
+        "url": "https://www.heritage.sg/childrensmuseum/-/media/cmsg/oct-childrens-day---2025/tong-heng-mooncake/mooncake-1_1--size.png",
+        "source_credit": "Singapore Children's Museum"
+      }
+    ]
+  },
+  {
+    "title": "Children's Museum Singapore: A World of Wonder",
+    "organiser": "Children’s Museum Singapore",
+    "blurb": "A place of wonder and joyful learning for children.",
+    "description": "Housed in a historic double-storey colonial building which is more than 100 years old, Children’s Museum Singapore aspires to be a place of wonder and joyful learning for all children to engage with Singapore and the world. The museum offers various exhibits and workshops designed to stimulate curiosity and provide educational experiences for children of all ages. It aims to create a fun and interactive environment where children can learn about Singapore's heritage and culture through play and exploration. The museum also hosts special events and programs throughout the year.",
+    "guid": "https://www.heritage.sg/childrensmuseum",
+    "activity_or_event": "activity",
+    "url": "https://www.heritage.sg/childrensmuseum",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Children’s Museum Singapore",
+    "full_address": "Housed in a historic double-storey colonial building which is more than 100 years old, CMSG aspires to be a place of wonder and joyful learning for all children to engage with Singapore and the world",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.heritage.sg/childrensmuseum/-/media/cmsg/sep-hol---2025/crafting-sweet-treats-shaping-a-legacy/crafting-sweet-treats-shaping-a-legacy-11--size.png",
+        "source_credit": "Children’s Museum Singapore"
+      },
+      {
+        "url": "https://www.heritage.sg/childrensmuseum/-/media/cmsg/oct-childrens-day---2025/nanyang-sauce/nanyang-sauce-1-1--size.png",
+        "source_credit": "Children’s Museum Singapore"
+      }
+    ]
+  }
+]

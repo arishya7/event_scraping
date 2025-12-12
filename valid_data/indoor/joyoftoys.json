@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Joy of Toys: A Unique Family Play Experience",
+    "organiser": "Joy of Toys",
+    "blurb": "Fun recreational area for families to enjoy toys.",
+    "description": "Joy of Toys offers a unique play experience combining wooden toys and comfortable spaces. The Main Play Space is suitable for preschoolers and school-aged children. The Toddler Play Space is recommended for crawling babies and toddlers learning to walk. The Riding Room is recommended for short or add-on play, for beginning or confident walkers. Open daily from 10 AM to 8 PM. Remember to bring socks for children and accompanying adults! They provide family-friendly facilities for a fun and relaxing day.",
+    "guid": "https://joyoftoys.com.sg/wp/",
+    "activity_or_event": "activity",
+    "url": "https://joyoftoys.com.sg/wp/",
+    "price_display_teaser": "From SGD",
+    "price_display": "From S$null",
+    "price": null,
+    "age_group_display": "0 to 12 years",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "10 AM to 8 PM daily",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Joy of Toys",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "http://joyoftoys.com.sg/wp/wp-content/uploads/2017/09/drums-small.jpg",
+        "source_credit": "Joy of Toys"
+      },
+      {
+        "url": "http://joyoftoys.com.sg/wp/wp-content/uploads/2017/09/doll-2-small.jpg",
+        "source_credit": "Joy of Toys"
+      }
+    ]
+  },
+  {
+    "title": "The Joy of Toys: Family Fun and Playtime Center",
+    "organiser": "The Joy of Toys Pte. Ltd.",
+    "blurb": "Engage in pretend play or join a fun family game!",
+    "description": "The Joy of Toys offers a variety of activities suitable for the whole family. Solve challenging puzzles together, engage in imaginative pretend play scenarios, or participate in fun and engaging family games. A perfect place for families to bond and create lasting memories through interactive and stimulating play experiences. The center provides a welcoming environment for children and adults to explore, learn, and have fun together. Copyright © 2025 The Joy of Toys Pte. Ltd. Find us here Email Facebook Instagram",
+    "guid": "https://joyoftoys.com.sg/wp/",
+    "activity_or_event": "activity",
+    "url": "https://joyoftoys.com.sg/wp/",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "The Joy of Toys",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "http://joyoftoys.com.sg/wp/wp-content/uploads/2017/09/doll-2-small.jpg",
+        "source_credit": "The Joy of Toys Pte. Ltd."
+      },
+      {
+        "url": "http://joyoftoys.com.sg/wp/wp-content/uploads/2017/09/drums-small.jpg",
+        "source_credit": "The Joy of Toys Pte. Ltd."
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Adventure HQ - Khatib: An Indoor Adventure Center",
+    "organiser": "HomeTeamNS",
+    "blurb": "Singapore's First Multi-Installation Indoor Adventure Centre",
+    "description": "Adventure HQ is Singapore’s first multi-installation indoor adventure centre, spanning 2,800 square metres with a height of 20 metres. It features thrilling rock climbing walls, an urban climb zone, a challenging ropes course, a 165-metre-long indoor cave, and the first-of-its-kind 2-tiered, 7.5-metre high indoor free-fall slide in Singapore. Perfect for families and thrill-seekers, Adventure HQ offers a unique and exciting experience for all ages. Explore the depths of the cave, conquer the heights of the climbing walls, and challenge yourself on the ropes course. An unforgettable adventure awaits!",
+    "guid": "https://www.hometeamns.sg/khatib/adventurehq/",
+    "activity_or_event": "activity",
+    "url": "https://www.hometeamns.sg/khatib/adventurehq/",
+    "price_display_teaser": "From $40.74",
+    "price_display": "From $40.74 - $79.46",
+    "price": 30.0,
+    "age_group_display": "7 years and above (min height: 1.25m), Roll Glider: 13 years and above (min weight: 30kg)",
+    "min_age": 5.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily (except Mon)",
+    "datetime_display": "Weekdays (except Mon): 2pm - 9.30pm, Weekends, PH & eve, School Holidays: 10am - 9.30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Adventure HQ",
+    "full_address": "Singapore 767944",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Adventure_HQ___Khatib__An_Indoor_Adventure_Center_1.jpg",
+        "filename": "Adventure_HQ___Khatib__An_Indoor_Adventure_Center_1.jpg",
+        "original_url": "https://rollglider.com/project/adventure-hq/",
+        "source_credit": "rollglider"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

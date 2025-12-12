@@ -1,0 +1,78 @@
+[
+  {
+    "title": "SAFRA CCK",
+    "organiser": "Kiztopia",
+    "blurb": "Bounce Into Adventure! Gather your crew and leap!",
+    "description": "Gather your crew and leap into a world where trampolines and bouncy castles reign supreme! Bounce higher than ever, conquer thrilling slides, and dash through exhilarating challenges. Unleash your energy, let your imagination run wild, and turn every jump into a daring quest. It’s time to defy limits and make every bounce unforgettable! Experience the joy of bouncing in a safe and supervised environment, perfect for children and families seeking active fun. With a variety of bouncy structures and games, there's something for everyone to enjoy. Create lasting memories as you bounce, laugh, and play together at SAFRA CCK.",
+    "guid": "https://kiztopia.com/brands/bouncetopia/",
+    "activity_or_event": "activity",
+    "url": "https://kiztopia.com/brands/bouncetopia/",
+    "price_display_teaser": "Free + Paid options",
+    "price_display": "From S$",
+    "price": 0.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 14.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "SAFRA CCK",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2023/03/9-600x500.jpg",
+        "source_credit": "Kiztopia"
+      },
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2023/03/6-600x500.jpg",
+        "source_credit": "Kiztopia"
+      },
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2023/03/7-600x500.jpg",
+        "source_credit": "Kiztopia"
+      },
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2023/03/8-600x500.jpg",
+        "source_credit": "Kiztopia"
+      },
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2025/04/Tengah-Website-Gallery_600-x-500px-07.jpg",
+        "source_credit": "Kiztopia"
+      }
+    ],
+    "full_address": "Not available"
+  },
+  {
+    "title": "Bouncetopia @Kiztopia Club, HomeTeamNS Tengah",
+    "organiser": "Kiztopia",
+    "blurb": "New বৃহত্তম Bouncetopia outlet in Singapore!",
+    "description": "Bouncetopia is an indoor playground with giant themed bouncy castles, obstacle courses, and thrilling slides. This new outlet at HomeTeamNS Tengah is the largest Bouncetopia in Singapore, offering an exciting and safe environment for children to explore, play, and develop their physical and social skills. With a variety of play zones and activities, Bouncetopia provides endless fun and entertainment for kids of all ages. Parents can relax and enjoy watching their children have a blast in this vibrant and engaging play space. It is designed to promote active play and create memorable experiences for families. The playground features colourful and imaginative themes that spark creativity and imagination in children, making it a perfect destination for family outings and playdates.",
+    "guid": "https://kiztopia.com/brands/bouncetopia/",
+    "activity_or_event": "activity",
+    "url": "https://kiztopia.com/brands/bouncetopia/",
+    "price_display_teaser": "Free + Paid options",
+    "price_display": "From $22.80 to $29.80",
+    "price": 22.8,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 14.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Check website for operating hours",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Bouncetopia @Kiztopia Club, HomeTeamNS Tengah",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://kiztopia.com/wp-content/uploads/2025/04/Tengah-Website-Gallery_600-x-500px-01.jpg",
+        "source_credit": "Kiztopia"
+      }
+    ],
+    "full_address": "Not available"
+  }
+]

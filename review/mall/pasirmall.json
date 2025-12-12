@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Playgrounds at Pasir Ris Mall Central Greenway",
+    "organiser": "Pasir Ris Mall",
+    "blurb": "Fun-filled moments at engaging playgrounds await!",
+    "description": "Pasir Ris Mall offers engaging playgrounds located at Level 2 Central Greenway, designed to cater to families. Enjoy convenient amenities such as diaper changing and nursing rooms on Basement 1, Basement 2, and Level 2, equipped with basins, hot water dispensers, and changing stations. Designated family parking lots are available near the entrances at Basement 1 and Basement 2 for families with infants and young children. Nurture young minds with education and edutainment options.",
+    "guid": "https://pasirrismall.com.sg/explore-pasir-ris-mall/family-favourites/",
+    "activity_or_event": "activity",
+    "url": "https://pasirrismall.com.sg/explore-pasir-ris-mall/family-favourites/",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": "",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Pasir Ris Mall",
+    "full_address": "Singapore 519612",
+    "categories": [
+      "Outdoor Playground",
+      "Mall related"
+    ],
+    "images": [
+      {
+        "url": "https://pasirrismall.com.sg/wp-content/uploads/2024/08/Fun-for-Kids.png",
+        "source_credit": "Pasir Ris Mall"
+      },
+      {
+        "url": "https://pasirrismall.com.sg/wp-content/uploads/2024/08/Diaper-Changing-and-Nursing-Rooms.png",
+        "source_credit": "Pasir Ris Mall"
+      },
+      {
+        "url": "https://pasirrismall.com.sg/wp-content/uploads/2024/01/explore_family_4.png",
+        "source_credit": "Pasir Ris Mall"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

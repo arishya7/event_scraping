@@ -1,0 +1,49 @@
+[
+  {
+    "title": "East Coast Commune",
+    "organiser": "East Coast Commune",
+    "blurb": "Brunch with your little one by the beach",
+    "description": "Located in the heart of East Coast Park, East Coast Commune is a charming, sunlit café that blends laid-back coastal vibes with a menu full of fresh, wholesome flavors. Perfect for a post-ride coffee or a slow weekend brunch, the café offers everything from hearty breakfast plates and vibrant grain bowls to house-made bakes and specialty brews. Just steps from the beach, East Coast Commune is pet-friendly, family-friendly, and always welcoming. Whether you're fueling up or winding down, it’s a perfect pitstop by the sea.",
+    "guid": "https://www.eccommune.com/lbc",
+    "activity_or_event": "activity",
+    "url": "https://www.eccommune.com",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily (except Tue)",
+    "datetime_display": "Mon, Wed & Thur: 8am-5pm, Fri, Weekends: 8am- 9pm ",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "East Coast Commune",
+    "full_address": "1000 ECP #01-03 Singapore 449876",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\East_Coast_Commune_1.webp",
+        "filename": "East_Coast_Commune_1.webp",
+        "original_url": "https://www.eccommune.com/",
+        "source_credit": "eccommune"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\East_Coast_Commune_2.webp",
+        "filename": "East_Coast_Commune_2.webp",
+        "original_url": "https://www.eccommune.com/",
+        "source_credit": "eccommune"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\East_Coast_Commune_3.webp",
+        "filename": "East_Coast_Commune_3.webp",
+        "original_url": "https://www.eccommune.com/",
+        "source_credit": "eccommune"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

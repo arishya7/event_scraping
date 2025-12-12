@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Rooftop Playground at The Seletar Mall",
+    "organiser": "The Seletar Mall",
+    "blurb": "Chill with a scenic view at the rooftop playground!",
+    "description": "The rooftop playground on Level 4 offers a scenic view where kids can meet Sir Little and Friends. Open from 10am to 10pm, weather permitting. When the sun sets, the playground is illuminated by solar lighting, creating a magical ambience for families to enjoy. Diaper changing and nursing rooms are conveniently located at Basement 1, Level 2, Level 3 and Level 4, equipped with basins, hot water dispensers, diaper changing stations and nursing rooms.",
+    "guid": "https://theseletarmall.com.sg/explore-the-seletar-mall/family-favourites/",
+    "activity_or_event": "activity",
+    "url": "https://theseletarmall.com.sg/explore-the-seletar-mall/family-favourites/",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": "1 to 12 years old",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am to 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "The Seletar Mall",
+    "full_address": "Singapore 797653",
+    "categories": [
+      "Outdoor Playground",
+      "Mall related"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Rooftop_Playground_at_The_Seletar_Mall_1.jpg",
+        "filename": "Rooftop_Playground_at_The_Seletar_Mall_1.jpg",
+        "original_url": "https://theseletarmall.com.sg/explore-the-seletar-mall/family-favourites/",
+        "source_credit": "theseletarmall"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "title": "The Artground at Goodman Arts Centre - Lost Islands",
+    "organiser": "The Artground",
+    "blurb": "Arts space for families to discover, learn, be curious.",
+    "description": "The Artground is an accessible arts space where families can feel at ease, spend time, discover, learn, and be curious. It opens its doors to different communities, providing positive experiences to enrich and brighten their day. The space is sanitised and reset between each time-slot. Pre-booking tickets is recommended, though walk-ins are allowed if slots are available. The venue is closed to the public during weekday morning school excursions, selected public holidays, and private events. Admission charges apply, with different rates for weekdays and weekends/public holidays/school holidays. CHAS card holders enjoy free admission.",
+    "guid": "https://www.theartground.com.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.theartground.com.sg/",
+    "price_display_teaser": "From $5",
+    "price_display": "From $5 - $8 (Free for Blue and Orange CHAS card holders)",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": "19 Apr - 29 Mar",
+    "datetime_display": "19 Apr 2025 - 29 Mar 2026, 9.15am – 6pm (Closed on selected Public Holidays)",
+    "start_datetime": "2025-04-19T09:15:00",
+    "end_datetime": "2026-03-29T18:00:00",
+    "venue_name": "Goodman Arts Centre",
+    "full_address": "Goodman Arts Centre, 90 Goodman Rd, #01-40 BLK J, Singapore 439053",
+    "categories": [
+      "Attraction",
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\The_Artground_at_Goodman_Arts_Centre_Venue_1.jpg",
+        "filename": "The_Artground_at_Goodman_Arts_Centre_Venue_1.jpg",
+        "original_url": "https://www.theartground.com.sg/visit-us/goodman-arts-centre",
+        "source_credit": "theartground"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\The_Artground_at_Goodman_Arts_Centre_Venue_2.jpg",
+        "filename": "The_Artground_at_Goodman_Arts_Centre_Venue_2.jpg",
+        "original_url": "https://www.theartground.com.sg/visit-us/goodman-arts-centre",
+        "source_credit": "theartground"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "The Artground at One Holland Village - A Curious Garden",
+    "organiser": "The Artground",
+    "blurb": "Arts space for families to discover, learn, be curious.",
+    "description": "The Artground is an accessible arts space where families can feel at ease, spend time, discover, learn, and be curious. It opens its doors to different communities, providing positive experiences to enrich and brighten their day. The space is sanitised and reset between each time-slot. Pre-booking tickets is recommended, though walk-ins are allowed if slots are available. The venue is closed to the public during weekday morning school excursions, selected public holidays, and private events. Admission charges apply, with different rates for weekdays and weekends/public holidays/school holidays. CHAS card holders enjoy free admission.",
+    "guid": "https://www.theartground.com.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.theartground.com.sg/",
+    "price_display_teaser": "From $5",
+    "price_display": "From $5 - $10 (Free for Blue and Orange CHAS card holders)",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": "08 Dec - 31 Dec",
+    "datetime_display": "08 Dec 2023 - 31 Dec 2025, 9.15am - 6pm (Closed on selected Public Holidays)",
+    "start_datetime": "2023-12-08T09:15:00",
+    "end_datetime": "2025-12-31T18:00:00",
+    "venue_name": "One Holland Village",
+    "full_address": "7 Holland Village Way #01-20 One Holland Village Singapore 275748",
+    "categories": [
+      "Attraction",
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\The_Artground_at_One_Holland_Village_Venue_1.jpeg",
+        "filename": "The_Artground_at_One_Holland_Village_Venue_1.jpeg",
+        "original_url": "https://www.theartground.com.sg/visit-us/one-holland-village",
+        "source_credit": "theartground"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\The_Artground_at_One_Holland_Village_Venue_2.png",
+        "filename": "The_Artground_at_One_Holland_Village_Venue_2.png",
+        "original_url": "https://www.theartground.com.sg/visit-us/one-holland-village",
+        "source_credit": "theartground"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\The_Artground_at_One_Holland_Village_Venue_3.jpeg",
+        "filename": "The_Artground_at_One_Holland_Village_Venue_3.jpeg",
+        "original_url": "https://www.theartground.com.sg/visit-us/one-holland-village",
+        "source_credit": "theartground"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

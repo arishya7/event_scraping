@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Arbora Hilltop Garden Dining Experience at Faber",
+    "organiser": "Mount Faber Dining",
+    "blurb": "Family-friendly oasis nestled in Mount Faber Peak.",
+    "description": "Arbora is a family-friendly dining destination nestled within the lush greenery of Mount Faber Peak. Refreshed with a brand-new canopy, it offers a cool and breezy atmosphere for all-day casual dining. Open from 11 AM to 9.30 PM daily, Arbora is perfect for family gatherings, featuring a spacious and playful setting where kids can explore while parents relax and enjoy delicious food. The restaurant provides a unique hilltop garden dining experience, making it an ideal spot for families seeking a relaxing and enjoyable meal amidst nature. It's a great place for kids to have fun and for parents to unwind.",
+    "guid": "https://mountfaberdining.com/pages/arbora",
+    "activity_or_event": "activity",
+    "url": "https://mountfaberdining.com/pages/arbora",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 11am - 9.30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Arbora",
+    "full_address": "Mount Faber Peak, Singapore 099203",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Arbora_Hilltop_Garden_Dining_Experience_at_Faber_1.jpg",
+        "filename": "Arbora_Hilltop_Garden_Dining_Experience_at_Faber_1.jpg",
+        "original_url": "https://mountfaberdining.com/pages/arbora",
+        "source_credit": "mountfaberdining"
+      },
+      {
+        "url": "https://mountfaberdining.com/cdn/shop/files/brand_page_pics_5.png?v=1721377237&width=1920",
+        "source_credit": "Mount Faber Dining"
+      },
+      {
+        "url": "https://mountfaberdining.com/cdn/shop/files/toast_for_2_1.png?v=1748922525&width=1920",
+        "source_credit": "Mount Faber Dining"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

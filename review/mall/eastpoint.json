@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Eastpoint Mall L6 playground",
+    "organiser": "Eastpoint Mall",
+    "blurb": "Discover family fun at Eastpoint Mall in Simei today!",
+    "description": "Eastpoint Mall is a haven for families, offering both exciting activities and a wide range of stores. On L6, little ones can set sail on adventure at the nautical-themed play area, complete with ship slides and rope climbing structures. While the children play to their hearts’ content, parents and caregivers can take a well-deserved rest at the nearby seating areas, or enjoy a leisurely round of shopping with peace of mind.",
+    "guid": "https://www.eastpoint.sg/family",
+    "activity_or_event": "activity",
+    "url": "https://www.eastpoint.sg/family",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": "2 to 12 years old",
+    "min_age": 2.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am - 10pm",
+    "start_datetime": "1970-01-01T10:00:00",
+    "end_datetime": "1970-01-01T22:00:00",
+    "venue_name": "Eastpoint Mall",
+    "full_address": "Eastpoint Mall 3 Simei Street 6 Singapore 528833 (65) 6587 7200 Get Directions Customer Service Counter Level 2 Opening Hours: 10am - 10pm Redemption Hours: 10am - 9",
+    "categories": [
+      "Mall related",
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Eastpoint_Mall_L6_playground_1.jpg",
+        "filename": "Eastpoint_Mall_L6_playground_1.jpg",
+        "original_url": "https://www.eastpoint.sg/family",
+        "source_credit": "eastpoint"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

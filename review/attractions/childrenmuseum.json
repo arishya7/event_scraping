@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Children's Museum Singapore: Fun For Everyone!",
+    "organiser": "Children's Museum Singapore",
+    "blurb": "Fun activities for everyone at Children's Museum.",
+    "description": "The Children's Museum Singapore offers a variety of engaging and educational exhibits designed for children of all ages. With interactive displays and hands-on activities, kids can explore different cultures, learn about history, and discover the world around them. The museum features themed galleries that cater to various interests, from art and science to nature and technology. Families can enjoy a fun-filled day of learning and play together, creating lasting memories. The museum aims to inspire curiosity, creativity, and a love for learning in children through its immersive and interactive environment. Perfect for a family day out.",
+    "guid": "https://www.heritage.sg/childrensmuseum",
+    "activity_or_event": "activity",
+    "url": "https://www.heritage.sg/childrensmuseum",
+    "price_display_teaser": "Free",
+    "price_display": "Free for Singaporeans & PR, Foreign residents from $10 - $40",
+    "price": 0.0,
+    "age_group_display": "2 to 12 years old (Adults are only allowed in the museum when accompanying children)",
+    "min_age": 2.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily (except Mon)",
+    "datetime_display": "Available daily (except Mon), 9am - 5:45pm (bookings required)",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Children's Museum Singapore",
+    "full_address": "Singapore 179807",
+    "categories": [
+      "Attraction",
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Children_s_Museum_Singapore__Fun_For_Everyone__1.png",
+        "filename": "Children_s_Museum_Singapore__Fun_For_Everyone__1.png",
+        "original_url": "https://www.heritage.sg/childrensmuseum",
+        "source_credit": "heritage"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Children_s_Museum_Singapore__Fun_For_Everyone__2.jpg",
+        "filename": "Children_s_Museum_Singapore__Fun_For_Everyone__2.jpg",
+        "original_url": "https://www.heritage.sg/childrensmuseum",
+        "source_credit": "heritage"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Children_s_Museum_Singapore__Fun_For_Everyone__3.JPG",
+        "filename": "Children_s_Museum_Singapore__Fun_For_Everyone__3.JPG",
+        "original_url": "https://www.heritage.sg/childrensmuseum",
+        "source_credit": "heritage"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Action Motion Adventure Park at Bedok Reservoir",
+    "organiser": "HomeTeamNS",
+    "blurb": "Experience thrilling activities at Bedok Reservoir.",
+    "description": "Action Motion offers a range of exciting activities suitable for families and thrill-seekers. Located at HomeTeamNS Bedok Reservoir, this adventure park provides a unique blend of outdoor challenges and fun experiences. Activities include high-element courses, rock climbing, and other adrenaline-pumping adventures designed to test your limits and create lasting memories. Perfect for families looking for an active day out, Action Motion caters to various skill levels, ensuring everyone can participate and enjoy the excitement. The park emphasizes safety and provides trained instructors to guide participants through each activity, making it a secure and enjoyable environment for all ages. Get ready for an unforgettable adventure at Action Motion!",
+    "guid": "https://www.hometeamns.sg/bedok-reservoir-origin/actionmotion/",
+    "activity_or_event": "activity",
+    "url": "https://www.hometeamns.sg/bedok-reservoir-origin/actionmotion/",
+    "price_display_teaser": "From $25",
+    "price_display": "From $25 to $35 for 2.5 hours",
+    "price": 25.0,
+    "age_group_display": "5 years and above (min weight: 20kg)",
+    "min_age": 5.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily (except Mon)",
+    "datetime_display": "Weekdays (except Mon): 12pm - 8:30pm, Weekends/PH & eve/School holidays: 9am - 8:30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "HomeTeamNS Bedok Reservoir",
+    "full_address": "Singapore 479994",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Action_Motion_Adventure_Park_at_Bedok_Reservoir_1.jpg",
+        "filename": "Action_Motion_Adventure_Park_at_Bedok_Reservoir_1.jpg",
+        "original_url": "https://www.hometeamns.sg/bedok-reservoir-origin/actionmotion/",
+        "source_credit": "hometeamns"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Action_Motion_Adventure_Park_at_Bedok_Reservoir_2.jpg",
+        "filename": "Action_Motion_Adventure_Park_at_Bedok_Reservoir_2.jpg",
+        "original_url": "https://www.hometeamns.sg/bedok-reservoir-origin/actionmotion/",
+        "source_credit": "hometeamns"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Action_Motion_Adventure_Park_at_Bedok_Reservoir_3.jpg",
+        "filename": "Action_Motion_Adventure_Park_at_Bedok_Reservoir_3.jpg",
+        "original_url": "https://www.hometeamns.sg/bedok-reservoir-origin/actionmotion/",
+        "source_credit": "hometeamns"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

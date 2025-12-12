@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Christmas Wonderland 2024",
+    "organiser": "Christmas Wonderland",
+    "blurb": "Highlights of Christmas Wonderland 2024.",
+    "description": "Explore the enchanting Christmas Wonderland 2024, a festive event filled with dazzling light displays, carnival games, and seasonal treats. Perfect for families and visitors of all ages, this wonderland offers a magical experience with various attractions and activities. Enjoy the festive atmosphere, capture memorable moments, and create lasting memories with loved ones. The event features stunning visual displays and interactive experiences designed to immerse you in the holiday spirit. A perfect destination for a family outing during the Christmas season.",
+    "guid": "https://christmaswonderland.sg/",
+    "activity_or_event": "event",
+    "url": "https://christmaswonderland.sg/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "min_price": 0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Gardens by the Bay",
+    "label_tag": null,
+    "keyword_tag": "Christmas, festive event, light displays, carnival games, family activities",
+    "address_display": "18 Marina Gardens Dr, Singapore 018953",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://christmaswonderland.sg/wp-content/uploads/2025/01/thumbnail-1-715x400.png",
+        "source_credit": "Christmas Wonderland"
+      }
+    ],
+    "id": 557,
+    "longitude": 103.8636132,
+    "latitude": 1.2815683,
+    "planning_area": "Marina South",
+    "region": "Central Region"
+  },
+  {
+    "title": "Christmas Wonderland at Gardens by the Bay",
+    "organiser": "Christmas Wonderland",
+    "blurb": "Experience the magic of Christmas at Gardens by the Bay.",
+    "description": "Christmas Wonderland at Gardens by the Bay offers a festive experience with dazzling light displays, a Christmas market, carnival games, and entertainment for the whole family. Explore the stunning Supertree Grove illuminated with festive lights, enjoy carnival rides, and shop for unique gifts at the Christmas market. There are also opportunities to meet Santa Claus and enjoy live performances. This event is perfect for families looking to celebrate the holiday season in a magical setting with various activities and attractions suitable for all ages. Enjoy the festive atmosphere and create lasting memories with loved ones.",
+    "guid": "https://christmaswonderland.sg/",
+    "activity_or_event": "event",
+    "url": "https://christmaswonderland.sg/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$8",
+    "price": 8.0,
+    "min_price": 8.0,
+    "max_price": null,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Gardens by the Bay",
+    "label_tag": null,
+    "keyword_tag": "Christmas, family, lights, market, carnival, Gardens by the Bay",
+    "address_display": "18 Marina Gardens Dr, Singapore 018953",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://christmaswonderland.sg/wp-content/uploads/2025/01/gallery-03.jpeg",
+        "source_credit": "Christmas Wonderland"
+      },
+      {
+        "url": "https://christmaswonderland.sg/wp-content/uploads/2024/12/gallery-image-02.jpg",
+        "source_credit": "Christmas Wonderland"
+      },
+      {
+        "url": "https://christmaswonderland.sg/wp-content/uploads/2025/01/gallery-01.jpeg",
+        "source_credit": "Christmas Wonderland"
+      },
+      {
+        "url": "https://christmaswonderland.sg/wp-content/uploads/2024/12/gallery-image-05.jpg",
+        "source_credit": "Christmas Wonderland"
+      },
+      {
+        "url": "https://christmaswonderland.sg/wp-content/uploads/2024/12/gallery-image-06.jpg",
+        "source_credit": "Christmas Wonderland"
+      }
+    ],
+    "id": 558,
+    "longitude": 103.8636132,
+    "latitude": 1.2815683,
+    "planning_area": "Marina South",
+    "region": "Central Region"
+  }
+]

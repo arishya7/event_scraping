@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Tayo Station: An Immersive Indoor Playground",
+    "organiser": "Tayo Station",
+    "blurb": "An immersive indoor playground for young children.",
+    "description": "Tayo Station is an indoor playground designed to provide an immersive and engaging experience for young children. It features various play zones and activities inspired by the popular Tayo the Little Bus animated series. Kids can enjoy interactive games, climb and slide in the play areas, and participate in themed activities. The playground aims to promote creativity, social interaction, and physical activity in a safe and fun environment. It is suitable for families with young children looking for a stimulating and entertaining outing.",
+    "guid": "https://tayostation.com/",
+    "activity_or_event": "activity",
+    "url": "https://tayostation.com/",
+    "price_display_teaser": "From $10",
+    "price_display": "From $10 - $37.90",
+    "price": 0.0,
+    "age_group_display": "14 years old and below",
+    "min_age": 0.0,
+    "max_age": 14.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10:30am - 8pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Tayo Station",
+    "full_address": "1 Pasir Ris Cl, #03-112 E!Hub @ Downtown East, Singapore 519599",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Tayo_Station__An_Immersive_Indoor_Playground_1.jpg",
+        "filename": "Tayo_Station__An_Immersive_Indoor_Playground_1.jpg",
+        "original_url": "https://tayostation.com/gallery/",
+        "source_credit": "tayostation"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Tayo_Station__An_Immersive_Indoor_Playground_2.jpg",
+        "filename": "Tayo_Station__An_Immersive_Indoor_Playground_2.jpg",
+        "original_url": "https://tayostation.com/gallery/",
+        "source_credit": "tayostation"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Tayo_Station__An_Immersive_Indoor_Playground_3.jpg",
+        "filename": "Tayo_Station__An_Immersive_Indoor_Playground_3.jpg",
+        "original_url": "https://tayostation.com/gallery/",
+        "source_credit": "tayostation"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

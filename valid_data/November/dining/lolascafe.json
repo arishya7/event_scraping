@@ -1,0 +1,223 @@
+[
+  {
+    "title": "Lola's Cafe - Simon Road Neighbourhood Cafe",
+    "organiser": "Lola's Cafe",
+    "blurb": "Your favourite neighbourhood cafe with baked treats.",
+    "description": "Lola's Cafe is a neighbourhood cafe known for its freshly ground coffee, delicious baked treats, and buttery eggs. It's a great place to gather with family and friends for a meal or a snack. The cafe offers a cozy and inviting atmosphere for all to enjoy.",
+    "guid": "https://www.lolascafe.com.sg/",
+    "activity_or_event": "event",
+    "url": "https://www.lolascafe.com.sg/",
+    "is_free": false,
+    "price_display_teaser": "Contact for pricing",
+    "price_display": "Please contact for pricing",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Monday - Friday (Close on every 1st Monday of the month) 10am – 10.30pm (last order 10pm) Saturday, Sunday & Public Holiday 9am - 10.30pm (last order 10pm)",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Lola's Cafe - Simon Road",
+    "label_tag": null,
+    "keyword_tag": "Cafe, Coffee, Baked Treats, Family-friendly",
+    "address_display": "5 Simon Rd, Singapore 545893",
+    "categories": [
+      "Dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5e04585e60c6902ad43c0ad4/8792e814-5af8-49db-a084-56d54bc53a8b/DSC07450.jpg?format=1500w",
+        "source_credit": "Lola's Cafe"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5e04585e60c6902ad43c0ad4/19f54461-95ef-4f4b-bd0c-db82295382b8/DSC00339.jpg",
+        "source_credit": "Lola's Cafe"
+      }
+    ],
+    "id": 442,
+    "longitude": 103.8859561,
+    "latitude": 1.3616352,
+    "planning_area": "Hougang",
+    "region": "North-East Region"
+  },
+  {
+    "title": "Lola's Cafe - Holland Village Neighbourhood Cafe",
+    "organiser": "Lola's Cafe",
+    "blurb": "Your favourite neighbourhood cafe with baked treats.",
+    "description": "Lola's Cafe is a neighbourhood cafe known for its freshly ground coffee, delicious baked treats, and buttery eggs. It's a great place to gather with family and friends for a meal or a snack. The cafe offers a cozy and inviting atmosphere for all to enjoy.",
+    "guid": "https://www.lolascafe.com.sg/",
+    "activity_or_event": "event",
+    "url": "https://www.lolascafe.com.sg/",
+    "is_free": false,
+    "price_display_teaser": "Contact for pricing",
+    "price_display": "Please contact for pricing",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Tuesday - Friday 10am – 10pm (last order 9.30pm) Saturday, Sunday & Public Holiday 9am - 10pm (last order 9.30pm)",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Lola's Cafe - Holland Village",
+    "label_tag": null,
+    "keyword_tag": "Cafe, Coffee, Baked Treats, Family-friendly",
+    "address_display": "48 Lor Mambong, Singapore 277699",
+    "categories": [
+      "Dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5e04585e60c6902ad43c0ad4/19f54461-95ef-4f4b-bd0c-db82295382b8/DSC00339.jpg",
+        "source_credit": "Lola's Cafe"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5e04585e60c6902ad43c0ad4/630a0e57-2aa1-4835-b5e3-4c4ae06c7d16/DSC09937.jpg",
+        "source_credit": "Lola's Cafe"
+      }
+    ],
+    "id": 443,
+    "longitude": 103.7943002,
+    "latitude": 1.3120969,
+    "planning_area": "Queenstown",
+    "region": "Central Region"
+  },
+  {
+    "title": "Lola's Cafe - Tampines Mall Neighbourhood Cafe",
+    "organiser": "Lola's Cafe",
+    "blurb": "Your favourite neighbourhood cafe with baked treats.",
+    "description": "Lola's Cafe is a neighbourhood cafe known for its freshly ground coffee, delicious baked treats, and buttery eggs. It's a great place to gather with family and friends for a meal or a snack. The cafe offers a cozy and inviting atmosphere for all to enjoy.",
+    "guid": "https://www.lolascafe.com.sg/",
+    "activity_or_event": "event",
+    "url": "https://www.lolascafe.com.sg/",
+    "is_free": false,
+    "price_display_teaser": "Contact for pricing",
+    "price_display": "Please contact for pricing",
+    "price": 0.0,
+    "min_price": 0.0,
+    "max_price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Monday - Friday 10am - 10pm (last order 9.30pm) Saturday, Sunday & Public Holidays 9am - 10pm (last order 9.30pm)",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Lola's Cafe - Tampines Mall",
+    "label_tag": null,
+    "keyword_tag": "Cafe, Coffee, Baked Treats, Family-friendly",
+    "address_display": "4 Tampines Central 5, # 01 - 50 Tampines Mall, Singapore 529510",
+    "categories": [
+      "Mall",
+      "Dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5e04585e60c6902ad43c0ad4/630a0e57-2aa1-4835-b5e3-4c4ae06c7d16/DSC09937.jpg",
+        "source_credit": "Lola's Cafe"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5e04585e60c6902ad43c0ad4/66e808ba-4fd5-48b7-b816-fb9534fda6d2/DSC07346.jpg",
+        "source_credit": "Lola's Cafe"
+      }
+    ],
+    "id": 444,
+    "longitude": 103.94433269999999,
+    "latitude": 1.3520017,
+    "planning_area": "Tampines",
+    "region": "East Region"
+  },
+  {
+    "title": "Lola's Cafe Tampines Mall",
+    "organiser": "Lola's Cafe",
+    "blurb": "Cafe in Tampines Mall.",
+    "description": "Lola's Cafe is a cafe located in Tampines Mall, Singapore. It offers a variety of food and beverages. A great place for families to dine.",
+    "guid": "https://www.lolascafe.com.sg/",
+    "activity_or_event": "event",
+    "url": "https://www.lolascafe.com.sg/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$10 to S$30",
+    "price": 10.0,
+    "min_price": 10.0,
+    "max_price": 30.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Lola's Cafe Tampines Mall",
+    "label_tag": null,
+    "keyword_tag": "Cafe, Dining, Family-friendly",
+    "address_display": "4 Tampines Central 5, # 01 - 50 Tampines Mall, Singapore 529510",
+    "categories": [
+      "Dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5e04585e60c6902ad43c0ad4/66e808ba-4fd5-48b7-b816-fb9534fda6d2/DSC07346.jpg",
+        "source_credit": "Lola's Cafe"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5e04585e60c6902ad43c0ad4/bb52cefe-8fb2-4d89-ab3c-fed935143b9e/DSC01689.jpg",
+        "source_credit": "Lola's Cafe"
+      }
+    ],
+    "id": 445,
+    "longitude": 103.94433269999999,
+    "latitude": 1.3520017,
+    "planning_area": "Tampines",
+    "region": "East Region"
+  },
+  {
+    "title": "Lola's Cafe - Casual Dining Experience",
+    "organiser": "Lola's Cafe",
+    "blurb": "Enjoy brunch, lunch, and dinner at Lola's Cafe.",
+    "description": "Lola's Cafe offers a casual dining experience with a variety of menu options suitable for families. Enjoy brunch, lunch, and dinner in a relaxed atmosphere. The cafe is known for its friendly service and delicious food, making it a great spot for a family outing. The menu includes a range of dishes from hearty mains to light bites, catering to different tastes. The cafe provides a comfortable setting for families to gather and enjoy a meal together. With its welcoming ambiance and diverse menu, Lola's Cafe is a popular choice for family dining.",
+    "guid": "https://www.lolascafe.com.sg/",
+    "activity_or_event": "dining",
+    "url": "https://www.lolascafe.com.sg/",
+    "is_free": false,
+    "price_display_teaser": "From $",
+    "price_display": "From S$10 to S$30",
+    "price": 10.0,
+    "min_price": 10.0,
+    "max_price": 30.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Monday - Friday (Close on every 1st Monday of the month) 10am – 10.30pm (last order 10pm)\nSaturday, Sunday & Public Holiday 9am - 10.30pm (last order 10pm)\nTuesday - Friday 10am – 10pm (last order 9.30pm)\nSaturday, Sunday & Public Holiday 9am - 10pm (last order 9.30pm)",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Lola's Cafe",
+    "label_tag": null,
+    "keyword_tag": "Cafe, Dining, Family Restaurant, Brunch, Lunch, Dinner",
+    "address_display": "5 Simon Rd, Singapore 545893",
+    "categories": [
+      "Dining"
+    ],
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5e04585e60c6902ad43c0ad4/bb52cefe-8fb2-4d89-ab3c-fed935143b9e/DSC01689.jpg",
+        "source_credit": "Lola's Cafe"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5e04585e60c6902ad43c0ad4/8792e814-5af8-49db-a084-56d54bc53a8b/DSC07450.jpg?format=1500w",
+        "source_credit": "Lola's Cafe"
+      }
+    ],
+    "id": 446,
+    "longitude": 103.8859561,
+    "latitude": 1.3616352,
+    "planning_area": "Hougang",
+    "region": "North-East Region"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "LINE FRIENDS minini Playland @ NEX",
+    "organiser": "NEX",
+    "blurb": "Enjoy a fun play experience with LINE FRIENDS.",
+    "description": "Redeem a LINE FRIENDS minini 45-minute Play Pass when you spend a minimum of $50 at selected participating stores. Each Play Pass admits 1 child (below 12 years old) and 1 accompanying adult only. Children must be between 90cm and 150cm in height to use the slide. Both child and adult are required to bring and wear their own anti-slip socks before entering the play area.",
+    "guid": "https://www.nex.com.sg/NexBuzz/0bqZoP6X46zroWDEJGApNw_3d_3d?Title=LINE+FRIENDS+MININI+MANIA+%40+NEX+%2814+NOV+-+31+DEC+2025%29",
+    "activity_or_event": "activity",
+    "url": "https://www.nex.com.sg/NexBuzz/0bqZoP6X46zroWDEJGApNw_3d_3d?Title=LINE+FRIENDS+MININI+MANIA+%40+NEX+%2814+NOV+-+31+DEC+2025%29",
+    "price_display_teaser": "From $",
+    "is_free": false,
+    "price_display": "S$50",
+    "price": 50,
+    "min_price": 50.0,
+    "max_price": 50.0,
+    "age_group_display": "Below 12 years old",
+    "min_age": 0,
+    "max_age": 12,
+    "datetime_display_teaser": "17-Nov to 07-Dec",
+    "datetime_display": "11am to 9pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "NEX Atrium, L1",
+    "address_display": "Serangoon Central, 23, Singapore 556083",
+    "label_tag": null,
+    "keyword_tag": [
+      "Playland",
+      "LINE FRIENDS",
+      "minini",
+      "NEX",
+      "kids"
+    ],
+    "categories": [
+      "Indoor Playground",
+      "Mall related"
+    ],
+    "images": [
+      {
+        "url": "https://www.nex.com.sg/resources/medias/62986c41f2e549a288f9bc05e5dfef8d.jpg",
+        "source_credit": "NEX",
+        "filename": "NEX_Atrium_L1_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/NEX_Atrium_L1_1.jpg"
+      },
+      {
+        "url": "https://www.nex.com.sg/resources/medias/4d9c92baaacc4d6192ed406b8272fc7a.jpg",
+        "source_credit": "NEX",
+        "filename": "NEX_Atrium_L1_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/NEX_Atrium_L1_2.jpg"
+      }
+    ],
+    "id": 755,
+    "longitude": 103.8720247,
+    "latitude": 1.3507155,
+    "planning_area": "Serangoon",
+    "region": "North-East Region"
+  },
+  {
+    "title": "LINE FRIENDS minini Playland at NEX",
+    "organiser": "NEX",
+    "blurb": "Redeem a Play Pass with minimum spend at NEX.",
+    "description": "Enjoy a 45-minute play session at the LINE FRIENDS minini Playland. Redeem a play pass when you spend a minimum of $50 at selected participating stores. Each play pass admits one child (below 12 years old) and one accompanying adult. Children must be between 90cm and 150cm to use the slide. Both child and adult must wear anti-slip socks. Limited to the first 20 redemptions per session. Play Pass redemption and utilisation must be on the same day of spending, based on the session booked. Pass(es) redeemed cannot be voided or exchanged.",
+    "guid": "https://www.nex.com.sg/NexBuzz/0bqZoP6X46zroWDEJGApNw_3d_3d?Title=LINE+FRIENDS+MININI+MANIA+%40+NEX+%2814+NOV+-+31+DEC+2025%29",
+    "activity_or_event": "activity",
+    "url": "https://www.nex.com.sg/NexBuzz/0bqZoP6X46zroWDEJGApNw_3d_3d?Title=LINE+FRIENDS+MININI+MANIA+%40+NEX+%2814+NOV+-+31+DEC+2025%29",
+    "price_display_teaser": "Free + Paid options",
+    "is_free": true,
+    "price_display": "Minimum spend of $50",
+    "price": 50,
+    "min_price": 0,
+    "max_price": 50.0,
+    "age_group_display": "Below 12 years old",
+    "min_age": 0,
+    "max_age": 12,
+    "datetime_display_teaser": "17-Nov to 07-Dec",
+    "datetime_display": "11am to 9pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "NEX Atrium, L1",
+    "address_display": "Serangoon Central, 23, Singapore 556083",
+    "label_tag": null,
+    "keyword_tag": [
+      "Playland",
+      "LINE FRIENDS",
+      "minini",
+      "NEX",
+      "kids"
+    ],
+    "categories": [
+      "Indoor Playground",
+      "Mall related"
+    ],
+    "images": [
+      {
+        "url": "https://www.nex.com.sg/contents/images/common/mobile-menu-btn.png",
+        "source_credit": "NEX",
+        "filename": "NEX_Atrium_L1_1.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/NEX_Atrium_L1_1.jpg"
+      },
+      {
+        "url": "https://www.nex.com.sg/contents/images/common/logo-img.png",
+        "source_credit": "NEX",
+        "filename": "NEX_Atrium_L1_2.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/NEX_Atrium_L1_2.jpg"
+      },
+      {
+        "url": "https://www.nex.com.sg/contents/images/common/parking-lots-icon.png",
+        "source_credit": "NEX",
+        "filename": "NEX_Atrium_L1_3.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/NEX_Atrium_L1_3.jpg"
+      },
+      {
+        "url": "https://www.nex.com.sg/contents/images/common/opening-hrs-icon.png",
+        "source_credit": "NEX",
+        "filename": "NEX_Atrium_L1_4.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/NEX_Atrium_L1_4.jpg"
+      },
+      {
+        "url": "https://www.nex.com.sg/contents/images/common/location-icon.png",
+        "source_credit": "NEX",
+        "filename": "NEX_Atrium_L1_5.jpg",
+        "local_path": "/Users/jindalarishya/event_scraping/valid_data/November/19Nov/images/NEX_Atrium_L1_5.jpg"
+      }
+    ],
+    "id": 756,
+    "longitude": 103.8720247,
+    "latitude": 1.3507155,
+    "planning_area": "Serangoon",
+    "region": "North-East Region"
+  }
+]

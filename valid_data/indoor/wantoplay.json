@@ -1,0 +1,73 @@
+[
+  {
+    "title": "WAN TO PLAY - Activities and Venues for Families",
+    "organiser": "WAN TO PLAY",
+    "blurb": "Find activities and venues for families and children.",
+    "description": "WAN TO PLAY offers a curated selection of activities and venues suitable for families and children. Discover various options for indoor and outdoor fun, educational experiences, and recreational activities. Explore different venues and plan your next family outing with ease. Find the perfect place for kids to play, learn, and have fun. From indoor playgrounds to outdoor adventures, there's something for every family to enjoy. Discover new and exciting places to create lasting memories with your loved ones. Explore a wide range of options for family-friendly entertainment and activities.",
+    "guid": "https://wantoplay.sg/",
+    "activity_or_event": "activity",
+    "url": "https://wantoplay.sg/",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "WAN TO PLAY",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://img.myshopline.com/image/store/1725346412548/WTP-LOGO-01.png?w=4400&h=4400",
+        "source_credit": "WAN TO PLAY"
+      },
+      {
+        "url": "https://img.myshopline.com/image/store/1725346412548/WTP-LOGO-01_150x.png?w=4400&h=4400",
+        "source_credit": "WAN TO PLAY"
+      },
+      {
+        "url": "https://img.myshopline.com/image/store/1725346412548/WTP-LOGO-01_300x.png?w=4400&h=4400",
+        "source_credit": "WAN TO PLAY"
+      },
+      {
+        "url": "https://img.myshopline.com/image/store/1725346412548/WTP-LOGO-01_450x.png?w=4400&h=4400",
+        "source_credit": "WAN TO PLAY"
+      },
+      {
+        "url": "https://img.myshopline.com/image/store/1725346412548/WTP-LOGO-01_140x.png?w=4400&h=4400",
+        "source_credit": "WAN TO PLAY"
+      }
+    ]
+  },
+  {
+    "title": "A Fun Playful Haven at Multiple Locations",
+    "organiser": "Wantoplay",
+    "blurb": "Fun Playful Haven at multiple locations in Singapore.",
+    "description": "Wantoplay offers a playful haven for children at multiple locations across Singapore. Each location provides a unique and engaging environment designed to stimulate creativity and physical activity. With a variety of play areas and activities, children can explore, learn, and have fun in a safe and supervised setting. Wantoplay is dedicated to providing families with a memorable and enjoyable experience, making it a perfect destination for kids of all ages to unleash their imagination and energy.",
+    "guid": "https://wantoplay.sg/",
+    "activity_or_event": "activity",
+    "url": "https://wantoplay.sg/",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Various Locations",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": []
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "title": "KidZania Singapore: Child-Sized City Adventure",
+    "organiser": "KidZania Singapore",
+    "blurb": "Explore a city where kids become firefighters, doctors!",
+    "description": "KidZania Singapore offers a child-sized city experience where children aged 4-17 can explore various professions through hands-on activities. They can become firefighters, doctors, chefs, or artists, performing real-life tasks that help them develop skills, self-knowledge, and self-confidence. This engaging environment fosters creativity, collaboration, and fun, allowing children to learn and grow in a safe and interactive setting. It's a family-friendly attraction designed to fuel a child’s natural desire to explore and create. Activities are designed to be both educational and entertaining, providing a unique learning experience.",
+    "guid": "https://www.kidzania.com.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.kidzania.com.sg/",
+    "price_display_teaser": "From $40.60",
+    "price_display": "From $40.60 - $84 (Free for child below 1 year old)",
+    "price": 40.6,
+    "age_group_display": "17 years old and below",
+    "min_age": 0.0,
+    "max_age": 17.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am - 6pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "KidZania Singapore",
+    "full_address": "Singapore 098008",
+    "categories": [
+      "Attraction",
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\KidZania_Singapore__Child_Sized_City_Adventure_1.jpg",
+        "filename": "KidZania_Singapore__Child_Sized_City_Adventure_1.jpg",
+        "original_url": "https://www.kidzania.com.sg/",
+        "source_credit": "kidzania"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\KidZania_Singapore__Child_Sized_City_Adventure_2.jpg",
+        "filename": "KidZania_Singapore__Child_Sized_City_Adventure_2.jpg",
+        "original_url": "https://www.kidzania.com.sg/",
+        "source_credit": "kidzania"
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/659e193f4c71ea51ea7c546f/66cd7d6f8d8ee4b804eaa6f4_Mainpage%20Banner%20-%20Birthday.jpeg",
+        "source_credit": "KidZania Singapore"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

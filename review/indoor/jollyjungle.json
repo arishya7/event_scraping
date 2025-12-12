@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Jolly Jungle Kids Indoor Playground @OTH Library",
+    "organiser": "Jolly Jungle",
+    "blurb": "A vibrant fusion of imagination and discovery!",
+    "description": "Located within the Library, Jolly Jungle is designed to ignite creativity and curiosity. It's a place where children can climb, explore, and learn, proving that libraries can be full of laughter. The playground offers a safe and engaging environment for kids to develop their physical and social skills through play. With various play structures and interactive elements, children can explore different themes and scenarios, fostering their imagination and problem-solving abilities. Jolly Jungle aims to provide a fun and educational experience for families.",
+    "guid": "https://www.jollyjungle.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.jollyjungle.sg/",
+    "price_display_teaser": "From $13",
+    "price_display": "From $13 - $25",
+    "price": 0.0,
+    "age_group_display": "14 years old and below",
+    "min_age": 0.0,
+    "max_age": 14.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am - 8:45pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Our Tampines Hub",
+    "full_address": "Singapore 528523",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Jolly_Jungle_Kids_Indoor_Playground__OTH_Library_1.jpg",
+        "filename": "Jolly_Jungle_Kids_Indoor_Playground__OTH_Library_1.jpg",
+        "original_url": "https://www.jollyjungle.sg/",
+        "source_credit": "jollyjungle"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/1c95dc_86674034bf204f2490bffc619aa42932~mv2.png/v1/fill/w_2000,h_2000,al_c,q_100,usm_0.66_1.00_0.01,enc_avif,quality_auto/Kids%20indoor%20playground%20(3)_edited.png",
+        "source_credit": "Jolly Jungle"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

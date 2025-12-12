@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Party Package Weekday $499",
+    "organiser": "Jolly Jungle",
+    "blurb": "For 15 kids + 15 adults, non-refundable deposit $200 required.",
+    "description": "Celebrate a special occasion with Jolly Jungle's Party Package! This package is designed for weekday celebrations and accommodates up to 15 children and 15 adults, ensuring a memorable experience for everyone. Enjoy 3 hours of playtime in our indoor playground, filled with exciting activities and attractions suitable for various age groups. Our facilities are designed to provide a safe and engaging environment for children to explore and have fun. Please note that a non-refundable deposit of $200 is required to secure your booking. Create lasting memories with Jolly Jungle's Party Package, where fun and excitement await!",
+    "guid": "https://www.jollyjungle.sg/",
+    "activity_or_event": "event",
+    "url": "https://www.jollyjungle.sg/",
+    "price_display_teaser": "From $",
+    "price_display": "S$499.00",
+    "price": 499.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 14.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "3 hr",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jolly Jungle",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/1c95dc_f7a53bc94e6b4e29919ee6293173e9af~mv2.jpg/v1/fill/w_50,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/1c95dc_f7a53bc94e6b4e29919ee6293173e9af~mv2.jpg",
+        "source_credit": "Jolly Jungle"
+      }
+    ],
+    "full_address": "1 Tampines Walk,#03-02 Our Tampines Hub,Singapore 528523, Enter via Library entrance@level 2"
+  },
+  {
+    "title": "Party Package Weekend $699",
+    "organiser": "Jolly Jungle",
+    "blurb": "For 15 kids + 15 adults, non-refundable deposit $200 required.",
+    "description": "Celebrate a memorable weekend party at Jolly Jungle! Our Party Package Weekend offers an exclusive and fun-filled experience for up to 15 children and 15 adults. Enjoy three hours of playtime in our indoor playground, complete with access to all our exciting attractions and play zones. The package includes dedicated party hosts to ensure a smooth and enjoyable event, as well as decorations and a personalized birthday banner. A non-refundable deposit of $200 is required to secure your booking. Create lasting memories with your loved ones in a safe and engaging environment. Book your weekend party package now and let the jungle adventure begin!",
+    "guid": "https://www.jollyjungle.sg/",
+    "activity_or_event": "event",
+    "url": "https://www.jollyjungle.sg/",
+    "price_display_teaser": "From $",
+    "price_display": "S$699.00",
+    "price": 699.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 14.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "3 hr",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jolly Jungle",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/1c95dc_f7a53bc94e6b4e29919ee6293173e9af~mv2.jpg/v1/fill/w_50,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/1c95dc_f7a53bc94e6b4e29919ee6293173e9af~mv2.jpg",
+        "source_credit": "Jolly Jungle"
+      }
+    ],
+    "full_address": "1 Tampines Walk,#03-02 Our Tampines Hub,Singapore 528523, Enter via Library entrance@level 2"
+  },
+  {
+    "title": "School Field Trip Deposit",
+    "organiser": "Jolly Jungle",
+    "blurb": "$15/kid, minimum 20 kids, complimentary access for teachers",
+    "description": "Jolly Jungle offers an exciting and educational school field trip experience for students. With a minimum of 20 kids, each child can enjoy a fun-filled day of play and exploration for just $15. Teachers receive complimentary access, making it an affordable and enriching outing for the entire school. A non-refundable deposit of $100 is required to secure your booking. The field trip includes access to all play areas and facilities, ensuring a memorable and engaging experience for all students. Our dedicated staff will be on hand to assist with any needs and ensure a safe and enjoyable visit. Book your school field trip today and give your students a day to remember!",
+    "guid": "https://www.jollyjungle.sg/",
+    "activity_or_event": "event",
+    "url": "https://www.jollyjungle.sg/",
+    "price_display_teaser": "From $",
+    "price_display": "$15/kid",
+    "price": 15.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 14.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "2 hr",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Jolly Jungle",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://static.wixstatic.com/media/1c95dc_5d0e274673e24d0885e8d0c62e3b1a26~mv2.jpg/v1/fill/w_50,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/1c95dc_5d0e274673e24d0885e8d0c62e3b1a26~mv2.jpg",
+        "source_credit": "Jolly Jungle"
+      }
+    ],
+    "full_address": "1 Tampines Walk,#03-02 Our Tampines Hub,Singapore 528523, Enter via Library entrance@level 2"
+  }
+]

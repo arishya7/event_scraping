@@ -1,0 +1,102 @@
+[
+  {
+    "title": "The Polliwogs: Serious Fun Experiences Await You",
+    "organiser": "The Polliwogs",
+    "blurb": "Dive into a world of serious fun experiences today!",
+    "description": "The Polliwogs offers a vibrant space for children to explore and engage in various activities. While specific details on play areas and amenities are not provided, the venue hosts events like Pokémon-themed baking workshops and cultural experiences such as lion dance blessings. These activities cater to families looking for interactive and engaging experiences. The Polliwogs aims to provide a fun and enriching environment for children to learn and play. It is a place where kids can create, explore, and make lasting memories with their families. The venue focuses on providing a safe and stimulating environment for children of all ages.",
+    "guid": "https://thepolliwogs.com/",
+    "activity_or_event": "activity",
+    "url": "https://thepolliwogs.com/",
+    "price_display_teaser": "From $28.90",
+    "price_display": "From $28.90 - $48.90",
+    "price": 0.0,
+    "age_group_display": "14 years old and below",
+    "min_age": 0.0,
+    "max_age": 14.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Sun – Thu: 9.30am - 7.30pm, Fri – Sat: 9.30am - 8.30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "The Polliwogs",
+    "full_address": "1 Harbourfront Walk, #03-12 VivoCity, 098585 Singapore",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\The_Polliwogs__Serious_Fun_Experiences_Await_You_1.jpg",
+        "filename": "The_Polliwogs__Serious_Fun_Experiences_Await_You_1.jpg",
+        "original_url": "https://thepolliwogs.com/venues/vivocity/",
+        "source_credit": "thepolliwogs"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\The_Polliwogs__Serious_Fun_Experiences_Await_You_2.jpg",
+        "filename": "The_Polliwogs__Serious_Fun_Experiences_Await_You_2.jpg",
+        "original_url": "https://thepolliwogs.com/venues/vivocity/",
+        "source_credit": "thepolliwogs"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\The_Polliwogs__Serious_Fun_Experiences_Await_You_3.jpg",
+        "filename": "The_Polliwogs__Serious_Fun_Experiences_Await_You_3.jpg",
+        "original_url": "https://thepolliwogs.com/venues/vivocity/",
+        "source_credit": "thepolliwogs"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\The_Polliwogs__Serious_Fun_Experiences_Await_You_4.jpg",
+        "filename": "The_Polliwogs__Serious_Fun_Experiences_Await_You_4.jpg",
+        "original_url": "https://thepolliwogs.com/venues/vivocity/",
+        "source_credit": "thepolliwogs"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Nekoland at Clarke Quay Central",
+    "organiser": "The Polliwogs",
+    "blurb": "Where kids play and cats cuddle",
+    "description": "Looking for a spot where kids can play AND meet furry friends? Nekoland at Clarke Quay Central is a dream come true. Little ones can zoom down slides, bounce on trampolines, and explore toddler-friendly play zones. For kids 3 and up, the Cat Interaction Zone is pure magic — cuddles, purrs, and gentle lessons on caring for animals. While the kiddos burn off energy, mums can sip coffee and recharge at Taro’s Café. Indoor, air-con, and full of giggles, Nekoland is where fun meets furry joy. A purr-fect family day out!",
+    "guid": "https://thepolliwogs.com/",
+    "activity_or_event": "activity",
+    "url": "https://thepolliwogs.com/",
+    "price_display_teaser": "From $25",
+    "price_display": "From $25 - $35",
+    "price": 0.0,
+    "age_group_display": "3 to 14 years old",
+    "min_age": 3.0,
+    "max_age": 14.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am-8pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Clarke Quay, Central",
+    "full_address": "6 Eu Tong Sen St, 04-63 Singapore 059817",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Nekoland_at_Clarke_Quay_Central_1.webp",
+        "filename": "Nekoland_at_Clarke_Quay_Central_1.webp",
+        "original_url": "https://nekoland.co/pages/about",
+        "source_credit": "nekoland"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Nekoland_at_Clarke_Quay_Central_2.webp",
+        "filename": "Nekoland_at_Clarke_Quay_Central_2.webp",
+        "original_url": "https://nekoland.co/pages/about",
+        "source_credit": "nekoland"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Nekoland_at_Clarke_Quay_Central_3.webp",
+        "filename": "Nekoland_at_Clarke_Quay_Central_3.webp",
+        "original_url": "https://nekoland.co/pages/about",
+        "source_credit": "nekoland"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

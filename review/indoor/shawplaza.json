@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Kids Play Indoor Fun Space at Shaw Plaza Mall",
+    "organiser": "Shaw Plaza",
+    "blurb": "Endless fun at our indoor playground for children!",
+    "description": "Kids Play Indoor Fun Space is the perfect hang-out place! Experience endless fun and entertainment at our indoor playground for children aged 1 to 12 years old. With bouncing, slides, interactive wall games, and even hosted birthday parties, your kids will be fully engaged and have an unforgettable time. Get ready for an exciting and creative adventure through arts and crafts activities as well. Your kids will never want to leave our indoor playground! They'll love bouncing, sliding, and playing interactive wall games while making new friends.",
+    "guid": "https://shawplaza.sg/kids-play-indoor-fun-space/",
+    "activity_or_event": "activity",
+    "url": "https://shawplaza.sg/kids-play-indoor-fun-space/",
+    "price_display_teaser": "Free + Paid options",
+    "price_display": "From S$0 to S$30",
+    "price": 0.0,
+    "age_group_display": "1 to 12 years",
+    "min_age": 1.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "friends",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Shaw Plaza",
+    "full_address": "360 Balestier Road, Singapore 329783",
+    "categories": [
+      "Indoor Playground",
+      "Mall related"
+    ],
+    "images": []
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Little Farms Table, Sentosa Cove Restaurant",
+    "organiser": "Little Farms",
+    "blurb": "Unforgettable Dining, Exceptional Quality, Served with Heart.",
+    "description": "Little Farms Table at Sentosa Cove offers a dining experience focused on exceptional quality and heartfelt service. The restaurant provides a welcoming atmosphere for families and individuals alike. Enjoy a variety of dishes prepared with fresh ingredients, perfect for a memorable meal. The location at Sentosa Cove adds to the charm, making it an ideal spot for a relaxing dining experience. The restaurant aims to provide a family-friendly environment where everyone can enjoy delicious food and create lasting memories. The menu features a range of options to cater to different tastes, ensuring a satisfying experience for all.",
+    "guid": "https://littlefarmscafe.com/",
+    "activity_or_event": "activity",
+    "url": "https://littlefarmscafe.com/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item. Kids dine free on Sundays.",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 7:30am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Little Farms Table, Sentosa Cove",
+    "full_address": "1 Cove Ave, Sentosa #02-14 Singapore 098537",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Little_Farms_Table__Sentosa_Cove_Restaurant_1.webp",
+        "filename": "Little_Farms_Table__Sentosa_Cove_Restaurant_1.webp",
+        "original_url": "https://littlefarmscafe.com/pages/table-by-little-farms-sentosa",
+        "source_credit": "littlefarmscafe"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Little_Farms_Table__Sentosa_Cove_Restaurant_2.webp",
+        "filename": "Little_Farms_Table__Sentosa_Cove_Restaurant_2.webp",
+        "original_url": "https://littlefarmscafe.com/pages/promotions",
+        "source_credit": "littlefarmscafe"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Little Farms Bistro, Katong Point Restaurant",
+    "organiser": "Little Farms",
+    "blurb": "In the heart of Joo Chiat, open daily for dining.",
+    "description": "Little Farms Bistro at Katong Point offers a delightful dining experience with a focus on fresh, high-quality ingredients. The bistro provides a relaxed atmosphere suitable for families and individuals alike. Enjoy a diverse menu featuring brunch, lunch, and dinner options, including vegetarian and gluten-free choices. The restaurant is committed to sourcing sustainable and ethically produced food, ensuring a healthy and delicious meal for everyone. Perfect for a family outing or a casual meal with friends, Little Farms Bistro provides a welcoming environment and exceptional service.",
+    "guid": "https://littlefarmscafe.com/",
+    "activity_or_event": "activity",
+    "url": "https://littlefarmscafe.com/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item. Kids dine free on Sundays.",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon - Thu: 8am - 9pm, Fri: 8am - 9:30pm, Sat: 7:30am - 9:30pm, Sun: 7:30am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Little Farms Bistro, Katong Point",
+    "full_address": "451 Joo Chiat Road, #01/04AKatong Point, Singapore (427664)",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Little_Farms_Bistro__Katong_Point_Restaurant_1.webp",
+        "filename": "Little_Farms_Bistro__Katong_Point_Restaurant_1.webp",
+        "original_url": "https://littlefarmscafe.com/pages/little-farms-katong-point-bistro",
+        "source_credit": "littlefarmscafe"
+      },
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Little_Farms_Bistro__Katong_Point_Restaurant_2.webp",
+        "filename": "Little_Farms_Bistro__Katong_Point_Restaurant_2.webp",
+        "original_url": "https://littlefarmscafe.com/pages/promotions",
+        "source_credit": "littlefarmscafe"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

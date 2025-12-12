@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Amazonia: Giant Indoor Playground and Party Venue",
+    "organiser": "Amazonia",
+    "blurb": "Indoor playground with toddler area and party rooms.",
+    "description": "Amazonia offers a giant indoor playground experience perfect for families and children of all ages. Our facilities include a toddler play area, a snow ballpit fountain, an augmented reality impact wall, basketball trampolines, and themed party rooms for birthdays and special events. We provide a safe and fun environment for kids to explore, play, and create lasting memories. Our playground is designed to be family-friendly, ensuring that both children and parents can enjoy their time together. We also cater to school outings, providing a unique and exciting experience for students. With a variety of activities and attractions, Amazonia is the ideal destination for a day of fun and adventure.",
+    "guid": "https://www.amazoniafun.com/?gad_source=1&gad_campaignid=20470558695&gbraid=0AAAAADha8Ttl5dgoDkgieaXleLTpAqOkA&gclid=Cj0KCQjw5c_FBhDJARIsAIcmHK9gTRBp9sDfIDJJK_taanBF0m4Pztba0YdL-QDH5_0FTOcs_MomUycaAjPrEALw_wcB",
+    "activity_or_event": "activity",
+    "url": "https://www.amazoniafun.com/?gad_source=1&gad_campaignid=20470558695&gbraid=0AAAAADha8Ttl5dgoDkgieaXleLTpAqOkA&gclid=Cj0KCQjw5c_FBhDJARIsAIcmHK9gTRBp9sDfIDJJK_taanBF0m4Pztba0YdL-QDH5_0FTOcs_MomUycaAjPrEALw_wcB",
+    "price_display_teaser": "From $28.80",
+    "price_display": "From $28.80 - $62 (Free for child below 3 years old)",
+    "price": 33.0,
+    "age_group_display": "1 to 14 years",
+    "min_age": 1.0,
+    "max_age": 14.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 9:30am to 7:30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Amazonia",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Amazonia__Giant_Indoor_Playground_and_Party_Venue_1.jpg",
+        "filename": "Amazonia__Giant_Indoor_Playground_and_Party_Venue_1.jpg",
+        "original_url": "",
+        "source_credit": "User Upload"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Amazonia__Giant_Indoor_Playground_and_Party_Venue_2.jpg",
+        "filename": "Amazonia__Giant_Indoor_Playground_and_Party_Venue_2.jpg",
+        "original_url": "",
+        "source_credit": "User Upload"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Amazonia__Giant_Indoor_Playground_and_Party_Venue_3.jpg",
+        "filename": "Amazonia__Giant_Indoor_Playground_and_Party_Venue_3.jpg",
+        "original_url": "",
+        "source_credit": "User Upload"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Amazonia__Giant_Indoor_Playground_and_Party_Venue_4.jpg",
+        "filename": "Amazonia__Giant_Indoor_Playground_and_Party_Venue_4.jpg",
+        "original_url": "",
+        "source_credit": "User Upload"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

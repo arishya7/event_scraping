@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Children Playroom at CSC @ Loyang",
+    "organiser": "CSC @ Loyang",
+    "blurb": "Fun and engaging playroom for children at CSC @ Loyang.",
+    "description": "The Children's Playroom at CSC @ Loyang offers a safe and stimulating environment for children to play and explore. It features a variety of age-appropriate toys, games, and activities designed to promote creativity, social interaction, and physical development. The playroom is supervised by trained staff to ensure a fun and secure experience for all children. Parents can relax knowing their kids are in a well-maintained and engaging space. The facility is designed to cater to families looking for a recreational outlet. It provides a comfortable and enjoyable experience for children of various ages. The playroom is regularly cleaned and sanitized to maintain a high standard of hygiene.",
+    "guid": "https://cscloyang.sg/ChildrenPlayroom",
+    "activity_or_event": "activity",
+    "url": "https://cscloyang.sg/ChildrenPlayroom",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "CSC @ Loyang",
+    "full_address": "159W Jalan Loyang Besar, Singapore 507020",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://cscloyang.sg/images/yello_jt.png",
+        "source_credit": "CSC @ Loyang"
+      }
+    ]
+  },
+  {
+    "title": "Children's Playroom at Civil Service Club Loyang",
+    "organiser": "Civil Service Club",
+    "blurb": "A fun playroom for children at CSC Loyang venue.",
+    "description": "The Children's Playroom at Civil Service Club Loyang offers a dedicated space for kids to play and have fun. It provides a safe and engaging environment for children of various ages to enjoy recreational activities. The playroom is equipped with toys and play structures suitable for young children. Parents can relax while their children are entertained in a secure and supervised setting. It's an ideal spot for families looking to spend quality time together. The facility aims to provide a stimulating and enjoyable experience for children, fostering creativity and social interaction. The playroom is designed to cater to the needs of families with young children, ensuring a memorable visit for all.",
+    "guid": "https://cscloyang.sg/ChildrenPlayroom",
+    "activity_or_event": "activity",
+    "url": "https://cscloyang.sg/ChildrenPlayroom",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "9am to 9pm",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Civil Service Club Loyang",
+    "full_address": "159W Jalan Loyang Besar, Singapore 507020",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://cscloyang.sg/images/yello_jt.png",
+        "source_credit": "Civil Service Club"
+      }
+    ]
+  }
+]

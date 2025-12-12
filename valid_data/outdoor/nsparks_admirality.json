@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Nature Playgarden at Admiralty Park Adventure",
+    "organiser": "NParks",
+    "blurb": "Hours of fun at a nature playgarden inspired by mangroves.",
+    "description": "The nature playgarden at Admiralty Park offers a thrilling experience for young ones with 26 slides and a variety of play equipment in the Junior Play, Adventure Play, and Family Play zones. Junior Play is suitable for children between 2 and 5 years old and includes slides, a sand play area, an expression swing, and an inclusive playground. Adventure Play is suitable for children of all ages and includes roller slides and swings. Family Play is suitable for older children between 5 and 12 years old and includes double barrel slides and a circuit descending roller ride. The playgarden is set in a hilly terrain.",
+    "guid": "https://www.nparks.gov.sg/visit/parks/admiralty-park/amenities/nature-playgarden",
+    "activity_or_event": "activity",
+    "url": "https://www.nparks.gov.sg/visit/parks/admiralty-park/amenities/nature-playgarden",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": "2 to 12 years",
+    "min_age": 2.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Open 24 hours",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Admiralty Park",
+    "full_address": "Not Available",
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://www.nparks.gov.sg/ResourcePackages/NParks/assets/dist/images/icon-sg-crest.svg",
+        "source_credit": "NParks"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/ResourcePackages/NParks/assets/dist/images/government_building.svg",
+        "source_credit": "NParks"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/ResourcePackages/NParks/assets/dist/images/lock.svg",
+        "source_credit": "NParks"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/ResourcePackages/NParks/assets/dist/images//lock.svg",
+        "source_credit": "NParks"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/images/default-source/default-album/_system/nparks-logo_no-tagline.svg?sfvrsn=3183528a_1",
+        "source_credit": "NParks"
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Hard Rock Cafe Singapore - Orchard Road Location",
+    "organiser": "Hard Rock Cafe",
+    "blurb": "Located in Orchard Road, Singapore's shopping hub.",
+    "description": "Hard Rock Cafe Singapore is located at the beginning of Orchard Road, Singapore's premier shopping destination. The cafe offers a family-friendly dining experience with a rock 'n' roll atmosphere. It features a restaurant, bar, and a Rock Shop where you can purchase Hard Rock Cafe merchandise. The venue is accessible by car and public transportation, with parking readily available for cars. While bus parking facilities are not available, the central location makes it easy to reach. Enjoy classic American cuisine and live music in a vibrant setting suitable for families and music lovers of all ages. The cafe provides a unique blend of dining and entertainment.",
+    "guid": "https://cafe.hardrock.com/singapore/",
+    "activity_or_event": "event",
+    "url": "https://cafe.hardrock.com/singapore/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item. Kids dine free on weekends, 12pm - 5pm",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 11am - 11pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Hard Rock Cafe Singapore",
+    "full_address": "50 Cuscaden Road, Hpl House #02-01, Singapore 249724",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Hard_Rock_Cafe_Singapore___Orchard_Road_Location_1.jpeg",
+        "filename": "Hard_Rock_Cafe_Singapore___Orchard_Road_Location_1.jpeg",
+        "original_url": "https://cafe.hardrock.com/singapore/",
+        "source_credit": "hardrock"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Hard_Rock_Cafe_Singapore___Orchard_Road_Location_2.jpg",
+        "filename": "Hard_Rock_Cafe_Singapore___Orchard_Road_Location_2.jpg",
+        "original_url": "https://cafe.hardrock.com/singapore/",
+        "source_credit": "hardrock"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

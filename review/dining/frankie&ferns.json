@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Frankie & Fern's: Brunch, Coffee, and Dinner Spot",
+    "organiser": "Frankie & Fern's",
+    "blurb": "Brunch and coffee daily, dinner Fri-Sun, plus last Mondays.",
+    "description": "Frankie & Fern's offers a delightful dining experience with brunch and coffee available every day. Dinner service is available from Friday to Sunday, providing a perfect setting for family meals. Additionally, they are open every last Monday of the month for dinner, making it a unique spot for a monthly treat. The restaurant aims to create a welcoming atmosphere for families and individuals alike, with a focus on quality food and friendly service. Enjoy a relaxed meal in a cozy environment, perfect for a casual outing or a special occasion.",
+    "guid": "https://www.frankienferns.house/",
+    "activity_or_event": "activity",
+    "url": "https://www.frankienferns.house/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon – Thu: 9:30am - 5pm, Fri: 9:30am - 9:30pm, Weekends: 9am - 9:30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Frankie & Fern's",
+    "full_address": "211 Holland Avenue Holland Road Shopping Centre #04-03 Singapore 278967",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Frankie___Fern_s__Brunch__Coffee__and_Dinner_Spot_1.webp",
+        "filename": "Frankie___Fern_s__Brunch__Coffee__and_Dinner_Spot_1.webp",
+        "original_url": "https://www.frankienferns.house/menu",
+        "source_credit": "frankienferns"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Frankie___Fern_s__Brunch__Coffee__and_Dinner_Spot_2.webp",
+        "filename": "Frankie___Fern_s__Brunch__Coffee__and_Dinner_Spot_2.webp",
+        "original_url": "https://www.frankienferns.house/menu",
+        "source_credit": "frankienferns"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/658ea0123b3219238da5661d/739d7139-93c6-424f-bcf4-59ee364e1c6a/DSCF1734.jpg",
+        "source_credit": "Frankie & Fern's"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

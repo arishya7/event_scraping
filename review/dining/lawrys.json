@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Lawry's The Prime Rib - Kids Dine Free Sundays",
+    "organiser": "Lawry's Singapore",
+    "blurb": "Kids dine free on Sundays with adult main courses.",
+    "description": "Lawry's The Prime Rib offers a special promotion where kids can dine for free on Sundays. With every two adult à la carte main courses or set menus ordered, two children aged 12 and below can enjoy a complimentary 3-course kids set menu. This dine-in offer is perfect for families looking to enjoy a quality meal together in a sophisticated setting. Please note that the offer is not valid on public holidays, eve of public holidays and other special occasions. Check the terms and conditions for full details and blackout dates.",
+    "guid": "https://lawrys.com.sg/kids-dine-free/",
+    "activity_or_event": "event",
+    "url": "https://lawrys.com.sg/kids-dine-free/",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item. Kids dine free on Sundays.",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "01 Jan - 30 Nov",
+    "datetime_display": "01 January 2025 – 30 November 2025, lunch & dinner",
+    "start_datetime": "2025-01-01T00:00:00",
+    "end_datetime": "2025-11-30T23:59:00",
+    "venue_name": "Lawry's The Prime Rib",
+    "full_address": "333A Orchard Road #04-01/31 Mandarin Gallery, Singapore 238897",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://lawrys.com.sg/wp-content/uploads/2024/06/Rectangle-370.png",
+        "source_credit": "Lawry's Singapore"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

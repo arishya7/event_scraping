@@ -1,0 +1,47 @@
+[
+  {
+    "title": "PS.Cafe East Coast Park - Seaside Dining Venue",
+    "organiser": "PS.Cafe",
+    "blurb": "Bright, airy space with seaside-inspired design.",
+    "description": "PS.Cafe By The Sea, located in East Coast Park, offers a laid-back summer beach house vibe with white-washed walls and ocean blue upholstery. The menu features PS. classics and an extensive selection of seafood dishes. Guests can enjoy their meal inside with sea views or outdoors in the breezy patio dining area. Perfect for lazy brunches or evening dining. Reservations are not available on weekends and public holidays until 5.30pm, walk-ins are welcome during these times.",
+    "guid": "https://www.pscafe.com/pscafe-east-coast-park",
+    "activity_or_event": "event",
+    "url": "https://www.pscafe.com/pscafe-east-coast-park",
+    "price_display_teaser": "From $5",
+    "price_display": "Varies according to menu item",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Sun - Thu & PH: 8am - 10pm, Fri, Sat & Eve of PH: 8am - 10.30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "PS.Cafe East Coast Park",
+    "full_address": "1110 East Coast Parkway, Cyclist Park, 01-05/06/07  Singapore 449880",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\PS_Cafe_East_Coast_Park___Seaside_Dining_Venue_1.webp",
+        "filename": "PS_Cafe_East_Coast_Park___Seaside_Dining_Venue_1.webp",
+        "original_url": "https://www.pscafe.com/pscafe-east-coast-park",
+        "source_credit": "pscafe"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\PS_Cafe_East_Coast_Park___Seaside_Dining_Venue_2.webp",
+        "filename": "PS_Cafe_East_Coast_Park___Seaside_Dining_Venue_2.webp",
+        "original_url": "https://www.pscafe.com/pscafe-east-coast-park",
+        "source_credit": "pscafe"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5326c064e4b011eeaa057a38/1753069973335-VJ10ABSJD1Q6K8BNULZQ/ECP%2C+GW%2C+HAR+Brunch+Website+Banner-02.png",
+        "source_credit": "PS.Cafe"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

@@ -1,0 +1,655 @@
+[
+  {
+    "title": "Adventure Albatross Speedboat Adventures Sentosa",
+    "organiser": "Resorts World Sentosa",
+    "blurb": "Albatross Speedboat Adventures From $ 45 .00",
+    "description": "Experience the thrill of Albatross Speedboat Adventures at Resorts World Sentosa! Feel the wind in your hair as you speed across the water. This exciting activity is perfect for families and thrill-seekers alike. Enjoy breathtaking views of the Sentosa coastline and create unforgettable memories. Suitable for all ages, this adventure promises fun and excitement for everyone. Get ready for an adrenaline-pumping experience that will leave you wanting more. Book your adventure today and make your visit to Sentosa truly unforgettable. This is a family-friendly activity.",
+    "guid": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "activity_or_event": "activity",
+    "url": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "price_display_teaser": "From $45",
+    "price_display": "From $45 (1 pax) - $90 (2 pax)",
+    "price": 45.0,
+    "age_group_display": "8 years old and above",
+    "min_age": 8.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 12pm - 6pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Resorts World Sentosa",
+    "full_address": "8 Sentosa Gateway, 098269 Singapore",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Adventure_Albatross_Speedboat_Adventures_Sentosa_1.jpg",
+        "filename": "Adventure_Albatross_Speedboat_Adventures_Sentosa_1.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/albatross-speedboat-adventures/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Adventure_Albatross_Speedboat_Adventures_Sentosa_2.jpg",
+        "filename": "Adventure_Albatross_Speedboat_Adventures_Sentosa_2.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/albatross-speedboat-adventures/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Adventure_Albatross_Speedboat_Adventures_Sentosa_3.jpg",
+        "filename": "Adventure_Albatross_Speedboat_Adventures_Sentosa_3.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/albatross-speedboat-adventures/",
+        "source_credit": "sentosa"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Gunner Lane at Central Beach Bazaar, Sentosa",
+    "organiser": "Sentosa",
+    "blurb": "Located at Central Beach Bazaar, Sentosa Island.",
+    "description": "Gunner Lane is located at Central Beach Bazaar. It offers a unique beachside experience with various attractions and activities suitable for families and visitors of all ages. Enjoy the vibrant atmosphere and explore the different offerings available at this location. It is a great place to spend time with family and friends, enjoying the sun, sand, and sea. The bazaar provides a variety of entertainment options, ensuring a memorable visit for everyone. With its central location and diverse attractions, Gunner Lane is a must-visit destination on Sentosa Island.",
+    "guid": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "activity_or_event": "activity",
+    "url": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10:15am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Central Beach Bazaar",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_2\\images\\user_uploads\\Gunner_Lane_at_Central_Beach_Bazaar__Sentosa_1.jpg",
+        "filename": "Gunner_Lane_at_Central_Beach_Bazaar__Sentosa_1.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/central-beach-bazaar/",
+        "source_credit": "sentosa"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Adventure DinoVenture: A Virtual Reality Experience",
+    "organiser": "Sentosa",
+    "blurb": "A Virtual Reality Experience From $ 15 .00 Promo available",
+    "description": "Experience a thrilling virtual reality adventure at Beach Station. Immerse yourself in a prehistoric world filled with dinosaurs and exciting challenges. This family-friendly attraction offers a unique and interactive experience for all ages. Explore the virtual landscape, encounter fascinating creatures, and embark on an unforgettable journey. Perfect for kids and adults alike, Adventure DinoVenture provides a fun and educational adventure that will leave you amazed. Discover the wonders of the past in a whole new way with this state-of-the-art VR experience. Get ready for an adventure!",
+    "guid": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "activity_or_event": "activity",
+    "url": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "price_display_teaser": "From $15",
+    "price_display": "From S$15.00",
+    "price": 15.0,
+    "age_group_display": "5 years old and above (min height 110cm)",
+    "min_age": 5.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Beach Station",
+    "full_address": "60 Siloso Beach Walk, Singapore 098997 (Level 2, above Beach Carnival Games)",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_3\\images\\user_uploads\\Adventure_DinoVenture__A_Virtual_Reality_Experience_1.jpg",
+        "filename": "Adventure_DinoVenture__A_Virtual_Reality_Experience_1.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/dinoventure/",
+        "source_credit": "sentosa"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Fort Siloso Skywalk at Siloso Point, Sentosa Island",
+    "organiser": "Sentosa",
+    "blurb": "Iconic sights and historical landmarks await visitors.",
+    "description": "Explore Singapore's only preserved coastal fort, a treasure trove of World War II memorabilia. Wander through the historical tunnels, gun emplacements, and interactive exhibits that bring the past to life. Ascend the Fort Siloso Skywalk for panoramic views of Sentosa and the surrounding sea. Discover the stories and sacrifices of those who defended Singapore during the war. A family-friendly destination that combines education with breathtaking scenery, offering a unique glimpse into Singapore's rich history and natural beauty. Perfect for history buffs and families alike.",
+    "guid": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "activity_or_event": "activity",
+    "url": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 9am - 10pm. Exhibits opens at 10am. Last admission to Fort Siloso & Surrender Chambers at 5.30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Fort Siloso",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_5\\images\\user_uploads\\Fort_Siloso_Skywalk_at_Siloso_Point__Sentosa_Island_1.jpg",
+        "filename": "Fort_Siloso_Skywalk_at_Siloso_Point__Sentosa_Island_1.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/fort-siloso/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_5\\images\\user_uploads\\Fort_Siloso_Skywalk_at_Siloso_Point__Sentosa_Island_2.jpg",
+        "filename": "Fort_Siloso_Skywalk_at_Siloso_Point__Sentosa_Island_2.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/fort-siloso/",
+        "source_credit": "sentosa"
+      },
+      {
+        "url": "https://www.sentosa.com.sg/-/media/sentosa/hero-asset/attractions/fort-siloso/fort_siloso_hero.jpg?revision=11d70d6a-e620-4c5d-b5c5-485bc071fd41&w=1008",
+        "source_credit": "Sentosa"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Harry Potter: Visions of Magic",
+    "organiser": "Resorts World Sentosa",
+    "blurb": "Adventure Harry Potter: Visions of Magic From $ 53 .00",
+    "description": "Explore Harry Potter: Visions of Magic. This attraction offers a unique experience for families and fans of the Harry Potter series. Immerse yourself in the wizarding world with stunning visuals and interactive exhibits. Perfect for kids and adults alike, this adventure promises an unforgettable day of fun and excitement. Discover the wonders of magic and create lasting memories with your loved ones. Enjoy the beautiful scenery of St John's Island while embarking on this enchanting journey. A must-visit destination for families seeking adventure and entertainment.",
+    "guid": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "activity_or_event": "activity",
+    "url": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "price_display_teaser": "From $53",
+    "price_display": "$53.00",
+    "price": 53.0,
+    "age_group_display": "5 years old and above",
+    "min_age": 5.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 11am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Resorts World Station",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_6\\images\\user_uploads\\Harry_Potter__Visions_of_Magic_1.png",
+        "filename": "Harry_Potter__Visions_of_Magic_1.png",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/harry-potter-visions-of-magic/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_6\\images\\user_uploads\\Harry_Potter__Visions_of_Magic_2.jpg",
+        "filename": "Harry_Potter__Visions_of_Magic_2.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/harry-potter-visions-of-magic/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_6\\images\\user_uploads\\Harry_Potter__Visions_of_Magic_3.jpg",
+        "filename": "Harry_Potter__Visions_of_Magic_3.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/harry-potter-visions-of-magic/",
+        "source_credit": "sentosa"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Adventure HydroDash at Palawan Beach, Sentosa",
+    "organiser": "Resorts World Sentosa",
+    "blurb": "Enjoy thrilling water activities at Palawan Beach.",
+    "description": "Adventure HydroDash offers a fun-filled water adventure for families and thrill-seekers alike. Located at Palawan Beach, this attraction features inflatable obstacles and slides, providing an exciting experience for all ages. Challenge yourself and your friends as you navigate the course and make a splash in the refreshing waters. Perfect for a day of outdoor fun and excitement. Enjoy the sun, sand, and sea while testing your agility and balance on this unique water playground. A memorable experience for the whole family.",
+    "guid": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "activity_or_event": "activity",
+    "url": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "price_display_teaser": "From $30",
+    "price_display": "$30.00",
+    "price": 30.0,
+    "age_group_display": "6 years old and above",
+    "min_age": 6.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon - Wed: 12pm – 6pm, Thurs & Fri: 11am – 6pm, Sat & Sun: 10am – 6pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Palawan Beach",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction",
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_7\\images\\user_uploads\\Adventure_HydroDash_at_Palawan_Beach__Sentosa_1.jpg",
+        "filename": "Adventure_HydroDash_at_Palawan_Beach__Sentosa_1.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/hydrodash/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_7\\images\\user_uploads\\Adventure_HydroDash_at_Palawan_Beach__Sentosa_2.jpg",
+        "filename": "Adventure_HydroDash_at_Palawan_Beach__Sentosa_2.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/hydrodash/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_7\\images\\user_uploads\\Adventure_HydroDash_at_Palawan_Beach__Sentosa_3.jpg",
+        "filename": "Adventure_HydroDash_at_Palawan_Beach__Sentosa_3.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/hydrodash/",
+        "source_credit": "sentosa"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Madame Tussauds Singapore Wax Attraction Venue",
+    "organiser": "Madame Tussauds Singapore",
+    "blurb": "See wax figures of famous people and celebrities.",
+    "description": "Madame Tussauds Singapore is a wax museum and tourist attraction on Sentosa Island in Singapore. It showcases wax figures of famous and historical personalities, as well as popular film and television characters. Visitors can take photos with the figures and learn about their lives and achievements. The museum also features interactive exhibits and experiences, such as a virtual reality ride and a behind-the-scenes look at the making of wax figures. It is a family-friendly attraction that offers a fun and educational experience for all ages.",
+    "guid": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "activity_or_event": "event",
+    "url": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "price_display_teaser": "From $32.00",
+    "price_display": "From $32 - $58",
+    "price": 32.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am - 7pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Imbiah Station",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_8\\images\\user_uploads\\Madame_Tussauds_Singapore_Wax_Attraction_Venue_1.jpg",
+        "filename": "Madame_Tussauds_Singapore_Wax_Attraction_Venue_1.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/madame-tussauds-singapore/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_8\\images\\user_uploads\\Madame_Tussauds_Singapore_Wax_Attraction_Venue_2.jpg",
+        "filename": "Madame_Tussauds_Singapore_Wax_Attraction_Venue_2.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/madame-tussauds-singapore/",
+        "source_credit": "sentosa"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Mega Adventure Park at Imbiah Station, Sentosa",
+    "organiser": "Mega Adventure",
+    "blurb": "Experience thrilling adventures at Mega Adventure Park!",
+    "description": "Mega Adventure Park offers a range of adrenaline-pumping activities suitable for families and thrill-seekers alike. Experience the MegaZip, a 450m flying fox, or challenge yourself at MegaClimb, an aerial adventure course. With stunning views and exciting challenges, it's a perfect day out for families and friends looking for an unforgettable experience. Suitable for children and adults, the park provides a safe and exhilarating environment for all. Enjoy a day filled with laughter, excitement, and unforgettable memories at Mega Adventure Park.",
+    "guid": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "activity_or_event": "activity",
+    "url": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "price_display_teaser": "From $20",
+    "price_display": "From $20 - $89",
+    "price": 20.0,
+    "age_group_display": "5 years old and above (min height 90cm)",
+    "min_age": 5.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 11am - 6.30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Imbiah Station",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction",
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_9\\images\\user_uploads\\Mega_Adventure_Park_at_Imbiah_Station__Sentosa_1.jpg",
+        "filename": "Mega_Adventure_Park_at_Imbiah_Station__Sentosa_1.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/mega-adventure-park/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_9\\images\\user_uploads\\Mega_Adventure_Park_at_Imbiah_Station__Sentosa_2.jpg",
+        "filename": "Mega_Adventure_Park_at_Imbiah_Station__Sentosa_2.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/mega-adventure-park/",
+        "source_credit": "sentosa"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Sentosa 4D AdventureLand",
+    "organiser": "Sentosa",
+    "blurb": "Enjoy thrilling 4D shows and immersive experiences.",
+    "description": "Sentosa 4D AdventureLand offers a variety of immersive 4D movie experiences suitable for families and thrill-seekers. Experience the excitement of Journey 2: The Mysterious Island, or Desperados, a shooting game. Located at Imbiah Lookout, it's a perfect destination for a fun-filled day with the kids. Enjoy state-of-the-art technology and special effects that bring movies to life. Suitable for all ages, with shows and attractions designed to entertain and engage the whole family. A must-visit attraction for an unforgettable adventure.",
+    "guid": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "activity_or_event": "activity",
+    "url": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "price_display_teaser": "From $36",
+    "price_display": "From $36.90 - $49.90",
+    "price": 36.0,
+    "age_group_display": "3 to 12 years old",
+    "min_age": 3.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 12pm - 7pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Imbiah Lookout",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_10\\images\\user_uploads\\Sentosa_4D_AdventureLand_1.jpg",
+        "filename": "Sentosa_4D_AdventureLand_1.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/sentosa-4d-adventureland/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_10\\images\\user_uploads\\Sentosa_4D_AdventureLand_2.jpg",
+        "filename": "Sentosa_4D_AdventureLand_2.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/sentosa-4d-adventureland/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_10\\images\\user_uploads\\Sentosa_4D_AdventureLand_3.jpg",
+        "filename": "Sentosa_4D_AdventureLand_3.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/sentosa-4d-adventureland/",
+        "source_credit": "sentosa"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Imbiah Lookout Adventure with Sentosa Express",
+    "organiser": "Sentosa",
+    "blurb": "Explore Imbiah Lookout with Sentosa Express!",
+    "description": "Discover the attractions at Imbiah Lookout and enjoy convenient transportation with the Sentosa Express. This area offers a variety of activities suitable for families and children, including thrilling rides and interactive exhibits. Explore the natural beauty of Sentosa and create lasting memories with your loved ones. The Sentosa Express provides easy access to VivoCity, making it a convenient starting point for your adventure. Enjoy a day filled with fun and excitement at Imbiah Lookout, perfect for families seeking a memorable experience.",
+    "guid": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "activity_or_event": "activity",
+    "url": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "price_display_teaser": "From $4.00",
+    "price_display": "$4.00",
+    "price": 4.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 7am - 12am",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Imbiah Lookout",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_10\\images\\user_uploads\\Imbiah_Lookout_Adventure_with_Sentosa_Express_1.jpg",
+        "filename": "Imbiah_Lookout_Adventure_with_Sentosa_Express_1.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/sentosa-express/",
+        "source_credit": "sentosa"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Sentosa Nature Discovery at Imbiah Lookout",
+    "organiser": "Sentosa",
+    "blurb": "Explore nature trails and learn about local flora.",
+    "description": "Sentosa Nature Discovery offers a serene escape into the island's natural beauty. Perfect for families and nature enthusiasts, the trails wind through lush greenery, providing opportunities to observe local flora and fauna. Visitors can learn about the diverse ecosystem and enjoy a peaceful walk amidst nature. The area is family-friendly, with easy-to-navigate paths suitable for all ages. Discover hidden gems and enjoy a refreshing outdoor experience. This attraction provides a unique opportunity to connect with nature and appreciate the island's biodiversity. Explore the trails and discover the wonders of Sentosa's natural landscape.",
+    "guid": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "activity_or_event": "activity",
+    "url": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 9am - 5pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Imbiah Lookout",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_11\\images\\user_uploads\\Sentosa_Nature_Discovery_at_Imbiah_Lookout_1.jpg",
+        "filename": "Sentosa_Nature_Discovery_at_Imbiah_Lookout_1.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/sentosa-nature-discovery/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_11\\images\\user_uploads\\Sentosa_Nature_Discovery_at_Imbiah_Lookout_2.jpg",
+        "filename": "Sentosa_Nature_Discovery_at_Imbiah_Lookout_2.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/sentosa-nature-discovery/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_11\\images\\user_uploads\\Sentosa_Nature_Discovery_at_Imbiah_Lookout_3.jpg",
+        "filename": "Sentosa_Nature_Discovery_at_Imbiah_Lookout_3.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/sentosa-nature-discovery/",
+        "source_credit": "sentosa"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Siloso Beach Adventure Singapore Cable Car",
+    "organiser": "Sentosa",
+    "blurb": "Adventure awaits at Siloso Beach with Cable Car!",
+    "description": "Experience the thrill of the Singapore Cable Car at Siloso Beach. Enjoy breathtaking views and create unforgettable memories. Perfect for families and adventure seekers. Explore the beauty of Sentosa Island from a unique perspective. The cable car ride offers a scenic journey with stunning panoramic views. A must-do attraction for visitors of all ages. Discover the wonders of Sentosa with this exciting adventure.",
+    "guid": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "activity_or_event": "activity",
+    "url": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "price_display_teaser": "From $3",
+    "price_display": "From $3 - $35",
+    "price": 3.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily,",
+    "datetime_display": "Available daily, 8.45am - 10pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "1970-01-01T00:00:00",
+    "venue_name": "Siloso Beach",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_12\\images\\user_uploads\\Siloso_Beach_Adventure_Singapore_Cable_Car_1.jpg",
+        "filename": "Siloso_Beach_Adventure_Singapore_Cable_Car_1.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/singapore-cable-car/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_12\\images\\user_uploads\\Siloso_Beach_Adventure_Singapore_Cable_Car_2.jpg",
+        "filename": "Siloso_Beach_Adventure_Singapore_Cable_Car_2.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/singapore-cable-car/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_12\\images\\user_uploads\\Siloso_Beach_Adventure_Singapore_Cable_Car_3.jpg",
+        "filename": "Siloso_Beach_Adventure_Singapore_Cable_Car_3.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/singapore-cable-car/",
+        "source_credit": "sentosa"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Resorts World Sentosa Iconic Sights SkyHelix",
+    "organiser": "Resorts World Sentosa",
+    "blurb": "Iconic Sights SkyHelix Sentosa From $ 17 .00 Promo",
+    "description": "SkyHelix Sentosa is Singapore's highest open-air panoramic ride. This unique attraction offers breathtaking 360-degree views of Sentosa and the Southern Islands. Guests can enjoy a leisurely ride that gently rotates as it ascends to a height of 79 meters above sea level. The experience is perfect for families and individuals looking for a memorable and scenic adventure. Enjoy the stunning views and capture unforgettable moments from this iconic vantage point. A must-visit attraction for those seeking a unique perspective of Sentosa's beauty.",
+    "guid": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "activity_or_event": "event",
+    "url": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "price_display_teaser": "From $17",
+    "price_display": "From $17 - $20",
+    "price": 17.0,
+    "age_group_display": "5 years old and above (min height 105cm)",
+    "min_age": 5.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am - 9.30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Imbiah Lookout",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_13\\images\\user_uploads\\Resorts_World_Sentosa_Iconic_Sights_SkyHelix_1.jpg",
+        "filename": "Resorts_World_Sentosa_Iconic_Sights_SkyHelix_1.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/skyhelix-sentosa/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_13\\images\\user_uploads\\Resorts_World_Sentosa_Iconic_Sights_SkyHelix_2.jpg",
+        "filename": "Resorts_World_Sentosa_Iconic_Sights_SkyHelix_2.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/skyhelix-sentosa/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_13\\images\\user_uploads\\Resorts_World_Sentosa_Iconic_Sights_SkyHelix_3.jpg",
+        "filename": "Resorts_World_Sentosa_Iconic_Sights_SkyHelix_3.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/skyhelix-sentosa/",
+        "source_credit": "sentosa"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Imbiah Lookout Adventure Skyline Luge Singapore",
+    "organiser": "Sentosa",
+    "blurb": "Adventure Skyline Luge Singapore From $ 33 .00",
+    "description": "Experience the thrill of Skyline Luge Singapore at Imbiah Lookout. Enjoy a unique wheeled gravity ride with steering and braking control. Perfect for families and thrill-seekers of all ages. Navigate the tracks with twists and turns for an unforgettable adventure. The Luge is a part go-kart, part toboggan, and totally unique. Control your speed as you ride down one of our four exciting Luge tracks. With specially designed Luge carts and helmets, it's safe and fun for all ages. Enjoy the scenic views from the Skyride as you ascend to the top.",
+    "guid": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "activity_or_event": "activity",
+    "url": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "price_display_teaser": "From $33.00",
+    "price_display": "From $33.00",
+    "price": 33.0,
+    "age_group_display": "6 years old and above",
+    "min_age": 6.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Mon - Thu: 10am - 7.30pm, Fri & Sat: 10am - 9pm, Sun & PH: 10am - 7.30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Imbiah Station",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction",
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_14\\images\\user_uploads\\Imbiah_Lookout_Adventure_Skyline_Luge_Singapore_1.jpg",
+        "filename": "Imbiah_Lookout_Adventure_Skyline_Luge_Singapore_1.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/skyline-luge-singapore/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_14\\images\\user_uploads\\Imbiah_Lookout_Adventure_Skyline_Luge_Singapore_2.jpg",
+        "filename": "Imbiah_Lookout_Adventure_Skyline_Luge_Singapore_2.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/skyline-luge-singapore/",
+        "source_credit": "sentosa"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  },
+  {
+    "title": "Universal Studios Singapore",
+    "organiser": "Resorts World Sentosa",
+    "blurb": "Adventure awaits at Universal Studios Singapore!",
+    "description": "Experience thrilling rides, captivating shows, and immersive attractions at Universal Studios Singapore. Explore themed zones based on blockbuster movies and TV series. Enjoy family-friendly entertainment and create unforgettable memories. From adrenaline-pumping roller coasters to enchanting performances, there's something for everyone. Discover the magic of Hollywood and beyond. Get ready for a day of adventure and excitement at Universal Studios Singapore. Perfect for families and thrill-seekers alike. Enjoy world-class entertainment and create lasting memories.",
+    "guid": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "activity_or_event": "activity",
+    "url": "https://www.sentosa.com.sg/en/things-to-do/attractions/?page=5",
+    "price_display_teaser": "From $59",
+    "price_display": "From $59 - $85 (Free for child below 4 years old)",
+    "price": 59.0,
+    "age_group_display": "Suitable for all ages",
+    "min_age": 0.0,
+    "max_age": 0.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 10am - 5pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "Universal Studios Singapore",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction",
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_15\\images\\user_uploads\\Universal_Studios_Singapore_1.jpg",
+        "filename": "Universal_Studios_Singapore_1.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/universal-studios-singapore/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_15\\images\\user_uploads\\Universal_Studios_Singapore_2.jpg",
+        "filename": "Universal_Studios_Singapore_2.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/universal-studios-singapore/",
+        "source_credit": "sentosa"
+      },
+      {
+        "local_path": "events_output\\event_15\\images\\user_uploads\\Universal_Studios_Singapore_3.jpg",
+        "filename": "Universal_Studios_Singapore_3.jpg",
+        "original_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/universal-studios-singapore/",
+        "source_credit": "sentosa"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

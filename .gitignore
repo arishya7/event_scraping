@@ -1,0 +1,34 @@
+# Virtual environments
+/venv
+/venv_playwright
+/install
+
+# Environment variables
+/.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Output files (optional - uncomment if you don't want to track output files)
+# final/
+# *.csv
+# *.json 

@@ -1,0 +1,49 @@
+[
+  {
+    "title": "buds by Shangri-La: Interactive Play Space",
+    "organiser": "Shangri-La Hotel Singapore",
+    "blurb": "An interactive play space for kids at Shangri-La.",
+    "description": "buds by Shangri-La is an interactive play space designed for children of all ages. It features a variety of play zones, including a climbing structure, a ball pit, and an art studio. The space also offers a range of activities and programs for kids, such as storytelling, arts and crafts, and cooking classes. buds by Shangri-La is the perfect place for families to spend quality time together and create lasting memories. It provides a safe and stimulating environment where children can learn, play, and grow. The play space is designed to cater to different age groups, ensuring that every child has a fun and engaging experience. Parents can relax and enjoy the facilities while their children explore and discover new things. With its wide range of activities and amenities, buds by Shangri-La is a must-visit destination for families with kids.",
+    "guid": "https://www.shangri-la.com/singapore/shangrila/for-kids/buds-by-shangri-la/?WT.mc_id=SLS_201810_GLOBAL_GOOGLEBUSINESS_PROFILE_WEBSITE_TEXTLINK_ABOUTBUDS_BRANDWEB_EN",
+    "activity_or_event": "activity",
+    "url": "https://www.shangri-la.com/singapore/shangrila/for-kids/buds-by-shangri-la/?WT.mc_id=SLS_201810_GLOBAL_GOOGLEBUSINESS_PROFILE_WEBSITE_TEXTLINK_ABOUTBUDS_BRANDWEB_EN",
+    "price_display_teaser": "From $45",
+    "price_display": "From $45 per child (hotel guests, 3 hours) - $83 (public, 3 hours during peak, with admission to Splash)",
+    "price": 0.0,
+    "age_group_display": "12 years old and below",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 9am - 6:30pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "buds by Shangri-La",
+    "full_address": "Not Available",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\buds_by_Shangri_La__Interactive_Play_Space_1.webp",
+        "filename": "buds_by_Shangri_La__Interactive_Play_Space_1.webp",
+        "original_url": "https://www.shangri-la.com/singapore/shangrila/for-kids/buds-by-shangri-la/?WT.mc_id=SLS_201810_GLOBAL_GOOGLEBUSINESS_PROFILE_WEBSITE_TEXTLINK_ABOUTBUDS_BRANDWEB_EN",
+        "source_credit": "shangri-la"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\buds_by_Shangri_La__Interactive_Play_Space_2.webp",
+        "filename": "buds_by_Shangri_La__Interactive_Play_Space_2.webp",
+        "original_url": "https://www.shangri-la.com/singapore/shangrila/for-kids/buds-by-shangri-la/?WT.mc_id=SLS_201810_GLOBAL_GOOGLEBUSINESS_PROFILE_WEBSITE_TEXTLINK_ABOUTBUDS_BRANDWEB_EN",
+        "source_credit": "shangri-la"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\buds_by_Shangri_La__Interactive_Play_Space_3.webp",
+        "filename": "buds_by_Shangri_La__Interactive_Play_Space_3.webp",
+        "original_url": "https://www.shangri-la.com/singapore/shangrila/for-kids/buds-by-shangri-la/?WT.mc_id=SLS_201810_GLOBAL_GOOGLEBUSINESS_PROFILE_WEBSITE_TEXTLINK_ABOUTBUDS_BRANDWEB_EN",
+        "source_credit": "shangri-la"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Science Centre Singapore Scientific Institution",
+    "organiser": "Science Centre Singapore",
+    "blurb": "Promotion of science and tech education for public.",
+    "description": "The Science Centre Singapore is dedicated to promoting scientific and technological education for the general public. Located in Jurong East, it offers a variety of exhibitions, activities, and workshops designed to engage visitors of all ages. Key attractions include KidsSTOP™, Omni-Theatre, Snow City, and E.S.C. - ESCAPE @ SCIENCE CENTRE. The centre also hosts science shows, demonstrations, and competitions. With a focus on interactive learning, the Science Centre aims to inspire curiosity and foster a deeper understanding of science and technology among families and children. It provides various programmes for schools and corporate groups, ensuring an enriching experience for everyone.",
+    "guid": "https://www.science.edu.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.science.edu.sg/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$6 to S$25",
+    "price": 6.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating Hours: Please refer to the website",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Science Centre Singapore",
+    "full_address": "6425 2500 1977 15 Science Centre Rd 609081 Singapore Visit Us Opening Hours Ticket Prices Promotions Curiosity Shop For Corporate Groups Accessibility KidsSTOP™ Omni-Theatre Snow City Exhibitions & Activities Activities & Workshops Exhibitions Science Shows & Demonstrations Competitions KidsSTOP™ Programmes E-Magazine & Podcast E",
+    "categories": [
+      "Attraction"
+    ],
+    "images": []
+  },
+  {
+    "title": "KidsSTOP™: Interactive Science for Young Children",
+    "organiser": "Science Centre Singapore",
+    "blurb": "Interactive exhibits designed for young children!",
+    "description": "KidsSTOP™ is an interactive science centre designed specifically for young children aged 18 months to 8 years. It offers a variety of hands-on exhibits and activities that encourage children to explore and discover the world around them through play. With different themed zones, children can engage in role-playing, experiment with simple machines, and learn about science concepts in a fun and engaging way. Perfect for families with young children, KidsSTOP™ provides a safe and stimulating environment for learning and exploration. Discover the wonders of science through interactive play.",
+    "guid": "https://www.science.edu.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.science.edu.sg/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$6",
+    "price": 6.0,
+    "age_group_display": "18 months to 8 years",
+    "min_age": 1.5,
+    "max_age": 8.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating Hours: Check website for details",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "KidsSTOP™",
+    "full_address": "ESCAPE @ SCIENCE CENTRE Dinosaurs | Extinctions | Us Membership Associate Membership Corporate Membership Science Centre Annual Pass KidsSTOP™ Annual Pass Schools School Programmes Gallery Pathways Outreach Programmes Specialized Programmes Events and Festivals Competitions Mentoring and Work Attachment Programmes Professional Development Resources STEM Inc STEM Calendar Corporate Corporate Events Join Us Careers Singapore Academy of Young Engineers & Scientists Volunteering and Student Work Attachment",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": []
+  },
+  {
+    "title": "Omni-Theatre: Immersive Dome Screen Experience",
+    "organiser": "Science Centre Singapore",
+    "blurb": "Experience movies on a large format dome screen!",
+    "description": "The Omni-Theatre at Science Centre Singapore offers an immersive cinematic experience on a large format dome screen. Featuring a variety of educational and entertaining films, the Omni-Theatre transports viewers to different worlds and allows them to explore science and nature in a unique and engaging way. With its state-of-the-art projection and sound systems, the Omni-Theatre provides a captivating experience for audiences of all ages. Perfect for families and movie enthusiasts, the Omni-Theatre offers a memorable and educational outing. Discover the wonders of the universe on a giant dome screen.",
+    "guid": "https://www.science.edu.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.science.edu.sg/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$14",
+    "price": 14.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Showtimes: Check website for details",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Omni-Theatre",
+    "full_address": "ESCAPE @ SCIENCE CENTRE Dinosaurs | Extinctions | Us Membership Associate Membership Corporate Membership Science Centre Annual Pass KidsSTOP™ Annual Pass Schools School Programmes Gallery Pathways Outreach Programmes Specialized Programmes Events and Festivals Competitions Mentoring and Work Attachment Programmes Professional Development Resources STEM Inc STEM Calendar Corporate Corporate Events Join Us Careers Singapore Academy of Young Engineers & Scientists Volunteering and Student Work Attachment",
+    "categories": [
+      "Attraction"
+    ],
+    "images": []
+  },
+  {
+    "title": "Snow City: Singapore's First Permanent Snow Centre",
+    "organiser": "Science Centre Singapore",
+    "blurb": "Experience real snow at Singapore's first snow centre!",
+    "description": "Snow City is Singapore's first permanent snow centre, offering visitors the opportunity to experience real snow in a sub-zero environment. With a variety of snow activities, including snow tubing, snow sculptures, and a snow playground, Snow City provides a fun and unique experience for all ages. Perfect for families and those looking to escape the tropical heat, Snow City offers a memorable and exciting outing. Discover the magic of winter in the heart of Singapore. Enjoy thrilling snow activities and create lasting memories with family and friends.",
+    "guid": "https://www.science.edu.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.science.edu.sg/",
+    "price_display_teaser": "From $",
+    "price_display": "From S$18",
+    "price": 18.0,
+    "age_group_display": "All ages",
+    "min_age": 0.0,
+    "max_age": 99.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating Hours: Check website for details",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Snow City",
+    "full_address": "ESCAPE @ SCIENCE CENTRE Dinosaurs | Extinctions | Us Membership Associate Membership Corporate Membership Science Centre Annual Pass KidsSTOP™ Annual Pass Schools School Programmes Gallery Pathways Outreach Programmes Specialized Programmes Events and Festivals Competitions Mentoring and Work Attachment Programmes Professional Development Resources STEM Inc STEM Calendar Corporate Corporate Events Join Us Careers Singapore Academy of Young Engineers & Scientists Volunteering and Student Work Attachment",
+    "categories": [
+      "Attraction"
+    ],
+    "images": []
+  }
+]

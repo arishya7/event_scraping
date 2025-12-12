@@ -1,0 +1,77 @@
+[
+  {
+    "title": "The Artground - A Curious Place To Be",
+    "organiser": "The Ground Co Limited",
+    "blurb": "Multi-disciplinary arts centre for children aged 0-9.",
+    "description": "The Artground, managed by The Ground Co Limited, is Singapore's first multi-disciplinary arts centre dedicated to children from birth to 9 years old. It aims to provide positive arts experiences across various art forms and build connections between artists, educators, parents, and children from diverse communities. The centre offers a variety of programmes and activities designed to encourage exploration and co-creation of meaningful arts experiences. These include artist-led programmes, arts space exploration, and birthday celebrations, all tailored to engage young children and foster their appreciation for the arts. The Artground operates at two locations: Goodman Arts Centre and One Holland Village.",
+    "guid": "https://www.theartground.com.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.theartground.com.sg/",
+    "price_display_teaser": "Free + Paid options",
+    "price_display": "From S$0 to S$30",
+    "price": 0.0,
+    "age_group_display": "0 to 9 years",
+    "min_age": 0.0,
+    "max_age": 9.0,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating hours vary, check website",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "The Artground",
+    "full_address": "As the first multi-disciplinary children’s arts centre in Singapore, we aim to provide positive arts experiences across a variety of art forms, and build bridges between artists, educators, parents and children from various communities so that they may discover and co-create meaningful arts experiences together",
+    "categories": [
+      "Attraction"
+    ],
+    "images": []
+  },
+  {
+    "title": "The Artground at Goodman Arts Centre Venue",
+    "organiser": "The Artground",
+    "blurb": "Arts space for families to discover, learn, be curious.",
+    "description": "The Artground is an accessible arts space where families can feel at ease, spend time, discover, learn, and be curious. It opens its doors to different communities, providing positive experiences to enrich and brighten their day. The space is sanitised and reset between each time-slot. Pre-booking tickets is recommended, though walk-ins are allowed if slots are available. The venue is closed to the public during weekday morning school excursions, selected public holidays, and private events. Admission charges apply, with different rates for weekdays and weekends/public holidays/school holidays. CHAS card holders enjoy free admission.",
+    "guid": "https://www.theartground.com.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.theartground.com.sg/",
+    "price_display_teaser": "Free",
+    "price_display": "Free for CHAS card holders, otherwise see description",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "9.15am – 10.30am, 10.45am – 12pm, 1.45pm - 3pm, 3.15pm - 4.30pm, 4.45pm - 6pm (Closed on selected Public Holidays)",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Goodman Arts Centre",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": []
+  },
+  {
+    "title": "The Artground at One Holland Village Venue",
+    "organiser": "The Artground",
+    "blurb": "Arts space for families to discover, learn, be curious.",
+    "description": "The Artground is an accessible arts space where families can feel at ease, spend time, discover, learn, and be curious. It opens its doors to different communities, providing positive experiences to enrich and brighten their day. The space is sanitised and reset between each time-slot. Pre-booking tickets is recommended, though walk-ins are allowed if slots are available. The venue is closed to the public during weekday morning school excursions, selected public holidays, and private events. Admission charges apply, with different rates for weekdays and weekends/public holidays/school holidays. CHAS card holders enjoy free admission.",
+    "guid": "https://www.theartground.com.sg/",
+    "activity_or_event": "activity",
+    "url": "https://www.theartground.com.sg/",
+    "price_display_teaser": "Free",
+    "price_display": "Free for CHAS card holders, otherwise see description",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "9.15am – 10.30am, 10.45am – 12pm, 1.45pm - 3pm, 3.15pm - 4.30pm, 4.45pm - 6pm (Closed on selected Public Holidays)",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "One Holland Village",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": []
+  }
+]

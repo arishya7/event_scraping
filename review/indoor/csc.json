@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Children Playroom at CSC @ Loyang",
+    "organiser": "CSC @ Loyang",
+    "blurb": "Fun and engaging playroom for children at CSC @ Loyang.",
+    "description": "The Children's Playroom at CSC @ Loyang offers a safe and stimulating environment for children to play and explore. It features a variety of age-appropriate toys, games, and activities designed to promote creativity, social interaction, and physical development. The playroom is supervised by trained staff to ensure a fun and secure experience for all children. Parents can relax knowing their kids are in a well-maintained and engaging space. The facility is designed to cater to families looking for a recreational outlet. It provides a comfortable and enjoyable experience for children of various ages. The playroom is regularly cleaned and sanitized to maintain a high standard of hygiene.",
+    "guid": "https://cscloyang.sg/ChildrenPlayroom",
+    "activity_or_event": "activity",
+    "url": "https://cscloyang.sg/ChildrenPlayroom",
+    "price_display_teaser": "Free",
+    "price_display": "Free upon staying at facility",
+    "price": 0.0,
+    "age_group_display": "1 to 12 years old",
+    "min_age": 0.0,
+    "max_age": 12.0,
+    "datetime_display_teaser": "Available daily",
+    "datetime_display": "Available daily, 9am - 9pm",
+    "start_datetime": "1970-01-01T00:00:00",
+    "end_datetime": "2099-12-31T23:59:00",
+    "venue_name": "CSC @ Loyang",
+    "full_address": "159W Jalan Loyang Besar, Singapore 507020",
+    "categories": [
+      "Indoor Playground"
+    ],
+    "images": [
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Children_Playroom_at_CSC___Loyang_1.jpg",
+        "filename": "Children_Playroom_at_CSC___Loyang_1.jpg",
+        "original_url": "https://cscloyang.sg/ChildrenPlayroom",
+        "source_credit": "cscloyang"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Children_Playroom_at_CSC___Loyang_2.jpg",
+        "filename": "Children_Playroom_at_CSC___Loyang_2.jpg",
+        "original_url": "https://cscloyang.sg/ChildrenPlayroom",
+        "source_credit": "cscloyang"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Children_Playroom_at_CSC___Loyang_3.jpg",
+        "filename": "Children_Playroom_at_CSC___Loyang_3.jpg",
+        "original_url": "https://cscloyang.sg/ChildrenPlayroom",
+        "source_credit": "cscloyang"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Children_Playroom_at_CSC___Loyang_4.jpg",
+        "filename": "Children_Playroom_at_CSC___Loyang_4.jpg",
+        "original_url": "https://cscloyang.sg/ChildrenPlayroom",
+        "source_credit": "cscloyang"
+      },
+      {
+        "local_path": "events_output\\event_1\\images\\user_uploads\\Children_Playroom_at_CSC___Loyang_5.jpg",
+        "filename": "Children_Playroom_at_CSC___Loyang_5.jpg",
+        "original_url": "https://cscloyang.sg/ChildrenPlayroom",
+        "source_credit": "cscloyang"
+      }
+    ],
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "checked": true
+  }
+]

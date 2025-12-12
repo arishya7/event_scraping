@@ -1,0 +1,118 @@
+[
+  {
+    "title": "CSC @ Changi",
+    "organiser": "CSC",
+    "blurb": "Stay at CSC @ Changi",
+    "description": "CSC @ Changi offers a variety of accommodation options including Single Suites, Family Suites, Villas, and Rooftop BBQ Pits. Perfect for families looking for a relaxing staycation. Enjoy the various amenities and facilities available for a memorable experience. The venue provides a comfortable and family-friendly environment with options to suit different needs and preferences. Whether it's a short getaway or a longer vacation, CSC @ Changi caters to families seeking a convenient and enjoyable stay.",
+    "guid": "https://www.cscchangi.sg/Fun_Playground.aspx",
+    "activity_or_event": "activity",
+    "url": "https://www.cscchangi.sg/Fun_Playground.aspx",
+    "price_display_teaser": "Null",
+    "price_display": "From S$0 to S$0",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "CSC @ Changi",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.cscchangi.sg/images/yello_jt.png",
+        "source_credit": "CSC"
+      }
+    ]
+  },
+  {
+    "title": "CSC @ Changi I Playground and Water Play Area",
+    "organiser": "CSC Changi",
+    "blurb": "Fun for kids with playground & water play areas.",
+    "description": "CSC @ Changi I offers a variety of recreational facilities, including a playground and water play area designed for children. The playground features climbing structures, slides, and swings, providing a safe and engaging environment for kids to play and explore. The water play area offers a refreshing escape from the heat, with interactive water features and shallow pools suitable for young children. Families can enjoy a day of fun and relaxation at CSC @ Changi I, with amenities such as restrooms and shaded seating areas available for their convenience. It's an ideal spot for family outings and children's activities.",
+    "guid": "https://www.cscchangi.sg/Fun_Playground.aspx",
+    "activity_or_event": "activity",
+    "url": "https://www.cscchangi.sg/Fun_Playground.aspx",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "CSC @ Changi I",
+    "full_address": "Not Available",
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://www.cscchangi.sg/images/yello_jt.png",
+        "source_credit": "CSC Changi"
+      }
+    ]
+  },
+  {
+    "title": "CSC @ Changi II Playground and Water Play Area",
+    "organiser": "CSC Changi",
+    "blurb": "Enjoy playground and water play at CSC @ Changi II.",
+    "description": "CSC @ Changi II features recreational facilities, including a playground and water play area for children. The playground offers climbing frames, slides, and swings, providing a safe and stimulating environment for kids to play and explore. The water play area offers a refreshing escape from the heat, with interactive water features and shallow pools suitable for young children. Families can enjoy a day of fun and relaxation at CSC @ Changi II, with amenities such as restrooms and shaded seating areas available for their convenience. It's an ideal spot for family outings and children's activities.",
+    "guid": "https://www.cscchangi.sg/Fun_Playground.aspx",
+    "activity_or_event": "activity",
+    "url": "https://www.cscchangi.sg/Fun_Playground.aspx",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "CSC @ Changi II",
+    "full_address": "Not Available",
+    "categories": [
+      "Outdoor Playground"
+    ],
+    "images": [
+      {
+        "url": "https://www.cscchangi.sg/images/yello_jt.png",
+        "source_credit": "CSC Changi"
+      }
+    ]
+  },
+  {
+    "title": "CSC Changi Playground and Other Play Facilities",
+    "organiser": "CSC Changi",
+    "blurb": "Enjoy our playground and other play facilities today!",
+    "description": "CSC Changi offers a variety of play facilities including a playground, tennis courts, Asian Detours, Ola Este, Tails Up BBQ Pavilion, Mahjong Room, Bowling, and Swimming Pool. Perfect for families looking for a fun day out with diverse activities suitable for all ages. Enjoy a range of recreational options in a single location, from sports to dining and relaxation. The playground is designed to be family-friendly, providing a safe and engaging environment for children to play and explore. With options for both indoor and outdoor activities, there's something for everyone to enjoy at CSC Changi.",
+    "guid": "https://www.cscchangi.sg/Fun_Playground.aspx",
+    "activity_or_event": "activity",
+    "url": "https://www.cscchangi.sg/Fun_Playground.aspx",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "CSC Changi",
+    "full_address": "Not Available",
+    "categories": [
+      "Attraction",
+      "Outdoor Playground"
+    ],
+    "images": []
+  }
+]

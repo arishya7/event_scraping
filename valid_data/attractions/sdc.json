@@ -1,0 +1,266 @@
+[
+  {
+    "title": "Singapore Discovery Centre",
+    "organiser": "Singapore Discovery Centre",
+    "blurb": "Discover Singapore's past, present and future.",
+    "description": "Singapore Discovery Centre offers a variety of attractions and activities suitable for families and kids. Explore interactive exhibits showcasing Singapore's history and future, engage in thrilling rides, and enjoy educational shows. The centre features attractions such as the iWERKS Theatre, Battle Box, and various exhibitions that provide insights into Singapore's heritage and development. It's an engaging destination for families looking to learn and have fun together through interactive and immersive experiences. Perfect for a family day out, the Singapore Discovery Centre combines education with entertainment, making it a memorable experience for all ages.",
+    "guid": "https://www.defencecollectivesg.com/sdc/",
+    "activity_or_event": "activity",
+    "url": "https://www.defencecollectivesg.com/sdc/",
+    "price_display_teaser": "Free + Paid options",
+    "price_display": "From S$0 to S$30",
+    "price": 0.0,
+    "age_group_display": "All ages",
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Operating Hours Vary",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Singapore Discovery Centre",
+    "full_address": "510 Upper Jurong Rd, Singapore 638365",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.defencecollectivesg.com/wp-content/uploads/2022/05/SDC_BG_Facade_Day-10.jpg",
+        "source_credit": "Singapore Discovery Centre"
+      },
+      {
+        "url": "https://www.defencecollectivesg.com/wp-content/uploads/2022/05/SDC_BG_The_Beginnings-1.jpg",
+        "source_credit": "Singapore Discovery Centre"
+      },
+      {
+        "url": "https://www.defencecollectivesg.com/wp-content/uploads/2022/05/iWERKS-theatre-1.jpg",
+        "source_credit": "Singapore Discovery Centre"
+      },
+      {
+        "url": "https://www.defencecollectivesg.com/wp-content/uploads/2022/05/SDC_BG_BLLB-1-1.jpg",
+        "source_credit": "Singapore Discovery Centre"
+      },
+      {
+        "url": "https://www.defencecollectivesg.com/wp-content/uploads/2022/09/BLF-Escape-Room-The-Basement-scaled.jpg",
+        "source_credit": "Singapore Discovery Centre"
+      }
+    ]
+  },
+  {
+    "title": "Mission SG: Operation Broken Oath Activities",
+    "organiser": "Defence Collective SG",
+    "blurb": "Follow clues and crack codes to uncover the mole.",
+    "description": "Join Mission SG: Operation Broken Oath and put your detective skills to the test! Follow clues, crack codes, and uncover the mole's identity to foil their plans. This engaging activity is perfect for families and kids who love a good mystery. Work together to solve puzzles and unravel the secrets hidden within the operation. An exciting and interactive experience that will challenge your minds and create lasting memories. Get ready for an adventure filled with intrigue and teamwork as you embark on this thrilling mission. Suitable for all ages, this activity promises fun and excitement for the whole family.",
+    "guid": "https://www.defencecollectivesg.com/sdc/",
+    "activity_or_event": "activity",
+    "url": "https://www.defencecollectivesg.com/sdc/",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Saturdays Join SingaPaw on every first Saturday of the month in a slew of fun activities",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Various locations in Singapore",
+    "full_address": "510 Upper Jurong Rd, Singapore 638365",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.defencecollectivesg.com/wp-content/uploads/2022/05/SDC_BG_The_Beginnings-1.jpg",
+        "source_credit": "Defence Collective SG"
+      },
+      {
+        "url": "https://www.defencecollectivesg.com/wp-content/uploads/2022/05/iWERKS-theatre-1.jpg",
+        "source_credit": "Defence Collective SG"
+      }
+    ]
+  },
+  {
+    "title": "KopiTalk! Bustling Coffeeshops Experience",
+    "organiser": "Defence Collective SG",
+    "blurb": "The comfort of a warm breakfast, the aroma of kopi.",
+    "description": "Experience the vibrant atmosphere of Singapore's bustling coffeeshops with KopiTalk! Indulge in the comfort of a warm breakfast and savor the rich aroma of freshly brewed kopi. This cultural experience is perfect for families and kids who want to immerse themselves in the local flavors and traditions. Discover the unique charm of these bustling eateries and enjoy a taste of authentic Singaporean cuisine. From traditional kaya toast to savory mee siam, there's something for everyone to enjoy. Join us for a delightful culinary adventure that will tantalize your taste buds and create lasting memories. Suitable for all ages, this experience promises a delicious and unforgettable journey through Singapore's coffee shop culture.",
+    "guid": "https://www.defencecollectivesg.com/sdc/",
+    "activity_or_event": "activity",
+    "url": "https://www.defencecollectivesg.com/sdc/",
+    "price_display_teaser": "From SGD",
+    "price_display": "From S$2",
+    "price": 2.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Saturdays Join SingaPaw on every first Saturday of the month in a slew of fun activities",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Various coffeeshops in Singapore",
+    "full_address": "510 Upper Jurong Rd, Singapore 638365",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://www.defencecollectivesg.com/wp-content/uploads/2022/05/iWERKS-theatre-1.jpg",
+        "source_credit": "Defence Collective SG"
+      },
+      {
+        "url": "https://www.defencecollectivesg.com/wp-content/uploads/2022/05/SDC_BG_BLLB-1-1.jpg",
+        "source_credit": "Defence Collective SG"
+      }
+    ]
+  },
+  {
+    "title": "Mission SG: Operation Broken Oath Adventure",
+    "organiser": "Defence Collective SG",
+    "blurb": "Follow clues and crack codes to uncover the mole.",
+    "description": "Join an immersive adventure where you follow clues and crack codes to uncover the mole's identity and foil their plans. Perfect for families and kids who enjoy solving mysteries and working together. Experience the thrill of espionage and teamwork in this engaging activity. This is a family-friendly activity that encourages problem-solving and collaboration. Enjoy a day of fun and excitement as you unravel the secrets of Operation Broken Oath. Suitable for children aged 8 and above, with parental guidance recommended for younger participants. The adventure includes interactive elements and challenges that will keep everyone entertained.",
+    "guid": "https://www.defencecollectivesg.com/sdc/",
+    "activity_or_event": "activity",
+    "url": "https://www.defencecollectivesg.com/sdc/",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Defence Collective SG",
+    "full_address": "510 Upper Jurong Rd, Singapore 638365",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.defencecollectivesg.com/wp-content/uploads/2025/09/Mission-SG-Thumbnail.png",
+        "source_credit": "Defence Collective SG"
+      }
+    ]
+  },
+  {
+    "title": "KopiTalk! Makan already? Permanent Exhibits Gallery",
+    "organiser": "Defence Collective SG",
+    "blurb": "There's nothing tiam about our bustling coffeeshops!",
+    "description": "The comfort of a warm breakfast, the aroma...There's nothing tiam about our bustling coffeeshops! The comfort of a warm breakfast, the aroma...",
+    "guid": "https://www.defencecollectivesg.com/sdc/",
+    "activity_or_event": "activity",
+    "url": "https://www.defencecollectivesg.com/sdc/",
+    "price_display_teaser": "From $",
+    "price_display": "Please contact for pricing",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Saturdays Join SingaPaw on every first Saturday of the month in a slew of fun activities",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Permanent Exhibits Gallery",
+    "full_address": "510 Upper Jurong Rd, Singapore 638365",
+    "categories": [
+      "Kids-friendly dining"
+    ],
+    "images": [
+      {
+        "url": "https://www.defencecollectivesg.com/wp-content/uploads/2025/08/KV_1024X675.jpg",
+        "source_credit": "Defence Collective SG"
+      }
+    ]
+  },
+  {
+    "title": "Black Lake Facility",
+    "organiser": "Defence Collective SG",
+    "blurb": "A next-frontier multi-disciplinary complex built...",
+    "description": "Black Lake Facility is a next-frontier multi-disciplinary complex built for immersive experiences. It offers a variety of activities suitable for families and friends, including the Black Lake Laser Battlefield. Gear up with your family and friends for an adrenaline-pumping laser tag experience in a unique and immersive environment. The facility is designed to provide a fun and engaging experience for all ages, making it a perfect destination for family outings and group activities. Enjoy thrilling adventures and create lasting memories at Black Lake Facility.",
+    "guid": "https://www.defencecollectivesg.com/sdc/",
+    "activity_or_event": "activity",
+    "url": "https://www.defencecollectivesg.com/sdc/",
+    "price_display_teaser": "Null",
+    "price_display": "From S$0 to S$0",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "friends for an",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "2099-12-31T23:59:59+08:00",
+    "venue_name": "Black Lake Facility",
+    "full_address": "510 Upper Jurong Rd, Singapore 638365",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.defencecollectivesg.com/wp-content/uploads/2022/05/AT4A2282-scaled-1.jpg",
+        "source_credit": "Defence Collective SG"
+      }
+    ]
+  },
+  {
+    "title": "SAFTI MI Bus Tour",
+    "organiser": "Defence Collective Singapore",
+    "blurb": "Hop onto our SAFTI MI bus for an exclusive tour...",
+    "description": "Explore the complexities of contemporary Singapore with our SAFTI MI Bus Tour. This unique experience offers a behind-the-scenes look at the Singapore Armed Forces Training Institute (SAFTI) Military Institute, providing insights into the training and development of our nation's defenders. The tour is designed to be engaging and informative for families, offering a blend of historical context and modern-day perspectives. Suitable for all ages, this tour provides a memorable and educational experience for both locals and tourists alike. Discover the rich heritage and strategic importance of SAFTI MI, and gain a deeper appreciation for the dedication and commitment of our armed forces.",
+    "guid": "https://www.defencecollectivesg.com/sdc/",
+    "activity_or_event": "event",
+    "url": "https://www.defencecollectivesg.com/sdc/",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": null,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": null,
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "SAFTI Military Institute",
+    "full_address": "510 Upper Jurong Rd, Singapore 638365",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.defencecollectivesg.com/wp-content/uploads/2022/05/SAFTI_Bus_Tour_632x424.jpg",
+        "source_credit": "Defence Collective Singapore"
+      }
+    ]
+  },
+  {
+    "title": "SDC Membership Plan Benefits and Opportunities",
+    "organiser": "Science Centre Singapore",
+    "blurb": "Join the yearly SDC membership plan and get benefits.",
+    "description": "The SDC membership plan offers a range of benefits, including complimentary movie tickets to the latest blockbusters every month at iWERKS Theatre. Members also receive discounted rates across various attractions and enjoy member rates for selected programmes, events, and booking venues. This membership provides opportunities for families to enjoy various activities and events at Science Centre Singapore and its associated venues, making it a valuable option for those seeking regular engagement with educational and entertaining experiences. It is designed to enhance the overall experience for visitors, providing both cost savings and exclusive access to events and facilities. The membership caters to individuals and families looking to maximize their visits to the Science Centre and related attractions, offering a comprehensive package of benefits and opportunities.",
+    "guid": "https://www.defencecollectivesg.com/sdc/",
+    "activity_or_event": "activity",
+    "url": "https://www.defencecollectivesg.com/sdc/",
+    "price_display_teaser": "Free",
+    "price_display": "Free",
+    "price": 0.0,
+    "age_group_display": null,
+    "min_age": null,
+    "max_age": null,
+    "datetime_display_teaser": null,
+    "datetime_display": "Yearly membership",
+    "start_datetime": "1970-01-01T00:00:00+08:00",
+    "end_datetime": "1970-01-01T00:00:00+08:00",
+    "venue_name": "Science Centre Singapore",
+    "full_address": "510 Upper Jurong Rd, Singapore 638365",
+    "categories": [
+      "Attraction"
+    ],
+    "images": [
+      {
+        "url": "https://www.defencecollectivesg.com/wp-content/uploads/2022/05/PEG-Entrance.png",
+        "source_credit": "Science Centre Singapore"
+      }
+    ]
+  }
+]
